@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Kaffibrennsla — tromla með kaffibaunum">
+  <title>coffee-roaster</title>
+  <desc>Kaffibrennsla — tromla með kaffibaunum</desc>
+  <circle cx="10" cy="11" r="6.5"/><g transform="rotate(20 10 11)"><ellipse cx="10" cy="11" rx="3" ry="4"/></g><path d="M10.7 7.5c-2 1.5 1.5 3-1.4 7M7 4.5V2h6v2.5M16.5 9h3V3H22"/><rect x="5" y="18.5" width="10" height="2" rx="0.5"/><path d="M6 20.5V22M14 20.5V22"/>
+</svg>

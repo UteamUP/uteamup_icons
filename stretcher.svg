@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Sjúkrabörur á hjólum">
+  <title>stretcher</title>
+  <desc>Sjúkrabörur á hjólum</desc>
+  <rect x="2.5" y="8" width="19" height="3" rx="0.6"/><rect x="4" y="5.5" width="5" height="2.5" rx="0.6"/><path d="M2.5 5v6M21.5 7v4M6 11l12 8.5M18 11 6 19.5M6 19.5h12"/><circle cx="6" cy="21" r="1"/><circle cx="18" cy="21" r="1"/>
+</svg>

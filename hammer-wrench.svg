@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.10" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Hammer and wrench">
+  <title>Hammer and wrench</title>
+  <desc>A hammer together with an open-jaw wrench.</desc>
+  <path d="M3 4h2.5v.8h2.9c1.5 0 2.3 1.1 2.3 2.6l-1.9-.7L8 8.2H5.5v.3H3V4Z" />
+  <path d="M5.6 8.2V20a1.25 1.25 0 0 0 2.5 0V8.2" />
+  <path d="M15.3 3.4c-2.5 1.6-1.8 4.8.2 5.7v10.4a1.5 1.5 0 0 0 3 0V9.1c2-.9 2.7-4.1.2-5.7v2.8l-1.7 1-1.7-1V3.4Z" />
+</svg>

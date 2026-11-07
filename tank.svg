@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Tracked military tank">
+  <title>Tracked military tank</title>
+  <desc>A tracked armored vehicle with an angular turret, hatch, long gun barrel and three visible road wheels inside a continuous track.</desc>
+  <rect height="6.4" rx="3.2" width="20.4" x="1.8" y="14.6" />
+  <circle cx="6" cy="17.8" r="1.2" />
+  <circle cx="12" cy="17.8" r="1.2" />
+  <circle cx="18" cy="17.8" r="1.2" />
+  <path d="m6.5 14.6 1.9-5.4h5.4l2.5 3v2.4M15.2 10.9h7M9.5 9.2V6.8h2.9v2.4" />
+</svg>

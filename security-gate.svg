@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Þjófavarnarhlið — tvær súlur við útgang með bylgjum">
+  <title>security-gate</title>
+  <desc>Þjófavarnarhlið — tvær súlur við útgang með bylgjum</desc>
+  <rect x="3" y="3" width="4" height="18" rx="1.5"/><rect x="17" y="3" width="4" height="18" rx="1.5"/><path d="M9 8q3 4 0 8M15 8q-3 4 0 8M2 21h6M16 21h6"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Three wind turbines at different distances form a recognizable wind farm.">
+  <title>industry-wind-farm</title>
+  <desc>Three wind turbines at different distances form a recognizable wind farm.</desc>
+  <circle cx="6" cy="9" r="0.8"/><circle cx="15" cy="6" r="0.8"/><circle cx="19.5" cy="14" r="0.6"/><path d="M6 8V3 M5.3 9.5 2 12 M6.7 9.5 10 12 M6 9.8V22 M15 5.2V2 M14.3 6.4 11.5 8 M15.7 6.4 18.5 8 M15 6.8V22 M19.5 13.4V11 M19 14.3 17 16 M20 14.3 22 16 M19.5 14.6V22"/>
+</svg>

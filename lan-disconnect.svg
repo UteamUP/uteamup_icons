@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="lan disconnect">
+  <title>lan-disconnect</title>
+  <desc>lan disconnect</desc>
+  <rect x="9" y="3" width="6" height="4" rx="0.6"/><rect x="3" y="17.5" width="6" height="4" rx="0.6"/><rect x="15" y="17.5" width="6" height="4" rx="0.6"/><path d="M12 7v1.5M10.5 10l3 3M13.5 10l-3 3M12 14.5v1M6 17.5v-2h12v2"/>
+</svg>

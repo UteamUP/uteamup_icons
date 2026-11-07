@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Sun">
+  <title>Sun</title>
+  <desc>A full sun disc with eight long rays.</desc>
+  <circle cx="12" cy="12" r="4" />
+  <path d="M18.5 12 21.5 12" />
+  <path d="M16.596 16.596 18.718 18.718" />
+  <path d="M12 18.5 12 21.5" />
+  <path d="M7.404 16.596 5.282 18.718" />
+  <path d="M5.5 12 2.5 12" />
+  <path d="M7.404 7.404 5.282 5.282" />
+  <path d="M12 5.5 12 2.5" />
+  <path d="M16.596 7.404 18.718 5.282" />
+</svg>

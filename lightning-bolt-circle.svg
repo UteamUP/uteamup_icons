@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.10" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Circled lightning bolt">
+  <title>Circled lightning bolt</title>
+  <desc>The established lightning bolt inside a circle.</desc>
+  <circle cx="12" cy="12" r="9" />
+  <path d="M6.720000000000001 12.96 13.440000000000001 5.76 12.0 11.04H17.28L10.56 18.240000000000002L12.0 12.96H6.720000000000001Z" />
+</svg>

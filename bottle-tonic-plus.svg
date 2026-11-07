@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.10" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Bottle tonic plus">
+  <title>Bottle tonic plus</title>
+  <desc>A medicine/tonic bottle with a plus cross on its label.</desc>
+  <path d="M8 21h8a1 1 0 0 0 1 -1v-10a3 3 0 0 0 -3 -3h-4a3 3 0 0 0 -3 3v10a1 1 0 0 0 1 1" />
+  <path d="M10 14h4" />
+  <path d="M12 12v4" />
+  <path d="M10 7v-3a1 1 0 0 1 1 -1h2a1 1 0 0 1 1 1v3" />
+</svg>

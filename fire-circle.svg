@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.10" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Fire in circle">
+  <title>Fire in circle</title>
+  <desc>A flame enclosed by a circular ring.</desc>
+  <circle cx="12" cy="12" r="9" />
+  <path d="M12 5.7c1 2.5 4.8 4.5 4.8 8.4a4.8 4.8 0 0 1-9.6 0c0-2.4 1.2-4.2 2.6-5.4-.2 1.8.6 2.5 1.3 2.8-.6-2 0.6-4 .9-5.8Z" />
+</svg>

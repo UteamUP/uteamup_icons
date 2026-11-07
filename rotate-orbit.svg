@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.10" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Orbit rotation">
+  <title>Orbit rotation</title>
+  <desc>A curved orbital rotation arrow around a central body.</desc>
+  <circle cx="12" cy="12" r="2.4" />
+  <path d="M20.5 7.7c.8-4.5-5-5.4-10.9-1.9S.7 15.9 3.5 18.2s10.4-.3 14.9-5.5" />
+  <path d="M15.8 12.94 18.4 12.7 18.1 16.1" />
+</svg>

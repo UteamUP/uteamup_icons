@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Naval mine">
+  <title>Naval mine</title>
+  <desc>A spherical naval mine with five short contact horns and a lower mooring eye.</desc>
+  <circle cx="12" cy="10.6" r="6.5" />
+  <path d="M12 4.1V1.9M6.371 7.35 4.466 6.25M17.629 7.35l1.905-1.1M6.371 13.85l-1.905 1.1M17.629 13.85l1.905 1.1M12 17.1v2.1" />
+  <ellipse cx="12" cy="20.8" rx="1.25" ry="1.6" />
+</svg>

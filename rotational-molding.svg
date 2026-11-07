@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Snúningsmótun — mót á grind sem snýst um tvo ása">
+  <title>rotational-molding</title>
+  <desc>Snúningsmótun — mót á grind sem snýst um tvo ása</desc>
+  <circle cx="12" cy="12" r="6"/><g transform="rotate(28 12 12)"><rect x="9" y="8" width="6" height="8" rx="1.2"/></g><path d="M2 12h4m12 0h4M12 2v4m0 12v4M4 8v13h16v-4M17 3q4 1 4 5m-2-2 2 2 1-2"/>
+</svg>

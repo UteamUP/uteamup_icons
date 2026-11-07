@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.10" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Tumble dryer">
+  <title>Tumble dryer</title>
+  <desc>A front-loading tumble dryer with a round drum and drying-air symbol.</desc>
+  <rect height="18" rx="2" width="16" x="4" y="3" />
+  <path d="M4 7h16M7 5h.01M10 5h3" />
+  <circle cx="12" cy="13.5" r="4.8" />
+  <path d="M10.5 16c-1-1.2 1-2.2 0-3.5-.4-.5-.3-1 0-1.5M13.5 16c-1-1.2 1-2.2 0-3.5-.4-.5-.3-1 0-1.5" />
+</svg>

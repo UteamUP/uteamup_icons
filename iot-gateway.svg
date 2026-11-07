@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="IoT-gátt — kassi með loftneti og tengdum hnútum">
+  <title>iot-gateway</title>
+  <desc>IoT-gátt — kassi með loftneti og tengdum hnútum</desc>
+  <rect x="6" y="10" width="12" height="7" rx="1.5"/><path d="M9 10V4H4.5M15 10V4h4.5M12 17v2.5M9 13.5h.01M12 13.5h.01M15 13.5h.01"/><circle cx="3" cy="4" r="1.5"/><circle cx="21" cy="4" r="1.5"/><circle cx="12" cy="21" r="1.5"/>
+</svg>

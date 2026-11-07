@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Loom">
+  <title>Loom</title>
+  <desc>A thin-line rendition of Loom’s hollow-centered twelve-spoke radial brand mark.</desc>
+  <circle cx="12" cy="12" r="3" />
+  <path d="M15.0000 12.0000L21.5000 12.0000 M14.5981 13.5000L20.2272 16.7500 M13.5000 14.5981L16.7500 20.2272 M12.0000 15.0000L12.0000 21.5000 M10.5000 14.5981L7.2500 20.2272 M9.4019 13.5000L3.7728 16.7500 M9.0000 12.0000L2.5000 12.0000 M9.4019 10.5000L3.7728 7.2500 M10.5000 9.4019L7.2500 3.7728 M12.0000 9.0000L12.0000 2.5000 M13.5000 9.4019L16.7500 3.7728 M14.5981 10.5000L20.2272 7.2500" />
+</svg>

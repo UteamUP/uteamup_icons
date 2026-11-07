@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Tripod turnstile">
+  <title>Tripod turnstile</title>
+  <desc>A waist-height access turnstile with an upright cabinet, a visible rotary hub and three separate barrier arms.</desc>
+  <path d="M15 21V4.3q0-.8.8-.8h3.6q.8 0 .8.8V21M13.5 21h8M14.2 11.7h.8M16.6 6.4h2" />
+  <circle cx="12.8" cy="11.7" r="1.4" />
+  <path d="M11.4 11.7H2.5M12 10.55 7.8 6M12 12.85 7.8 19.1" />
+</svg>

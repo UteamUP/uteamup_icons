@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Set intersection">
+  <title>Set intersection</title>
+  <desc>Two sets overlap, with their shared lens identified as the set intersection or inner join.</desc>
+  <circle cx="8.5" cy="12" r="6.5" />
+  <circle cx="15.5" cy="12" r="6.5" />
+  <path d="M10.86 10.14 12.28 8.72M10.68 13.32l2.64-2.64M11.72 15.28l1.42-1.42" />
+</svg>

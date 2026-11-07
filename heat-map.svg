@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Heat map">
+  <title>Heat map</title>
+  <desc>A three by three matrix uses three levels of hatch density to show differing values.</desc>
+  <rect height="18" rx="1.5" width="18" x="3" y="3" />
+  <path d="M9 3v18m6-18v18M3 9h18M3 15h18M5 6h2m4-1h2m-2 2h2m-2.3 3.5h2.6m-2.6 1.5h2.6m-2.6 1.5h2.6M17 12h2M5 18h2m10-1h2m-2 2h2" />
+</svg>

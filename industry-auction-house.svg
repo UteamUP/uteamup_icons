@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="An auction gavel above a block and a bidding paddle.">
+  <title>industry-auction-house</title>
+  <desc>An auction gavel above a block and a bidding paddle.</desc>
+  <path d="M5 4L8 2L13 9L10 11L5 4 M9 7L5 10 M5 10L2.5 13.5 M3 19H12V22H3V19 M16 19V12"/><ellipse cx="17" cy="7.5" rx="4" ry="5"/><path d="M15.8 7.5H18.2 M17 6.3V8.7"/>
+</svg>

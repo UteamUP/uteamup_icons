@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Thermometer sun">
+  <title>Thermometer sun</title>
+  <desc>A thermometer beside a clearly visible radiant sun.</desc>
+  <path d="M4.8 14.65V4a1.7 1.7 0 0 1 3.4 0v10.65a3.3 3.3 0 1 1-3.4 0Z" />
+  <path d="M6.5 8.5v9" />
+  <circle cx="17" cy="7" r="2.5" />
+  <path d="M21.1 7 22 7" />
+  <path d="M19.899 9.899 20.536 10.536" />
+  <path d="M17 11.1 17 12" />
+  <path d="M14.101 9.899 13.464 10.536" />
+  <path d="M12.9 7 12 7" />
+  <path d="M14.101 4.101 13.464 3.464" />
+  <path d="M17 2.9 17 2" />
+  <path d="M19.899 4.101 20.536 3.464" />
+</svg>

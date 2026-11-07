@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="A wide projection screen above three cinema seats.">
+  <title>industry-cinema-house</title>
+  <desc>A wide projection screen above three cinema seats.</desc>
+  <rect x="2.5" y="3" width="19" height="10" rx="0.6"/><path d="M10 5.5L15 8L10 10.5V5.5 M3 19V16Q5 14 7 16V19 M10 19V16Q12 14 14 16V19 M17 19V16Q19 14 21 16V19 M2 19H8 M9 19H15 M16 19H22 M4 19V21 M6 19V21 M11 19V21 M13 19V21 M18 19V21 M20 19V21"/>
+</svg>

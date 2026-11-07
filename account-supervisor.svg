@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Account supervisor">
+  <title>Account supervisor</title>
+  <desc>An elevated lead person connected by a simple hierarchy branch to two subordinate people.</desc>
+  <circle cx="12" cy="4.25" r="2.25" />
+  <path d="M7.75 11.5v-.25a2.75 2.75 0 0 1 2.75-2.75h3a2.75 2.75 0 0 1 2.75 2.75v.25M12 11.75v1.5M6 14v-.75h12V14" />
+  <circle cx="6" cy="17" r="1.75" />
+  <circle cx="18" cy="17" r="1.75" />
+  <path d="M2.5 22.25a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2M14.5 22.25a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2" />
+</svg>

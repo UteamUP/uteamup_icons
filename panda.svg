@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Panda">
+  <title>Panda</title>
+  <desc>A panda face with two round ears, two diagonal eye-patch outlines, and a small muzzle.</desc>
+  <ellipse cx="12" cy="12.5" rx="8.3" ry="8" />
+  <path d="M4.81 8.5C1.4 8.7 1.6 3 4.5 3c1.9 0 2.8 1.5 2.74 2.95M16.76 5.95C16.7 4.5 17.6 3 19.5 3c2.9 0 3.1 5.7-.31 5.5" />
+  <path d="M9.7 9.4c1.4.6.9 4.3-.6 5.3s-3.3-.3-3-1.9 2.1-4 3.6-3.4ZM14.3 9.4c-1.4.6-.9 4.3.6 5.3s3.3-.3 3-1.9-2.1-4-3.6-3.4Z" />
+  <path d="M8.3 11.9v.7m7.4-.7v.7M11 15.9l1 .7 1-.7m-1 .7v1c-.5 1-1.4 1.1-2 0m2 0c.5 1 1.4 1.1 2 0" />
+</svg>

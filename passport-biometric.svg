@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Biometric passport">
+  <title>Biometric passport</title>
+  <desc>A bound passport book with a globe on its cover and a distinct biometric chip-inside symbol near the bottom.</desc>
+  <rect height="19" rx="1.5" width="15" x="4.5" y="2.5" />
+  <path d="M7 2.5v19" />
+  <circle cx="13.25" cy="8" r="3.5" />
+  <ellipse cx="13.25" cy="8" rx="1.4" ry="3.5" />
+  <path d="M9.75 8h7" />
+  <rect height="4.5" rx=".2" width="8" x="9.25" y="15" />
+  <circle cx="13.25" cy="17.25" r="1.25" />
+  <path d="M9.25 17.25H12M14.5 17.25h2.75" />
+</svg>

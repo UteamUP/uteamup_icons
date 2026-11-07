@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Sun snow">
+  <title>Sun snow</title>
+  <desc>A sun and a separate snow crystal side by side.</desc>
+  <circle cx="6.5" cy="12" r="2.5" />
+  <path d="M10.5 12 11.5 12" />
+  <path d="M6.5 16 6.5 17" />
+  <path d="M2.5 12 1.5 12" />
+  <path d="M6.5 8 6.5 7" />
+  <path d="M13.5 12 21.1 12" />
+  <path d="M15.4 8.709 19.2 15.291" />
+  <path d="M19.2 8.709 15.4 15.291" />
+</svg>

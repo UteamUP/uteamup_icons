@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Seyrutankur — tankur með botnfalli">
+  <title>sludge-tank</title>
+  <desc>Seyrutankur — tankur með botnfalli</desc>
+  <ellipse cx="12" cy="6" rx="8" ry="3"/><path d="M4 6v12q0 3 8 3t8-3V6M4 16q2-1 4 0t4 0t4 0t4 0"/><circle cx="8" cy="18.5" r="0.5"/><circle cx="12" cy="19" r="0.6"/><circle cx="16" cy="18.5" r="0.5"/>
+</svg>

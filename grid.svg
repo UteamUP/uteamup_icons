@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.10" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Three-by-three grid">
+  <title>Three-by-three grid</title>
+  <desc>A bounded continuous matrix of nine cells.</desc>
+  <rect height="18" rx="1" width="18" x="3" y="3" />
+  <path d="M9 3v18M15 3v18M3 9h18M3 15h18" />
+</svg>

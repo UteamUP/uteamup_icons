@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Battery storage">
+  <title>Battery storage</title>
+  <desc>A stationary battery cabinet containing two separate battery modules.</desc>
+  <rect height="18" rx="1.5" width="17" x="3.5" y="3" />
+  <rect height="4.5" rx="0.6" width="11" x="6" y="6" />
+  <rect height="4.5" rx="0.6" width="11" x="6" y="13" />
+  <path d="M17 7.25h1.5v2H17m0 5h1.5v2H17M8.5 8.25h2.4m-1.2-.85v1.7M8.5 15.25h3M6 21v1m12-1v1" />
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Scoreboard">
+  <title>Scoreboard</title>
+  <desc>An electronic scoreboard with separate home and away scores, showing 1 and 2.</desc>
+  <rect height="14" rx="2" width="18" x="3" y="5" />
+  <path d="M3 9h18M12 9v10M7 3.5V5m10-1.5V5M6.5 12.5 8 11.5v5m7-4.5c0-1.5 3.5-1.5 3.5 0 0 1.3-3.5 2.4-3.5 4h3.5" />
+</svg>

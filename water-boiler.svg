@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Water boiler">
+  <title>Water boiler</title>
+  <desc>A cylindrical hot-water boiler with plumbing pipes and an electrical heating bolt.</desc>
+  <ellipse cx="12" cy="5" rx="6" ry="2" />
+  <path d="M6 5v13c0 2.7 12 2.7 12 0V5M6 9H2V6m16 10h4v5" />
+  <path d="M12.5 8.7 9.5 13h3l-1 4 3.5-5h-3l.5-3.3Z" />
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Two parabolic radio dishes aimed in different directions.">
+  <title>industry-radio-telescope-array</title>
+  <desc>Two parabolic radio dishes aimed in different directions.</desc>
+  <path d="M2 4Q2 13 11 13L2 4 M6.5 8.5L11 4 M7 13V21 M4 21H10 M14 8Q14 16 22 16L14 8 M18 12L22 8 M18 16V21 M15 21H21"/><circle cx="11.5" cy="3.5" r="0.7"/><circle cx="22" cy="7.5" r="0.5"/>
+</svg>

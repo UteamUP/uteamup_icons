@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Point-of-sale register">
+  <title>Point-of-sale register</title>
+  <desc>A retail register with a raised screen, keypad console and cash-drawer base.</desc>
+  <rect height="6" rx="1" width="14" x="5" y="2.5" />
+  <path d="M11 8.5V11h2V8.5M5 11h14l2.5 6v4h-19v-4ZM2.5 17h19M9.5 19h5" />
+  <path d="M6.5 13.5h2M10.5 13.5h2M14.5 13.5h2M5.5 15.5h2M10.5 15.5h2M15.5 15.5h2" />
+</svg>

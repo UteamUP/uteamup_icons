@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="A public postal branch with a counter window and an exterior street letter box.">
+  <title>industry-post-office</title>
+  <desc>A public postal branch with a counter window and an exterior street letter box.</desc>
+  <path d="M2.5 21V4H15V21 M2.5 7H15"/><rect x="5" y="10" width="7.5" height="5" rx="0.3"/><path d="M5 10L8.75 12.5L12.5 10 M18 18V12Q18 10 20 10Q22 10 22 12V18Z M19 13H21 M20 18V21"/>
+</svg>

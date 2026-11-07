@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Net — möskvanet">
+  <title>fish-net</title>
+  <desc>Net — möskvanet</desc>
+  <rect x="3" y="3" width="18" height="18" rx="0.35"/><path d="M3 9 9 3M3 15 15 3M3 21 21 3M9 21 21 9M15 21 21 15"/><path d="M3 15 9 21M3 9 15 21M3 3 21 21M9 3 21 15M15 3 21 9"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Users">
+  <title>Users</title>
+  <desc>Two equally weighted people side by side, each with a distinct head and open bust.</desc>
+  <circle cx="6.5" cy="7.25" r="2.75" />
+  <circle cx="17.5" cy="7.25" r="2.75" />
+  <path d="M2 20v-2a3.5 3.5 0 0 1 3.5-3.5h2A3.5 3.5 0 0 1 11 18v2M13 20v-2a3.5 3.5 0 0 1 3.5-3.5h2A3.5 3.5 0 0 1 22 18v2" />
+</svg>

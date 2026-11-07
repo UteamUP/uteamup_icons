@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.10" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Propane tank">
+  <title>Propane tank</title>
+  <desc>A portable LPG/propane cylinder with a top valve guard, valve, rounded shoulders, and foot ring.</desc>
+  <path d="M8 7V3.5A1.5 1.5 0 0 1 9.5 2h5A1.5 1.5 0 0 1 16 3.5V7" />
+  <path d="M12 4v3m-1.5-3h3" />
+  <path d="M8 7h8a4 4 0 0 1 4 4v7a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-7a4 4 0 0 1 4-4Z" />
+  <path d="M7 20v2h10v-2" />
+</svg>

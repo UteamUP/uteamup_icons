@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.10" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Fact check">
+  <title>Fact check</title>
+  <desc>A rectangular information card with text lines and a large verification check.</desc>
+  <rect height="14" rx="2" width="18" x="3" y="5" />
+  <path d="M6 9h5M6 12h4M6 15h5M14 12l2 2 3-4" />
+</svg>

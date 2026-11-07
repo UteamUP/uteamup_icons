@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Virtual private network">
+  <title>Virtual private network</title>
+  <desc>A protective shield encloses three connected network nodes.</desc>
+  <path d="m12 2.5 8 3.6v5.4c0 4.7-3.4 8-8 10-4.6-2-8-5.3-8-10V6.1z" />
+  <circle cx="12" cy="8" r="1.5" />
+  <circle cx="8" cy="14" r="1.5" />
+  <circle cx="16" cy="14" r="1.5" />
+  <path d="m11.2 9.3-2.4 3.4m4.4-3.4 2.4 3.4M9.5 14h5" />
+</svg>

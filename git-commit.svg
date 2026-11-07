@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-label="Git commit">
+<title>Git commit</title><desc>Breytingarskráning í Git</desc>
+<g fill="none" stroke="#D75313" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round">
+<g transform="translate(0.2667 20.8000) scale(0.045833 -0.045833)"><path d="M363 192Q363 154 338.5 124.5Q314 95 277 87V0H235V87Q198 95 173.5 124.5Q149 154 149.0 192.0Q149 230 173.5 259.5Q198 289 235 297V384H277V297Q314 289 338.5 259.5Q363 230 363 192ZM256 256Q229 256 210.5 237.5Q192 219 192.0 192.0Q192 165 210.5 146.5Q229 128 256.0 128.0Q283 128 301.5 146.5Q320 165 320.0 192.0Q320 219 301.5 237.5Q283 256 256 256Z" stroke-width="29.455" fill="none"/></g></g></svg>

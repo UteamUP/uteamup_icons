@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.10" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Radiator">
+  <title>Radiator</title>
+  <desc>A finned heating radiator with side pipes and two feet.</desc>
+  <rect height="15" rx="1.2" width="2.4" x="4" y="4" />
+  <rect height="15" rx="1.2" width="2.4" x="8.4" y="4" />
+  <rect height="15" rx="1.2" width="2.4" x="12.8" y="4" />
+  <rect height="15" rx="1.2" width="2.4" x="17.2" y="4" />
+  <path d="M2 8h2m2.4 0h2m2.4 0h2m2.4 0h2m2.4 0H22v-2M6.4 16h2m2.4 0h2m2.4 0h2M5.2 19v2m13.2-2v2" />
+</svg>

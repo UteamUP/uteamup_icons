@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Duplicate document">
+  <title>Duplicate document</title>
+  <desc>Two overlapping sheets indicate a copy of a document.</desc>
+  <path d="M16 3H5a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2" />
+  <rect height="14" rx="2" width="14" x="7" y="7" />
+  <path d="M10.5 12h7m-7 4h7" />
+</svg>

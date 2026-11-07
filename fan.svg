@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Table fan">
+  <title>Table fan</title>
+  <desc>A table fan with three broad curved blades inside a protective guard, a short neck and a stable base.</desc>
+  <circle cx="12" cy="9.5" r="7.4" />
+  <circle cx="12" cy="9.5" r="1.1" />
+  <path d="M14.400 9.500C15.700 9.200 17.400 7.800 16.400 6.000C15.500 4.300 12.800 5.000 12.400 6.400C12.300 6.900 12.800 7.300 13.200 7.422A2.4 2.4 0 0 1 14.400 9.500Z" />
+  <path d="M10.800 11.578C10.410 12.854 10.772 15.027 12.831 15.061C14.753 15.131 15.497 12.443 14.485 11.396C14.102 11.060 13.505 11.293 13.200 11.578A2.4 2.4 0 0 1 10.800 11.578Z" />
+  <path d="M10.800 7.422C9.890 6.446 7.828 5.673 6.769 7.439C5.747 9.069 7.703 11.057 9.115 10.704C9.598 10.540 9.695 9.907 9.600 9.500A2.4 2.4 0 0 1 10.800 7.422Z" />
+  <path d="M10.8 16.8V20M13.2 16.8V20M7 22a2 2 0 0 1 2-2h6a2 2 0 0 1 2 2Z" />
+</svg>

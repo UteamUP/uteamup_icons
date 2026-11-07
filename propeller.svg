@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Three-blade propeller">
+  <title>Three-blade propeller</title>
+  <desc>An exposed mechanical propeller with a central hub and three long tapered blades, without a cage or appliance stand.</desc>
+  <circle cx="10.2" cy="12" r="1.75" />
+  <path d="M11.790 11.270C14.900 10.300 18.300 10.400 19.900 11.500Q20.500 12.000 19.700 12.900C18.300 14.500 14.500 14.200 11.790 12.730" />
+  <path d="M10.037 13.742C9.322 16.920 7.536 19.815 5.783 20.650Q5.050 20.920 4.671 19.777C3.985 17.765 6.145 14.624 8.773 13.012" />
+  <path d="M8.773 10.988C6.378 8.780 4.764 5.785 4.917 3.850Q5.050 3.080 6.229 3.323C8.315 3.735 9.955 7.176 10.037 10.258" />
+</svg>

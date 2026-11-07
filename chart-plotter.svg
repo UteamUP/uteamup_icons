@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Sjókortatæki/ECDIS — skjár með sjókorti og staðsetningarpunkti">
+  <title>chart-plotter</title>
+  <desc>Sjókortatæki/ECDIS — skjár með sjókorti og staðsetningarpunkti</desc>
+  <rect x="3" y="3" width="18" height="16" rx="0.8"/><path d="M12 19v3M7 22h10M6 6l3 1-2 3 3 2-1 4"/><path d="M18.5 8a3 3 0 1 0-6 0c0 2 3 5 3 5s3-3 3-5ZM13 16q2-2 4 0h2"/><circle cx="15.5" cy="8" r="0.7"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Elevated work platform">
+  <title>Elevated work platform</title>
+  <desc>A wheeled mobile work platform with an elevated railed basket supported by a diagonal telescopic boom.</desc>
+  <rect height="2.9" rx=".8" width="12.3" x="2.2" y="15.2" />
+  <path d="M5.3 18.1v1.45M11.5 18.1v1.45M7.5 15.2l9.1-6.9M10.2 15.2l9.1-6.9" />
+  <circle cx="5.3" cy="21" r="1.45" />
+  <circle cx="11.5" cy="21" r="1.45" />
+  <rect height="5.7" rx=".45" width="6.8" x="15.2" y="2.6" />
+  <path d="M15.2 5.45H22M18.6 2.6v5.7" />
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Alarm smoke">
+  <title>Alarm smoke</title>
+  <desc>A smoke-alarm housing with a test control, sensing vents, and two rising smoke wisps.</desc>
+  <ellipse cx="12" cy="12.4" rx="7" ry="2.4" />
+  <path d="M5 12.4v4c0 3.2 14 3.2 14 0v-4" />
+  <path d="M8 15.7v1.1m3.1-.6v1.1m3.1-1.1v1.1" />
+  <ellipse cx="12" cy="12.1" rx="1.4" ry="0.65" />
+  <path d="M8.5 7.8c-2-1.7 2-3.1 0-5.1M15.5 7.8c-2-1.7 2-3.1 0-5.1" />
+</svg>

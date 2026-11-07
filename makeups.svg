@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Makeup cosmetics">
+  <title>Makeup cosmetics</title>
+  <desc>A lipstick with a slanted tip beside a cosmetic powder brush.</desc>
+  <rect height="9" rx=".8" width="7" x="3.5" y="12.5" />
+  <path d="M4.75 12.5v-2h4.5v2M5.5 10.5V5l3-1.5v7" />
+  <path d="M14.5 4.5a3 3 0 0 1 6 0L19.75 9h-4.5ZM15.25 9v2h4.5V9M16.5 11v9.25a1 1 0 0 0 2 0V11" />
+</svg>

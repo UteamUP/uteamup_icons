@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="An articulated robot arm places a small component on a laboratory bench.">
+  <title>industry-robotics-laboratory</title>
+  <desc>An articulated robot arm places a small component on a laboratory bench.</desc>
+  <circle cx="7" cy="14" r="2"/><circle cx="11" cy="9" r="1.5"/><circle cx="16" cy="6" r="1.5"/><path d="M5 19l1-3 M8 12l2-2 M12 8l3-1 M17 7l2 2 M19 9l2-1 1 2 M19 9l-1 2 2 1 M17 15h4v4h-4v-4Z M2 19h20 M4 19v3 M20 19v3 M8 16l1 3"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Police car">
+  <title>Police car</title>
+  <desc>A front-view police automobile with a divided roof lightbar and three short emergency-light rays.</desc>
+  <path d="M4.9 14.2 6.3 11.4Q6.7 10.6 7.6 10.6h8.8q.9 0 1.3.8l1.4 2.8" />
+  <path d="M4.9 14.2h14.2q1.7.6 1.7 1.9v2.5q0 .7-.7.7H3.9q-.7 0-.7-.7v-2.5q0-1.3 1.7-1.9Z" />
+  <path d="M4.6 19.3v1.6q0 .7.7.7h1q.7 0 .7-.7v-1.6m10 0v1.6q0 .7.7.7h1q.7 0 .7-.7v-1.6M6.3 16.7h2m7.4 0h2" />
+  <rect height="2.3" rx=".65" width="7.2" x="8.4" y="6.9" />
+  <path d="M12 6.9v3.7M12 3.3v1.3M6.5 4.8l1 1M17.5 4.8l-1 1" />
+</svg>

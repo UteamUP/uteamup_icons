@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Patient">
+  <title>Patient</title>
+  <desc>A person lying in a hospital bed, with a medical cross above the bed.</desc>
+  <circle cx="5.75" cy="11" r="2.25" />
+  <path d="M9 11.5h7a5 5 0 0 1 5 5H2.5M2.5 8v13M21 15v6M2.5 18.5H21M16 5.5h5M18.5 3v5" />
+</svg>

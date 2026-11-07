@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Ordered list">
+  <title>Ordered list</title>
+  <desc>Three text rows explicitly numbered one, two and three.</desc>
+  <path d="M3 4.5 4.5 3v4.5M3 7.5h3M3 10.5c0-1.5 3.25-1.5 3.25 0 0 1.2-3.25 2-3.25 3.5h3.25M3 17h3v5H3M4 19.5h2M10 5h11M10 12h11M10 19.5h11" />
+</svg>

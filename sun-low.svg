@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Sun low">
+  <title>Sun low</title>
+  <desc>A small sun disc with four short rays.</desc>
+  <circle cx="12" cy="12" r="2.5" />
+  <path d="M17 12 18.3 12" />
+  <path d="M12 17 12 18.3" />
+  <path d="M7 12 5.7 12" />
+  <path d="M12 7 12 5.7" />
+</svg>

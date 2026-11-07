@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Mobile boom crane">
+  <title>Mobile boom crane</title>
+  <desc>A wheeled mobile crane with an operator cab, a raised telescopic boom, a hanging cable and an open lifting hook.</desc>
+  <rect height="2.7" rx=".6" width="16.3" x="2.2" y="15.5" />
+  <path d="M3 15.5v-5.2h4.4l1 2.7v2.5M3 13h5.4M5.5 18.2v1.3M15.5 18.2v1.3M10.2 15.5 18.8 3.6 21.2 5.1 12.6 15.5M21.2 5.1v5.8a1.4 1.4 0 1 1-2.8 0" />
+  <circle cx="5.5" cy="21" r="1.5" />
+  <circle cx="15.5" cy="21" r="1.5" />
+</svg>

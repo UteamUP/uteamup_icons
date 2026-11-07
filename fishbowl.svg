@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.10" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Fishbowl">
+  <title>Fishbowl</title>
+  <desc>A rounded fishbowl containing water and a fish.</desc>
+  <path d="M7 4h10c0 1.5 1.5 2.5 2.3 4.5C22.3 14 18.7 21 12 21S1.7 14 4.7 8.5C5.5 6.5 7 5.5 7 4Z" />
+  <path d="M4.4 10c2.5-1.6 5.1 1.6 7.6 0s5.1 1.6 7.6 0" />
+  <path d="M9.5 15.5c2-2.5 4.5-2.5 6.5 0-2 2.5-4.5 2.5-6.5 0Z" />
+  <path d="m9.5 15.5-2.5-2v4l2.5-2" />
+  <path d="M14 15.2v.01" />
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Radar sweep">
+  <title>Radar sweep</title>
+  <desc>A radar display with two open range arcs, a diagonal scanning sweep, and one isolated target blip.</desc>
+  <path d="M21 12a9 9 0 1 1-9-9M17 12a5 5 0 1 1-5-5M12 12l6.35-6.35" />
+  <circle cx="7.8" cy="17.6" r=".7" />
+</svg>

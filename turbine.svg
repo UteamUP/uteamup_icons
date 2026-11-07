@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Industrial turbine">
+  <title>Industrial turbine</title>
+  <desc>An industrial turbine rotor with four strongly swept vanes, an open central hub and a visible output shaft.</desc>
+  <circle cx="9.5" cy="12" r="7.9" />
+  <circle cx="9.5" cy="12" r="1.2" />
+  <path d="M12.200 12.000C12.800 13.600 14.700 15.400 15.050 14.550C15.200 13.000 13.600 11.400 11.884 10.732A2.7 2.7 0 0 1 12.200 12.000Z" />
+  <path d="M9.500 14.700C7.900 15.300 6.100 17.200 6.950 17.550C8.500 17.700 10.100 16.100 10.768 14.384A2.7 2.7 0 0 1 9.500 14.700Z" />
+  <path d="M6.800 12.000C6.200 10.400 4.300 8.600 3.950 9.450C3.800 11.000 5.400 12.600 7.116 13.268A2.7 2.7 0 0 1 6.800 12.000Z" />
+  <path d="M9.500 9.300C11.100 8.700 12.900 6.800 12.050 6.450C10.500 6.300 8.900 7.900 8.232 9.616A2.7 2.7 0 0 1 9.500 9.300Z" />
+  <path d="M17.236 10.4H22.2v3.2h-4.964" />
+</svg>

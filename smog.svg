@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.10" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Smog">
+  <title>Smog</title>
+  <desc>An industrial emission cloud with drifting polluted haze above a chimney.</desc>
+  <path d="M6 10c-3 0-3.5-4-.5-4.7C5.5 2 10.5 2 11.5 4.3c3.5-1.3 5.5.7 5 2.9 3.8-.2 4.5 2.8 2.3 4H11" />
+  <path d="M4 12h4v9H4v-9ZM2.5 21H11M11 15h10M11 18.5h8" />
+</svg>

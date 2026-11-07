@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.10" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Local area network">
+  <title>Local area network</title>
+  <desc>Connected network endpoints forming a local network topology.</desc>
+  <rect height="5" rx=".6" width="7" x="8.5" y="2.5" />
+  <path d="M12 7.5v4.5M5 15v-3h14v3" />
+  <rect height="4.5" rx=".6" width="6" x="2" y="15" />
+  <rect height="4.5" rx=".6" width="6" x="16" y="15" />
+  <path d="M5 19.5V21M3 21h4M19 19.5V21M17 21h4" />
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="A partitioned tray holding cylindrical geological core samples.">
+  <title>industry-core-sample-store</title>
+  <desc>A partitioned tray holding cylindrical geological core samples.</desc>
+  <path d="M3 6L7 3H22V18L18 21H3V6 M3 6H18V21 M18 6L22 3 M3 11H18 M3 16H18"/><rect x="4.5" y="7.5" width="6.5" height="2" rx="1"/><rect x="12.5" y="7.5" width="4" height="2" rx="1"/><rect x="4.5" y="12.5" width="12" height="2" rx="1"/><rect x="4.5" y="17.5" width="4.5" height="2" rx="1"/><rect x="10.5" y="17.5" width="6" height="2" rx="1"/>
+</svg>

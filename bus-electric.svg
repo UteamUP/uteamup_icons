@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Electric bus">
+  <title>Electric bus</title>
+  <desc>A road bus seen from the side with passenger windows, two wheels and a prominent lightning-bolt electric marker.</desc>
+  <path d="M4.3 19.7H3a1 1 0 0 1-1-1v-7.5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v7.5a1 1 0 0 1-1 1h-1.3M7.7 19.7h8.6M2 13.5h20M7 9.2v4.3M12 9.2v4.3M17 9.2v4.3" />
+  <circle cx="6" cy="19.7" r="1.7" />
+  <circle cx="18" cy="19.7" r="1.7" />
+  <path d="m13.8 1.6-4.3 3.4h2.8l-1.7 2.8 4.3-3.5h-2.7Z" />
+</svg>

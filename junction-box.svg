@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Tengikassi — lokaður kassi með kapalinngöngum">
+  <title>junction-box</title>
+  <desc>Tengikassi — lokaður kassi með kapalinngöngum</desc>
+  <rect x="5" y="5" width="14" height="14" rx="0.8"/><circle cx="7.5" cy="7.5" r="0.65"/><circle cx="16.5" cy="16.5" r="0.65"/><path d="M2 10h3M19 14h3M8 19v3M12 19v3M16 19v3M12 2v3"/>
+</svg>

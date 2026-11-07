@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.10" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Smoke detector">
+  <title>Smoke detector</title>
+  <desc>A physical circular smoke alarm with air vents, a test button and two smoke wisps.</desc>
+  <circle cx="12" cy="10" r="7.5" />
+  <path d="M8 6.5v2M10.5 5.5V8M13.5 5.5V8M16 6.5v2" />
+  <circle cx="12" cy="12.5" r="1.5" />
+  <path d="M9 22c-1-1 1-1.7 0-2.7M15 22c-1-1 1-1.7 0-2.7" />
+</svg>

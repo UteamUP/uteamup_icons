@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="A banked oval track enclosing a small bicycle.">
+  <title>industry-cycling-velodrome</title>
+  <desc>A banked oval track enclosing a small bicycle.</desc>
+  <ellipse cx="12" cy="12" rx="10" ry="7.7"/><ellipse cx="12" cy="12" rx="7.5" ry="5.1"/><circle cx="8.5" cy="13.5" r="2"/><circle cx="15.5" cy="13.5" r="2"/><path d="M8.5 13.5L10.5 9.8L12.6 13.5H8.5 M12.6 13.5L14 9.8H15.5 M9.5 9.8H11.5 M14 9.8L15.5 13.5"/>
+</svg>

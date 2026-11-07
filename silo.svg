@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.10" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Grain silo">
+  <title>Grain silo</title>
+  <desc>A tall grain-storage silo with a conical roof, cylindrical corrugated body, and support feet.</desc>
+  <path d="m4 8 8-5 8 5H4Z" />
+  <path d="M5 8v10c0 1.3 3.1 2 7 2s7-.7 7-2V8" />
+  <path d="M5 12h14M5 16h14M7 20v2m10-2v2" />
+</svg>

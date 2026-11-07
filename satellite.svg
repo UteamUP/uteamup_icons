@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Satellite">
+  <title>Satellite</title>
+  <desc>A communications satellite with a central body, two solar-panel wings and an antenna dish.</desc>
+  <rect height="9" rx="1.5" width="6" x="9" y="8" />
+  <rect height="7" rx=".25" width="5.5" x="1.5" y="8.5" />
+  <rect height="7" rx=".25" width="5.5" x="17" y="8.5" />
+  <path d="M7 12h2M15 12h2M1.5 12H7M17 12h5.5M4.25 8.5v7M19.75 8.5v7M9 3a3 3 0 0 0 6 0M12 3v1.5M12 6v2M10.5 17v2h3v-2" />
+  <circle cx="12" cy="12.5" r="1.25" />
+</svg>

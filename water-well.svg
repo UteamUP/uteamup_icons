@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Water well">
+  <title>Water well</title>
+  <desc>A roofed masonry water well with posts, a windlass, and a lowered rope.</desc>
+  <path d="M3 8l9-5 9 5H3ZM5 8v7.6m14-7.6v7.6M5 10.7h14m0 0h2v2M12 10.7v5.3" />
+  <ellipse cx="12" cy="16" rx="7.5" ry="2" />
+  <path d="M4.5 16v4c0 2.7 15 2.7 15 0v-4M4.5 18c0 2.7 15 2.7 15 0M9 18.9v2.8m6-1.1v1.1" />
+</svg>

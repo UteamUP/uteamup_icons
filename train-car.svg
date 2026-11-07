@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.10" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Rail carriage">
+  <title>Rail carriage</title>
+  <desc>A discrete rail carriage with flat ends, side windows, rail wheels, couplings, and a track.</desc>
+  <rect height="10" rx="1.5" width="18" x="3" y="5" />
+  <rect height="4" rx=".5" width="13" x="5.5" y="7.5" />
+  <path d="M10 7.5v4M14 7.5v4M2 13h1M21 13h1" />
+  <circle cx="6" cy="16.5" r="1.5" />
+  <circle cx="18" cy="16.5" r="1.5" />
+  <path d="M2 19h20" />
+</svg>

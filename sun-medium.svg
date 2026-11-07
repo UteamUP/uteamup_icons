@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Sun medium">
+  <title>Sun medium</title>
+  <desc>A medium sun disc with six medium-length rays.</desc>
+  <circle cx="12" cy="12" r="3.25" />
+  <path d="M12 6.3 12 4.4" />
+  <path d="M16.936 9.15 18.582 8.2" />
+  <path d="M16.936 14.85 18.582 15.8" />
+  <path d="M12 17.7 12 19.6" />
+  <path d="M7.064 14.85 5.418 15.8" />
+  <path d="M7.064 9.15 5.418 8.2" />
+</svg>

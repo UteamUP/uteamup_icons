@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="A ticket booth with an arched window and a ticket slot.">
+  <title>industry-ticket-office</title>
+  <desc>A ticket booth with an arched window and a ticket slot.</desc>
+  <path d="M4 21V5L12 2L20 5V21H4 M8 13V9A4 4 0 0 1 16 9V13H8 M6 16H12 M12 15H19V17Q17.5 18 19 19V21H12V19Q13.5 18 12 17V15 M16 16.5V19.5"/>
+</svg>

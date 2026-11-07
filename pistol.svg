@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.10" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Pistol">
+  <title>Pistol</title>
+  <desc>A handgun with barrel, grip, and trigger guard.</desc>
+  <path d="M3 5h18v4h-5l-2 3h-4l-1.5 8h-4l2-10H3V5Z" />
+  <path d="M14 12c0 3-2 3-4.5 3M11.5 12v1.3M5 5V3.5M18 5V3.5h2V5" />
+</svg>

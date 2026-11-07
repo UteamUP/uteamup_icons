@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="train front tunnel">
+  <title>train-front-tunnel</title>
+  <desc>train front tunnel</desc>
+  <path d="M3 21v-9a9 9 0 0 1 18 0v9M12 3v2M5.6 5.6 7 7M18.4 5.6 17 7M8 19l-3 3M16 19l3 3"/><rect x="6" y="9" width="12" height="10" rx="2"/><rect x="8" y="11" width="8" height="3" rx="0.5"/><circle cx="8.5" cy="16.5" r="0.65"/><circle cx="15.5" cy="16.5" r="0.65"/>
+</svg>

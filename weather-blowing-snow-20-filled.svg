@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Weather blowing snow 20 filled">
+  <title>Weather blowing snow 20 filled</title>
+  <desc>Blowing wind gusts above three separated snow crystals.</desc>
+  <path d="M3 6h10a2 2 0 1 0-2-2M3 10h16a2 2 0 0 1 0 4" />
+  <path d="M2.8 18.5 7.2 18.5" />
+  <path d="M3.9 16.595 6.1 20.405" />
+  <path d="M6.1 16.595 3.9 20.405" />
+  <path d="M9.8 18.5 14.2 18.5" />
+  <path d="M10.9 16.595 13.1 20.405" />
+  <path d="M13.1 16.595 10.9 20.405" />
+  <path d="M16.8 18.5 21.2 18.5" />
+  <path d="M17.9 16.595 20.1 20.405" />
+  <path d="M20.1 16.595 17.9 20.405" />
+</svg>

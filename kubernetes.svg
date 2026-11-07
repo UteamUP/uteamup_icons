@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.10" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Kubernetes">
+  <title>Kubernetes</title>
+  <desc>The Kubernetes seven-spoke ship helm inside a seven-sided badge, redrawn as a thin outline.</desc>
+  <polygon points="12,1.75 20.0138,5.6092 21.993,14.2808 16.4473,21.2349 7.5527,21.2349 2.007,14.2808 3.9862,5.6092" />
+  <circle cx="12" cy="12" r="4.9" />
+  <polygon points="12.7159,10.5134 13.6086,11.6328 13.29,13.0288 12,13.65 10.71,13.0288 10.3914,11.6328 11.2841,10.5134" />
+  <path d="M12,10.5134 L12,4.8 M13.1623,11.0731 L17.6292,7.5109 M13.4493,12.3308 L19.0195,13.6022 M12.645,13.3394 L15.124,18.487 M11.355,13.3394 L8.876,18.487 M10.5507,12.3308 L4.9805,13.6022 M10.8377,11.0731 L6.3708,7.5109" />
+</svg>

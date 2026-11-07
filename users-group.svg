@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Group badge">
+  <title>Group badge</title>
+  <desc>Two people represented inside a rounded group or team badge.</desc>
+  <rect height="17" rx="3" width="20" x="2" y="3.5" />
+  <circle cx="7.5" cy="9.5" r="2.25" />
+  <circle cx="16.5" cy="9.5" r="2.25" />
+  <path d="M4 18v-.75a2.75 2.75 0 0 1 2.75-2.75h1.5A2.75 2.75 0 0 1 11 17.25V18M13 18v-.75a2.75 2.75 0 0 1 2.75-2.75h1.5A2.75 2.75 0 0 1 20 17.25V18" />
+</svg>

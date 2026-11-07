@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.10" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Bank building">
+  <title>Bank building</title>
+  <desc>A classical bank facade with columns and a dollar coin modifier.</desc>
+  <path d="m2 8 7-5 7 5H2ZM4 11v8m4-8v8m4-8v2M2 19h10M2 21h10" />
+  <circle cx="18" cy="17" r="4.5" />
+  <path d="M19.2 14.8c-.5-.5-2.4-.6-2.4.5 0 1.7 2.6.5 2.6 2.2 0 1.2-1.9 1.4-2.8.5M18 13.8v6.4" />
+</svg>

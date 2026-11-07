@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Ljósastýring — rofi/dimmer með ljósaperu">
+  <title>lighting-control</title>
+  <desc>Ljósastýring — rofi/dimmer með ljósaperu</desc>
+  <rect x="3" y="4" width="6" height="16" rx="0.8"/><path d="M6 7v3.8M6 13.2V17M14.5 12a4 4 0 1 1 5 0v2h-5ZM15 16h4M16 18h2M17 2v1"/><circle cx="6" cy="12" r="1.2"/>
+</svg>

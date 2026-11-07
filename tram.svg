@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Sporvagn — vagn með straumtöku á loftlínu">
+  <title>tram</title>
+  <desc>Sporvagn — vagn með straumtöku á loftlínu</desc>
+  <rect x="5" y="5" width="14" height="15" rx="2"/><rect x="7" y="7" width="10" height="7" rx="0.5"/><circle cx="8" cy="17" r="0.6"/><circle cx="16" cy="17" r="0.6"/><path d="M10 5 8 3h8l-2 2M2 2h20M8 20l-2 2m10-2 2 2"/>
+</svg>

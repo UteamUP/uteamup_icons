@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="A bounded skating rink with a single ice skate.">
+  <title>industry-ice-rink</title>
+  <desc>A bounded skating rink with a single ice skate.</desc>
+  <path d="M2.5 18L5 10H6 M18 10H19L21.5 18H2.5V21H21.5V18"/><path d="M7 3H11V8L16 10Q18 10 18 12H7V3 M8.5 6H11 M9 12V14.5 M16 12V14.5 M6.5 14.5H19"/>
+</svg>

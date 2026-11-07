@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.10" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Leaking pipe">
+  <title>Leaking pipe</title>
+  <desc>A pipe with a visible break and escaping drops.</desc>
+  <path d="M2 7h8L9 9l2 2-2 2 1 2H2V7ZM22 7h-8l1 2-2 2 2 2-1 2h8V7ZM5 7v8M19 7v8" />
+  <path d="M12 17c-.6.8-1.7 1.8-1.7 2.7a1.7 1.7 0 0 0 3.4 0c0-.9-1.1-1.9-1.7-2.7ZM8 18l-1 2M16 18l1 2" />
+</svg>

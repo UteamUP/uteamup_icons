@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.10" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Square wave">
+  <title>Square wave</title>
+  <desc>A stepped waveform with flat high and low intervals.</desc>
+  <path d="M3 12h5v8h4v-16h4v8h5" />
+</svg>

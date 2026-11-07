@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Circular power saw">
+  <title>Circular power saw</title>
+  <desc>A handheld circular power saw with a rear grip, upper blade guard, center hub, and four broad exposed cutting teeth.</desc>
+  <path d="M3 14V8.3a2 2 0 0 1 2-2h3.9L11 9.6M5.4 11.7v-3h2.4l1 1.6" />
+  <path d="M8.6 14a5.2 5.2 0 0 1 10.4 0M2.2 14h6.4M19 14h2.8" />
+  <path d="M19.000 14.000 18.686 15.779 19.438 16.052 18.396 17.857 17.783 17.342 16.400 18.503 16.800 19.196 14.842 19.909 14.703 19.121 12.897 19.121 12.758 19.909 10.800 19.196 11.200 18.503 9.817 17.342 9.204 17.857 8.162 16.052 8.914 15.779 8.600 14.000" />
+  <circle cx="13.8" cy="14" r="1.55" />
+</svg>

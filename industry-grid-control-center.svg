@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="A dispatch console sits below a large screen showing a simple branching grid.">
+  <title>industry-grid-control-center</title>
+  <desc>A dispatch console sits below a large screen showing a simple branching grid.</desc>
+  <rect x="2.5" y="3" width="19" height="11" rx="1"/><path d="M8 8l3-2 M13 6l3 4 M8 9l7 1 M12 14v3 M8 17h8 M2 18h20l-2 4H4l-2-4Z M7 20h3 M14 20h3"/><circle cx="7" cy="8.5" r="1"/><circle cx="12" cy="5.5" r="1"/><circle cx="17" cy="10.5" r="1"/>
+</svg>

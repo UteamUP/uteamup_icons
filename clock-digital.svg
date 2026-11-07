@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Digital clock">
+  <title>Digital clock</title>
+  <desc>A digital clock displaying 12:30 in clear line numerals.</desc>
+  <rect height="12" rx="2" width="20" x="2" y="6" />
+  <path d="M4.5 9v6M7 9h2.6v3H7v3h2.6M13.6 9h2.6v6h-2.6m.6-3h2M18 9h2.2v6H18z" />
+  <circle cx="11.6" cy="10.4" r=".15" />
+  <circle cx="11.6" cy="13.6" r=".15" />
+</svg>

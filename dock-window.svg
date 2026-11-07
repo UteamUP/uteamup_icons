@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.10" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Docked windows">
+  <title>Docked windows</title>
+  <desc>Two overlapping landscape application windows with the front window docked over a rear window.</desc>
+  <rect height="12" rx="1.5" width="16" x="6" y="4" />
+  <path d="M6 8h16M2 9v9a2 2 0 0 0 2 2h14" />
+</svg>

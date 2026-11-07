@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="A curved skate ramp and a small wheeled skateboard.">
+  <title>industry-skate-park</title>
+  <desc>A curved skate ramp and a small wheeled skateboard.</desc>
+  <path d="M2.5 7H6V9C6 15 11 19 17 19H21.5V21H2.5V7 M4 7V4H7"/><path d="M13 9.5L19 7.8Q20.5 7.4 20.8 6.5 M12 9.2Q12.2 10.5 13 9.5"/><circle cx="14" cy="11.4" r="0.8"/><circle cx="19.4" cy="9.8" r="0.8"/>
+</svg>

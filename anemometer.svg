@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Vindmælir — þrír bollar á snúningsás">
+  <title>anemometer</title>
+  <desc>Vindmælir — þrír bollar á snúningsás</desc>
+  <circle cx="12" cy="10.5" r="1"/><path d="M12 9.5v-5M13 11l5 2.5M11 11l-5 2.5M12 11.5v10M9 21.5h6"/><g transform="translate(12 4.5) rotate(90)"><path d="M-2 0a2 2 0 0 0 4 0Z"/></g><g transform="translate(18 13.5) rotate(210)"><path d="M-2 0a2 2 0 0 0 4 0Z"/></g><g transform="translate(6 13.5) rotate(330)"><path d="M-2 0a2 2 0 0 0 4 0Z"/></g>
+</svg>

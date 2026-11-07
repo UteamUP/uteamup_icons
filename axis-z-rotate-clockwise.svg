@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.10" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Clockwise rotation about Z">
+  <title>Clockwise rotation about Z</title>
+  <desc>A clockwise elliptical rotation about an upright Z axis.</desc>
+  <path d="M12 17V3m-2.5 2.5L12 3l2.5 2.5" />
+  <path d="M18 2.5h4l-4 4h4" />
+  <path d="M3.8 14.5c2.2-4.1 14.7-3.9 16.9.3 2.5 4.7-12.7 8.2-16.9 3.7" />
+  <path d="M3.8 21.7v-3.2H7" />
+</svg>

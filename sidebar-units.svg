@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Tengslanet fólks og skipulagseininga">
+  <title>sidebar-units</title>
+  <desc>Tengslanet fólks og skipulagseininga</desc>
+  <circle cx="8" cy="4" r="1.6"/><circle cx="16" cy="4" r="1.6"/><path d="M5 10V9a3 3 0 0 1 6 0v1m2 0V9a3 3 0 0 1 6 0v1M8 11v3h8v-3M12 14v3M5 18v-1h14v1"/><rect x="2" y="18" width="6" height="4" rx="0.3"/><rect x="16" y="18" width="6" height="4" rx="0.3"/>
+</svg>

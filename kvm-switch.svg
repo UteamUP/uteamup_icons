@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="KVM-rofi — kassi sem tengir lyklaborð, skjá og mús við nokkrar tölvur">
+  <title>kvm-switch</title>
+  <desc>KVM-rofi — kassi sem tengir lyklaborð, skjá og mús við nokkrar tölvur</desc>
+  <rect x="8" y="2.5" width="8" height="5" rx="0.5"/><path d="M12 7.5V10"/><rect x="7" y="10" width="10" height="4" rx="0.5"/><rect x="2" y="10.5" width="3.5" height="3" rx="0.3"/><path d="M3 12h1.5M5.5 12H7"/><ellipse cx="20" cy="12" rx="1.5" ry="2"/><path d="M20 10v1.5M17 12h1.5"/><path d="M12 14v2H8v1M12 16h4v1"/><rect x="6" y="17" width="4" height="5" rx="0.4"/><rect x="14" y="17" width="4" height="5" rx="0.4"/><path d="M7.3 20h1.4M15.3 20h1.4"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.10" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Electric meter">
+  <title>Electric meter</title>
+  <desc>An electrical meter enclosure with a reading dial and an electricity indicator.</desc>
+  <rect height="18" rx="2" width="14" x="5" y="3" />
+  <circle cx="12" cy="9" r="3.5" />
+  <path d="m12 9 2-1.6" />
+  <path d="m12.8 14.5-2.4 2.5h3.2l-2.4 2.5" />
+</svg>

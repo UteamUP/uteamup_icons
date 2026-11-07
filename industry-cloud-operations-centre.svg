@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="A cloud above an operations monitor with a status trace.">
+  <title>industry-cloud-operations-centre</title>
+  <desc>A cloud above an operations monitor with a status trace.</desc>
+  <path d="M5 10C.5 10 1.2 4.5 5.2 5Q6 1.5 9.7 3Q12 0.5 15 3.5Q20.5 2.8 20.5 7Q24 9.5 20 11H17"/><rect x="5" y="12" width="14" height="7" rx="0.5"/><path d="M7 16H9L10.5 14L12 17L13.5 15H17 M12 19V22 M8 22H16"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Atom with two orbital planes">
+  <title>Atom with two orbital planes</title>
+  <desc>Two intersecting elliptical orbitals surround one central atomic nucleus.</desc>
+  <ellipse cx="12" cy="12" rx="9" ry="3.8" transform="rotate(45 12 12)" />
+  <ellipse cx="12" cy="12" rx="9" ry="3.8" transform="rotate(-45 12 12)" />
+  <circle cx="12" cy="12" r="1.25" />
+</svg>

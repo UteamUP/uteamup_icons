@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.10" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Excavator">
+  <title>Excavator</title>
+  <desc>A tracked excavator with a cab, crawler base, raised articulated boom, and digging bucket.</desc>
+  <rect height="4" rx="2" width="12" x="2" y="17" />
+  <path d="M5 19h6M4 17v-7h6l2 7M6 12h2l1 3H6ZM3 17h13" />
+  <path d="M13 17 15 4.5q.2-.7 1 0l6 8-2 1.5-3.4-5.5L15 17Z" />
+  <path d="m20 14-3 4a4 4 0 0 0 5 1v-4Z" />
+</svg>

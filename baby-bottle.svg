@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.10" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Baby feeding bottle">
+  <title>Baby feeding bottle</title>
+  <desc>A baby bottle with a shaped teat, screw collar, rounded bottle, and volume marks.</desc>
+  <path d="M8 8c0-2 2-2 2-4a2 2 0 0 1 4 0c0 2 2 2 2 4" />
+  <rect height="3" rx="1" width="12" x="6" y="8" />
+  <path d="M7 11v8a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-8M7 14h3m-3 3h3" />
+</svg>

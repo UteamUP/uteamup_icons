@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Network attached storage">
+  <title>Network attached storage</title>
+  <desc>A compact desktop NAS enclosure contains two vertical removable drive bays.</desc>
+  <rect height="15" rx="1.5" width="17" x="3.5" y="3.5" />
+  <rect height="10" rx=".8" width="4.5" x="6" y="6" />
+  <rect height="10" rx=".8" width="4.5" x="13.5" y="6" />
+  <path d="M7.5 13.5h1.5m6 0H17M6 18.5V21m12-2.5V21" />
+</svg>

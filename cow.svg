@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.10" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Cow">
+  <title>Cow</title>
+  <desc>A bovine face with curved horns, broad ears, eyes, and a rounded muzzle.</desc>
+  <path d="M8 6c-3 0-4-2-3-4m11 4c3 0 4-2 3-4M8 6h8l.8 10.2M8 6 7.2 16.2" />
+  <path d="M7.8 7C5 5.5 3 6 2 8c1 2 3.5 2.5 5.3 1M16.2 7C19 5.5 21 6 22 8c-1 2-3.5 2.5-5.3 1" />
+  <ellipse cx="12" cy="18" rx="6" ry="3" />
+  <path d="M9 11h.01M15 11h.01M9 18h.01M15 18h.01" />
+</svg>

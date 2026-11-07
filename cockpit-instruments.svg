@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Flugtæki — mælaborð með hringlaga mælum">
+  <title>cockpit-instruments</title>
+  <desc>Flugtæki — mælaborð með hringlaga mælum</desc>
+  <path d="M3 21V8q9-10 18 0v13Z"/><circle cx="8" cy="11" r="2.5"/><circle cx="16" cy="11" r="2.5"/><circle cx="12" cy="17" r="2.2"/><path d="M8 11l1-1.5M16 11l-1.5-.5M12 17l1 .8M6 17v2M18 17v2"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Gyroscope instrument">
+  <title>Gyroscope instrument</title>
+  <desc>A gyroscope with an inclined rotor mounted on a diagonal spindle inside an outer gimbal ring, supported by a small stand.</desc>
+  <circle cx="12" cy="10.2" r="7.2" />
+  <path d="M15.5355 13.7355C14.7545 14.5165 12.5384 13.5668 10.5858 11.6142S7.6835 7.4455 8.4645 6.6645S11.4616 6.8332 13.4142 8.7858S16.3165 12.9545 15.5355 13.7355Z" />
+  <path d="m6.48 15.72 11.04-11.04M12 17.4v4.1M8.4 21.5h7.2" />
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.10" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Edit note">
+  <title>Edit note</title>
+  <desc>Text lines alongside a distinct editing pencil.</desc>
+  <path d="M3 5h15M3 9h10M3 13h6M3 17h5" />
+  <path d="M12 20v-3l7-7 3 3-7 7H12ZM17 12l3 3" />
+</svg>

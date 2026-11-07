@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Chemical hazard gas mask">
+  <title>Chemical hazard gas mask</title>
+  <desc>A chemical-protection gas mask has two eye lenses, a central valve and two side filter canisters.</desc>
+  <path d="M6 4q6-3 12 0l1 9q-1 5-4 7H9q-3-2-4-7z" />
+  <ellipse cx="8.5" cy="9" rx="2.4" ry="1.9" />
+  <ellipse cx="15.5" cy="9" rx="2.4" ry="1.9" />
+  <circle cx="12" cy="16" r="2.6" />
+  <path d="M10.7 16h2.6" />
+  <path d="M5 12.5H3a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1h3M19 12.5h2a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-3" />
+</svg>

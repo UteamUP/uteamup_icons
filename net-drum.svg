@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Nettromla — stór tromla með neti vafið upp">
+  <title>net-drum</title>
+  <desc>Nettromla — stór tromla með neti vafið upp</desc>
+  <ellipse cx="5" cy="10.5" rx="2.5" ry="6.5"/><ellipse cx="19" cy="10.5" rx="2.5" ry="6.5"/><path d="M5 4h14M5 17h14M8 4l8 13M13 4l6 10M5 8l6 9M8 17l8-13M13 17l6-10M5 13l6-9M5 17v5M19 17v5M2 22h6M16 22h6"/>
+</svg>

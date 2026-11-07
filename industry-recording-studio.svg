@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="A studio microphone with a pop filter and headphones.">
+  <title>industry-recording-studio</title>
+  <desc>A studio microphone with a pop filter and headphones.</desc>
+  <rect x="5" y="4" width="4.5" height="9" rx="2.2"/><path d="M3 9V11A4.3 4.3 0 0 0 11.6 11V9 M7.3 15.3V21 M4.5 21H10 M6.5 7H8 M6.5 9.5H8"/><circle cx="15.4" cy="9.4" r="3.2"/><path d="M16.8 12.3L18.3 16.5 M14 20V18A3.5 3.5 0 0 1 21 18V20 M14 18H15V21H14Z M20 18H21V21H20Z"/>
+</svg>

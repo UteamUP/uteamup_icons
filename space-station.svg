@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Space station">
+  <title>Space station</title>
+  <desc>An orbital habitat with a long three-section module, docking collars and four substantial solar-array wings.</desc>
+  <path d="M6.5 9.5h11a2.5 2.5 0 0 1 0 5h-11a2.5 2.5 0 0 1 0-5Z" />
+  <path d="M9 9.5v5M15 9.5v5M4 11H2.5v2H4M20 11h1.5v2H20" />
+  <rect height="6" rx=".2" width="5" x="4.5" y="1.5" />
+  <rect height="6" rx=".2" width="5" x="14.5" y="1.5" />
+  <rect height="6" rx=".2" width="5" x="4.5" y="16.5" />
+  <rect height="6" rx=".2" width="5" x="14.5" y="16.5" />
+  <path d="M7 1.5v8M17 1.5v8M7 14.5v8M17 14.5v8M4.5 4.5h5M14.5 4.5h5M4.5 19.5h5M14.5 19.5h5" />
+  <circle cx="12" cy="12" r="1.25" />
+</svg>

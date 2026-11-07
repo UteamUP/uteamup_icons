@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Graphics card">
+  <title>Graphics card</title>
+  <desc>A graphics expansion card has two cooling fans, a case bracket and a lower edge connector.</desc>
+  <path d="M2.5 3v18m0-15h18a1 1 0 0 1 1 1v9a1 1 0 0 1-1 1h-18M7 17v3h6v-3" />
+  <circle cx="8.2" cy="11.5" r="2.6" />
+  <circle cx="16" cy="11.5" r="2.6" />
+  <path d="M8.2 8.9v2.6l2.2 1.3m-2.2-1.3L6 12.8M16 8.9v2.6l2.2 1.3m-2.2-1.3-2.2 1.3" />
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="A bakery storefront with an arched display window holding loaves of bread.">
+  <title>industry-bakery-shop</title>
+  <desc>A bakery storefront with an arched display window holding loaves of bread.</desc>
+  <path d="M2 6H22 M4 6V21H20V6 M6.5 18V12A5.5 5.5 0 0 1 17.5 12V18H6.5"/><rect x="8" y="11" width="3" height="7" rx="1.5"/><rect x="12.5" y="13" width="3.5" height="5" rx="1.7"/><path d="M8.7 13L10.3 12.5 M8.7 15.5L10.3 15 M13.3 15H15.1"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.10" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Ethernet cable">
+  <title>Ethernet cable</title>
+  <desc>An RJ45-style eight-contact Ethernet plug with a keyed neck and attached cable.</desc>
+  <path d="M4 3h16v10h-4v4H8v-4H4Z" />
+  <path d="M6.500 3v4M8.071 3v4M9.643 3v4M11.214 3v4M12.786 3v4M14.357 3v4M15.929 3v4M17.500 3v4" />
+  <path d="M9 10h6M12 17v3a2 2 0 0 0 2 2h5" />
+</svg>

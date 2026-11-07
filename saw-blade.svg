@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.10" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Circular saw blade">
+  <title>Circular saw blade</title>
+  <desc>A circular toothed saw blade with a central arbor hole.</desc>
+  <path d="M12.000 2.600 L13.072 4.375 L15.496 5.139 L16.700 3.859 L16.741 5.932 L18.458 7.806 L20.141 7.300 L19.139 9.116 L19.689 11.597 L21.400 12.000 L19.625 13.072 L18.861 15.496 L20.141 16.700 L18.068 16.741 L16.194 18.458 L16.700 20.141 L14.884 19.139 L12.403 19.689 L12.000 21.400 L10.928 19.625 L8.504 18.861 L7.300 20.141 L7.259 18.068 L5.542 16.194 L3.859 16.700 L4.861 14.884 L4.311 12.403 L2.600 12.000 L4.375 10.928 L5.139 8.504 L3.859 7.300 L5.932 7.259 L7.806 5.542 L7.300 3.859 L9.116 4.861 L11.597 4.311 Z" />
+  <circle cx="12" cy="12" r="2.3" />
+</svg>

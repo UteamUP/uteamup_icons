@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.10" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Networked wireless access point">
+  <title>Networked wireless access point</title>
+  <desc>A wireless access point with Wi-Fi waves and a branched wired network.</desc>
+  <path d="M4 6a12 12 0 0 1 16 0M7 9a7.5 7.5 0 0 1 10 0" />
+  <circle cx="12" cy="12" r="1.2" />
+  <circle cx="6" cy="20" r="1.5" />
+  <circle cx="18" cy="20" r="1.5" />
+  <path d="M12 13.2V17M6 18.5V17h12v1.5" />
+</svg>

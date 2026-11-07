@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Photo identity card">
+  <title>Photo identity card</title>
+  <desc>A landscape identity card with a clear portrait, identity text lines and a short barcode.</desc>
+  <rect height="15" rx="2" width="20" x="2" y="4.5" />
+  <circle cx="16.5" cy="9.5" r="1.75" />
+  <path d="M13.5 16v-.25a2.5 2.5 0 0 1 2.5-2.5h1a2.5 2.5 0 0 1 2.5 2.5V16M5 8h5.5M5 11h3.5M5 14.5V17M7.5 14.5V17M10 14.5V17" />
+</svg>

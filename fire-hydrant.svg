@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Brunahani">
+  <title>fire-hydrant</title>
+  <desc>Brunahani</desc>
+  <path d="M8 7V6a4 3 0 0 1 8 0v1M12 2V3M2 9v7M22 9v7"/><rect x="8" y="7" width="8" height="12" rx="1"/><rect x="3" y="10" width="5" height="5" rx="0.5"/><rect x="16" y="10" width="5" height="5" rx="0.5"/><circle cx="12" cy="12.5" r="2"/><rect x="7" y="19" width="10" height="2" rx="0.4"/>
+</svg>

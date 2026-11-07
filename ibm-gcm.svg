@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="ibm gcm">
+<!-- Adapted from IBM Carbon IBM GCM icon; Copyright 2015 IBM Corp.; Apache-2.0. Modified: redrawn as 24px centreline paths, stroke 0.9, rounded joins, brand blue. See LICENSE-Carbon.txt and sources.json. -->
+  <title>ibm-gcm</title>
+  <desc>ibm gcm</desc>
+  <path d="M4 9V7l8-5 8 5v10l-8 5-8-5M2 12h13m-4-4 4 4-4 4"/>
+</svg>

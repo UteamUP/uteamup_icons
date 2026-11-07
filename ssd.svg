@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Solid-state drive">
+  <title>Solid-state drive</title>
+  <desc>A slim solid-state storage module has one controller chip, a mounting hole and edge contacts.</desc>
+  <rect height="9" rx="1" width="17" x="2.5" y="7.5" />
+  <circle cx="5" cy="12" r=".8" />
+  <rect height="4" rx=".5" width="5" x="8" y="10" />
+  <path d="M15.5 10v4M19.5 9h2m-2 3h2m-2 3h2" />
+</svg>

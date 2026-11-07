@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Gasskynjari — handtæki með skjá og gasskýi">
+  <title>gas-detector</title>
+  <desc>Gasskynjari — handtæki með skjá og gasskýi</desc>
+  <rect x="4" y="8" width="12" height="13" rx="1"/><rect x="6" y="10" width="8" height="5" rx="0.4"/><circle cx="8" cy="18" r="0.65"/><circle cx="12" cy="18" r="0.65"/><path d="M10 8V6"/><path d="M16 7c-4 0-4-4-1-4q2-2 4 0c3-.5 4 4 1 4Z"/>
+</svg>

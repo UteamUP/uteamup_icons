@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Articulated truck and trailer">
+  <title>Articulated truck and trailer</title>
+  <desc>A long cargo trailer joined through a visible coupling to a separate tractor cab, with three open road wheels.</desc>
+  <rect height="9.1" rx=".6" width="12.4" x="1.6" y="5.7" />
+  <path d="M5 14.8v1.4M13.2 14.8v1.4m0-.6h3.3M16.5 17.9h2m3.4 0h.4V13l-2.8-3.4h-3v8.3M16.5 13h5.8" />
+  <circle cx="5" cy="17.9" r="1.7" />
+  <circle cx="13.2" cy="17.9" r="1.7" />
+  <circle cx="20.2" cy="17.9" r="1.7" />
+</svg>

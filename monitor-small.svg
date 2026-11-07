@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.10" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Compact monitor">
+  <title>Compact monitor</title>
+  <desc>A compact, nearly square monitor on a short central pedestal.</desc>
+  <rect height="13" rx="1" width="14" x="5" y="3" />
+  <path d="M10 16v5m4-5v5M8 21h8" />
+</svg>

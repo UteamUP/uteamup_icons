@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="A sorting conveyor delivering separated items into two bins.">
+  <title>industry-waste-sorting-plant</title>
+  <desc>A sorting conveyor delivering separated items into two bins.</desc>
+  <rect x="2" y="9" width="20" height="3" rx="1.5"/><path d="M4 9V5H8V9 M13 9L15.5 5L18 9 M7 12V16 M17 12V16 M4 16H10V22H4V16 M14 16H20V22H14V16"/><path d="M4 13.5L4 15"/><path d="M20 13.5L20 15"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="band saw">
+  <title>band-saw</title>
+  <desc>band saw</desc>
+  <rect x="5.2" y="2.5" width="9.3" height="5.9" rx="2"/><path d="M5.2 8.4V14M12.2 8.4V14M3 14h18"/><rect x="5.2" y="14" width="9.3" height="7" rx="1.2"/><circle cx="9.8" cy="5.45" r="1.6"/><circle cx="9.8" cy="17.5" r="1.8"/><path d="M16 14v-2.8h4.2V14"/>
+</svg>

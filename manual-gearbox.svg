@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Manual transmission gearbox">
+  <title>Manual transmission gearbox</title>
+  <desc>A mechanical transmission casing with a flared bell housing, input and output shafts, and a visible internal gear.</desc>
+  <path d="M4 4.8h3.3L10 7.2h8l2 2v5.6l-2 2h-8l-2.7 2.4H4ZM1.5 12H4M20 12h2.5M6.3 7.1v9.8" />
+  <path d="M16.038 10.650 16.237 11.077 16.950 11.190 16.950 12.810 16.237 12.923 16.038 13.350 15.768 13.736 16.027 14.410 14.623 15.220 14.169 14.659 13.700 14.700 13.231 14.659 12.777 15.220 11.373 14.410 11.632 13.736 11.362 13.350 11.163 12.923 10.450 12.810 10.450 11.190 11.163 11.077 11.362 10.650 11.632 10.264 11.373 9.590 12.777 8.780 13.231 9.341 13.700 9.300 14.169 9.341 14.623 8.780 16.027 9.590 15.768 10.264Z" />
+  <circle cx="13.7" cy="12" r="1.15" />
+</svg>

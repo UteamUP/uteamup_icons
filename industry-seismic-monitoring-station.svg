@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="A ground sensor connected to a recorder showing a seismic trace.">
+  <title>industry-seismic-monitoring-station</title>
+  <desc>A ground sensor connected to a recorder showing a seismic trace.</desc>
+  <path d="M2 16H12 M4 16V11H8V16 M6 11V8 M8 13H12V8H22V18H12V8 M14 13H15.5L16.5 10L18 16L19.3 12.5H20.5 M2 20H7L9 22L11 19H22 M17 18V21"/>
+</svg>

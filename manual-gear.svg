@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Manual gear lever">
+  <title>Manual gear lever</title>
+  <desc>A manual gear lever with a clear H-pattern on its round knob, a stalk, and a small base.</desc>
+  <circle cx="12" cy="8.7" r="6.6" />
+  <path d="M8.5 5.8v5.8M12 5.8v5.8M15.5 5.8v5.8M8.5 8.7h7M12 15.3v4.1" />
+  <ellipse cx="12" cy="20.7" rx="4.5" ry="1.3" />
+</svg>

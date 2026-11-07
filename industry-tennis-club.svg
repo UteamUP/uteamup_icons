@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="A tennis court with a centre net and a racket.">
+  <title>industry-tennis-club</title>
+  <desc>A tennis court with a centre net and a racket.</desc>
+  <rect x="2.5" y="3" width="12.5" height="18" rx="0.2"/><path d="M5 3V21 M12.5 3V21 M2.5 12H15 M5 7.5H12.5 M5 16.5H12.5 M8.8 7.5V16.5"/><ellipse cx="19.5" cy="8" rx="2.6" ry="3.8"/><path d="M18.3 11.4L16.8 15.8 M18.4 6.4L20.7 9.6 M20.6 6.4L18.4 9.6"/>
+</svg>

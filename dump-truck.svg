@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="1.10" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Tipping dump truck">
+  <title>Tipping dump truck</title>
+  <desc>A truck with a visibly raised tipping dump body, hydraulic lift, cab, chassis, and wheels.</desc>
+  <path d="M1.384 10.242 11.696 3.125 15.203 7.784 4.000 16.000Z" />
+  <path d="M3 17h19v-3l-3-4h-3v7M16 13h5M4 16v1M8 17l3.468 -6.477" />
+  <circle cx="6" cy="19" r="2" />
+  <circle cx="19" cy="19" r="2" />
+</svg>

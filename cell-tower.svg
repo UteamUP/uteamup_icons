@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Farsímamastur með loftnetum">
+  <title>cell-tower</title>
+  <desc>Farsímamastur með loftnetum</desc>
+  <rect x="4" y="4" width="3" height="7" rx="0.5"/><rect x="10.5" y="2" width="3" height="7" rx="0.5"/><rect x="17" y="4" width="3" height="7" rx="0.5"/><path d="M7 8h3.5m3 0H17M8 22l4-13 4 13M10 16h4M9 19h6M6 22h12"/>
+</svg>

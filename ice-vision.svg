@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="ice vision">
+<!-- Adapted from IBM Carbon Ice Vision icon; Copyright 2015 IBM Corp.; Apache-2.0. Modified: redrawn as 24px centreline paths, stroke 0.9, rounded joins, brand blue. See LICENSE-Carbon.txt and sources.json. -->
+  <title>ice-vision</title>
+  <desc>ice vision</desc>
+  <path d="M3 13a9 9 0 1 0 9-9H7M9.5 1.5 7 4l2.5 2.5M7 10h3l-1.5 6zM11 10h3l-1.5 9zM15 10h3l-1.5 7z"/>
+</svg>
