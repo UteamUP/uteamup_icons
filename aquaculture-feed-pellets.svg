@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aquaculture-feed-pellets-title" aria-describedby="uteamup-sectors-aquaculture-feed-pellets-desc">
+  <title id="uteamup-sectors-aquaculture-feed-pellets-title">Aquaculture feed pellets — Fóðurkögglar</title>
+  <desc id="uteamup-sectors-aquaculture-feed-pellets-desc">An open feed sack stands beside several small cylindrical feed pellets.</desc>
+  <!-- Subject: aquaculture-feed-pellets. The sack and separate pellet forms represent feed material, not feeding machinery. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aquaculture-feed-pellets","label_en":"Aquaculture feed pellets","label_is":"Fóðurkögglar","section":"02","category_en":"Aquaculture and seafood processing","category_is":"Fiskeldi og fiskvinnsla","batch":1,"tags":["aquaculture","feed"],"description":"An open feed sack stands beside several small cylindrical feed pellets.","design_note":"The sack and separate pellet forms represent feed material, not feeding machinery.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M4 3h10l2 5-3 10H3L2 8zM3 7h12M5 11h7M16 15l3-2 2 3-3 2z"/><circle cx="17" cy="21" r="1"/><circle cx="21" cy="20" r="0.8"/>
+</svg>

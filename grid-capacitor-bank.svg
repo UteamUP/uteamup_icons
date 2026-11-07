@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-grid-capacitor-bank-title" aria-describedby="uteamup-sectors-grid-capacitor-bank-desc">
+  <title id="uteamup-sectors-grid-capacitor-bank-title">Capacitor bank — Þéttabanki</title>
+  <desc id="uteamup-sectors-grid-capacitor-bank-desc">Three tall separate capacitor cans share one upper connection rail above a low supporting frame.</desc>
+  <!-- Subject: grid-capacitor-bank. Three tall separate capacitor cans share one upper connection rail above a low supporting frame. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"grid-capacitor-bank","label_en":"Capacitor bank","label_is":"Þéttabanki","section":"08","category_en":"Energy utilities, grids and services","category_is":"Orkuveitur, dreifikerfi og þjónusta","batch":4,"tags":["energy","utility"],"description":"Three tall separate capacitor cans share one upper connection rail above a low supporting frame.","design_note":"Three tall separate capacitor cans share one upper connection rail above a low supporting frame.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <rect x="3" y="7" width="4" height="12" rx="1"/><rect x="10" y="7" width="4" height="12" rx="1"/><rect x="17" y="7" width="4" height="12" rx="1"/><path d="M5 7V3h14v4 M12 3v4 M2 21h20"/>
+</svg>

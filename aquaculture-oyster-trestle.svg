@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aquaculture-oyster-trestle-title" aria-describedby="uteamup-sectors-aquaculture-oyster-trestle-desc">
+  <title id="uteamup-sectors-aquaculture-oyster-trestle-title">Oyster trestle — Ostrueldisgrind</title>
+  <desc id="uteamup-sectors-aquaculture-oyster-trestle-desc">A mesh oyster bag rests on a low raised trestle above the tidal bed.</desc>
+  <!-- Subject: aquaculture-oyster-trestle. The bag on splayed support legs shows intertidal trestle culture. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aquaculture-oyster-trestle","label_en":"Oyster trestle","label_is":"Ostrueldisgrind","section":"02","category_en":"Aquaculture and seafood processing","category_is":"Fiskeldi og fiskvinnsla","batch":1,"tags":["aquaculture","shellfish"],"description":"A mesh oyster bag rests on a low raised trestle above the tidal bed.","design_note":"The bag on splayed support legs shows intertidal trestle culture.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 8l5-4h14l-5 4zM3 8v4h14l5-4V4M6 12l-2 8M16 12l2 8M20 10l2 7M7 9h7M10 5v3M17 5v3M2 22h20"/>
+</svg>

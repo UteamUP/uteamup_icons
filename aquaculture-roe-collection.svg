@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aquaculture-roe-collection-title" aria-describedby="uteamup-sectors-aquaculture-roe-collection-desc">
+  <title id="uteamup-sectors-aquaculture-roe-collection-title">Broodstock roe collection — Hrognataka</title>
+  <desc id="uteamup-sectors-aquaculture-roe-collection-desc">A broodstock fish is shown above a collection bowl with a few descending egg circles.</desc>
+  <!-- Subject: aquaculture-roe-collection. The fish-to-egg collection composition depicts roe harvesting rather than a standalone fish species. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aquaculture-roe-collection","label_en":"Broodstock roe collection","label_is":"Hrognataka","section":"02","category_en":"Aquaculture and seafood processing","category_is":"Fiskeldi og fiskvinnsla","batch":1,"tags":["aquaculture","hatchery"],"description":"A broodstock fish is shown above a collection bowl with a few descending egg circles.","design_note":"The fish-to-egg collection composition depicts roe harvesting rather than a standalone fish species.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M4 6q5-5 11 0-6 5-11 0l-2-2v4zM4 17h16q-1 5-8 5t-8-5"/><circle cx="9" cy="12" r="0.7"/><circle cx="13" cy="14" r="0.7"/><circle cx="17" cy="12" r="0.7"/>
+</svg>

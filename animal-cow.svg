@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-animal-cow-title" aria-describedby="uteamup-sectors-animal-cow-desc">
+  <title id="uteamup-sectors-animal-cow-title">Cow — Kýr</title>
+  <desc id="uteamup-sectors-animal-cow-desc">A broad cow face has outward ears, two raised horns and a large rounded muzzle.</desc>
+  <!-- Subject: animal-cow. A broad cow face has outward ears, two raised horns and a large rounded muzzle. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"animal-cow","label_en":"Cow","label_is":"Kýr","section":"10","category_en":"Land animals and animal care","category_is":"Landdýr og umönnun dýra","batch":5,"tags":["animal","care"],"description":"A broad cow face has outward ears, two raised horns and a large rounded muzzle.","design_note":"A broad cow face has outward ears, two raised horns and a large rounded muzzle.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M7 6q5-3 10 0v10q0 6-5 6t-5-6V6Z M7 8 2 7l2 4h3 M17 8l5-1-2 4h-3 M6 7Q3 5 3 3 M18 7q3-2 3-4"/><ellipse cx="12" cy="17" rx="5" ry="3"/><circle cx="9" cy="11" r="0.5"/><circle cx="15" cy="11" r="0.5"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aquaculture-biofilter-title" aria-describedby="uteamup-sectors-aquaculture-biofilter-desc">
+  <title id="uteamup-sectors-aquaculture-biofilter-title">Moving-bed biofilter — Lífsía</title>
+  <desc id="uteamup-sectors-aquaculture-biofilter-desc">A water treatment tank contains several separated round carrier media below its waterline.</desc>
+  <!-- Subject: aquaculture-biofilter. Visible loose carrier media establish biological filtration rather than a generic water vessel. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aquaculture-biofilter","label_en":"Moving-bed biofilter","label_is":"Lífsía","section":"02","category_en":"Aquaculture and seafood processing","category_is":"Fiskeldi og fiskvinnsla","batch":1,"tags":["aquaculture","filtration"],"description":"A water treatment tank contains several separated round carrier media below its waterline.","design_note":"Visible loose carrier media establish biological filtration rather than a generic water vessel.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M5 3h14v17H5zM2 7h3M19 17h3M5 8h14M8 22v-2M16 22v-2"/><circle cx="9" cy="12" r="1.1"/><circle cx="15" cy="12" r="1.1"/><circle cx="12" cy="16" r="1.1"/>
+</svg>

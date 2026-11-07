@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aviation-parachute-title" aria-describedby="uteamup-sectors-aviation-parachute-desc">
+  <title id="uteamup-sectors-aviation-parachute-title">Round parachute — Fallhlíf</title>
+  <desc id="uteamup-sectors-aviation-parachute-desc">A round canopy with separated suspension lines supports a small rectangular load pack.</desc>
+  <!-- Subject: aviation-parachute. The round segmented canopy and load pack distinguish this parachute from pilot-controlled ram-air paragliders. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aviation-parachute","label_en":"Round parachute","label_is":"Fallhlíf","section":"04","category_en":"Aircraft and flight","category_is":"Loftför og flug","batch":2,"tags":["aviation","parachute"],"description":"A round canopy with separated suspension lines supports a small rectangular load pack.","design_note":"The round segmented canopy and load pack distinguish this parachute from pilot-controlled ram-air paragliders.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 11a10 9 0 0 1 20 0q-5-3-10 0-5-3-10 0M2 11l7 9M22 11l-7 9M12 11v9M9 20h6v2H9zM12 2q-5 4-4 8M12 2q5 4 4 8"/>
+</svg>

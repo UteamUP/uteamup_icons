@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-space-cubesat-title" aria-describedby="uteamup-sectors-space-cubesat-desc">
+  <title id="uteamup-sectors-space-cubesat-title">CubeSat — Smágervitungl (CubeSat)</title>
+  <desc id="uteamup-sectors-space-cubesat-desc">A compact cubical satellite has three visible panel faces, sparse cell divisions and three short projecting antennas.</desc>
+  <!-- Subject: space-cubesat. A compact cubical satellite has three visible panel faces, sparse cell divisions and three short projecting antennas. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"space-cubesat","label_en":"CubeSat","label_is":"Smágervitungl (CubeSat)","section":"16","category_en":"Space, astronomy and exploration","category_is":"Geimurinn, stjörnufræði og geimrannsóknir","batch":8,"tags":["space","satellite","cubesat"],"description":"A compact cubical satellite has three visible panel faces, sparse cell divisions and three short projecting antennas.","design_note":"A compact cubical satellite has three visible panel faces, sparse cell divisions and three short projecting antennas.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M7 6L15 3L20 7V16L12 20L7 16V6 M7 6L12 10L20 7 M12 10V20 M14.5 9V18.5 M7 11L12 14L20 11 M7 10L2 8 M15 3V2 M20 12L22 14"/>
+</svg>

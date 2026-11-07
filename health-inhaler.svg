@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-health-inhaler-title" aria-describedby="uteamup-sectors-health-inhaler-desc">
+  <title id="uteamup-sectors-health-inhaler-title">Inhaler — Innöndunartæki</title>
+  <desc id="uteamup-sectors-health-inhaler-desc">A pressurized canister rises above an L-shaped inhaler body with a broad projecting mouthpiece.</desc>
+  <!-- Subject: health-inhaler. A pressurized canister rises above an L-shaped inhaler body with a broad projecting mouthpiece. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"health-inhaler","label_en":"Inhaler","label_is":"Innöndunartæki","section":"15","category_en":"Health, care and wellbeing services","category_is":"Heilsa, umönnun og velferðarþjónusta","batch":8,"tags":["health","respiratory"],"description":"A pressurized canister rises above an L-shaped inhaler body with a broad projecting mouthpiece.","design_note":"A pressurized canister rises above an L-shaped inhaler body with a broad projecting mouthpiece.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <rect x="10" y="2" width="7" height="8" rx="1.2"/><path d="M10 10H18V21H3V17H10V10 M10 7H17 M3 17V21"/>
+</svg>

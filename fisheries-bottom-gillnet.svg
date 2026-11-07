@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-bottom-gillnet-title" aria-describedby="uteamup-sectors-fisheries-bottom-gillnet-desc">
+  <title id="uteamup-sectors-fisheries-bottom-gillnet-title">Bottom-set gillnet — Botnnet</title>
+  <desc id="uteamup-sectors-fisheries-bottom-gillnet-desc">A low rectangular gillnet stands above the seabed with weighted anchoring ends.</desc>
+  <!-- Subject: fisheries-bottom-gillnet. Bottom weights and the seabed make its setting different from a drifting net. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-bottom-gillnet","label_en":"Bottom-set gillnet","label_is":"Botnnet","section":"01","category_en":"Fishing vessels and harvesting gear","category_is":"Fiskiskip og veiðarfæri","batch":1,"tags":["fishing","net"],"description":"A low rectangular gillnet stands above the seabed with weighted anchoring ends.","design_note":"Bottom weights and the seabed make its setting different from a drifting net.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M4 6h16v12H4ZM4 10h16M4 14h16M8 6v12M14 6v12M2 22h20M4 18 2 21h4ZM20 18l-2 3h4Z"/>
+</svg>

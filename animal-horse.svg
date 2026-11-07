@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-animal-horse-title" aria-describedby="uteamup-sectors-animal-horse-desc">
+  <title id="uteamup-sectors-animal-horse-title">Horse — Hestur</title>
+  <desc id="uteamup-sectors-animal-horse-desc">A standing horse has a tall angled neck, long muzzle, mane line and four separated slender legs.</desc>
+  <!-- Subject: animal-horse. A standing horse has a tall angled neck, long muzzle, mane line and four separated slender legs. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"animal-horse","label_en":"Horse","label_is":"Hestur","section":"10","category_en":"Land animals and animal care","category_is":"Landdýr og umönnun dýra","batch":5,"tags":["animal","care"],"description":"A standing horse has a tall angled neck, long muzzle, mane line and four separated slender legs.","design_note":"A standing horse has a tall angled neck, long muzzle, mane line and four separated slender legs.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 10Q8 7 13 9l3-6h3l3 4-2 3-3-2-2 7v7h-2l-1-6H7l-1 6H4V13L2 16 M3 10 2 6 M16 4l-2 6 M17 3V2 M8 16l1 6 M16 15l2 7"/>
+</svg>

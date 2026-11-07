@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-space-binary-star-title" aria-describedby="uteamup-sectors-space-binary-star-desc">
+  <title id="uteamup-sectors-space-binary-star-title">Binary star — Tvístirni</title>
+  <desc id="uteamup-sectors-space-binary-star-desc">Two distinct stellar disks of unequal size sit within one slanted orbital ellipse.</desc>
+  <!-- Subject: space-binary-star. This symbolic binary-system icon uses one enclosing orbital path rather than claiming a scale diagram of the two component orbits. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"space-binary-star","label_en":"Binary star","label_is":"Tvístirni","section":"16","category_en":"Space, astronomy and exploration","category_is":"Geimurinn, stjörnufræði og geimrannsóknir","batch":8,"tags":["space","stellar-system"],"description":"Two distinct stellar disks of unequal size sit within one slanted orbital ellipse.","design_note":"This symbolic binary-system icon uses one enclosing orbital path rather than claiming a scale diagram of the two component orbits.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <g transform="rotate(30 12 12)"><ellipse cx="12" cy="12" rx="10" ry="5"/></g><circle cx="7.5" cy="9.5" r="1.5"/><circle cx="16.5" cy="14.5" r="2.1"/>
+</svg>

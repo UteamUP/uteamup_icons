@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-airport-terminal-title" aria-describedby="uteamup-sectors-airport-terminal-desc">
+  <title id="uteamup-sectors-airport-terminal-title">Airport passenger terminal — Flugstöð</title>
+  <desc id="uteamup-sectors-airport-terminal-desc">A broad curved-roof terminal has glazed frontage and central passenger entrance doors.</desc>
+  <!-- Subject: airport-terminal. The public glazed facade and entrance identify the terminal building rather than an open maintenance hangar. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"airport-terminal","label_en":"Airport passenger terminal","label_is":"Flugstöð","section":"05","category_en":"Airports, ground handling and aviation services","category_is":"Flugvellir, flugafgreiðsla og flugþjónusta","batch":3,"tags":["aviation","airport"],"description":"A broad curved-roof terminal has glazed frontage and central passenger entrance doors.","design_note":"The public glazed facade and entrance identify the terminal building rather than an open maintenance hangar.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 9q10-9 20 0v13H2zM2 13h20M7 13v9M17 13v9M10 15h4v7M5 9h14"/>
+</svg>

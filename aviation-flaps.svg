@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aviation-flaps-title" aria-describedby="uteamup-sectors-aviation-flaps-desc">
+  <title id="uteamup-sectors-aviation-flaps-title">Deployed wing flap — Útdreginn vængbörður</title>
+  <desc id="uteamup-sectors-aviation-flaps-desc">An airfoil cross-section has a clearly separated trailing flap deflected downward.</desc>
+  <!-- Subject: aviation-flaps. The trailing surface moves down and away from the airfoil, distinguishing a flap from an upper airbrake. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aviation-flaps","label_en":"Deployed wing flap","label_is":"Útdreginn vængbörður","section":"04","category_en":"Aircraft and flight","category_is":"Loftför og flug","batch":2,"tags":["aviation","flight-controls"],"description":"An airfoil cross-section has a clearly separated trailing flap deflected downward.","design_note":"The trailing surface moves down and away from the airfoil, distinguishing a flap from an upper airbrake.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 13q4-9 14-2l-1 3H2zM17 13l5 6-2 2-5-6zM16 12l1 1"/>
+</svg>

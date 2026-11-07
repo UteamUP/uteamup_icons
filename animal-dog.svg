@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-animal-dog-title" aria-describedby="uteamup-sectors-animal-dog-desc">
+  <title id="uteamup-sectors-animal-dog-title">Dog — Hundur</title>
+  <desc id="uteamup-sectors-animal-dog-desc">A standing dog has a long muzzle, one folded ear, a raised tail and separate straight legs.</desc>
+  <!-- Subject: animal-dog. A standing dog has a long muzzle, one folded ear, a raised tail and separate straight legs. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"animal-dog","label_en":"Dog","label_is":"Hundur","section":"10","category_en":"Land animals and animal care","category_is":"Landdýr og umönnun dýra","batch":5,"tags":["animal","care"],"description":"A standing dog has a long muzzle, one folded ear, a raised tail and separate straight legs.","design_note":"A standing dog has a long muzzle, one folded ear, a raised tail and separate straight legs.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M4 9Q8 6 13 8l2-4h3l3 3-1 3h-4v6l-1 6h-2v-6H8l-1 6H5V14l-2-3 M4 9 2 5 M15 4v5l2-1"/><circle cx="18" cy="6.8" r="0.45"/>
+</svg>

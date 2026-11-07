@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-animal-gorilla-title" aria-describedby="uteamup-sectors-animal-gorilla-desc">
+  <title id="uteamup-sectors-animal-gorilla-title">Gorilla — Górilla</title>
+  <desc id="uteamup-sectors-animal-gorilla-desc">A front-facing gorilla has a rounded muzzle, broad curved shoulders, very long heavy forearms and a wide chest.</desc>
+  <!-- Subject: animal-gorilla. A front-facing gorilla has a rounded muzzle, broad curved shoulders, very long heavy forearms and a wide chest. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"animal-gorilla","label_en":"Gorilla","label_is":"Górilla","section":"10","category_en":"Land animals and animal care","category_is":"Landdýr og umönnun dýra","batch":5,"tags":["animal","care"],"description":"A front-facing gorilla has a rounded muzzle, broad curved shoulders, very long heavy forearms and a wide chest.","design_note":"A front-facing gorilla has a rounded muzzle, broad curved shoulders, very long heavy forearms and a wide chest.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M7 9V7q0-5 5-5t5 5v2q3 1 4 6l1 6h-5l-2-6v7H9v-7l-2 6H2l1-6q1-5 4-6Z M8 11q2-3 4 0 2-3 4 0 M12 11v4 M10 4h.5 M13.5 4h.5"/><ellipse cx="12" cy="7" rx="3" ry="2"/>
+</svg>

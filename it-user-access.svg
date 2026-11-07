@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-it-user-access-title" aria-describedby="uteamup-sectors-it-user-access-desc">
+  <title id="uteamup-sectors-it-user-access-title">User access control — Aðgangsstýring</title>
+  <desc id="uteamup-sectors-it-user-access-desc">An identity badge with a portrait sits beside a full-height access key with two distinct teeth.</desc>
+  <!-- Subject: it-user-access. An identity badge with a portrait sits beside a full-height access key with two distinct teeth. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"it-user-access","label_en":"User access control","label_is":"Aðgangsstýring","section":"14","category_en":"Computer expertise and IT services","category_is":"Tölvusérfræði og upplýsingatækniþjónusta","batch":7,"tags":["computer","IT","service"],"description":"An identity badge with a portrait sits beside a full-height access key with two distinct teeth.","design_note":"An identity badge with a portrait sits beside a full-height access key with two distinct teeth.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <rect x="2" y="3" width="12" height="18" rx="1"/><path d="M6 3V2h4v1"/><circle cx="8" cy="8" r="2"/><path d="M4.5 15q0-4 3.5-4t3.5 4 M5 18h6"/><circle cx="19" cy="9" r="2.5"/><path d="M19 11.5V21 M19 17h3 M19 20h2"/>
+</svg>

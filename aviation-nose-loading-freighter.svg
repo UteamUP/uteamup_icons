@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aviation-nose-loading-freighter-title" aria-describedby="uteamup-sectors-aviation-nose-loading-freighter-desc">
+  <title id="uteamup-sectors-aviation-nose-loading-freighter-title">Nose-loading freighter — Fraktflugvél með opnanlegt nef</title>
+  <desc id="uteamup-sectors-aviation-nose-loading-freighter-desc">A cargo aircraft has its hinged nose lifted away from a large forward loading opening.</desc>
+  <!-- Subject: aviation-nose-loading-freighter. The raised nose and open front cargo door are the visible structural cargo-handling features. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aviation-nose-loading-freighter","label_en":"Nose-loading freighter","label_is":"Fraktflugvél með opnanlegt nef","section":"04","category_en":"Aircraft and flight","category_is":"Loftför og flug","batch":2,"tags":["aviation","cargo"],"description":"A cargo aircraft has its hinged nose lifted away from a large forward loading opening.","design_note":"The raised nose and open front cargo door are the visible structural cargo-handling features.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M6 10h10l5-7v12l-5 2H6M6 10v7M6 10L2 5q4-2 7 3M6 17H3v-7h3M12 11l-4 10h3l6-7M19 17v3M18 20h3"/>
+</svg>

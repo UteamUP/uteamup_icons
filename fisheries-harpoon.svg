@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-harpoon-title" aria-describedby="uteamup-sectors-fisheries-harpoon-desc">
+  <title id="uteamup-sectors-fisheries-harpoon-title">Fishing harpoon — Skutull</title>
+  <desc id="uteamup-sectors-fisheries-harpoon-desc">A long harpoon shaft has a single barbed arrow-shaped head and a tether attachment.</desc>
+  <!-- Subject: fisheries-harpoon. The single barbed head and attached line distinguish it from the three-pronged spear. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-harpoon","label_en":"Fishing harpoon","label_is":"Skutull","section":"01","category_en":"Fishing vessels and harvesting gear","category_is":"Fiskiskip og veiðarfæri","batch":1,"tags":["fishing","handgear"],"description":"A long harpoon shaft has a single barbed arrow-shaped head and a tether attachment.","design_note":"The single barbed head and attached line distinguish it from the three-pronged spear.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M12 2l6 8-6-3-6 3ZM12 7v15M13.3 13H20v7"/><circle cx="12" cy="13" r="1.3"/>
+</svg>

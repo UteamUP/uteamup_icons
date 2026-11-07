@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-health-prosthetic-leg-title" aria-describedby="uteamup-sectors-health-prosthetic-leg-desc">
+  <title id="uteamup-sectors-health-prosthetic-leg-title">Prosthetic leg — Gervifótur</title>
+  <desc id="uteamup-sectors-health-prosthetic-leg-desc">A prosthetic leg has a broad socket, a round knee articulation, a narrow pylon and a separately shaped foot.</desc>
+  <!-- Subject: health-prosthetic-leg. A prosthetic leg has a broad socket, a round knee articulation, a narrow pylon and a separately shaped foot. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"health-prosthetic-leg","label_en":"Prosthetic leg","label_is":"Gervifótur","section":"15","category_en":"Health, care and wellbeing services","category_is":"Heilsa, umönnun og velferðarþjónusta","batch":8,"tags":["health","prosthetics"],"description":"A prosthetic leg has a broad socket, a round knee articulation, a narrow pylon and a separately shaped foot.","design_note":"A prosthetic leg has a broad socket, a round knee articulation, a narrow pylon and a separately shaped foot.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M4 2H14L12 8H6L4 2 M9 12.2V18 M6 18H10L13 20H20V22H6V18"/><circle cx="9" cy="10.2" r="2.2"/>
+</svg>

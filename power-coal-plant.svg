@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-power-coal-plant-title" aria-describedby="uteamup-sectors-power-coal-plant-desc">
+  <title id="uteamup-sectors-power-coal-plant-title">Coal-fired power plant — Kolaorkuver</title>
+  <desc id="uteamup-sectors-power-coal-plant-desc">An angular coal stockpile feeds an inclined conveyor into a tall boiler house and stack.</desc>
+  <!-- Subject: power-coal-plant. The coal pile and physical fuel conveyor establish the fuel-handling installation, not a renamed generic factory. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"power-coal-plant","label_en":"Coal-fired power plant","label_is":"Kolaorkuver","section":"06","category_en":"Power plants and generation","category_is":"Orkuver og orkuframleiðsla","batch":3,"tags":["power","thermal"],"description":"An angular coal stockpile feeds an inclined conveyor into a tall boiler house and stack.","design_note":"The coal pile and physical fuel conveyor establish the fuel-handling installation, not a renamed generic factory.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 21l4-6 4 6zM4 18l2-1 2 3M6 13l9-7 2 2-9 7M16 8h6v14h-6zM18 8V3h3v5M18 17h2"/>
+</svg>

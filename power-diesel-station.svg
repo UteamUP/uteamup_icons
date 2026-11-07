@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-power-diesel-station-title" aria-describedby="uteamup-sectors-power-diesel-station-desc">
+  <title id="uteamup-sectors-power-diesel-station-title">Diesel generator station — Dísilrafstöð</title>
+  <desc id="uteamup-sectors-power-diesel-station-desc">An engine-generator hall contains two engine units beside a separate vertical fuel tank and exhaust.</desc>
+  <!-- Subject: power-diesel-station. Visible engine bays, fuel storage and exhaust show a complete reciprocating-engine station. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"power-diesel-station","label_en":"Diesel generator station","label_is":"Dísilrafstöð","section":"06","category_en":"Power plants and generation","category_is":"Orkuver og orkuframleiðsla","batch":3,"tags":["power","engine-generation"],"description":"An engine-generator hall contains two engine units beside a separate vertical fuel tank and exhaust.","design_note":"Visible engine bays, fuel storage and exhaust show a complete reciprocating-engine station.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 10h13v12H2zM5 10V3h3v7M5 13h3v6H5zM10 13h3v6h-3zM15 15h3"/><rect x="18" y="4" width="4" height="14" rx="1"/><path d="M19 8h2M19 18v4M21 18v4"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-health-spirometry-title" aria-describedby="uteamup-sectors-health-spirometry-desc">
+  <title id="uteamup-sectors-health-spirometry-title">Spirometry — Öndunarmæling</title>
+  <desc id="uteamup-sectors-health-spirometry-desc">A lung-function monitor shows a broad breathing curve and connects to a separate handheld mouthpiece.</desc>
+  <!-- Subject: health-spirometry. A lung-function monitor shows a broad breathing curve and connects to a separate handheld mouthpiece. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"health-spirometry","label_en":"Spirometry","label_is":"Öndunarmæling","section":"15","category_en":"Health, care and wellbeing services","category_is":"Heilsa, umönnun og velferðarþjónusta","batch":8,"tags":["health","respiratory-service"],"description":"A lung-function monitor shows a broad breathing curve and connects to a separate handheld mouthpiece.","design_note":"A lung-function monitor shows a broad breathing curve and connects to a separate handheld mouthpiece.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <rect x="2" y="2" width="11" height="10" rx="1"/><path d="M4 8C6 3 8 3 11 8 M7.5 12V16 M4 16H11 M13 9C19 9 16 18 19 18"/><rect x="18" y="15" width="4" height="6" rx="0.8"/>
+</svg>

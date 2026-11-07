@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aviation-wing-icing-title" aria-describedby="uteamup-sectors-aviation-wing-icing-desc">
+  <title id="uteamup-sectors-aviation-wing-icing-title">Wing icing — Ísing á væng</title>
+  <desc id="uteamup-sectors-aviation-wing-icing-desc">Ice horns hang below the rounded leading area of an aircraft airfoil.</desc>
+  <!-- Subject: aviation-wing-icing. Visible accumulated ice on the airfoil conveys icing, not an unrelated snowflake badge. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aviation-wing-icing","label_en":"Wing icing","label_is":"Ísing á væng","section":"04","category_en":"Aircraft and flight","category_is":"Loftför og flug","batch":2,"tags":["aviation","flight-condition"],"description":"Ice horns hang below the rounded leading area of an aircraft airfoil.","design_note":"Visible accumulated ice on the airfoil conveys icing, not an unrelated snowflake badge.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 12q4-9 19 0L6 15q-3 0-3-3zM4 14l1 6 2-5M9 14l1 4 2-4M2 6l2 2M6 3l1 3"/>
+</svg>

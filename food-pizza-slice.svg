@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-food-pizza-slice-title" aria-describedby="uteamup-sectors-food-pizza-slice-desc">
+  <title id="uteamup-sectors-food-pizza-slice-title">Pizza slice — Pítsusneið</title>
+  <desc id="uteamup-sectors-food-pizza-slice-desc">A pointed pizza slice has an arched crust along its wide edge and three sparse round toppings.</desc>
+  <!-- Subject: food-pizza-slice. A pointed pizza slice has an arched crust along its wide edge and three sparse round toppings. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"food-pizza-slice","label_en":"Pizza slice","label_is":"Pítsusneið","section":"12","category_en":"Food, chefs and culinary services","category_is":"Matur, matreiðsla og veitingaþjónusta","batch":6,"tags":["food","culinary"],"description":"A pointed pizza slice has an arched crust along its wide edge and three sparse round toppings.","design_note":"A pointed pizza slice has an arched crust along its wide edge and three sparse round toppings.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M4 3Q14 4 22 12L3 22 4 3Z M5 6q9 1 14 8"/><circle cx="9" cy="11" r="1.5"/><circle cx="8" cy="17" r="1.1"/><circle cx="14" cy="14" r="0.9"/>
+</svg>

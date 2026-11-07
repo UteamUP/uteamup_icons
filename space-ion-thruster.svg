@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-space-ion-thruster-title" aria-describedby="uteamup-sectors-space-ion-thruster-desc">
+  <title id="uteamup-sectors-space-ion-thruster-title">Ion thruster — Jónahreyfill</title>
+  <desc id="uteamup-sectors-space-ion-thruster-desc">A cylindrical electric thruster has an open gridded outlet and three light, separated exhaust strokes.</desc>
+  <!-- Subject: space-ion-thruster. A cylindrical electric thruster has an open gridded outlet and three light, separated exhaust strokes. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"space-ion-thruster","label_en":"Ion thruster","label_is":"Jónahreyfill","section":"16","category_en":"Space, astronomy and exploration","category_is":"Geimurinn, stjörnufræði og geimrannsóknir","batch":8,"tags":["space","electric-propulsion"],"description":"A cylindrical electric thruster has an open gridded outlet and three light, separated exhaust strokes.","design_note":"A cylindrical electric thruster has an open gridded outlet and three light, separated exhaust strokes.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <ellipse cx="13" cy="12" rx="3" ry="6"/><path d="M13 6H5Q2 6 2 9V15Q2 18 5 18H13 M11 9H15 M10 12H16 M11 15H15 M18 8L22 6 M18 12H22 M18 16L22 18"/>
+</svg>

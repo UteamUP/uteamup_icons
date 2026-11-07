@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aviation-rudder-pedals-title" aria-describedby="uteamup-sectors-aviation-rudder-pedals-desc">
+  <title id="uteamup-sectors-aviation-rudder-pedals-title">Rudder pedals — Hliðarstýrisfótstig</title>
+  <desc id="uteamup-sectors-aviation-rudder-pedals-desc">Two sloped foot pedals connect to a lower crossbar with separated linkages.</desc>
+  <!-- Subject: aviation-rudder-pedals. The paired toe surfaces and mechanical foot linkages identify the rudder pedal set. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aviation-rudder-pedals","label_en":"Rudder pedals","label_is":"Hliðarstýrisfótstig","section":"04","category_en":"Aircraft and flight","category_is":"Loftför og flug","batch":2,"tags":["aviation","cockpit"],"description":"Two sloped foot pedals connect to a lower crossbar with separated linkages.","design_note":"The paired toe surfaces and mechanical foot linkages identify the rudder pedal set.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 4h6l2 11H5zM15 4h6l-2 11h-6zM8 15v6M16 15v6M3 21h18M5 8h4M15 8h4"/>
+</svg>

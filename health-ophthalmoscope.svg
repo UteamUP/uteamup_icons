@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-health-ophthalmoscope-title" aria-describedby="uteamup-sectors-health-ophthalmoscope-desc">
+  <title id="uteamup-sectors-health-ophthalmoscope-title">Ophthalmoscope — Augnsjá</title>
+  <desc id="uteamup-sectors-health-ophthalmoscope-desc">A broad flat inspection head has a circular viewing aperture above a straight ophthalmoscope handle.</desc>
+  <!-- Subject: health-ophthalmoscope. A broad flat inspection head has a circular viewing aperture above a straight ophthalmoscope handle. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"health-ophthalmoscope","label_en":"Ophthalmoscope","label_is":"Augnsjá","section":"15","category_en":"Health, care and wellbeing services","category_is":"Heilsa, umönnun og velferðarþjónusta","batch":8,"tags":["health","eye-examination"],"description":"A broad flat inspection head has a circular viewing aperture above a straight ophthalmoscope handle.","design_note":"A broad flat inspection head has a circular viewing aperture above a straight ophthalmoscope handle.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <rect x="10" y="11" width="4" height="11" rx="1"/><rect x="7" y="2" width="10" height="9" rx="2"/><circle cx="12" cy="5.5" r="1.6"/><path d="M9 9H15 M10 18H14"/>
+</svg>

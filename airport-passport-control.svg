@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-airport-passport-control-title" aria-describedby="uteamup-sectors-airport-passport-control-desc">
+  <title id="uteamup-sectors-airport-passport-control-title">Airport passport control — Vegabréfaeftirlit flugvallar</title>
+  <desc id="uteamup-sectors-airport-passport-control-desc">A seated control officer reaches across a service counter toward an open passport-sized document.</desc>
+  <!-- Subject: airport-passport-control. A human officer, counter and passport form the actual document-checking activity. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"airport-passport-control","label_en":"Airport passport control","label_is":"Vegabréfaeftirlit flugvallar","section":"05","category_en":"Airports, ground handling and aviation services","category_is":"Flugvellir, flugafgreiðsla og flugþjónusta","batch":3,"tags":["aviation","passenger-service"],"description":"A seated control officer reaches across a service counter toward an open passport-sized document.","design_note":"A human officer, counter and passport form the actual document-checking activity.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <circle cx="7" cy="6" r="2"/><path d="M4 10h6v4M10 12h7M2 14h14v8H2zM17 9h5v9h-5zM18 16h3"/><circle cx="19.5" cy="12" r="1.2"/>
+</svg>

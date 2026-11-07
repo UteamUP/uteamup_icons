@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-harbour-beacon-title" aria-describedby="uteamup-sectors-fisheries-harbour-beacon-desc">
+  <title id="uteamup-sectors-fisheries-harbour-beacon-title">Harbour entrance beacon — Innsiglingarviti</title>
+  <desc id="uteamup-sectors-fisheries-harbour-beacon-desc">An open lattice harbour beacon supports a lantern room above braced legs, with side light rays.</desc>
+  <!-- Subject: fisheries-harbour-beacon. An open braced frame and lantern distinguish this metal harbour beacon from the solid coastal lighthouse. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-harbour-beacon","label_en":"Harbour entrance beacon","label_is":"Innsiglingarviti","section":"03","category_en":"Fisheries services, ports and cold logistics","category_is":"Þjónusta við sjávarútveg, hafnir og kælikeðja","batch":2,"tags":["fisheries","navigation"],"description":"An open lattice harbour beacon supports a lantern room above braced legs, with side light rays.","design_note":"An open braced frame and lantern distinguish this metal harbour beacon from the solid coastal lighthouse.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M10 8L5 22M14 8l5 14M8 15h8M6 20h12M8 8h8V4H8zM7 4l5-2 5 2M4 6H2M20 6h2M8 15l10 5"/>
+</svg>

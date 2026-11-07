@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aquaculture-fry-tank-title" aria-describedby="uteamup-sectors-aquaculture-fry-tank-desc">
+  <title id="uteamup-sectors-aquaculture-fry-tank-title">Fry rearing tank — Seiðaeldisker</title>
+  <desc id="uteamup-sectors-aquaculture-fry-tank-desc">A shallow cylindrical rearing tank contains two small fry and a rim inlet.</desc>
+  <!-- Subject: aquaculture-fry-tank. Small fish inside a low rearing vessel indicate fry culture; the fish are part of the tank activity. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aquaculture-fry-tank","label_en":"Fry rearing tank","label_is":"Seiðaeldisker","section":"02","category_en":"Aquaculture and seafood processing","category_is":"Fiskeldi og fiskvinnsla","batch":1,"tags":["aquaculture","tank"],"description":"A shallow cylindrical rearing tank contains two small fry and a rim inlet.","design_note":"Small fish inside a low rearing vessel indicate fry culture; the fish are part of the tank activity.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <ellipse cx="12" cy="7" rx="9" ry="3"/><path d="M3 7v11c0 4 18 4 18 0V7M6 13q2-2.5 4 0-2 2.5-4 0l-2-1.5v3zM15 17q2-2.5 4 0-2 2.5-4 0l-2-1.5v3zM17 3V2h5"/>
+</svg>

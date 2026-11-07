@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-utility-service-connection-title" aria-describedby="uteamup-sectors-utility-service-connection-desc">
+  <title id="uteamup-sectors-utility-service-connection-title">Electrical service connection — Heimtaug rafmagns</title>
+  <desc id="uteamup-sectors-utility-service-connection-desc">A house outline connects at its side to a distinct small external service box and short incoming conductor.</desc>
+  <!-- Subject: utility-service-connection. A house outline connects at its side to a distinct small external service box and short incoming conductor. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"utility-service-connection","label_en":"Electrical service connection","label_is":"Heimtaug rafmagns","section":"08","category_en":"Energy utilities, grids and services","category_is":"Orkuveitur, dreifikerfi og þjónusta","batch":4,"tags":["energy","utility"],"description":"A house outline connects at its side to a distinct small external service box and short incoming conductor.","design_note":"A house outline connects at its side to a distinct small external service box and short incoming conductor.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 10 10 3l8 7 M4 9v13h12V9 M7 22v-7h6 M18 5h4v8h-4V5Z M18 9h-2"/>
+</svg>

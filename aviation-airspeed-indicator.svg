@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aviation-airspeed-indicator-title" aria-describedby="uteamup-sectors-aviation-airspeed-indicator-desc">
+  <title id="uteamup-sectors-aviation-airspeed-indicator-title">Airspeed indicator — Flughraðamælir</title>
+  <desc id="uteamup-sectors-aviation-airspeed-indicator-desc">A circular airspeed dial has widely spaced scale marks and a long angled pointer.</desc>
+  <!-- Subject: aviation-airspeed-indicator. A sparse radial measurement dial is deliberately different from the horizon-based attitude instrument. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aviation-airspeed-indicator","label_en":"Airspeed indicator","label_is":"Flughraðamælir","section":"04","category_en":"Aircraft and flight","category_is":"Loftför og flug","batch":2,"tags":["aviation","instruments"],"description":"A circular airspeed dial has widely spaced scale marks and a long angled pointer.","design_note":"A sparse radial measurement dial is deliberately different from the horizon-based attitude instrument.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="1"/><path d="M12 11l5-4M12 3v2M5 7l1.5 1M19 7l-1.5 1M4 14h2M18 14h2M8 18l-1 2M16 18l1 2"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aviation-title" aria-describedby="uteamup-sectors-aviation-desc">
+  <title id="uteamup-sectors-aviation-title">Aviation — Flug</title>
+  <desc id="uteamup-sectors-aviation-desc">A side-view aircraft flies above two broad curved travel-route arcs.</desc>
+  <!-- Subject: aviation. Aircraft plus an open travel arc serves the aviation menu while remaining different from the individual aircraft silhouettes. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aviation","label_en":"Aviation","label_is":"Flug","section":"04","category_en":"Aircraft and flight","category_is":"Loftför og flug","batch":2,"tags":["aviation","menu"],"description":"A side-view aircraft flies above two broad curved travel-route arcs.","design_note":"Aircraft plus an open travel arc serves the aviation menu while remaining different from the individual aircraft silhouettes.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 10h6l4-6h3l-2 6h6l2 3H7L3 10V6l4 4M9 13l-3 4h3l6-4M3 21q9-6 18 0M7 19q5 2 10 0"/>
+</svg>

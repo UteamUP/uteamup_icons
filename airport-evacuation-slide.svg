@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-airport-evacuation-slide-title" aria-describedby="uteamup-sectors-airport-evacuation-slide-desc">
+  <title id="uteamup-sectors-airport-evacuation-slide-title">Aircraft evacuation slide — Rýmingarrennibraut flugvélar</title>
+  <desc id="uteamup-sectors-airport-evacuation-slide-desc">A broad inflatable slide descends from an open aircraft door to ground level.</desc>
+  <!-- Subject: airport-evacuation-slide. Inflated side rails and the upper aircraft doorway distinguish evacuation from rigid boarding stairs. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"airport-evacuation-slide","label_en":"Aircraft evacuation slide","label_is":"Rýmingarrennibraut flugvélar","section":"05","category_en":"Airports, ground handling and aviation services","category_is":"Flugvellir, flugafgreiðsla og flugþjónusta","batch":3,"tags":["aviation","emergency"],"description":"A broad inflatable slide descends from an open aircraft door to ground level.","design_note":"Inflated side rails and the upper aircraft doorway distinguish evacuation from rigid boarding stairs.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 3h8v9H2zM5 5h3v4H5zM10 8l12 11v3L7 12M10 13l8 6"/>
+</svg>

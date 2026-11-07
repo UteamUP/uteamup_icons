@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-airport-deicing-truck-title" aria-describedby="uteamup-sectors-airport-deicing-truck-desc">
+  <title id="uteamup-sectors-airport-deicing-truck-title">Aircraft deicing truck — Afísingarbíll</title>
+  <desc id="uteamup-sectors-airport-deicing-truck-desc">An articulated deicing boom raises a spray basket above a service truck.</desc>
+  <!-- Subject: airport-deicing-truck. The elevated operator basket and directed spray identify deicing rather than a generic lift truck. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"airport-deicing-truck","label_en":"Aircraft deicing truck","label_is":"Afísingarbíll","section":"05","category_en":"Airports, ground handling and aviation services","category_is":"Flugvellir, flugafgreiðsla og flugþjónusta","batch":3,"tags":["aviation","deicing"],"description":"An articulated deicing boom raises a spray basket above a service truck.","design_note":"The elevated operator basket and directed spray identify deicing rather than a generic lift truck.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 15h14v3H2zM16 12h3l3 3v3h-6M7 15v-5l7-4M14 3h6v5h-6zM20 5h2M20 9l2 2M18 10l1 3"/><circle cx="5" cy="21" r="1.5"/><circle cx="18" cy="21" r="1.5"/>
+</svg>

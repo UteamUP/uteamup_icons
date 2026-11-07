@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-animal-deer-title" aria-describedby="uteamup-sectors-animal-deer-desc">
+  <title id="uteamup-sectors-animal-deer-title">Deer — Hjörtur</title>
+  <desc id="uteamup-sectors-animal-deer-desc">A slender deer has a lifted neck, branching antlers and four lightly separated legs.</desc>
+  <!-- Subject: animal-deer. A slender deer has a lifted neck, branching antlers and four lightly separated legs. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"animal-deer","label_en":"Deer","label_is":"Hjörtur","section":"10","category_en":"Land animals and animal care","category_is":"Landdýr og umönnun dýra","batch":5,"tags":["animal","care"],"description":"A slender deer has a lifted neck, branching antlers and four lightly separated legs.","design_note":"A slender deer has a lifted neck, branching antlers and four lightly separated legs.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 12Q8 8 13 11l2-5h4l3 3-4 2-2 6 2 5 M16 17l-3 5 M7 15l-3 7 M7 15l3 7 M3 12l4 3h9 M15 6V2 M15 4l-3-1 M15 3l2-1 M19 6V2 M19 4l3-1 M3 12 2 10"/>
+</svg>

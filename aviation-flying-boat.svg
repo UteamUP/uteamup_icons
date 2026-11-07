@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aviation-flying-boat-title" aria-describedby="uteamup-sectors-aviation-flying-boat-desc">
+  <title id="uteamup-sectors-aviation-flying-boat-title">Flying boat — Flugbátur</title>
+  <desc id="uteamup-sectors-aviation-flying-boat-desc">A frontal flying boat has a broad central boat hull, high wing and two outboard engines.</desc>
+  <!-- Subject: aviation-flying-boat. The fuselage itself forms a pointed water hull, clearly distinct from separate float undercarriage. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aviation-flying-boat","label_en":"Flying boat","label_is":"Flugbátur","section":"04","category_en":"Aircraft and flight","category_is":"Loftför og flug","batch":2,"tags":["aviation","aircraft"],"description":"A frontal flying boat has a broad central boat hull, high wing and two outboard engines.","design_note":"The fuselage itself forms a pointed water hull, clearly distinct from separate float undercarriage.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 8h20M8 9q4-4 8 0l1 8-5 4-5-4zM9 15h6M12 7V3M4 12v3M20 12v3"/><circle cx="5" cy="9" r="1.6"/><circle cx="19" cy="9" r="1.6"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aviation-hot-air-balloon-title" aria-describedby="uteamup-sectors-aviation-hot-air-balloon-desc">
+  <title id="uteamup-sectors-aviation-hot-air-balloon-title">Hot-air balloon — Loftbelgur</title>
+  <desc id="uteamup-sectors-aviation-hot-air-balloon-desc">A round hot-air balloon has broad gores, a narrow throat and a small suspended basket.</desc>
+  <!-- Subject: aviation-hot-air-balloon. The round envelope narrows into the basket suspension, unlike the elongated steerable airship. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aviation-hot-air-balloon","label_en":"Hot-air balloon","label_is":"Loftbelgur","section":"04","category_en":"Aircraft and flight","category_is":"Loftför og flug","batch":2,"tags":["aviation","lighter-than-air"],"description":"A round hot-air balloon has broad gores, a narrow throat and a small suspended basket.","design_note":"The round envelope narrows into the basket suspension, unlike the elongated steerable airship.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M12 2C2 2 1 11 7 16l2 2h6l2-2C23 11 22 2 12 2zM12 2c-5 4-4 10-1 16M12 2c5 4 4 10 1 16M9 18v4h6v-4"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-stern-trawler-title" aria-describedby="uteamup-sectors-fisheries-stern-trawler-desc">
+  <title id="uteamup-sectors-fisheries-stern-trawler-title">Stern trawler — Skuttogari</title>
+  <desc id="uteamup-sectors-fisheries-stern-trawler-desc">A trawler has a forward wheelhouse, a tall stern gantry and an open stern ramp.</desc>
+  <!-- Subject: fisheries-stern-trawler. The stern A-frame and ramp identify hauling over the rear of the vessel. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-stern-trawler","label_en":"Stern trawler","label_is":"Skuttogari","section":"01","category_en":"Fishing vessels and harvesting gear","category_is":"Fiskiskip og veiðarfæri","batch":1,"tags":["fishing","vessel"],"description":"A trawler has a forward wheelhouse, a tall stern gantry and an open stern ramp.","design_note":"The stern A-frame and ramp identify hauling over the rear of the vessel.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 15h20l-3 5H5ZM4 15V8h7v7M5 8V5h5v3M6 10h3M14 15V4h6v11M14 4l6 6M17 4v6M15 15l2-3 3 3M3 22q4-2 8 0 4-2 8 0"/>
+</svg>

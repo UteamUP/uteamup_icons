@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-squid-jig-title" aria-describedby="uteamup-sectors-fisheries-squid-jig-desc">
+  <title id="uteamup-sectors-fisheries-squid-jig-title">Squid jig — Smokkfiskkrókur</title>
+  <desc id="uteamup-sectors-fisheries-squid-jig-desc">An elongated squid lure ends in a spreading crown of narrow hook prongs.</desc>
+  <!-- Subject: fisheries-squid-jig. The circular hook crown is distinct from a single fish hook or spoon lure. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-squid-jig","label_en":"Squid jig","label_is":"Smokkfiskkrókur","section":"01","category_en":"Fishing vessels and harvesting gear","category_is":"Fiskiskip og veiðarfæri","batch":1,"tags":["fishing","jig","hooks"],"description":"An elongated squid lure ends in a spreading crown of narrow hook prongs.","design_note":"The circular hook crown is distinct from a single fish hook or spoon lure.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <circle cx="12" cy="3" r="1.2"/><path d="M10 6q2-2 4 0l1 8H9ZM10 10h4M12 14v7M12 21l-5-4v-3M12 21l5-4v-3M12 21l-8-2v-3M12 21l8-2v-3"/>
+</svg>

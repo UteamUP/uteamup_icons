@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-airport-jet-bridge-title" aria-describedby="uteamup-sectors-airport-jet-bridge-desc">
+  <title id="uteamup-sectors-airport-jet-bridge-title">Passenger boarding bridge — Landgangur flugstöðvar</title>
+  <desc id="uteamup-sectors-airport-jet-bridge-desc">An enclosed articulated boarding corridor extends from a terminal wall on a wheeled support.</desc>
+  <!-- Subject: airport-jet-bridge. The enclosed corridor, hinge sections and moving support identify an aircraft boarding bridge. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"airport-jet-bridge","label_en":"Passenger boarding bridge","label_is":"Landgangur flugstöðvar","section":"05","category_en":"Airports, ground handling and aviation services","category_is":"Flugvellir, flugafgreiðsla og flugþjónusta","batch":3,"tags":["aviation","boarding"],"description":"An enclosed articulated boarding corridor extends from a terminal wall on a wheeled support.","design_note":"The enclosed corridor, hinge sections and moving support identify an aircraft boarding bridge.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 3v19M3 6h10l8 3v6l-8-3H3zM13 6v6M17 8v6M21 9v6M10 12v7M8 19h4"/><circle cx="10" cy="21" r="1"/>
+</svg>

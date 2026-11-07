@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-health-bedside-commode-title" aria-describedby="uteamup-sectors-health-bedside-commode-desc">
+  <title id="uteamup-sectors-health-bedside-commode-title">Bedside commode — Salernisstóll</title>
+  <desc id="uteamup-sectors-health-bedside-commode-desc">A bedside commode has a broad backrest, an open seat shape and a distinct removable pan below the seat.</desc>
+  <!-- Subject: health-bedside-commode. A bedside commode has a broad backrest, an open seat shape and a distinct removable pan below the seat. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"health-bedside-commode","label_en":"Bedside commode","label_is":"Salernisstóll","section":"15","category_en":"Health, care and wellbeing services","category_is":"Heilsa, umönnun og velferðarþjónusta","batch":8,"tags":["health","assisted-care"],"description":"A bedside commode has a broad backrest, an open seat shape and a distinct removable pan below the seat.","design_note":"A bedside commode has a broad backrest, an open seat shape and a distinct removable pan below the seat.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <rect x="5" y="2" width="14" height="7" rx="1"/><path d="M6 9V11 M6 16V22 M18 9V11 M18 16V22 M4 11H8Q8 13.5 12 13.5Q16 13.5 16 11H20V16H4V11 M8 16L9 21H15L16 16"/>
+</svg>

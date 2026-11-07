@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-fishing-dredger-title" aria-describedby="uteamup-sectors-fisheries-fishing-dredger-desc">
+  <title id="uteamup-sectors-fisheries-fishing-dredger-title">Fishing dredger — Plógveiðibátur</title>
+  <desc id="uteamup-sectors-fisheries-fishing-dredger-desc">A fishing dredger has an angled lifting boom suspending a toothed shellfish basket beside the hull.</desc>
+  <!-- Subject: fisheries-fishing-dredger. The rigid toothed basket and hoist distinguish dredging from towed nets. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-fishing-dredger","label_en":"Fishing dredger","label_is":"Plógveiðibátur","section":"01","category_en":"Fishing vessels and harvesting gear","category_is":"Fiskiskip og veiðarfæri","batch":1,"tags":["fishing","vessel","shellfish"],"description":"A fishing dredger has an angled lifting boom suspending a toothed shellfish basket beside the hull.","design_note":"The rigid toothed basket and hoist distinguish dredging from towed nets.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 14h15l-2 5H5ZM4 14V8h6v6M7 8V4h7l6 6M14 4l1 10M20 10v5M17.5 15h5l-1 5h-3.2ZM18.5 20v2M21 20v2"/>
+</svg>

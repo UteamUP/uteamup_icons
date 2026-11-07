@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-power-block-title" aria-describedby="uteamup-sectors-fisheries-power-block-desc">
+  <title id="uteamup-sectors-fisheries-power-block-title">Power block — Kraftblökk</title>
+  <desc id="uteamup-sectors-fisheries-power-block-desc">A large grooved hauling pulley hangs from a top attachment with two descending working lines.</desc>
+  <!-- Subject: fisheries-power-block. A suspended powered hauling block has a clear hanger, rim and central axle. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-power-block","label_en":"Power block","label_is":"Kraftblökk","section":"01","category_en":"Fishing vessels and harvesting gear","category_is":"Fiskiskip og veiðarfæri","batch":1,"tags":["fishing","machine","pulley"],"description":"A large grooved hauling pulley hangs from a top attachment with two descending working lines.","design_note":"A suspended powered hauling block has a clear hanger, rim and central axle.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <circle cx="12" cy="13" r="6.5"/><circle cx="12" cy="13" r="3.5"/><circle cx="12" cy="13" r="0.8"/><path d="M9 7.2V3h6v4.2M12 3V1.5M5.5 13v9M18.5 13v9"/>
+</svg>

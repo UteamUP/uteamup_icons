@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-fyke-net-title" aria-describedby="uteamup-sectors-fisheries-fyke-net-desc">
+  <title id="uteamup-sectors-fisheries-fyke-net-title">Fyke net — Trektargildra með leiðurum</title>
+  <desc id="uteamup-sectors-fisheries-fyke-net-desc">Two hoop-supported net chambers narrow toward a tail chamber, with guiding wings at the mouth.</desc>
+  <!-- Subject: fisheries-fyke-net. Hoops, an internal funnel and guiding wings distinguish the fyke from a simple tube trap. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-fyke-net","label_en":"Fyke net","label_is":"Trektargildra með leiðurum","section":"01","category_en":"Fishing vessels and harvesting gear","category_is":"Fiskiskip og veiðarfæri","batch":1,"tags":["fishing","trap","net"],"description":"Two hoop-supported net chambers narrow toward a tail chamber, with guiding wings at the mouth.","design_note":"Hoops, an internal funnel and guiding wings distinguish the fyke from a simple tube trap.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <ellipse cx="7" cy="12" rx="3" ry="6"/><ellipse cx="14" cy="12" rx="2" ry="4.5"/><path d="M7 6l7 1.5 7 2.5v4l-7 2.5L7 18M7 10l7 2-7 2M3.9 8 2 4M3.9 16 2 20"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-fish-market-title" aria-describedby="uteamup-sectors-fisheries-fish-market-desc">
+  <title id="uteamup-sectors-fisheries-fish-market-title">Fish market stall — Fiskmarkaðsbás</title>
+  <desc id="uteamup-sectors-fisheries-fish-market-desc">A striped awning shades a market counter with a fish displayed below.</desc>
+  <!-- Subject: fisheries-fish-market. An awning and display counter identify retail fish sales rather than processing machinery. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-fish-market","label_en":"Fish market stall","label_is":"Fiskmarkaðsbás","section":"03","category_en":"Fisheries services, ports and cold logistics","category_is":"Þjónusta við sjávarútveg, hafnir og kælikeðja","batch":2,"tags":["fisheries","market"],"description":"A striped awning shades a market counter with a fish displayed below.","design_note":"An awning and display counter identify retail fish sales rather than processing machinery.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 3h18l1 5H2zM3 8v13h18V8M2 14h20M7 3v5M12 3v5M17 3v5M7 17q3-3 6 0-3 3-6 0l-2-1.5v3z"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-power-darrieus-wind-title" aria-describedby="uteamup-sectors-power-darrieus-wind-desc">
+  <title id="uteamup-sectors-power-darrieus-wind-title">Darrieus wind installation — Darrieus-vindmylla</title>
+  <desc id="uteamup-sectors-power-darrieus-wind-desc">Tall bowed wind blades form an eggbeater rotor around a vertical shaft on a generating base.</desc>
+  <!-- Subject: power-darrieus-wind. The bowed vertical blades and central axis depict Darrieus lift-type geometry rather than a horizontal propeller. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"power-darrieus-wind","label_en":"Darrieus wind installation","label_is":"Darrieus-vindmylla","section":"06","category_en":"Power plants and generation","category_is":"Orkuver og orkuframleiðsla","batch":3,"tags":["power","wind"],"description":"Tall bowed wind blades form an eggbeater rotor around a vertical shaft on a generating base.","design_note":"The bowed vertical blades and central axis depict Darrieus lift-type geometry rather than a horizontal propeller.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M12 2C3 6 3 16 12 20C21 16 21 6 12 2zM12 2v20M8 6h8M8 16h8M8 22h8"/>
+</svg>

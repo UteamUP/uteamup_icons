@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-sport-cycling-title" aria-describedby="uteamup-sectors-sport-cycling-desc">
+  <title id="uteamup-sectors-sport-cycling-title">Cycling — Hjólreiðar</title>
+  <desc id="uteamup-sectors-sport-cycling-desc">A bicycle has two large separate wheels, a triangular frame, raised handlebars and a short saddle.</desc>
+  <!-- Subject: sport-cycling. A bicycle has two large separate wheels, a triangular frame, raised handlebars and a short saddle. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"sport-cycling","label_en":"Cycling","label_is":"Hjólreiðar","section":"09","category_en":"Sports and recreation","category_is":"Íþróttir og útivist","batch":5,"tags":["sport","recreation"],"description":"A bicycle has two large separate wheels, a triangular frame, raised handlebars and a short saddle.","design_note":"A bicycle has two large separate wheels, a triangular frame, raised handlebars and a short saddle.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <circle cx="6" cy="16" r="4"/><circle cx="18" cy="16" r="4"/><path d="M6 16 10 8l4 8H6 M10 8h7l1 8 M9 6h4 M17 8V4h3"/>
+</svg>

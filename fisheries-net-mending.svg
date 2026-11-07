@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-net-mending-title" aria-describedby="uteamup-sectors-fisheries-net-mending-desc">
+  <title id="uteamup-sectors-fisheries-net-mending-title">Net mending — Netaviðgerðir</title>
+  <desc id="uteamup-sectors-fisheries-net-mending-desc">A long netting shuttle feeds a curved thread into a separate open mesh panel.</desc>
+  <!-- Subject: fisheries-net-mending. The shuttle, loose thread and repair mesh depict the activity rather than a generic maintenance badge. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-net-mending","label_en":"Net mending","label_is":"Netaviðgerðir","section":"01","category_en":"Fishing vessels and harvesting gear","category_is":"Fiskiskip og veiðarfæri","batch":1,"tags":["fishing","repair","service"],"description":"A long netting shuttle feeds a curved thread into a separate open mesh panel.","design_note":"The shuttle, loose thread and repair mesh depict the activity rather than a generic maintenance badge.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M4 3l2.5 4v11L4 21l-2.5-3V7ZM4 7v10M10 2h12v17H10M10 7h12M10 13h12M16 2v17M4 17c4 7 5-2 9-2"/>
+</svg>

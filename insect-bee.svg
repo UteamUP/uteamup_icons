@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-insect-bee-title" aria-describedby="uteamup-sectors-insect-bee-desc">
+  <title id="uteamup-sectors-insect-bee-title">Bee — Býfluga</title>
+  <desc id="uteamup-sectors-insect-bee-desc">A bee has a rounded striped abdomen, two broad translucent wing outlines, six short legs and a pair of raised antennae.</desc>
+  <!-- Subject: insect-bee. A bee has a rounded striped abdomen, two broad translucent wing outlines, six short legs and a pair of raised antennae. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"insect-bee","label_en":"Bee","label_is":"Býfluga","section":"11","category_en":"Birds, aquatic animals and small wildlife","category_is":"Fuglar, vatnadýr og smádýr","batch":6,"tags":["wildlife","nature"],"description":"A bee has a rounded striped abdomen, two broad translucent wing outlines, six short legs and a pair of raised antennae.","design_note":"A bee has a rounded striped abdomen, two broad translucent wing outlines, six short legs and a pair of raised antennae.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <ellipse cx="12" cy="14" rx="4" ry="7"/><path d="M9 10h6 M8 14h8 M9 18h6 M8 12C1 11 1 4 5 4q4 0 5 4 M16 12c7-1 7-8 3-8q-4 0-5 4 M10 6 8 2 M14 6l2-4 M8 12l-3 2 M16 12l3 2 M8 15l-3 3 M16 15l3 3 M9 19l-3 3 M15 19l3 3"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-power-linear-fresnel-solar-title" aria-describedby="uteamup-sectors-power-linear-fresnel-solar-desc">
+  <title id="uteamup-sectors-power-linear-fresnel-solar-title">Linear Fresnel solar plant — Sólvarmaver með Fresnel-speglum</title>
+  <desc id="uteamup-sectors-power-linear-fresnel-solar-desc">Separate low flat mirrors direct rays toward an elevated horizontal receiver on two supports.</desc>
+  <!-- Subject: power-linear-fresnel-solar. Low independent mirror strips beneath a high receiver make the Fresnel arrangement distinct from a curved trough. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"power-linear-fresnel-solar","label_en":"Linear Fresnel solar plant","label_is":"Sólvarmaver með Fresnel-speglum","section":"06","category_en":"Power plants and generation","category_is":"Orkuver og orkuframleiðsla","batch":3,"tags":["power","solar-thermal"],"description":"Separate low flat mirrors direct rays toward an elevated horizontal receiver on two supports.","design_note":"Low independent mirror strips beneath a high receiver make the Fresnel arrangement distinct from a curved trough.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M4 4h16v3H4zM6 7v8M18 7v8M2 19l5-2 3 2-5 2zM14 19l5-2 3 2-5 2zM7 15l3-8M17 15l-3-8"/>
+</svg>

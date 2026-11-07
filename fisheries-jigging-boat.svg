@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-jigging-boat-title" aria-describedby="uteamup-sectors-fisheries-jigging-boat-desc">
+  <title id="uteamup-sectors-fisheries-jigging-boat-title">Jigging boat — Færabátur</title>
+  <desc id="uteamup-sectors-fisheries-jigging-boat-desc">A small fishing boat has two separate powered reels with nearly vertical jigging lines.</desc>
+  <!-- Subject: fisheries-jigging-boat. The paired reels and straight working lines identify vertical jigging. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-jigging-boat","label_en":"Jigging boat","label_is":"Færabátur","section":"01","category_en":"Fishing vessels and harvesting gear","category_is":"Fiskiskip og veiðarfæri","batch":1,"tags":["fishing","vessel","jigging"],"description":"A small fishing boat has two separate powered reels with nearly vertical jigging lines.","design_note":"The paired reels and straight working lines identify vertical jigging.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 14h20l-3 6H5ZM4 14V7h6v7M5.5 9.5h3M13 13V8M19 13V8M13 14v7M19 14v7M12 21q1 2 2 0M18 21q1 2 2 0"/><circle cx="13" cy="6" r="2"/><circle cx="19" cy="6" r="2"/><circle cx="13" cy="6" r="0.65"/><circle cx="19" cy="6" r="0.65"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-power-wave-attenuator-title" aria-describedby="uteamup-sectors-power-wave-attenuator-desc">
+  <title id="uteamup-sectors-power-wave-attenuator-title">Hinged wave attenuator — Ölduvirkjun með liðskiptum flotum</title>
+  <desc id="uteamup-sectors-power-wave-attenuator-desc">Three long floating segments meet at visible joints and bend across a passing wave.</desc>
+  <!-- Subject: power-wave-attenuator. An articulated line of floats conveys wave attenuation through hinge motion, distinct from a single heaving buoy. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"power-wave-attenuator","label_en":"Hinged wave attenuator","label_is":"Ölduvirkjun með liðskiptum flotum","section":"06","category_en":"Power plants and generation","category_is":"Orkuver og orkuframleiðsla","batch":3,"tags":["power","wave"],"description":"Three long floating segments meet at visible joints and bend across a passing wave.","design_note":"An articulated line of floats conveys wave attenuation through hinge motion, distinct from a single heaving buoy.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 12l5-2 2 4-5 2zM10 10h5v4h-5zM17 12l5 2-2 4-5-2zM9 12h1M15 12l2 2M2 21q3-2 6 0t6 0t6 0"/>
+</svg>

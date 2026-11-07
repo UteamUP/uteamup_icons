@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aviation-propeller-title" aria-describedby="uteamup-sectors-aviation-propeller-desc">
+  <title id="uteamup-sectors-aviation-propeller-title">Aircraft propeller — Flugvélarskrúfa</title>
+  <desc id="uteamup-sectors-aviation-propeller-desc">Two long twisted propeller blades meet a round central mounting hub.</desc>
+  <!-- Subject: aviation-propeller. Two elongated opposing airfoil blades distinguish an aircraft propeller from the broad marine propeller. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aviation-propeller","label_en":"Aircraft propeller","label_is":"Flugvélarskrúfa","section":"04","category_en":"Aircraft and flight","category_is":"Loftför og flug","batch":2,"tags":["aviation","propulsion"],"description":"Two long twisted propeller blades meet a round central mounting hub.","design_note":"Two elongated opposing airfoil blades distinguish an aircraft propeller from the broad marine propeller.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <circle cx="12" cy="12" r="2"/><path d="M10 10Q6 2 11 2q4 0 3 8M14 14q4 8-1 8-4 0-3-8"/>
+</svg>

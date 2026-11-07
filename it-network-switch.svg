@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-it-network-switch-title" aria-describedby="uteamup-sectors-it-network-switch-desc">
+  <title id="uteamup-sectors-it-network-switch-title">Network switch — Netskiptir</title>
+  <desc id="uteamup-sectors-it-network-switch-desc">A low network switch has three large Ethernet ports and a separate upstream traffic arrow above it.</desc>
+  <!-- Subject: it-network-switch. A low network switch has three large Ethernet ports and a separate upstream traffic arrow above it. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"it-network-switch","label_en":"Network switch","label_is":"Netskiptir","section":"14","category_en":"Computer expertise and IT services","category_is":"Tölvusérfræði og upplýsingatækniþjónusta","batch":7,"tags":["computer","IT","service"],"description":"A low network switch has three large Ethernet ports and a separate upstream traffic arrow above it.","design_note":"A low network switch has three large Ethernet ports and a separate upstream traffic arrow above it.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <rect x="2" y="7" width="20" height="11" rx="1"/><path d="M2 10h20 M5 13h3v3H5v-3Z M11 13h3v3h-3v-3Z M17 13h3v3h-3v-3Z M6 4h8 M11 2l3 2-3 2 M18 4h2"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-instrument-banjo-title" aria-describedby="uteamup-sectors-instrument-banjo-desc">
+  <title id="uteamup-sectors-instrument-banjo-title">Banjo — Banjó</title>
+  <desc id="uteamup-sectors-instrument-banjo-desc">A banjo has a circular tensioned drum body, a straight long neck, a short side tuning peg and a narrow bridge.</desc>
+  <!-- Subject: instrument-banjo. A banjo has a circular tensioned drum body, a straight long neck, a short side tuning peg and a narrow bridge. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"instrument-banjo","label_en":"Banjo","label_is":"Banjó","section":"17","category_en":"Musical instruments and music services","category_is":"Hljóðfæri og tónlistarþjónusta","batch":9,"tags":["music","strings"],"description":"A banjo has a circular tensioned drum body, a straight long neck, a short side tuning peg and a narrow bridge.","design_note":"A banjo has a circular tensioned drum body, a straight long neck, a short side tuning peg and a narrow bridge.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <circle cx="12" cy="16" r="6"/><path d="M10.5 10V2H13.5V10 M10.5 5H13.5 M10.5 8H8 M9 18H15 M6.8 13L5.5 12 M17.2 13L18.5 12 M7 20L6 21 M17 20L18 21"/>
+</svg>

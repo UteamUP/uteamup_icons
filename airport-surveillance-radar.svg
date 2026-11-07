@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-airport-surveillance-radar-title" aria-describedby="uteamup-sectors-airport-surveillance-radar-desc">
+  <title id="uteamup-sectors-airport-surveillance-radar-title">Airport surveillance radar — Flugvallarratsjá</title>
+  <desc id="uteamup-sectors-airport-surveillance-radar-desc">A broad rotating radar array is mounted above a tripod pedestal and a curved sweep line.</desc>
+  <!-- Subject: airport-surveillance-radar. The wide sloping array differs from the horizontal bar scanner of the marine radar. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"airport-surveillance-radar","label_en":"Airport surveillance radar","label_is":"Flugvallarratsjá","section":"05","category_en":"Airports, ground handling and aviation services","category_is":"Flugvellir, flugafgreiðsla og flugþjónusta","batch":3,"tags":["aviation","air-traffic"],"description":"A broad rotating radar array is mounted above a tripod pedestal and a curved sweep line.","design_note":"The wide sloping array differs from the horizontal bar scanner of the marine radar.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 4h18l-3 8H6zM5 8h14M9 4l1 8M15 4l-1 8M12 12v7M7 22l5-3 5 3M5 16q7 4 14 0"/>
+</svg>

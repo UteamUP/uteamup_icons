@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-sport-hurdling-title" aria-describedby="uteamup-sectors-sport-hurdling-desc">
+  <title id="uteamup-sectors-sport-hurdling-title">Hurdling — Grindahlaup</title>
+  <desc id="uteamup-sectors-sport-hurdling-desc">A runner extends one lead leg over a clear horizontal hurdle, with the trailing knee bent beside it.</desc>
+  <!-- Subject: sport-hurdling. A runner extends one lead leg over a clear horizontal hurdle, with the trailing knee bent beside it. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"sport-hurdling","label_en":"Hurdling","label_is":"Grindahlaup","section":"09","category_en":"Sports and recreation","category_is":"Íþróttir og útivist","batch":5,"tags":["sport","recreation"],"description":"A runner extends one lead leg over a clear horizontal hurdle, with the trailing knee bent beside it.","design_note":"A runner extends one lead leg over a clear horizontal hurdle, with the trailing knee bent beside it.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <rect x="3" y="16" width="18" height="2" rx="0.3"/><circle cx="14" cy="3.8" r="1.8"/><path d="M5 18v4 M19 18v4 M13 7l-4 5h8l4 2 M9 12 4 9 2 11 M11 9 7 6 M13 8l4 1 3-3"/>
+</svg>

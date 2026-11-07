@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-health-dosing-cup-title" aria-describedby="uteamup-sectors-health-dosing-cup-desc">
+  <title id="uteamup-sectors-health-dosing-cup-title">Dosing cup — Lyfjamæliglas</title>
+  <desc id="uteamup-sectors-health-dosing-cup-desc">A tapered transparent dosing cup has an open elliptical rim and three clear measuring graduations.</desc>
+  <!-- Subject: health-dosing-cup. A tapered transparent dosing cup has an open elliptical rim and three clear measuring graduations. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"health-dosing-cup","label_en":"Dosing cup","label_is":"Lyfjamæliglas","section":"15","category_en":"Health, care and wellbeing services","category_is":"Heilsa, umönnun og velferðarþjónusta","batch":8,"tags":["health","medication"],"description":"A tapered transparent dosing cup has an open elliptical rim and three clear measuring graduations.","design_note":"A tapered transparent dosing cup has an open elliptical rim and three clear measuring graduations.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <ellipse cx="12" cy="4" rx="7" ry="2"/><path d="M5 4L7 21H17L19 4 M14 8H18.5 M15 12H18 M14 16H17.5"/>
+</svg>

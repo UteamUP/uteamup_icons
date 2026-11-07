@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-eel-trap-title" aria-describedby="uteamup-sectors-fisheries-eel-trap-desc">
+  <title id="uteamup-sectors-fisheries-eel-trap-title">Eel trap — Álagildra</title>
+  <desc id="uteamup-sectors-fisheries-eel-trap-desc">A long cylindrical eel trap has a single inward funnel and parallel supporting ribs.</desc>
+  <!-- Subject: fisheries-eel-trap. A straight tube with one funnel differs from the winged, multi-chamber fyke net. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-eel-trap","label_en":"Eel trap","label_is":"Álagildra","section":"01","category_en":"Fishing vessels and harvesting gear","category_is":"Fiskiskip og veiðarfæri","batch":1,"tags":["fishing","trap"],"description":"A long cylindrical eel trap has a single inward funnel and parallel supporting ribs.","design_note":"A straight tube with one funnel differs from the winged, multi-chamber fyke net.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <ellipse cx="5" cy="12" rx="3" ry="6"/><path d="M5 6h13q4 6 0 12H5M9 6v12M14 6v12M18 6v12M2 9l6 3-6 3"/>
+</svg>

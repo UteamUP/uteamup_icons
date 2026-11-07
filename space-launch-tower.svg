@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-space-launch-tower-title" aria-describedby="uteamup-sectors-space-launch-tower-desc">
+  <title id="uteamup-sectors-space-launch-tower-title">Launch tower — Skotturn</title>
+  <desc id="uteamup-sectors-space-launch-tower-desc">A tall open-braced launch gantry has two access arms reaching a separate slender rocket.</desc>
+  <!-- Subject: space-launch-tower. A tall open-braced launch gantry has two access arms reaching a separate slender rocket. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"space-launch-tower","label_en":"Launch tower","label_is":"Skotturn","section":"16","category_en":"Space, astronomy and exploration","category_is":"Geimurinn, stjörnufræði og geimrannsóknir","batch":8,"tags":["space","launch-infrastructure"],"description":"A tall open-braced launch gantry has two access arms reaching a separate slender rocket.","design_note":"A tall open-braced launch gantry has two access arms reaching a separate slender rocket.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 2H9V22H2V2 M2 8H9 M2 15H9 M2 8L9 15 M2 15L9 22 M2 2L9 8 M9 7H15 M9 13H15 M15 6L17 3L19 6V20H15V6 M17 20V22"/>
+</svg>

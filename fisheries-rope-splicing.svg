@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-rope-splicing-title" aria-describedby="uteamup-sectors-fisheries-rope-splicing-desc">
+  <title id="uteamup-sectors-fisheries-rope-splicing-title">Rope splicing — Splæsing kaðals</title>
+  <desc id="uteamup-sectors-fisheries-rope-splicing-desc">Three rope strands merge into a splice while a pointed fid separates the working strands.</desc>
+  <!-- Subject: fisheries-rope-splicing. Interweaving strands and a fid represent the actual rope-splicing operation. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-rope-splicing","label_en":"Rope splicing","label_is":"Splæsing kaðals","section":"03","category_en":"Fisheries services, ports and cold logistics","category_is":"Þjónusta við sjávarútveg, hafnir og kælikeðja","batch":2,"tags":["fisheries","ropework"],"description":"Three rope strands merge into a splice while a pointed fid separates the working strands.","design_note":"Interweaving strands and a fid represent the actual rope-splicing operation.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 4c12 0 6 16 18 16M3 9c12 0 6 11 18 11M3 14c8 0 7 6 18 6M3 4V2M3 9H2M3 14l-1 2M16 4l5-2-1 5M20 3l-7 10"/>
+</svg>

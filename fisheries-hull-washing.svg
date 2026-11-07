@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-hull-washing-title" aria-describedby="uteamup-sectors-fisheries-hull-washing-desc">
+  <title id="uteamup-sectors-fisheries-hull-washing-title">Hull washing service — Botnþvottur báta</title>
+  <desc id="uteamup-sectors-fisheries-hull-washing-desc">A supported boat hull is cleaned from below by a hose and three directed spray strokes.</desc>
+  <!-- Subject: fisheries-hull-washing. The spray is aimed at the exposed underside of the hull, making the cleaning activity explicit. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-hull-washing","label_en":"Hull washing service","label_is":"Botnþvottur báta","section":"03","category_en":"Fisheries services, ports and cold logistics","category_is":"Þjónusta við sjávarútveg, hafnir og kælikeðja","batch":2,"tags":["fisheries","repair"],"description":"A supported boat hull is cleaned from below by a hose and three directed spray strokes.","design_note":"The spray is aimed at the exposed underside of the hull, making the cleaning activity explicit.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 7h18l-4 7H7zM7 14v3M17 14v3M2 21q5 0 7-4M9 17l2-2M11 18l3-1M12 21h4M6 7V3h6v4"/>
+</svg>

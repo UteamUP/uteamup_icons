@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-power-waste-to-energy-plant-title" aria-describedby="uteamup-sectors-power-waste-to-energy-plant-desc">
+  <title id="uteamup-sectors-power-waste-to-energy-plant-title">Waste-to-energy plant — Sorporkuver</title>
+  <desc id="uteamup-sectors-power-waste-to-energy-plant-desc">A deep refuse-feed hopper delivers waste into a fired energy-recovery chamber beside its stack.</desc>
+  <!-- Subject: power-waste-to-energy-plant. The refuse hopper and combustion chamber form an actual energy-recovery feed path, not a recycling badge. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"power-waste-to-energy-plant","label_en":"Waste-to-energy plant","label_is":"Sorporkuver","section":"06","category_en":"Power plants and generation","category_is":"Orkuver og orkuframleiðsla","batch":3,"tags":["power","waste-to-energy"],"description":"A deep refuse-feed hopper delivers waste into a fired energy-recovery chamber beside its stack.","design_note":"The refuse hopper and combustion chamber form an actual energy-recovery feed path, not a recycling badge.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 4h9l-2 8H4zM5 7l2-1 1 3M6 12v5h7M13 10h9v12h-9zM18 10V3h3v7M17 14q-3 4 0 5 3-1 2-4l-1 1z"/>
+</svg>

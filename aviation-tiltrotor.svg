@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aviation-tiltrotor-title" aria-describedby="uteamup-sectors-aviation-tiltrotor-desc">
+  <title id="uteamup-sectors-aviation-tiltrotor-title">Tiltrotor aircraft — Hallaskrúfuflugvél</title>
+  <desc id="uteamup-sectors-aviation-tiltrotor-desc">A frontal tiltrotor has two upright engine nacelles with large lifting rotors at its wing tips.</desc>
+  <!-- Subject: aviation-tiltrotor. Wingtip nacelles supporting lifting rotors make the convertible rotorcraft structure visible. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aviation-tiltrotor","label_en":"Tiltrotor aircraft","label_is":"Hallaskrúfuflugvél","section":"04","category_en":"Aircraft and flight","category_is":"Loftför og flug","batch":2,"tags":["aviation","rotorcraft"],"description":"A frontal tiltrotor has two upright engine nacelles with large lifting rotors at its wing tips.","design_note":"Wingtip nacelles supporting lifting rotors make the convertible rotorcraft structure visible.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <circle cx="12" cy="14" r="3"/><path d="M2 4h8M14 4h8M6 4v4M18 4v4M4 8h4v5H4zM16 8h4v5h-4zM8 12h1M15 12h1M10 17l-2 4M14 17l2 4M6 21h4M14 21h4"/>
+</svg>

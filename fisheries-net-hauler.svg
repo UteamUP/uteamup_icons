@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-net-hauler-title" aria-describedby="uteamup-sectors-fisheries-net-hauler-desc">
+  <title id="uteamup-sectors-fisheries-net-hauler-title">Net hauler — Netadráttarvinda</title>
+  <desc id="uteamup-sectors-fisheries-net-hauler-desc">Two opposed deck rollers guide a narrow visible strip of netting between them.</desc>
+  <!-- Subject: fisheries-net-hauler. The net strip passes physically between separate rollers rather than being represented by a badge. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-net-hauler","label_en":"Net hauler","label_is":"Netadráttarvinda","section":"01","category_en":"Fishing vessels and harvesting gear","category_is":"Fiskiskip og veiðarfæri","batch":1,"tags":["fishing","machine","hauling"],"description":"Two opposed deck rollers guide a narrow visible strip of netting between them.","design_note":"The net strip passes physically between separate rollers rather than being represented by a badge.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <rect x="5" y="5" width="5" height="12" rx="2.5"/><rect x="14" y="5" width="5" height="12" rx="2.5"/><path d="M10.5 2h3v20h-3ZM10.5 5l3 3-3 3 3 3-3 3 3 3M4 20h5M15 20h5"/>
+</svg>

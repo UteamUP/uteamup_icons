@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-animal-bat-title" aria-describedby="uteamup-sectors-animal-bat-desc">
+  <title id="uteamup-sectors-animal-bat-title">Bat — Leðurblaka</title>
+  <desc id="uteamup-sectors-animal-bat-desc">A bat spreads two angular scalloped wings around a narrow body with pointed ears and a short tail.</desc>
+  <!-- Subject: animal-bat. A bat spreads two angular scalloped wings around a narrow body with pointed ears and a short tail. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"animal-bat","label_en":"Bat","label_is":"Leðurblaka","section":"10","category_en":"Land animals and animal care","category_is":"Landdýr og umönnun dýra","batch":5,"tags":["animal","care"],"description":"A bat spreads two angular scalloped wings around a narrow body with pointed ears and a short tail.","design_note":"A bat spreads two angular scalloped wings around a narrow body with pointed ears and a short tail.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <ellipse cx="12" cy="13" rx="2" ry="6"/><path d="M10 6V3l2 2 2-2v3 M10 10 4 4 2 7l1 9q3-4 6 0 M14 10l6-6 2 3-1 9q-3-4-6 0 M10 10l-5 2 M14 10l5 2 M11 18l1 3 1-3"/>
+</svg>

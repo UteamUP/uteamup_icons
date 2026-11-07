@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aviation-angle-of-attack-vane-title" aria-describedby="uteamup-sectors-aviation-angle-of-attack-vane-desc">
+  <title id="uteamup-sectors-aviation-angle-of-attack-vane-title">Angle-of-attack vane — Áfallshornsnemi</title>
+  <desc id="uteamup-sectors-aviation-angle-of-attack-vane-desc">A small pivoted vane projects from a curved fuselage surface beside an angular movement cue.</desc>
+  <!-- Subject: aviation-angle-of-attack-vane. An external vane on a pivot conveys local flow-angle sensing instead of pressure measurement by an open tube. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aviation-angle-of-attack-vane","label_en":"Angle-of-attack vane","label_is":"Áfallshornsnemi","section":"04","category_en":"Aircraft and flight","category_is":"Loftför og flug","batch":2,"tags":["aviation","sensors"],"description":"A small pivoted vane projects from a curved fuselage surface beside an angular movement cue.","design_note":"An external vane on a pivot conveys local flow-angle sensing instead of pressure measurement by an open tube.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 3q8 3 8 9T3 21M11 12l10-4-5 7zM17 3q4 1 5 4M19 5l3 2v-3"/><circle cx="9" cy="12" r="1.8"/>
+</svg>

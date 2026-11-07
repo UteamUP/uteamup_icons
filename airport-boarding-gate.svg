@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-airport-boarding-gate-title" aria-describedby="uteamup-sectors-airport-boarding-gate-desc">
+  <title id="uteamup-sectors-airport-boarding-gate-title">Automated boarding gate — Sjálfvirkt brottfararhlið</title>
+  <desc id="uteamup-sectors-airport-boarding-gate-desc">Two reader pedestals frame hinged passage flaps beneath a small boarding display.</desc>
+  <!-- Subject: airport-boarding-gate. The physical entrance flaps and card reader show an automated boarding passage. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"airport-boarding-gate","label_en":"Automated boarding gate","label_is":"Sjálfvirkt brottfararhlið","section":"05","category_en":"Airports, ground handling and aviation services","category_is":"Flugvellir, flugafgreiðsla og flugþjónusta","batch":3,"tags":["aviation","boarding"],"description":"Two reader pedestals frame hinged passage flaps beneath a small boarding display.","design_note":"The physical entrance flaps and card reader show an automated boarding passage.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 12h5v10H3zM17 12h5v10h-5zM8 14l4 2v4l-4-2M17 14l-3 2v4l3-2M3 3h9v6H3zM7 9v3M17 7h5v3h-5z"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-power-tidal-lagoon-title" aria-describedby="uteamup-sectors-power-tidal-lagoon-desc">
+  <title id="uteamup-sectors-power-tidal-lagoon-title">Tidal lagoon plant — Sjávarfallavirkjun í lóni</title>
+  <desc id="uteamup-sectors-power-tidal-lagoon-desc">A curved enclosing seawall forms a water basin with a separate turbine-gate opening at its outer edge.</desc>
+  <!-- Subject: power-tidal-lagoon. The enclosed lagoon plan differs from a straight barrage crossing a tidal channel. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"power-tidal-lagoon","label_en":"Tidal lagoon plant","label_is":"Sjávarfallavirkjun í lóni","section":"06","category_en":"Power plants and generation","category_is":"Orkuver og orkuframleiðsla","batch":3,"tags":["power","tidal"],"description":"A curved enclosing seawall forms a water basin with a separate turbine-gate opening at its outer edge.","design_note":"The enclosed lagoon plan differs from a straight barrage crossing a tidal channel.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M19 7a9 9 0 1 0 0 10M19 7v10M19 9h3v6h-3M6 10q3-2 6 0M7 14q3-2 6 0M2 2v20"/>
+</svg>

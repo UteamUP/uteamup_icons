@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-power-steam-condenser-title" aria-describedby="uteamup-sectors-power-steam-condenser-desc">
+  <title id="uteamup-sectors-power-steam-condenser-title">Steam condenser — Eimsvali</title>
+  <desc id="uteamup-sectors-power-steam-condenser-desc">A wide condenser shows parallel cooling passages, a top steam inlet and a separate droplet of condensed water below.</desc>
+  <!-- Subject: power-steam-condenser. A wide condenser shows parallel cooling passages, a top steam inlet and a separate droplet of condensed water below. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"power-steam-condenser","label_en":"Steam condenser","label_is":"Eimsvali","section":"07","category_en":"Power plant equipment and systems","category_is":"Búnaður og kerfi orkuvera","batch":4,"tags":["power plant","equipment","energy"],"description":"A wide condenser shows parallel cooling passages, a top steam inlet and a separate droplet of condensed water below.","design_note":"A wide condenser shows parallel cooling passages, a top steam inlet and a separate droplet of condensed water below.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 6h18v9H3V6Z M2 9h3 M21 12h1 M6 9h11 M6 12h11 M10 2h4v4 M12 16.5c-3 3.5-2 5 0 5s3-1.5 0-5Z"/>
+</svg>

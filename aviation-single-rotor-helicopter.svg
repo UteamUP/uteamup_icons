@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aviation-single-rotor-helicopter-title" aria-describedby="uteamup-sectors-aviation-single-rotor-helicopter-desc">
+  <title id="uteamup-sectors-aviation-single-rotor-helicopter-title">Single-rotor helicopter — Þyrla með stélskrúfu</title>
+  <desc id="uteamup-sectors-aviation-single-rotor-helicopter-desc">A helicopter has one long main rotor, an enclosed cabin, skids and a small tail rotor.</desc>
+  <!-- Subject: aviation-single-rotor-helicopter. Separated main rotor and tail rotor show the conventional helicopter arrangement. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aviation-single-rotor-helicopter","label_en":"Single-rotor helicopter","label_is":"Þyrla með stélskrúfu","section":"04","category_en":"Aircraft and flight","category_is":"Loftför og flug","batch":2,"tags":["aviation","rotorcraft"],"description":"A helicopter has one long main rotor, an enclosed cabin, skids and a small tail rotor.","design_note":"Separated main rotor and tail rotor show the conventional helicopter arrangement.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 13q0-6 6-6h5l2 6zM8 8v5M16 11l5-3M4 18h13M6 13v5M14 13v5M3 3h17M11 3v4M21 5v4M19 7h3"/><circle cx="21" cy="7" r="1.5"/>
+</svg>

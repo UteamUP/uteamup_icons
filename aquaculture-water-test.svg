@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aquaculture-water-test-title" aria-describedby="uteamup-sectors-aquaculture-water-test-desc">
+  <title id="uteamup-sectors-aquaculture-water-test-title">Aquaculture water test — Vatnsmæling í fiskeldi</title>
+  <desc id="uteamup-sectors-aquaculture-water-test-desc">A handheld meter is connected by cable to a probe dipping into a water sample cup.</desc>
+  <!-- Subject: aquaculture-water-test. The actual probe-to-water connection conveys water testing rather than an unqualified gauge. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aquaculture-water-test","label_en":"Aquaculture water test","label_is":"Vatnsmæling í fiskeldi","section":"02","category_en":"Aquaculture and seafood processing","category_is":"Fiskeldi og fiskvinnsla","batch":1,"tags":["aquaculture","monitoring"],"description":"A handheld meter is connected by cable to a probe dipping into a water sample cup.","design_note":"The actual probe-to-water connection conveys water testing rather than an unqualified gauge.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <rect x="3" y="3" width="8" height="12" rx="1.5"/><rect x="5" y="5" width="4" height="3" rx="0.5"/><path d="M7 11v1M11 11h3q3 0 3 3v4M14 16v5h8v-5M17 18v1M14 18h8"/>
+</svg>

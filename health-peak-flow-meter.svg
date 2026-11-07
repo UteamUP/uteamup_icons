@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-health-peak-flow-meter-title" aria-describedby="uteamup-sectors-health-peak-flow-meter-desc">
+  <title id="uteamup-sectors-health-peak-flow-meter-title">Peak flow meter — Hámarksútöndunarmælir</title>
+  <desc id="uteamup-sectors-health-peak-flow-meter-desc">An upright graduated breathing meter has a projecting mouthpiece and a visible sliding pointer.</desc>
+  <!-- Subject: health-peak-flow-meter. An upright graduated breathing meter has a projecting mouthpiece and a visible sliding pointer. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"health-peak-flow-meter","label_en":"Peak flow meter","label_is":"Hámarksútöndunarmælir","section":"15","category_en":"Health, care and wellbeing services","category_is":"Heilsa, umönnun og velferðarþjónusta","batch":8,"tags":["health","respiratory"],"description":"An upright graduated breathing meter has a projecting mouthpiece and a visible sliding pointer.","design_note":"An upright graduated breathing meter has a projecting mouthpiece and a visible sliding pointer.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <rect x="5" y="2" width="8" height="20" rx="2"/><path d="M13 5H20V9H13 M6.5 11L10.5 9V13L6.5 11 M8 6H10 M8 16H11 M8 19H10"/>
+</svg>

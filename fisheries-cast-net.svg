@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-cast-net-title" aria-describedby="uteamup-sectors-fisheries-cast-net-desc">
+  <title id="uteamup-sectors-fisheries-cast-net-title">Cast net — Kastnet</title>
+  <desc id="uteamup-sectors-fisheries-cast-net-desc">A conical cast net spreads into a broad weighted circular skirt beneath one handline.</desc>
+  <!-- Subject: fisheries-cast-net. The radiating net and wide weighted skirt distinguish casting from a rectangular gillnet. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-cast-net","label_en":"Cast net","label_is":"Kastnet","section":"01","category_en":"Fishing vessels and harvesting gear","category_is":"Fiskiskip og veiðarfæri","batch":1,"tags":["fishing","net"],"description":"A conical cast net spreads into a broad weighted circular skirt beneath one handline.","design_note":"The radiating net and wide weighted skirt distinguish casting from a rectangular gillnet.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M12 3 2 20q10 4 20 0ZM12 3v18M12 3 7 21M12 3l5 18M5 15h14M3.5 18h17M12 3V1.5"/>
+</svg>

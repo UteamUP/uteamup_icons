@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-power-solar-tower-title" aria-describedby="uteamup-sectors-power-solar-tower-desc">
+  <title id="uteamup-sectors-power-solar-tower-title">Solar power tower — Sólvarmaturn</title>
+  <desc id="uteamup-sectors-power-solar-tower-desc">Two angled heliostat mirrors direct rays toward a receiver on top of a tall central tower.</desc>
+  <!-- Subject: power-solar-tower. Separated mirrors focus on a high receiver, the structural signature of a concentrating power tower. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"power-solar-tower","label_en":"Solar power tower","label_is":"Sólvarmaturn","section":"06","category_en":"Power plants and generation","category_is":"Orkuver og orkuframleiðsla","batch":3,"tags":["power","solar-thermal"],"description":"Two angled heliostat mirrors direct rays toward a receiver on top of a tall central tower.","design_note":"Separated mirrors focus on a high receiver, the structural signature of a concentrating power tower.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M9 2h6v4H9zM10 6v16h4V6M2 17l4-2 2 3-4 2zM16 15l4 2-2 3-4-2zM6 13l4-7M18 13l-4-7"/>
+</svg>

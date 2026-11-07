@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-grid-earthing-rod-title" aria-describedby="uteamup-sectors-grid-earthing-rod-desc">
+  <title id="uteamup-sectors-grid-earthing-rod-title">Earthing rod — Jarðskaut</title>
+  <desc id="uteamup-sectors-grid-earthing-rod-desc">A conductor bends into a long driven earth rod crossing the ground surface, with sparse ground-level marks.</desc>
+  <!-- Subject: grid-earthing-rod. A conductor bends into a long driven earth rod crossing the ground surface, with sparse ground-level marks. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"grid-earthing-rod","label_en":"Earthing rod","label_is":"Jarðskaut","section":"08","category_en":"Energy utilities, grids and services","category_is":"Orkuveitur, dreifikerfi og þjónusta","batch":4,"tags":["energy","utility"],"description":"A conductor bends into a long driven earth rod crossing the ground surface, with sparse ground-level marks.","design_note":"A conductor bends into a long driven earth rod crossing the ground surface, with sparse ground-level marks.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 9h20 M12 3v17l-2 2 M7 5h5 M7 5V2 M8 13h8 M9 16h6 M10 19h4"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aviation-canard-aircraft-title" aria-describedby="uteamup-sectors-aviation-canard-aircraft-desc">
+  <title id="uteamup-sectors-aviation-canard-aircraft-title">Canard aircraft — Flugvél með framvæng</title>
+  <desc id="uteamup-sectors-aviation-canard-aircraft-desc">A plan-view aircraft has a small forward canard, a large aft wing and a rear pusher propeller.</desc>
+  <!-- Subject: aviation-canard-aircraft. The small lifting surface is visibly ahead of the main wing, the defining canard arrangement. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aviation-canard-aircraft","label_en":"Canard aircraft","label_is":"Flugvél með framvæng","section":"04","category_en":"Aircraft and flight","category_is":"Loftför og flug","batch":2,"tags":["aviation","aircraft"],"description":"A plan-view aircraft has a small forward canard, a large aft wing and a rear pusher propeller.","design_note":"The small lifting surface is visibly ahead of the main wing, the defining canard arrangement.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M11 3q1-2 2 0v4l4 2v1l-4-1v5l9 4v2l-9-3v4h-2v-4l-9 3v-2l9-4V9l-4 1V9l4-2zM9 22h6"/>
+</svg>

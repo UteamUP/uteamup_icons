@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aviation-glider-title" aria-describedby="uteamup-sectors-aviation-glider-desc">
+  <title id="uteamup-sectors-aviation-glider-title">Sailplane — Sviffluga</title>
+  <desc id="uteamup-sectors-aviation-glider-desc">A slender sailplane in plan view has very long straight wings and a small tailplane.</desc>
+  <!-- Subject: aviation-glider. A long high-aspect-ratio wing and narrow unpowered fuselage distinguish the sailplane. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aviation-glider","label_en":"Sailplane","label_is":"Sviffluga","section":"04","category_en":"Aircraft and flight","category_is":"Loftför og flug","batch":2,"tags":["aviation","aircraft"],"description":"A slender sailplane in plan view has very long straight wings and a small tailplane.","design_note":"A long high-aspect-ratio wing and narrow unpowered fuselage distinguish the sailplane.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M11 3q1-2 2 0v5l9 3v2l-9-2v7l3 2v1l-4-1-4 1v-1l3-2v-7l-9 2v-2l9-3z"/>
+</svg>

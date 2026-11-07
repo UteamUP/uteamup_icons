@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-vessel-radar-title" aria-describedby="uteamup-sectors-fisheries-vessel-radar-desc">
+  <title id="uteamup-sectors-fisheries-vessel-radar-title">Marine radar — Skiparatsjá</title>
+  <desc id="uteamup-sectors-fisheries-vessel-radar-desc">A horizontal marine radar scanner sits on a mast with a broad radar sweep above.</desc>
+  <!-- Subject: fisheries-vessel-radar. The long scanner bar and vessel mast mount identify marine radar rather than a satellite dish. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-vessel-radar","label_en":"Marine radar","label_is":"Skiparatsjá","section":"03","category_en":"Fisheries services, ports and cold logistics","category_is":"Þjónusta við sjávarútveg, hafnir og kælikeðja","batch":2,"tags":["fisheries","navigation"],"description":"A horizontal marine radar scanner sits on a mast with a broad radar sweep above.","design_note":"The long scanner bar and vessel mast mount identify marine radar rather than a satellite dish.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M5 19h14M12 19v-7M4 7h16v4H4zM12 7V4M3 3q9-3 18 0M6 15h12M8 19v3M16 19v3"/>
+</svg>

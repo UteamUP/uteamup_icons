@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-it-peripheral-setup-title" aria-describedby="uteamup-sectors-it-peripheral-setup-desc">
+  <title id="uteamup-sectors-it-peripheral-setup-title">Peripheral setup — Uppsetning jaðartækja</title>
+  <desc id="uteamup-sectors-it-peripheral-setup-desc">A compact keyboard and clearly separate wired mouse are arranged with one loose peripheral cable.</desc>
+  <!-- Subject: it-peripheral-setup. A compact keyboard and clearly separate wired mouse are arranged with one loose peripheral cable. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"it-peripheral-setup","label_en":"Peripheral setup","label_is":"Uppsetning jaðartækja","section":"14","category_en":"Computer expertise and IT services","category_is":"Tölvusérfræði og upplýsingatækniþjónusta","batch":7,"tags":["computer","IT","service"],"description":"A compact keyboard and clearly separate wired mouse are arranged with one loose peripheral cable.","design_note":"A compact keyboard and clearly separate wired mouse are arranged with one loose peripheral cable.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <rect x="2" y="12" width="14" height="9" rx="0.7"/><path d="M5 15h2 M10 15h2 M5 18h7"/><rect x="18" y="5" width="4" height="8" rx="2"/><path d="M20 5V2H9v7 M20 7v2"/>
+</svg>

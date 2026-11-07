@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-earth-glacier-title" aria-describedby="uteamup-sectors-earth-glacier-desc">
+  <title id="uteamup-sectors-earth-glacier-title">Glacier — Jökull</title>
+  <desc id="uteamup-sectors-earth-glacier-desc">A broad glacier descends between high peaks with broken crevasse lines and a low vertical ice front.</desc>
+  <!-- Subject: earth-glacier. A broad glacier descends between high peaks with broken crevasse lines and a low vertical ice front. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"earth-glacier","label_en":"Glacier","label_is":"Jökull","section":"20","category_en":"Earth, landscapes and environmental services","category_is":"Jörðin, landslag og umhverfisþjónusta","batch":10,"tags":["earth","nature","environment"],"description":"A broad glacier descends between high peaks with broken crevasse lines and a low vertical ice front.","design_note":"A broad glacier descends between high peaks with broken crevasse lines and a low vertical ice front.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 20 7 3l5 6 4-4 6 15H2Z M7 3l3 13 4 4 M12 9l3 7 3-1 M5 11l2 2-1 3 M2 20v2h20v-2"/>
+</svg>

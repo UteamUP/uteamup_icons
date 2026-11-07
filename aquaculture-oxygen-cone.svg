@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aquaculture-oxygen-cone-title" aria-describedby="uteamup-sectors-aquaculture-oxygen-cone-desc">
+  <title id="uteamup-sectors-aquaculture-oxygen-cone-title">Oxygenation cone — Súrefniskeila</title>
+  <desc id="uteamup-sectors-aquaculture-oxygen-cone-desc">A widening conical oxygenation vessel has a top gas inlet and a lower water outlet.</desc>
+  <!-- Subject: aquaculture-oxygen-cone. The tall widening cone is the visible oxygenation device, unlike a plain storage cylinder. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aquaculture-oxygen-cone","label_en":"Oxygenation cone","label_is":"Súrefniskeila","section":"02","category_en":"Aquaculture and seafood processing","category_is":"Fiskeldi og fiskvinnsla","batch":1,"tags":["aquaculture","oxygen"],"description":"A widening conical oxygenation vessel has a top gas inlet and a lower water outlet.","design_note":"The tall widening cone is the visible oxygenation device, unlike a plain storage cylinder.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M10 3h4l5 15H5zM5 18q7 4 14 0M10 3V2M14 3h6v4M5 18H2v3M9 21v1M15 21v1"/><circle cx="12" cy="10" r="1"/><circle cx="11" cy="15" r="0.8"/>
+</svg>

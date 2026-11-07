@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aviation-landing-gear-title" aria-describedby="uteamup-sectors-aviation-landing-gear-desc">
+  <title id="uteamup-sectors-aviation-landing-gear-title">Aircraft landing gear — Lendingarbúnaður flugvélar</title>
+  <desc id="uteamup-sectors-aviation-landing-gear-desc">A hydraulic landing strut with a scissor linkage supports a pair of large landing wheels.</desc>
+  <!-- Subject: aviation-landing-gear. A vertical oleo strut, torque-link triangle and twin wheels identify aircraft landing gear. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aviation-landing-gear","label_en":"Aircraft landing gear","label_is":"Lendingarbúnaður flugvélar","section":"04","category_en":"Aircraft and flight","category_is":"Loftför og flug","batch":2,"tags":["aviation","airframe"],"description":"A hydraulic landing strut with a scissor linkage supports a pair of large landing wheels.","design_note":"A vertical oleo strut, torque-link triangle and twin wheels identify aircraft landing gear.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M10 2h4v10h-4zM12 12v6M12 7l5 5-5 3M8 18h8M7 2h10"/><circle cx="8" cy="18" r="3.5"/><circle cx="16" cy="18" r="3.5"/>
+</svg>

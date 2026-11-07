@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aviation-paramotor-title" aria-describedby="uteamup-sectors-aviation-paramotor-desc">
+  <title id="uteamup-sectors-aviation-paramotor-title">Powered paraglider — Vélknúinn svifvængur</title>
+  <desc id="uteamup-sectors-aviation-paramotor-desc">A soft canopy supports a seated pilot with a separate circular propeller cage behind the seat.</desc>
+  <!-- Subject: aviation-paramotor. The backpack propeller is a visible propulsion component, so the paramotor is more than a repeated paraglider. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aviation-paramotor","label_en":"Powered paraglider","label_is":"Vélknúinn svifvængur","section":"04","category_en":"Aircraft and flight","category_is":"Loftför og flug","batch":2,"tags":["aviation","powered-flight"],"description":"A soft canopy supports a seated pilot with a separate circular propeller cage behind the seat.","design_note":"The backpack propeller is a visible propulsion component, so the paramotor is more than a repeated paraglider.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 7Q12-3 22 7M3 7q9-4 18 0M4 7l4 7M20 7l-5 7M8 17v4h4M8 19l4-2M15 15v6M12 18h6"/><circle cx="8" cy="15" r="1.2"/><circle cx="15" cy="18" r="3"/>
+</svg>

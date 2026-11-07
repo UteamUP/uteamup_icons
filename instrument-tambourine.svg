@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-instrument-tambourine-title" aria-describedby="uteamup-sectors-instrument-tambourine-desc">
+  <title id="uteamup-sectors-instrument-tambourine-title">Tambourine — Tambúrína</title>
+  <desc id="uteamup-sectors-instrument-tambourine-desc">A round tambourine frame carries four separate oval jingle pairs spaced around its open inner area.</desc>
+  <!-- Subject: instrument-tambourine. A round tambourine frame carries four separate oval jingle pairs spaced around its open inner area. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"instrument-tambourine","label_en":"Tambourine","label_is":"Tambúrína","section":"17","category_en":"Musical instruments and music services","category_is":"Hljóðfæri og tónlistarþjónusta","batch":9,"tags":["music","percussion"],"description":"A round tambourine frame carries four separate oval jingle pairs spaced around its open inner area.","design_note":"A round tambourine frame carries four separate oval jingle pairs spaced around its open inner area.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <circle cx="12" cy="12" r="9"/><ellipse cx="12" cy="5.5" rx="2" ry="1"/><ellipse cx="5.5" cy="12" rx="1" ry="2"/><ellipse cx="18.5" cy="12" rx="1" ry="2"/><ellipse cx="12" cy="18.5" rx="2" ry="1"/>
+</svg>

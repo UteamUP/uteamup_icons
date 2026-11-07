@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aviation-pitot-tube-title" aria-describedby="uteamup-sectors-aviation-pitot-tube-desc">
+  <title id="uteamup-sectors-aviation-pitot-tube-title">Pitot tube — Pitotrör</title>
+  <desc id="uteamup-sectors-aviation-pitot-tube-desc">An angled airframe mounting carries a forward-facing pressure probe.</desc>
+  <!-- Subject: aviation-pitot-tube. The bent airframe mount and narrow axial probe show a pitot tube rather than a general water pipe. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aviation-pitot-tube","label_en":"Pitot tube","label_is":"Pitotrör","section":"04","category_en":"Aircraft and flight","category_is":"Loftför og flug","batch":2,"tags":["aviation","sensors"],"description":"An angled airframe mounting carries a forward-facing pressure probe.","design_note":"The bent airframe mount and narrow axial probe show a pitot tube rather than a general water pipe.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 3h5v7H3zM6 10l7 4h9v3H12L5 12M17 14v3M5 3V2"/>
+</svg>

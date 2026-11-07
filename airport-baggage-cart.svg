@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-airport-baggage-cart-title" aria-describedby="uteamup-sectors-airport-baggage-cart-desc">
+  <title id="uteamup-sectors-airport-baggage-cart-title">Airport baggage cart — Farangursvagn</title>
+  <desc id="uteamup-sectors-airport-baggage-cart-desc">An open covered baggage cart contains two separate suitcases on a wheeled frame.</desc>
+  <!-- Subject: airport-baggage-cart. Luggage is visible inside an unpowered trailer, distinct from the tractor-and-trailer combination. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"airport-baggage-cart","label_en":"Airport baggage cart","label_is":"Farangursvagn","section":"05","category_en":"Airports, ground handling and aviation services","category_is":"Flugvellir, flugafgreiðsla og flugþjónusta","batch":3,"tags":["aviation","baggage"],"description":"An open covered baggage cart contains two separate suitcases on a wheeled frame.","design_note":"Luggage is visible inside an unpowered trailer, distinct from the tractor-and-trailer combination.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M4 4h17v14H4zM4 18H2v-3M6 10h5v6H6zM13 7h5v9h-5zM7 8h3M14 5h3"/><circle cx="7" cy="21" r="1.2"/><circle cx="18" cy="21" r="1.2"/>
+</svg>

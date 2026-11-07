@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-health-syringe-title" aria-describedby="uteamup-sectors-health-syringe-desc">
+  <title id="uteamup-sectors-health-syringe-title">Syringe — Sprauta</title>
+  <desc id="uteamup-sectors-health-syringe-desc">A diagonal syringe has a broad plunger, two barrel graduations and a long fine needle.</desc>
+  <!-- Subject: health-syringe. A diagonal syringe has a broad plunger, two barrel graduations and a long fine needle. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"health-syringe","label_en":"Syringe","label_is":"Sprauta","section":"15","category_en":"Health, care and wellbeing services","category_is":"Heilsa, umönnun og velferðarþjónusta","batch":8,"tags":["health","clinical-equipment"],"description":"A diagonal syringe has a broad plunger, two barrel graduations and a long fine needle.","design_note":"A diagonal syringe has a broad plunger, two barrel graduations and a long fine needle.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <g transform="rotate(40 12 12)"><path d="M9 5H15V16H9V5 M8 5H16 M12 16V22 M12 2V5 M9 2H15 M9 9H11 M9 12H11"/></g>
+</svg>

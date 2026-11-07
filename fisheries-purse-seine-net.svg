@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-purse-seine-net-title" aria-describedby="uteamup-sectors-fisheries-purse-seine-net-desc">
+  <title id="uteamup-sectors-fisheries-purse-seine-net-title">Purse-seine net — Herpinót</title>
+  <desc id="uteamup-sectors-fisheries-purse-seine-net-desc">A surrounding seine forms a deep circular curtain with a purse line drawing its lower edge inward.</desc>
+  <!-- Subject: fisheries-purse-seine-net. The closing lower purseline is the defining feature of the encircling net. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-purse-seine-net","label_en":"Purse-seine net","label_is":"Herpinót","section":"01","category_en":"Fishing vessels and harvesting gear","category_is":"Fiskiskip og veiðarfæri","batch":1,"tags":["fishing","net"],"description":"A surrounding seine forms a deep circular curtain with a purse line drawing its lower edge inward.","design_note":"The closing lower purseline is the defining feature of the encircling net.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <ellipse cx="12" cy="7" rx="8.5" ry="3.5"/><path d="M3.5 7v9q8.5 6 17 0V7M7 9.9v7.6M12 10.5V20M17 9.9v7.6M4.5 15l7.5 5 7.5-5M12 20l2 2"/>
+</svg>

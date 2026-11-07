@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-power-pressurizer-title" aria-describedby="uteamup-sectors-power-pressurizer-desc">
+  <title id="uteamup-sectors-power-pressurizer-title">Pressurizer — Þrýstijöfnunargeymir</title>
+  <desc id="uteamup-sectors-power-pressurizer-desc">A rounded pressurizer tank shows a liquid-level curve above a sparse lower heater element and top pressure connection.</desc>
+  <!-- Subject: power-pressurizer. A rounded pressurizer tank shows a liquid-level curve above a sparse lower heater element and top pressure connection. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"power-pressurizer","label_en":"Pressurizer","label_is":"Þrýstijöfnunargeymir","section":"07","category_en":"Power plant equipment and systems","category_is":"Búnaður og kerfi orkuvera","batch":4,"tags":["power plant","equipment","energy"],"description":"A rounded pressurizer tank shows a liquid-level curve above a sparse lower heater element and top pressure connection.","design_note":"A rounded pressurizer tank shows a liquid-level curve above a sparse lower heater element and top pressure connection.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <rect x="6" y="4" width="12" height="16" rx="4"/><path d="M12 4V2h7 M6 11q3-2 6 0t6 0 M9 17l1-3 2 3 2-3 1 3 M9 20v2 M15 20v2"/>
+</svg>

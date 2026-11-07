@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-pole-and-line-vessel-title" aria-describedby="uteamup-sectors-fisheries-pole-and-line-vessel-desc">
+  <title id="uteamup-sectors-fisheries-pole-and-line-vessel-title">Pole-and-line vessel — Stangveiðibátur</title>
+  <desc id="uteamup-sectors-fisheries-pole-and-line-vessel-desc">A vessel has a central cabin and several long individual fishing poles projecting from its sides.</desc>
+  <!-- Subject: fisheries-pole-and-line-vessel. Multiple individual poles are shown instead of a net or industrial hauling frame. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-pole-and-line-vessel","label_en":"Pole-and-line vessel","label_is":"Stangveiðibátur","section":"01","category_en":"Fishing vessels and harvesting gear","category_is":"Fiskiskip og veiðarfæri","batch":1,"tags":["fishing","vessel","hooks"],"description":"A vessel has a central cabin and several long individual fishing poles projecting from its sides.","design_note":"Multiple individual poles are shown instead of a net or industrial hauling frame.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 15h20l-4 5H5ZM8 15V9h6v6M9.5 11h3M4 15V6l-2-3M8 9V4l-2-2M16 15V6l2-4M20 15V8l2-4M4 6l-1 6M16 6l4 5"/>
+</svg>

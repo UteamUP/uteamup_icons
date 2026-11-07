@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-trolling-spoon-title" aria-describedby="uteamup-sectors-fisheries-trolling-spoon-desc">
+  <title id="uteamup-sectors-fisheries-trolling-spoon-title">Trolling spoon — Veiðispónn</title>
+  <desc id="uteamup-sectors-fisheries-trolling-spoon-desc">A curved spoon-shaped lure has an attachment eye and a three-armed hook below it.</desc>
+  <!-- Subject: fisheries-trolling-spoon. The broad curved spoon is different from the narrow squid jig and its hook crown. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-trolling-spoon","label_en":"Trolling spoon","label_is":"Veiðispónn","section":"01","category_en":"Fishing vessels and harvesting gear","category_is":"Fiskiskip og veiðarfæri","batch":1,"tags":["fishing","lure"],"description":"A curved spoon-shaped lure has an attachment eye and a three-armed hook below it.","design_note":"The broad curved spoon is different from the narrow squid jig and its hook crown.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M11 3C2 6 4 14 13 15c7-4 7-9 0-12ZM12 15v6M12 21l-5-3v-2M12 21l5-3v-2"/><circle cx="12" cy="5" r="0.8"/>
+</svg>

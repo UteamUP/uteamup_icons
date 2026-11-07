@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-gangway-title" aria-describedby="uteamup-sectors-fisheries-gangway-desc">
+  <title id="uteamup-sectors-fisheries-gangway-title">Harbour gangway — Landgangur</title>
+  <desc id="uteamup-sectors-fisheries-gangway-desc">A sloped gangway has an elevated handrail, upright stanchions and separated deck treads.</desc>
+  <!-- Subject: fisheries-gangway. The narrow inclined walkway and handrail identify passenger access to a vessel. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-gangway","label_en":"Harbour gangway","label_is":"Landgangur","section":"03","category_en":"Fisheries services, ports and cold logistics","category_is":"Þjónusta við sjávarútveg, hafnir og kælikeðja","batch":2,"tags":["fisheries","boarding"],"description":"A sloped gangway has an elevated handrail, upright stanchions and separated deck treads.","design_note":"The narrow inclined walkway and handrail identify passenger access to a vessel.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 19l20-10M2 15L22 5M3 15v4M8 12.5v4M13 10v4M18 7.5v4M22 5v4M2 22l20-10M5 20.5v-3M10 18v-3M15 15.5v-3M20 13v-3"/>
+</svg>

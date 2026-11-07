@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-airport-baggage-tug-title" aria-describedby="uteamup-sectors-airport-baggage-tug-desc">
+  <title id="uteamup-sectors-airport-baggage-tug-title">Baggage tug and trailer — Farangursdráttarbíll</title>
+  <desc id="uteamup-sectors-airport-baggage-tug-desc">A low baggage tractor pulls a separate loaded trailer through a visible coupling.</desc>
+  <!-- Subject: airport-baggage-tug. A powered tug and the distinct coupled baggage trailer show towing rather than a single box truck. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"airport-baggage-tug","label_en":"Baggage tug and trailer","label_is":"Farangursdráttarbíll","section":"05","category_en":"Airports, ground handling and aviation services","category_is":"Flugvellir, flugafgreiðsla og flugþjónusta","batch":3,"tags":["aviation","baggage"],"description":"A low baggage tractor pulls a separate loaded trailer through a visible coupling.","design_note":"A powered tug and the distinct coupled baggage trailer show towing rather than a single box truck.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 13h8v5H2zM5 13V9h4v4M10 17h3M13 11h9v7h-9zM15 8h5v3"/><circle cx="4" cy="20" r="1.5"/><circle cx="9" cy="20" r="1.5"/><circle cx="17" cy="20" r="1.5"/>
+</svg>

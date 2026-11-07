@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-net-drum-title" aria-describedby="uteamup-sectors-fisheries-net-drum-desc">
+  <title id="uteamup-sectors-fisheries-net-drum-title">Net drum — Netatromla</title>
+  <desc id="uteamup-sectors-fisheries-net-drum-desc">One wide horizontal drum carries a sparse wrap of netting between two end flanges.</desc>
+  <!-- Subject: fisheries-net-drum. The single wide barrel with net mesh is structurally different from two cable winches. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-net-drum","label_en":"Net drum","label_is":"Netatromla","section":"01","category_en":"Fishing vessels and harvesting gear","category_is":"Fiskiskip og veiðarfæri","batch":1,"tags":["fishing","machine","storage"],"description":"One wide horizontal drum carries a sparse wrap of netting between two end flanges.","design_note":"The single wide barrel with net mesh is structurally different from two cable winches.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <ellipse cx="6" cy="11" rx="3" ry="7"/><ellipse cx="18" cy="11" rx="3" ry="7"/><path d="M6 4h12M6 18h12M6 8h12M6 14h12M10 4v14M14 4v14M6 18v3M18 18v3M3 22h18"/>
+</svg>

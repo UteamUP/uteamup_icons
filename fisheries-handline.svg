@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-handline-title" aria-describedby="uteamup-sectors-fisheries-handline-desc">
+  <title id="uteamup-sectors-fisheries-handline-title">Fishing handline — Handfæri</title>
+  <desc id="uteamup-sectors-fisheries-handline-desc">A circular hand reel releases a single line ending in an open J-shaped fishing hook.</desc>
+  <!-- Subject: fisheries-handline. A simple hand reel and one hook distinguish this from powered hauling equipment. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-handline","label_en":"Fishing handline","label_is":"Handfæri","section":"01","category_en":"Fishing vessels and harvesting gear","category_is":"Fiskiskip og veiðarfæri","batch":1,"tags":["fishing","hooks","handgear"],"description":"A circular hand reel releases a single line ending in an open J-shaped fishing hook.","design_note":"A simple hand reel and one hook distinguish this from powered hauling equipment.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <circle cx="8.5" cy="9" r="6"/><circle cx="8.5" cy="9" r="2"/><path d="M14.5 9H19v10q0 3-3 1v-2M16 18l-1 2"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-power-fuel-cell-station-title" aria-describedby="uteamup-sectors-power-fuel-cell-station-desc">
+  <title id="uteamup-sectors-power-fuel-cell-station-title">Fuel-cell power station — Efnarafalsstöð</title>
+  <desc id="uteamup-sectors-power-fuel-cell-station-desc">A housed electrochemical plate stack receives a gas feed and discharges a separate water droplet.</desc>
+  <!-- Subject: power-fuel-cell-station. The plate stack, gas input and water output describe a stationary fuel-cell system without a combustion flame. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"power-fuel-cell-station","label_en":"Fuel-cell power station","label_is":"Efnarafalsstöð","section":"06","category_en":"Power plants and generation","category_is":"Orkuver og orkuframleiðsla","batch":3,"tags":["power","fuel-cell"],"description":"A housed electrochemical plate stack receives a gas feed and discharges a separate water droplet.","design_note":"The plate stack, gas input and water output describe a stationary fuel-cell system without a combustion flame.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 7h13v15H2zM5 10v9M8 10v9M11 10v9M15 10h5V3h2M15 18h3M21 17q-3 4 0 5 3-1 0-5z"/>
+</svg>

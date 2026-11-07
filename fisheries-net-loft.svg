@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-net-loft-title" aria-describedby="uteamup-sectors-fisheries-net-loft-desc">
+  <title id="uteamup-sectors-fisheries-net-loft-title">Fishing net loft — Netagerðarloft</title>
+  <desc id="uteamup-sectors-fisheries-net-loft-desc">A high-gabled net loft contains a hanging rectangular net stretched for repair.</desc>
+  <!-- Subject: fisheries-net-loft. The roofed workshop and suspended mesh identify a net-making space rather than fishing gear alone. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-net-loft","label_en":"Fishing net loft","label_is":"Netagerðarloft","section":"03","category_en":"Fisheries services, ports and cold logistics","category_is":"Þjónusta við sjávarútveg, hafnir og kælikeðja","batch":2,"tags":["fisheries","repair"],"description":"A high-gabled net loft contains a hanging rectangular net stretched for repair.","design_note":"The roofed workshop and suspended mesh identify a net-making space rather than fishing gear alone.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 8l10-6 10 6M4 7v15h16V7M7 9h10v10H7zM7 14h10M12 9v10M6 22v-3M18 22v-3"/>
+</svg>

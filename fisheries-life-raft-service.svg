@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-life-raft-service-title" aria-describedby="uteamup-sectors-fisheries-life-raft-service-desc">
+  <title id="uteamup-sectors-fisheries-life-raft-service-title">Liferaft servicing — Þjónusta björgunarfleka</title>
+  <desc id="uteamup-sectors-fisheries-life-raft-service-desc">A packed liferaft canister is connected to a small inflation test pump.</desc>
+  <!-- Subject: fisheries-life-raft-service. Canister straps and the connected pump communicate equipment servicing rather than an deployed rescue raft. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-life-raft-service","label_en":"Liferaft servicing","label_is":"Þjónusta björgunarfleka","section":"03","category_en":"Fisheries services, ports and cold logistics","category_is":"Þjónusta við sjávarútveg, hafnir og kælikeðja","batch":2,"tags":["fisheries","safety-service"],"description":"A packed liferaft canister is connected to a small inflation test pump.","design_note":"Canister straps and the connected pump communicate equipment servicing rather than an deployed rescue raft.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <rect x="3" y="5" width="12" height="15" rx="5"/><path d="M3 10h12M9 5v15M17 6h5M19.5 6v8M17 14h5v6h-5zM17 17h-2M6 3h6"/>
+</svg>

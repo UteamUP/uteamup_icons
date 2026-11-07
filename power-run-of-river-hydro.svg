@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-power-run-of-river-hydro-title" aria-describedby="uteamup-sectors-power-run-of-river-hydro-desc">
+  <title id="uteamup-sectors-power-run-of-river-hydro-title">Run-of-river hydro plant — Rennslisvirkjun</title>
+  <desc id="uteamup-sectors-power-run-of-river-hydro-desc">A diversion channel leaves a flowing river and leads into a small downstream powerhouse.</desc>
+  <!-- Subject: power-run-of-river-hydro. The bypass channel alongside the river distinguishes diversion generation from a high storage dam. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"power-run-of-river-hydro","label_en":"Run-of-river hydro plant","label_is":"Rennslisvirkjun","section":"06","category_en":"Power plants and generation","category_is":"Orkuver og orkuframleiðsla","batch":3,"tags":["power","hydropower"],"description":"A diversion channel leaves a flowing river and leads into a small downstream powerhouse.","design_note":"The bypass channel alongside the river distinguishes diversion generation from a high storage dam.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 5q3-2 6 0t6 0t6 0M2 9q3-2 6 0t6 0t6 0M6 8v8h7M3 8v11h10M13 13l4-3 5 3v9h-9z"/><circle cx="17.5" cy="17" r="1.5"/>
+</svg>

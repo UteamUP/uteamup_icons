@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aviation-high-wing-plane-title" aria-describedby="uteamup-sectors-aviation-high-wing-plane-desc">
+  <title id="uteamup-sectors-aviation-high-wing-plane-title">High-wing light aircraft — Hávængja flugvél</title>
+  <desc id="uteamup-sectors-aviation-high-wing-plane-desc">A frontal light aircraft has its wing above the fuselage, diagonal wing struts and two landing wheels.</desc>
+  <!-- Subject: aviation-high-wing-plane. The high wing and visible supporting struts identify the configuration rather than a colour or badge. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aviation-high-wing-plane","label_en":"High-wing light aircraft","label_is":"Hávængja flugvél","section":"04","category_en":"Aircraft and flight","category_is":"Loftför og flug","batch":2,"tags":["aviation","aircraft"],"description":"A frontal light aircraft has its wing above the fuselage, diagonal wing struts and two landing wheels.","design_note":"The high wing and visible supporting struts identify the configuration rather than a colour or badge.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <circle cx="12" cy="12" r="2.7"/><path d="M2 8h20M4 8l6 6M20 8l-6 6M10 14l-2 4M14 14l2 4M12 10v4M12 8V4"/><circle cx="8" cy="20" r="1.5"/><circle cx="16" cy="20" r="1.5"/>
+</svg>

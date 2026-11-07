@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aviation-fixed-wing-drone-title" aria-describedby="uteamup-sectors-aviation-fixed-wing-drone-desc">
+  <title id="uteamup-sectors-aviation-fixed-wing-drone-title">Fixed-wing drone — Fastvængja dróni</title>
+  <desc id="uteamup-sectors-aviation-fixed-wing-drone-desc">A narrow unmanned aircraft has long straight wings, a rear pusher propeller and an angled V tail.</desc>
+  <!-- Subject: aviation-fixed-wing-drone. The straight wing, pusher and V tail distinguish this drone from the conventional sailplane and canard aircraft. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aviation-fixed-wing-drone","label_en":"Fixed-wing drone","label_is":"Fastvængja dróni","section":"04","category_en":"Aircraft and flight","category_is":"Loftför og flug","batch":2,"tags":["aviation","drone"],"description":"A narrow unmanned aircraft has long straight wings, a rear pusher propeller and an angled V tail.","design_note":"The straight wing, pusher and V tail distinguish this drone from the conventional sailplane and canard aircraft.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M11 3q1-2 2 0v7h9v3h-9v4l5 4h-4l-2-2-2 2H6l5-4v-4H2v-3h9zM9 16h6"/>
+</svg>

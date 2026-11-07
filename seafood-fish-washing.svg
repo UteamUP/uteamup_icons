@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-seafood-fish-washing-title" aria-describedby="uteamup-sectors-seafood-fish-washing-desc">
+  <title id="uteamup-sectors-seafood-fish-washing-title">Fish washing station — Fiskþvottastöð</title>
+  <desc id="uteamup-sectors-seafood-fish-washing-desc">Overhead spray nozzles wash a fish on a shallow conveyor trough.</desc>
+  <!-- Subject: seafood-fish-washing. Three separated sprays above the fish and trough identify washing, with no dense water stippling. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"seafood-fish-washing","label_en":"Fish washing station","label_is":"Fiskþvottastöð","section":"02","category_en":"Aquaculture and seafood processing","category_is":"Fiskeldi og fiskvinnsla","batch":1,"tags":["seafood","processing"],"description":"Overhead spray nozzles wash a fish on a shallow conveyor trough.","design_note":"Three separated sprays above the fish and trough identify washing, with no dense water stippling.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 15h20v5H2zM5 15V4h14v11M8 4v3M12 4v3M16 4v3M8 9v1M12 9v1M16 9v1M7 13q3-2 6 0-3 2-6 0l-2-1v2zM5 20v2M19 20v2"/>
+</svg>

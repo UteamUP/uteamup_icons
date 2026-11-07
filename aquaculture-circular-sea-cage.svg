@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aquaculture-circular-sea-cage-title" aria-describedby="uteamup-sectors-aquaculture-circular-sea-cage-desc">
+  <title id="uteamup-sectors-aquaculture-circular-sea-cage-title">Circular sea cage — Hringlaga sjókví</title>
+  <desc id="uteamup-sectors-aquaculture-circular-sea-cage-desc">A floating circular collar supports a tapering net bag, with water marks outside.</desc>
+  <!-- Subject: aquaculture-circular-sea-cage. The floating collar, underwater net and surrounding waves establish a sea cage rather than a basket. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aquaculture-circular-sea-cage","label_en":"Circular sea cage","label_is":"Hringlaga sjókví","section":"02","category_en":"Aquaculture and seafood processing","category_is":"Fiskeldi og fiskvinnsla","batch":1,"tags":["aquaculture","sea-cage"],"description":"A floating circular collar supports a tapering net bag, with water marks outside.","design_note":"The floating collar, underwater net and surrounding waves establish a sea cage rather than a basket.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <ellipse cx="12" cy="8" rx="8" ry="3"/><path d="M4 8l2 10q6 4 12 0l2-10M8 11l1 8M16 11l-1 8M6 15q6 3 12 0M2 5q1-1 2 0M20 19q1-1 2 0"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-power-savonius-wind-title" aria-describedby="uteamup-sectors-power-savonius-wind-desc">
+  <title id="uteamup-sectors-power-savonius-wind-title">Savonius wind installation — Savonius-vindmylla</title>
+  <desc id="uteamup-sectors-power-savonius-wind-desc">Two offset half-cylinder scoops form an S-shaped vertical rotor above its support base.</desc>
+  <!-- Subject: power-savonius-wind. Solid-curved scoop contours distinguish the drag-based Savonius rotor from the bowed Darrieus airfoils. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"power-savonius-wind","label_en":"Savonius wind installation","label_is":"Savonius-vindmylla","section":"06","category_en":"Power plants and generation","category_is":"Orkuver og orkuframleiðsla","batch":3,"tags":["power","wind"],"description":"Two offset half-cylinder scoops form an S-shaped vertical rotor above its support base.","design_note":"Solid-curved scoop contours distinguish the drag-based Savonius rotor from the bowed Darrieus airfoils.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M12 3q-8 0-8 5v9q0-5 8-5V3zM12 12q8 0 8-5v9q0 4-8 4zM12 3v19M8 22h8"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aviation-ski-plane-title" aria-describedby="uteamup-sectors-aviation-ski-plane-desc">
+  <title id="uteamup-sectors-aviation-ski-plane-title">Ski-equipped aircraft — Skíðaflugvél</title>
+  <desc id="uteamup-sectors-aviation-ski-plane-desc">A light aircraft in side view has two separated long curved skis on its undercarriage.</desc>
+  <!-- Subject: aviation-ski-plane. The open curved ski runners replace pontoons or wheels and make snow operations visible. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aviation-ski-plane","label_en":"Ski-equipped aircraft","label_is":"Skíðaflugvél","section":"04","category_en":"Aircraft and flight","category_is":"Loftför og flug","batch":2,"tags":["aviation","aircraft"],"description":"A light aircraft in side view has two separated long curved skis on its undercarriage.","design_note":"The open curved ski runners replace pontoons or wheels and make snow operations visible.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 10h10l6-2 3-5v11H5zM6 10V6h6l3 4M8 14v4M17 14v4M3 18h8q2 0 3-2M12 21h8q2 0 2-2M7 18v3M17 18v3"/>
+</svg>

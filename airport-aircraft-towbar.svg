@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-airport-aircraft-towbar-title" aria-describedby="uteamup-sectors-airport-aircraft-towbar-desc">
+  <title id="uteamup-sectors-airport-aircraft-towbar-title">Aircraft towbar — Dráttarbeisli flugvélar</title>
+  <desc id="uteamup-sectors-airport-aircraft-towbar-desc">A long diagonal aircraft towbar has coupling forks at both ends and a small central support wheel.</desc>
+  <!-- Subject: airport-aircraft-towbar. The long connecting bar and end couplings show the detachable towing implement itself. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"airport-aircraft-towbar","label_en":"Aircraft towbar","label_is":"Dráttarbeisli flugvélar","section":"05","category_en":"Airports, ground handling and aviation services","category_is":"Flugvellir, flugafgreiðsla og flugþjónusta","batch":3,"tags":["aviation","towing"],"description":"A long diagonal aircraft towbar has coupling forks at both ends and a small central support wheel.","design_note":"The long connecting bar and end couplings show the detachable towing implement itself.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 20L19 4M2 18l4 4M18 3l4 4M10 13h5M12 11v6"/><circle cx="14" cy="18" r="2.5"/>
+</svg>

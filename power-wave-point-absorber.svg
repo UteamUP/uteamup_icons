@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-power-wave-point-absorber-title" aria-describedby="uteamup-sectors-power-wave-point-absorber-desc">
+  <title id="uteamup-sectors-power-wave-point-absorber-title">Point-absorber wave generator — Ölduvirkjun með flotbauju</title>
+  <desc id="uteamup-sectors-power-wave-point-absorber-desc">A floating annular buoy moves around a vertical power-take-off column above an anchored lower line.</desc>
+  <!-- Subject: power-wave-point-absorber. The collar float and central sliding column show a point absorber rather than a passive navigation buoy. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"power-wave-point-absorber","label_en":"Point-absorber wave generator","label_is":"Ölduvirkjun með flotbauju","section":"06","category_en":"Power plants and generation","category_is":"Orkuver og orkuframleiðsla","batch":3,"tags":["power","wave"],"description":"A floating annular buoy moves around a vertical power-take-off column above an anchored lower line.","design_note":"The collar float and central sliding column show a point absorber rather than a passive navigation buoy.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M9 3h6v13H9zM5 11q7-4 14 0v3q-7 4-14 0zM12 5v3M12 16v6M9 22h6M2 13q1-1 2 0M20 13q1-1 2 0"/>
+</svg>

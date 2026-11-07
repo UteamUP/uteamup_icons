@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-power-rooftop-solar-title" aria-describedby="uteamup-sectors-power-rooftop-solar-desc">
+  <title id="uteamup-sectors-power-rooftop-solar-title">Rooftop solar installation — Sólarsellur á þaki</title>
+  <desc id="uteamup-sectors-power-rooftop-solar-desc">A house carries a sloped photovoltaic array integrated with its pitched roof.</desc>
+  <!-- Subject: power-rooftop-solar. The array is installed on an occupied roof, visibly different from ground, water or crop-canopy arrays. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"power-rooftop-solar","label_en":"Rooftop solar installation","label_is":"Sólarsellur á þaki","section":"06","category_en":"Power plants and generation","category_is":"Orkuver og orkuframleiðsla","batch":3,"tags":["power","solar"],"description":"A house carries a sloped photovoltaic array integrated with its pitched roof.","design_note":"The array is installed on an occupied roof, visibly different from ground, water or crop-canopy arrays.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 11l10-8 10 8M4 11v11h16V11M5 9l6-4 5 4-5 2zM8 7l5 3M5 15h3v4H5zM13 14h4v8"/>
+</svg>

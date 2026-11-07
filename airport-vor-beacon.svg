@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-airport-vor-beacon-title" aria-describedby="uteamup-sectors-airport-vor-beacon-desc">
+  <title id="uteamup-sectors-airport-vor-beacon-title">VOR navigation beacon — VOR-hringviti</title>
+  <desc id="uteamup-sectors-airport-vor-beacon-desc">A short radio beacon has a broad circular counterpoise roof and a small central antenna.</desc>
+  <!-- Subject: airport-vor-beacon. The broad disk and central aerial identify the ground navigation beacon without using a generic tower. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"airport-vor-beacon","label_en":"VOR navigation beacon","label_is":"VOR-hringviti","section":"05","category_en":"Airports, ground handling and aviation services","category_is":"Flugvellir, flugafgreiðsla og flugþjónusta","batch":3,"tags":["aviation","radio-navigation"],"description":"A short radio beacon has a broad circular counterpoise roof and a small central antenna.","design_note":"The broad disk and central aerial identify the ground navigation beacon without using a generic tower.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <ellipse cx="12" cy="10" rx="10" ry="3"/><path d="M10 7l2-5 2 5M8 13v7h8v-7M11 16h2v4M2 22h20"/>
+</svg>

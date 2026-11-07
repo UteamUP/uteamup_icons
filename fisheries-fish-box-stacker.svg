@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-fish-box-stacker-title" aria-describedby="uteamup-sectors-fisheries-fish-box-stacker-desc">
+  <title id="uteamup-sectors-fisheries-fish-box-stacker-title">Fish-box stacker — Staflari fiskkassa</title>
+  <desc id="uteamup-sectors-fisheries-fish-box-stacker-desc">A vertical stacking mast supports a crate on a lifting shelf beneath another incoming box.</desc>
+  <!-- Subject: fisheries-fish-box-stacker. A stationary vertical lift handling separate crates shows stacking rather than a mobile forklift. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-fish-box-stacker","label_en":"Fish-box stacker","label_is":"Staflari fiskkassa","section":"03","category_en":"Fisheries services, ports and cold logistics","category_is":"Þjónusta við sjávarútveg, hafnir og kælikeðja","batch":2,"tags":["fisheries","handling"],"description":"A vertical stacking mast supports a crate on a lifting shelf beneath another incoming box.","design_note":"A stationary vertical lift handling separate crates shows stacking rather than a mobile forklift.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 3v19M7 3v19M3 7h4M3 15h4M7 12h14v7H7zM11 15h6M7 21h14M11 5h10v4H11zM9 7h2"/>
+</svg>

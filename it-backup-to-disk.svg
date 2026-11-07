@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-it-backup-to-disk-title" aria-describedby="uteamup-sectors-it-backup-to-disk-desc">
+  <title id="uteamup-sectors-it-backup-to-disk-title">Backup to disk — Öryggisafrit á disk</title>
+  <desc id="uteamup-sectors-it-backup-to-disk-desc">A large downward save arrow points into a clearly drawn hard-drive enclosure with a bevelled top and front status lights.</desc>
+  <!-- Subject: it-backup-to-disk. A large downward save arrow points into a clearly drawn hard-drive enclosure with a bevelled top and front status lights. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"it-backup-to-disk","label_en":"Backup to disk","label_is":"Öryggisafrit á disk","section":"14","category_en":"Computer expertise and IT services","category_is":"Tölvusérfræði og upplýsingatækniþjónusta","batch":7,"tags":["computer","IT","service"],"description":"A large downward save arrow points into a clearly drawn hard-drive enclosure with a bevelled top and front status lights.","design_note":"A large downward save arrow points into a clearly drawn hard-drive enclosure with a bevelled top and front status lights.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M12 2v9 M8 7l4 4 4-4 M5 14h14l3 5v3H2v-3l3-5Z M2 19h20 M5 21h2 M18 21h1"/>
+</svg>

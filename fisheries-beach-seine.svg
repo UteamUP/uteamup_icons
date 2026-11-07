@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-beach-seine-title" aria-describedby="uteamup-sectors-fisheries-beach-seine-desc">
+  <title id="uteamup-sectors-fisheries-beach-seine-title">Beach seine — Dragnót við strönd</title>
+  <desc id="uteamup-sectors-fisheries-beach-seine-desc">A broad U-shaped seine surrounds open water, with two hauling ends returning toward the shore.</desc>
+  <!-- Subject: fisheries-beach-seine. The curved surrounding curtain and two shoreward ends are essential to a beach seine. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-beach-seine","label_en":"Beach seine","label_is":"Dragnót við strönd","section":"01","category_en":"Fishing vessels and harvesting gear","category_is":"Fiskiskip og veiðarfæri","batch":1,"tags":["fishing","net"],"description":"A broad U-shaped seine surrounds open water, with two hauling ends returning toward the shore.","design_note":"The curved surrounding curtain and two shoreward ends are essential to a beach seine.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 4q10 12 20 0M2 4v9q10 12 20 0V4M6 7.8v9M12 10v9M18 7.8v9M3 21l4-2M17 19l4 2M2 4V2M22 4V2"/>
+</svg>

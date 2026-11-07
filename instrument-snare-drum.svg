@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-instrument-snare-drum-title" aria-describedby="uteamup-sectors-instrument-snare-drum-desc">
+  <title id="uteamup-sectors-instrument-snare-drum-title">Snare drum — Sneriltromma</title>
+  <desc id="uteamup-sectors-instrument-snare-drum-desc">A shallow snare drum has a tensioned oval head, three spaced shell lugs and two short playing sticks above it.</desc>
+  <!-- Subject: instrument-snare-drum. A shallow snare drum has a tensioned oval head, three spaced shell lugs and two short playing sticks above it. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"instrument-snare-drum","label_en":"Snare drum","label_is":"Sneriltromma","section":"17","category_en":"Musical instruments and music services","category_is":"Hljóðfæri og tónlistarþjónusta","batch":9,"tags":["music","percussion"],"description":"A shallow snare drum has a tensioned oval head, three spaced shell lugs and two short playing sticks above it.","design_note":"A shallow snare drum has a tensioned oval head, three spaced shell lugs and two short playing sticks above it.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <ellipse cx="12" cy="6" rx="9" ry="3"/><path d="M3 6V16Q12 21 21 16V6 M3 14Q12 19 21 14 M7 9V16 M12 10V17 M17 9V16 M7 2L15 5 M17 2L12 5"/>
+</svg>

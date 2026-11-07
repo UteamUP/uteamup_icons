@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aquaculture-drum-filter-title" aria-describedby="uteamup-sectors-aquaculture-drum-filter-desc">
+  <title id="uteamup-sectors-aquaculture-drum-filter-title">Rotary drum filter — Tromlusía</title>
+  <desc id="uteamup-sectors-aquaculture-drum-filter-desc">A horizontal mesh drum sits on a frame under a small wash-water header.</desc>
+  <!-- Subject: aquaculture-drum-filter. Repeated wide spaced screen ribs and an overhead rinse pipe distinguish filtering from a bare cable drum. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aquaculture-drum-filter","label_en":"Rotary drum filter","label_is":"Tromlusía","section":"02","category_en":"Aquaculture and seafood processing","category_is":"Fiskeldi og fiskvinnsla","batch":1,"tags":["aquaculture","filtration"],"description":"A horizontal mesh drum sits on a frame under a small wash-water header.","design_note":"Repeated wide spaced screen ribs and an overhead rinse pipe distinguish filtering from a bare cable drum.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <ellipse cx="6" cy="11" rx="3" ry="6"/><path d="M6 5h12c4 0 4 12 0 12H6M6 5v12M9 5v12M13 5v12M17 5v12M2 21h20M5 17v4M19 17v4M10 2h9v2"/>
+</svg>

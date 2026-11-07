@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-diver-hull-inspection-title" aria-describedby="uteamup-sectors-fisheries-diver-hull-inspection-desc">
+  <title id="uteamup-sectors-fisheries-diver-hull-inspection-title">Diver hull inspection — Köfunarskoðun skipsbotns</title>
+  <desc id="uteamup-sectors-fisheries-diver-hull-inspection-desc">A diver mask and a magnifying lens sit beneath the underside of a boat hull.</desc>
+  <!-- Subject: fisheries-diver-hull-inspection. Diving equipment placed under the hull makes underwater inspection visible, distinct from shore washing. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-diver-hull-inspection","label_en":"Diver hull inspection","label_is":"Köfunarskoðun skipsbotns","section":"03","category_en":"Fisheries services, ports and cold logistics","category_is":"Þjónusta við sjávarútveg, hafnir og kælikeðja","batch":2,"tags":["fisheries","inspection"],"description":"A diver mask and a magnifying lens sit beneath the underside of a boat hull.","design_note":"Diving equipment placed under the hull makes underwater inspection visible, distinct from shore washing.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 3h20l-4 6H6zM4 12h9v5H4zM8 12v5M13 15h3v-4M4 14H2M17 20l4 2"/><circle cx="17" cy="17" r="3"/>
+</svg>

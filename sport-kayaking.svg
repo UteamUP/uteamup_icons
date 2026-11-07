@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-sport-kayaking-title" aria-describedby="uteamup-sectors-sport-kayaking-desc">
+  <title id="uteamup-sectors-sport-kayaking-title">Kayaking — Kajakróður</title>
+  <desc id="uteamup-sectors-sport-kayaking-desc">A long narrow kayak has a central cockpit crossed by a double-ended paddle with two distinct blades.</desc>
+  <!-- Subject: sport-kayaking. A long narrow kayak has a central cockpit crossed by a double-ended paddle with two distinct blades. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"sport-kayaking","label_en":"Kayaking","label_is":"Kajakróður","section":"09","category_en":"Sports and recreation","category_is":"Íþróttir og útivist","batch":5,"tags":["sport","recreation"],"description":"A long narrow kayak has a central cockpit crossed by a double-ended paddle with two distinct blades.","design_note":"A long narrow kayak has a central cockpit crossed by a double-ended paddle with two distinct blades.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <ellipse cx="12" cy="12" rx="4" ry="10"/><ellipse cx="12" cy="12" rx="2" ry="4"/><path d="M2 3l5 3-2 3-3-3V3Z M17 15l5 3v3l-5-3v-3Z M6 7l12 10"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-it-helpdesk-ticket-title" aria-describedby="uteamup-sectors-it-helpdesk-ticket-desc">
+  <title id="uteamup-sectors-it-helpdesk-ticket-title">Helpdesk ticket — Þjónustubeiðni</title>
+  <desc id="uteamup-sectors-it-helpdesk-ticket-desc">A notched service ticket contains a distinct speech-panel shape beside short perforation marks.</desc>
+  <!-- Subject: it-helpdesk-ticket. A notched service ticket contains a distinct speech-panel shape beside short perforation marks. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"it-helpdesk-ticket","label_en":"Helpdesk ticket","label_is":"Þjónustubeiðni","section":"14","category_en":"Computer expertise and IT services","category_is":"Tölvusérfræði og upplýsingatækniþjónusta","batch":7,"tags":["computer","IT","service"],"description":"A notched service ticket contains a distinct speech-panel shape beside short perforation marks.","design_note":"A notched service ticket contains a distinct speech-panel shape beside short perforation marks.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 5h20v5a2 2 0 0 0 0 4v5H2v-5a2 2 0 0 0 0-4V5Z M8 5v3 M8 16v3 M11 8h8v6h-4l-3 2v-2h-1V8Z"/>
+</svg>

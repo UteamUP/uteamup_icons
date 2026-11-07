@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aviation-airliner-title" aria-describedby="uteamup-sectors-aviation-airliner-desc">
+  <title id="uteamup-sectors-aviation-airliner-title">Passenger airliner — Farþegaþota</title>
+  <desc id="uteamup-sectors-aviation-airliner-desc">A passenger jet seen from above has a rounded fuselage, swept wings, engine positions and an aft tailplane.</desc>
+  <!-- Subject: aviation-airliner. The full-bodied conventional airliner and swept wings contrast with the narrow sailplane and delta configurations. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aviation-airliner","label_en":"Passenger airliner","label_is":"Farþegaþota","section":"04","category_en":"Aircraft and flight","category_is":"Loftför og flug","batch":2,"tags":["aviation","aircraft"],"description":"A passenger jet seen from above has a rounded fuselage, swept wings, engine positions and an aft tailplane.","design_note":"The full-bodied conventional airliner and swept wings contrast with the narrow sailplane and delta configurations.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M10 5q0-3 2-3t2 3v4l8 6v2l-8-3v5l3 2v1l-5-1-5 1v-1l3-2v-5l-8 3v-2l8-6zM6 12v3M18 12v3"/>
+</svg>

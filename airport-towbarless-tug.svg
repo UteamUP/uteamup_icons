@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-airport-towbarless-tug-title" aria-describedby="uteamup-sectors-airport-towbarless-tug-desc">
+  <title id="uteamup-sectors-airport-towbarless-tug-title">Towbarless aircraft tug — Beislislaus flugvéladráttarbíll</title>
+  <desc id="uteamup-sectors-airport-towbarless-tug-desc">A U-shaped aircraft tractor surrounds a captured nose wheel inside its open central cradle.</desc>
+  <!-- Subject: airport-towbarless-tug. The deep open wheel-capture bay makes the towbarless mechanism visibly different from a towbar tractor. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"airport-towbarless-tug","label_en":"Towbarless aircraft tug","label_is":"Beislislaus flugvéladráttarbíll","section":"05","category_en":"Airports, ground handling and aviation services","category_is":"Flugvellir, flugafgreiðsla og flugþjónusta","batch":3,"tags":["aviation","towing"],"description":"A U-shaped aircraft tractor surrounds a captured nose wheel inside its open central cradle.","design_note":"The deep open wheel-capture bay makes the towbarless mechanism visibly different from a towbar tractor.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 3h18v18h-6v-8H9v8H3zM3 8h18M6 12v6M18 12v6M12 13v3"/><circle cx="12" cy="18" r="2"/>
+</svg>

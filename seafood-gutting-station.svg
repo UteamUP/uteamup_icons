@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-seafood-gutting-station-title" aria-describedby="uteamup-sectors-seafood-gutting-station-desc">
+  <title id="uteamup-sectors-seafood-gutting-station-title">Fish gutting station — Slægingarstöð</title>
+  <desc id="uteamup-sectors-seafood-gutting-station-desc">A supported fish with a short belly seam is positioned below a curved suction hose.</desc>
+  <!-- Subject: seafood-gutting-station. The belly seam and suction nozzle represent a gutting work station without exposed anatomy. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"seafood-gutting-station","label_en":"Fish gutting station","label_is":"Slægingarstöð","section":"02","category_en":"Aquaculture and seafood processing","category_is":"Fiskeldi og fiskvinnsla","batch":1,"tags":["seafood","processing"],"description":"A supported fish with a short belly seam is positioned below a curved suction hose.","design_note":"The belly seam and suction nozzle represent a gutting work station without exposed anatomy.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 18h18M5 18v4M19 18v4M6 14q5-5 10 0-5 5-10 0l-3-2v4zM9 15h4M12 12V7q0-4 5-4h4M17 3v5h4V3"/>
+</svg>

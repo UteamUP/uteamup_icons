@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aviation-airbrake-title" aria-describedby="uteamup-sectors-aviation-airbrake-desc">
+  <title id="uteamup-sectors-aviation-airbrake-title">Raised wing airbrake — Lofthemill á væng</title>
+  <desc id="uteamup-sectors-aviation-airbrake-desc">An airfoil carries a raised upper panel that projects into the passing airflow.</desc>
+  <!-- Subject: aviation-airbrake. The panel rises above the wing surface, the key difference from a downward trailing-edge flap. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aviation-airbrake","label_en":"Raised wing airbrake","label_is":"Lofthemill á væng","section":"04","category_en":"Aircraft and flight","category_is":"Loftför og flug","batch":2,"tags":["aviation","flight-controls"],"description":"An airfoil carries a raised upper panel that projects into the passing airflow.","design_note":"The panel rises above the wing surface, the key difference from a downward trailing-edge flap.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 15q7-6 20-1v3H2zM10 12L6 5l2-2 6 8M15 6l3-2M17 10l4-1"/>
+</svg>

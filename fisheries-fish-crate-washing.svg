@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-fish-crate-washing-title" aria-describedby="uteamup-sectors-fisheries-fish-crate-washing-desc">
+  <title id="uteamup-sectors-fisheries-fish-crate-washing-title">Fish crate washing — Þvottur fiskkassa</title>
+  <desc id="uteamup-sectors-fisheries-fish-crate-washing-desc">A vented fish crate sits beneath three separated wash nozzles.</desc>
+  <!-- Subject: fisheries-fish-crate-washing. Open crate walls and nozzle spacing make washing returnable containers distinct from washing fish. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-fish-crate-washing","label_en":"Fish crate washing","label_is":"Þvottur fiskkassa","section":"03","category_en":"Fisheries services, ports and cold logistics","category_is":"Þjónusta við sjávarútveg, hafnir og kælikeðja","batch":2,"tags":["fisheries","hygiene"],"description":"A vented fish crate sits beneath three separated wash nozzles.","design_note":"Open crate walls and nozzle spacing make washing returnable containers distinct from washing fish.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M4 12h16l-2 9H6zM8 15v3M12 15v3M16 15v3M3 8V3h18v5M7 3v3M12 3v3M17 3v3M7 8v1M12 8v1M17 8v1"/>
+</svg>

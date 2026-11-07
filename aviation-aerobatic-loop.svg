@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aviation-aerobatic-loop-title" aria-describedby="uteamup-sectors-aviation-aerobatic-loop-desc">
+  <title id="uteamup-sectors-aviation-aerobatic-loop-title">Aerobatic loop — Listflugshringur</title>
+  <desc id="uteamup-sectors-aviation-aerobatic-loop-desc">A small aircraft leaves a large vertical looping flight path with a directional exit.</desc>
+  <!-- Subject: aviation-aerobatic-loop. The loop path and aircraft depict a manoeuvre rather than another aircraft variant. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aviation-aerobatic-loop","label_en":"Aerobatic loop","label_is":"Listflugshringur","section":"04","category_en":"Aircraft and flight","category_is":"Loftför og flug","batch":2,"tags":["aviation","flight"],"description":"A small aircraft leaves a large vertical looping flight path with a directional exit.","design_note":"The loop path and aircraft depict a manoeuvre rather than another aircraft variant.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M7 17a7 7 0 1 1 9-1M16 16l-1-4M16 16l4-1M2 20h11l-4-3M8 20l-3 2M4 20l-2-2"/>
+</svg>

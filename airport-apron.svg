@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-airport-apron-title" aria-describedby="uteamup-sectors-airport-apron-desc">
+  <title id="uteamup-sectors-airport-apron-title">Aircraft parking apron — Flughlöð</title>
+  <desc id="uteamup-sectors-airport-apron-desc">An aircraft parking stand lies in a broad apron in front of a terminal frontage.</desc>
+  <!-- Subject: airport-apron. A nose-in aircraft symbol within a marked stand depicts the apron rather than a runway strip. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"airport-apron","label_en":"Aircraft parking apron","label_is":"Flughlöð","section":"05","category_en":"Airports, ground handling and aviation services","category_is":"Flugvellir, flugafgreiðsla og flugþjónusta","batch":3,"tags":["aviation","airport"],"description":"An aircraft parking stand lies in a broad apron in front of a terminal frontage.","design_note":"A nose-in aircraft symbol within a marked stand depicts the apron rather than a runway strip.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 9v13h20V9M5 3h14v3H5zM12 10v9M7 15l5-3 5 3M10 19l2-1 2 1M5 9h3M16 9h3"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-instrument-harp-title" aria-describedby="uteamup-sectors-instrument-harp-desc">
+  <title id="uteamup-sectors-instrument-harp-title">Concert harp — Harpa</title>
+  <desc id="uteamup-sectors-instrument-harp-desc">A concert harp has an arched neck, strong upright pillar, sloping soundbox and four widely separated strings.</desc>
+  <!-- Subject: instrument-harp. A concert harp has an arched neck, strong upright pillar, sloping soundbox and four widely separated strings. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"instrument-harp","label_en":"Concert harp","label_is":"Harpa","section":"17","category_en":"Musical instruments and music services","category_is":"Hljóðfæri og tónlistarþjónusta","batch":9,"tags":["music","strings"],"description":"A concert harp has an arched neck, strong upright pillar, sloping soundbox and four widely separated strings.","design_note":"A concert harp has an arched neck, strong upright pillar, sloping soundbox and four widely separated strings.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M4 3Q10 1 19 6L21 21H4V3 M4 5Q8 6 12 9L19 19 M8 6V19 M11 8V19 M14 11V19 M17 15V19"/>
+</svg>

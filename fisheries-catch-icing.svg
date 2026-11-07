@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-catch-icing-title" aria-describedby="uteamup-sectors-fisheries-catch-icing-desc">
+  <title id="uteamup-sectors-fisheries-catch-icing-title">Icing the catch — Ísun afla</title>
+  <desc id="uteamup-sectors-fisheries-catch-icing-desc">A tilted ice shovel drops angular ice pieces onto a fish in an open catch box.</desc>
+  <!-- Subject: fisheries-catch-icing. Ice falling from a shovel onto the catch explicitly shows icing rather than freezing machinery. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-catch-icing","label_en":"Icing the catch","label_is":"Ísun afla","section":"03","category_en":"Fisheries services, ports and cold logistics","category_is":"Þjónusta við sjávarútveg, hafnir og kælikeðja","batch":2,"tags":["fisheries","cold-chain"],"description":"A tilted ice shovel drops angular ice pieces onto a fish in an open catch box.","design_note":"Ice falling from a shovel onto the catch explicitly shows icing rather than freezing machinery.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 15h18l-2 7H5zM7 18q3-2 6 0-3 2-6 0M5 3l5-1 3 6-6 2zM10 3l7 7M13 12l1 1M17 13l1 1M9 12l-1 1"/>
+</svg>

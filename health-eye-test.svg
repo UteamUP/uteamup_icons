@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-health-eye-test-title" aria-describedby="uteamup-sectors-health-eye-test-desc">
+  <title id="uteamup-sectors-health-eye-test-title">Eye examination — Sjónpróf</title>
+  <desc id="uteamup-sectors-health-eye-test-desc">An open eye with a clear pupil sits beside a separate round occluder paddle used during vision checks.</desc>
+  <!-- Subject: health-eye-test. An open eye with a clear pupil sits beside a separate round occluder paddle used during vision checks. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"health-eye-test","label_en":"Eye examination","label_is":"Sjónpróf","section":"15","category_en":"Health, care and wellbeing services","category_is":"Heilsa, umönnun og velferðarþjónusta","batch":8,"tags":["health","eye-care"],"description":"An open eye with a clear pupil sits beside a separate round occluder paddle used during vision checks.","design_note":"An open eye with a clear pupil sits beside a separate round occluder paddle used during vision checks.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 9Q8 2 14 9Q8 16 2 9 M18 9V21"/><circle cx="8" cy="9" r="2.5"/><circle cx="18" cy="6" r="3"/>
+</svg>

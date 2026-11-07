@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-instrument-sitar-title" aria-describedby="uteamup-sectors-instrument-sitar-desc">
+  <title id="uteamup-sectors-instrument-sitar-title">Sitar — Sítar</title>
+  <desc id="uteamup-sectors-instrument-sitar-desc">A long-necked sitar has a large lower gourd, a small upper resonator, three broad frets and side tuning pegs.</desc>
+  <!-- Subject: instrument-sitar. A long-necked sitar has a large lower gourd, a small upper resonator, three broad frets and side tuning pegs. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"instrument-sitar","label_en":"Sitar","label_is":"Sítar","section":"17","category_en":"Musical instruments and music services","category_is":"Hljóðfæri og tónlistarþjónusta","batch":9,"tags":["music","strings"],"description":"A long-necked sitar has a large lower gourd, a small upper resonator, three broad frets and side tuning pegs.","design_note":"A long-necked sitar has a large lower gourd, a small upper resonator, three broad frets and side tuning pegs.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M11 2H14V13C20 14 21 21 13 22C5 22 4 15 11 13V2 M11 5H14 M11 8H14 M11 11H14 M14 4H17 M14 7H17 M10 18H16"/><circle cx="8" cy="5" r="2.2"/>
+</svg>

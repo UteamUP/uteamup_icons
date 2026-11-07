@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aquaculture-feed-barge-title" aria-describedby="uteamup-sectors-aquaculture-feed-barge-desc">
+  <title id="uteamup-sectors-aquaculture-feed-barge-title">Aquaculture feed barge — Fóðurprammi</title>
+  <desc id="uteamup-sectors-aquaculture-feed-barge-desc">A flat feed barge carries two large hopper-shaped feed silos.</desc>
+  <!-- Subject: aquaculture-feed-barge. Storage hoppers directly on a broad barge distinguish the service vessel from harvesting boats. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aquaculture-feed-barge","label_en":"Aquaculture feed barge","label_is":"Fóðurprammi","section":"02","category_en":"Aquaculture and seafood processing","category_is":"Fiskeldi og fiskvinnsla","batch":1,"tags":["aquaculture","feed"],"description":"A flat feed barge carries two large hopper-shaped feed silos.","design_note":"Storage hoppers directly on a broad barge distinguish the service vessel from harvesting boats.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 16h20l-3 5H5zM4 16V9l4-4 4 4v7M12 16V7l4-4 4 4v9M5 10h6M14 8h5M8 5V3M16 3V2"/>
+</svg>

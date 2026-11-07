@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-power-airborne-wind-title" aria-describedby="uteamup-sectors-power-airborne-wind-desc">
+  <title id="uteamup-sectors-power-airborne-wind-title">Airborne kite-energy system — Vindorka með flugdreka</title>
+  <desc id="uteamup-sectors-power-airborne-wind-desc">A tethered soft wing connects to a ground-level generating drum and mounting base.</desc>
+  <!-- Subject: power-airborne-wind. The tether ends at a generator drum, not a pilot harness, distinguishing kite-energy generation from paragliding. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"power-airborne-wind","label_en":"Airborne kite-energy system","label_is":"Vindorka með flugdreka","section":"06","category_en":"Power plants and generation","category_is":"Orkuver og orkuframleiðsla","batch":3,"tags":["power","wind"],"description":"A tethered soft wing connects to a ground-level generating drum and mounting base.","design_note":"The tether ends at a generator drum, not a pilot harness, distinguishing kite-energy generation from paragliding.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 6Q10-2 18 6Q10 2 2 6M4 6l8 8M16 6l-4 8M12 14v2M8 22h8"/><circle cx="12" cy="19" r="3"/><circle cx="12" cy="19" r="1"/>
+</svg>

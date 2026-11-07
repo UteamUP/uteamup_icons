@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-animal-pig-title" aria-describedby="uteamup-sectors-animal-pig-desc">
+  <title id="uteamup-sectors-animal-pig-title">Pig — Svín</title>
+  <desc id="uteamup-sectors-animal-pig-desc">A stout pig has a raised triangular ear, broad flat snout, curly tail and short legs.</desc>
+  <!-- Subject: animal-pig. A stout pig has a raised triangular ear, broad flat snout, curly tail and short legs. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"animal-pig","label_en":"Pig","label_is":"Svín","section":"10","category_en":"Land animals and animal care","category_is":"Landdýr og umönnun dýra","batch":5,"tags":["animal","care"],"description":"A stout pig has a raised triangular ear, broad flat snout, curly tail and short legs.","design_note":"A stout pig has a raised triangular ear, broad flat snout, curly tail and short legs.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M5 7Q10 4 17 7l2-2 1 4 2 1v4h-3l-2 2v6h-2v-5H8v5H6l-1-6Q2 13 5 7Z M19 10v4 M20.5 11.5v1 M5 10c-4 0-3-5-1-4"/><circle cx="17" cy="9" r="0.45"/>
+</svg>

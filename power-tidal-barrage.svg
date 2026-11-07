@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-power-tidal-barrage-title" aria-describedby="uteamup-sectors-power-tidal-barrage-desc">
+  <title id="uteamup-sectors-power-tidal-barrage-title">Tidal barrage plant — Sjávarfallavirkjun með stíflu</title>
+  <desc id="uteamup-sectors-power-tidal-barrage-desc">A wide coastal barrage contains multiple turbine and sluice openings between two water levels.</desc>
+  <!-- Subject: power-tidal-barrage. A long low gated barrier across tidal water is distinct from the tall reservoir dam. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"power-tidal-barrage","label_en":"Tidal barrage plant","label_is":"Sjávarfallavirkjun með stíflu","section":"06","category_en":"Power plants and generation","category_is":"Orkuver og orkuframleiðsla","batch":3,"tags":["power","tidal"],"description":"A wide coastal barrage contains multiple turbine and sluice openings between two water levels.","design_note":"A long low gated barrier across tidal water is distinct from the tall reservoir dam.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 9h20v9H2zM5 12h3v6H5zM10 12h4v6h-4zM16 12h3v6h-3zM2 4q3-2 6 0t6 0M9 21q3-2 6 0t6 0"/>
+</svg>

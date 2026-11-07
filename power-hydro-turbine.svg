@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-power-hydro-turbine-title" aria-describedby="uteamup-sectors-power-hydro-turbine-desc">
+  <title id="uteamup-sectors-power-hydro-turbine-title">Hydro turbine — Vatnshverfill</title>
+  <desc id="uteamup-sectors-power-hydro-turbine-desc">A broad spiral water casing feeds a central curved-blade runner and a short lower turbine outlet.</desc>
+  <!-- Subject: power-hydro-turbine. A broad spiral water casing feeds a central curved-blade runner and a short lower turbine outlet. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"power-hydro-turbine","label_en":"Hydro turbine","label_is":"Vatnshverfill","section":"07","category_en":"Power plant equipment and systems","category_is":"Búnaður og kerfi orkuvera","batch":4,"tags":["power plant","equipment","energy"],"description":"A broad spiral water casing feeds a central curved-blade runner and a short lower turbine outlet.","design_note":"A broad spiral water casing feeds a central curved-blade runner and a short lower turbine outlet.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M12 4h9v4h-5 M12 4a8 8 0 1 0 8 8 M20 12V8"/><circle cx="12" cy="12" r="4"/><path d="M12 8q-1 3-4 4 M16 12q-3-1-4 4 M12 16q1-3 4-4 M12 20v2"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-dahn-buoy-title" aria-describedby="uteamup-sectors-fisheries-dahn-buoy-desc">
+  <title id="uteamup-sectors-fisheries-dahn-buoy-title">Dahn buoy — Flaggdufl</title>
+  <desc id="uteamup-sectors-fisheries-dahn-buoy-desc">A tall marker buoy carries a small flag above its float and a weighted lower stem.</desc>
+  <!-- Subject: fisheries-dahn-buoy. The tall flag staff and lower ballast distinguish a gear marker from an anchor buoy. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-dahn-buoy","label_en":"Dahn buoy","label_is":"Flaggdufl","section":"01","category_en":"Fishing vessels and harvesting gear","category_is":"Fiskiskip og veiðarfæri","batch":1,"tags":["fishing","buoy","marker"],"description":"A tall marker buoy carries a small flag above its float and a weighted lower stem.","design_note":"The tall flag staff and lower ballast distinguish a gear marker from an anchor buoy.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M12 2v15M12 2h8l-3 3h-5M12 19v3M3 20h5M16 20h5"/><ellipse cx="12" cy="17" rx="4" ry="2"/>
+</svg>

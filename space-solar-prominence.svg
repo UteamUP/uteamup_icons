@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-space-solar-prominence-title" aria-describedby="uteamup-sectors-space-solar-prominence-desc">
+  <title id="uteamup-sectors-space-solar-prominence-title">Solar prominence — Sólstrókur</title>
+  <desc id="uteamup-sectors-space-solar-prominence-desc">A tall loop of plasma arches away from the curved solar limb, with a separate short surface contour below it.</desc>
+  <!-- Subject: space-solar-prominence. The loop is labelled a solar prominence, following NASA terminology, rather than treating every solar loop as a flare. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"space-solar-prominence","label_en":"Solar prominence","label_is":"Sólstrókur","section":"16","category_en":"Space, astronomy and exploration","category_is":"Geimurinn, stjörnufræði og geimrannsóknir","batch":8,"tags":["space","solar-phenomenon"],"description":"A tall loop of plasma arches away from the curved solar limb, with a separate short surface contour below it.","design_note":"The loop is labelled a solar prominence, following NASA terminology, rather than treating every solar loop as a flare.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 21A13 13 0 0 1 18 5 M12 7C9 2 17 1 20 5C23 9 19 14 16 10 M7 17Q9 11 14 9"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-dry-dock-title" aria-describedby="uteamup-sectors-fisheries-dry-dock-desc">
+  <title id="uteamup-sectors-fisheries-dry-dock-title">Ship dry dock — Þurrkví</title>
+  <desc id="uteamup-sectors-fisheries-dry-dock-desc">A vessel bow stands on keel blocks inside high dry-dock walls.</desc>
+  <!-- Subject: fisheries-dry-dock. A frontal hull supported above the dock floor shows dry docking instead of afloat storage. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-dry-dock","label_en":"Ship dry dock","label_is":"Þurrkví","section":"03","category_en":"Fisheries services, ports and cold logistics","category_is":"Þjónusta við sjávarútveg, hafnir og kælikeðja","batch":2,"tags":["fisheries","repair"],"description":"A vessel bow stands on keel blocks inside high dry-dock walls.","design_note":"A frontal hull supported above the dock floor shows dry docking instead of afloat storage.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 5v17h20V5M5 8h14l-2 8-5 4-5-4zM9 8V3h6v5M8 18l-2 4M16 18l2 4M12 20v2"/>
+</svg>

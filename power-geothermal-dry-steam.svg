@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-power-geothermal-dry-steam-title" aria-describedby="uteamup-sectors-power-geothermal-dry-steam-desc">
+  <title id="uteamup-sectors-power-geothermal-dry-steam-title">Dry-steam geothermal plant — Jarðgufuvirkjun</title>
+  <desc id="uteamup-sectors-power-geothermal-dry-steam-desc">A deep production well pipes steam directly into a turbine hall, with a separate return well below ground.</desc>
+  <!-- Subject: power-geothermal-dry-steam. The production well connects directly to the turbine without a separator or secondary heat-exchanger loop. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"power-geothermal-dry-steam","label_en":"Dry-steam geothermal plant","label_is":"Jarðgufuvirkjun","section":"06","category_en":"Power plants and generation","category_is":"Orkuver og orkuframleiðsla","batch":3,"tags":["power","geothermal"],"description":"A deep production well pipes steam directly into a turbine hall, with a separate return well below ground.","design_note":"The production well connects directly to the turbine without a separator or secondary heat-exchanger loop.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 16h20M6 22V6h7M13 4h9v8h-9zM17 12v10M3 20q1-2 2 0M19 20q1-2 2 0"/><circle cx="17.5" cy="8" r="2"/>
+</svg>

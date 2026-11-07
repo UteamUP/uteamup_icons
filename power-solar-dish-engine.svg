@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-power-solar-dish-engine-title" aria-describedby="uteamup-sectors-power-solar-dish-engine-desc">
+  <title id="uteamup-sectors-power-solar-dish-engine-title">Solar dish-engine system — Sólarskál með Stirling-vél</title>
+  <desc id="uteamup-sectors-power-solar-dish-engine-desc">A curved reflecting dish focuses sunlight on a separate engine-receiver mounted ahead of it.</desc>
+  <!-- Subject: power-solar-dish-engine. The engine at the focal point is visible, differentiating the dish-generator from a simple antenna dish. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"power-solar-dish-engine","label_en":"Solar dish-engine system","label_is":"Sólarskál með Stirling-vél","section":"06","category_en":"Power plants and generation","category_is":"Orkuver og orkuframleiðsla","batch":3,"tags":["power","solar-thermal"],"description":"A curved reflecting dish focuses sunlight on a separate engine-receiver mounted ahead of it.","design_note":"The engine at the focal point is visible, differentiating the dish-generator from a simple antenna dish.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M4 4q0 14 14 14L4 4zM6 7h8M16 9v6M10 17v5M6 22h8M21 3l-3 2M22 8h-3"/><rect x="14" y="5" width="4" height="4" rx="0.5"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aquaculture-fish-grader-title" aria-describedby="uteamup-sectors-aquaculture-fish-grader-desc">
+  <title id="uteamup-sectors-aquaculture-fish-grader-title">Fish size grader — Fiskstærðarflokkari</title>
+  <desc id="uteamup-sectors-aquaculture-fish-grader-desc">A grading bed has diverging roller gaps and a lower outlet between its support legs.</desc>
+  <!-- Subject: aquaculture-fish-grader. Changing gaps between physical rollers make the sorting mechanism visible. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aquaculture-fish-grader","label_en":"Fish size grader","label_is":"Fiskstærðarflokkari","section":"02","category_en":"Aquaculture and seafood processing","category_is":"Fiskeldi og fiskvinnsla","batch":1,"tags":["aquaculture","grading"],"description":"A grading bed has diverging roller gaps and a lower outlet between its support legs.","design_note":"Changing gaps between physical rollers make the sorting mechanism visible.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M4 3l1 13M9 3v13M14 3l-1 13M19 3l-2 13M2 3h20M3 16h16M5 16v6M17 16v6M10 19l2 3 2-3"/>
+</svg>

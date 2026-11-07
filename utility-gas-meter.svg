@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-utility-gas-meter-title" aria-describedby="uteamup-sectors-utility-gas-meter-desc">
+  <title id="uteamup-sectors-utility-gas-meter-title">Gas meter — Gasmælir</title>
+  <desc id="uteamup-sectors-utility-gas-meter-desc">A broad diaphragm gas-meter case has two bent upper pipe connections and a clearly separated counter window.</desc>
+  <!-- Subject: utility-gas-meter. A broad diaphragm gas-meter case has two bent upper pipe connections and a clearly separated counter window. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"utility-gas-meter","label_en":"Gas meter","label_is":"Gasmælir","section":"08","category_en":"Energy utilities, grids and services","category_is":"Orkuveitur, dreifikerfi og þjónusta","batch":4,"tags":["energy","utility"],"description":"A broad diaphragm gas-meter case has two bent upper pipe connections and a clearly separated counter window.","design_note":"A broad diaphragm gas-meter case has two bent upper pipe connections and a clearly separated counter window.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <rect x="4" y="8" width="16" height="14" rx="2"/><rect x="7" y="11" width="10" height="4" rx="0.5"/><path d="M7 8V3h3v3 M17 8V3h-3v3 M8 18h8"/>
+</svg>

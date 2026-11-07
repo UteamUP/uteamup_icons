@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-crab-pot-title" aria-describedby="uteamup-sectors-fisheries-crab-pot-desc">
+  <title id="uteamup-sectors-fisheries-crab-pot-title">Crab pot — Krabbagildra</title>
+  <desc id="uteamup-sectors-fisheries-crab-pot-desc">A three-dimensional rectangular wire crab pot has mesh rails and a tapered inward entrance.</desc>
+  <!-- Subject: fisheries-crab-pot. A rigid box cage and funnel entry make it structurally different from a domed creel. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-crab-pot","label_en":"Crab pot","label_is":"Krabbagildra","section":"01","category_en":"Fishing vessels and harvesting gear","category_is":"Fiskiskip og veiðarfæri","batch":1,"tags":["fishing","trap","shellfish"],"description":"A three-dimensional rectangular wire crab pot has mesh rails and a tapered inward entrance.","design_note":"A rigid box cage and funnel entry make it structurally different from a domed creel.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 7l4-4h14v14l-4 4H3ZM3 7h14l4-4M17 7v14M3 13h5M12 13h5M8 7v14M3 18h14M8 10l4 3-4 3ZM21 8l-4 4M21 13l-4 4"/>
+</svg>

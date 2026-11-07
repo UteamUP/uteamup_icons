@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-side-trawler-title" aria-describedby="uteamup-sectors-fisheries-side-trawler-desc">
+  <title id="uteamup-sectors-fisheries-side-trawler-title">Side trawler — Síðutogari</title>
+  <desc id="uteamup-sectors-fisheries-side-trawler-desc">A side trawler carries an amidships cabin and an outboard boom lowering gear beside the hull.</desc>
+  <!-- Subject: fisheries-side-trawler. The working line hangs beside the hull, unlike the stern-ramp trawler. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-side-trawler","label_en":"Side trawler","label_is":"Síðutogari","section":"01","category_en":"Fishing vessels and harvesting gear","category_is":"Fiskiskip og veiðarfæri","batch":1,"tags":["fishing","vessel"],"description":"A side trawler carries an amidships cabin and an outboard boom lowering gear beside the hull.","design_note":"The working line hangs beside the hull, unlike the stern-ramp trawler.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 15h20l-3 5H6ZM9 15V8h7v7M10 10h4M6 15V3l13 4M6 4L3 11M19 7v5M3 11h4l-1 5H4M3 22h18"/>
+</svg>

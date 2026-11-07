@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-animal-care-carrier-title" aria-describedby="uteamup-sectors-animal-care-carrier-desc">
+  <title id="uteamup-sectors-animal-care-carrier-title">Pet carrier — Ferðabúr fyrir gæludýr</title>
+  <desc id="uteamup-sectors-animal-care-carrier-desc">A handled pet carrier has a separate barred door and two clear side ventilation slots.</desc>
+  <!-- Subject: animal-care-carrier. A handled pet carrier has a separate barred door and two clear side ventilation slots. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"animal-care-carrier","label_en":"Pet carrier","label_is":"Ferðabúr fyrir gæludýr","section":"10","category_en":"Land animals and animal care","category_is":"Landdýr og umönnun dýra","batch":5,"tags":["animal","care"],"description":"A handled pet carrier has a separate barred door and two clear side ventilation slots.","design_note":"A handled pet carrier has a separate barred door and two clear side ventilation slots.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <rect x="2" y="7" width="20" height="15" rx="2"/><path d="M8 7V3h8v4 M7.5 10v9 M10.5 10v9 M16 11h3 M16 15h3"/><rect x="5" y="10" width="8" height="9" rx="1"/>
+</svg>

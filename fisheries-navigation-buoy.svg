@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-navigation-buoy-title" aria-describedby="uteamup-sectors-fisheries-navigation-buoy-desc">
+  <title id="uteamup-sectors-fisheries-navigation-buoy-title">Navigation buoy — Siglingadufl</title>
+  <desc id="uteamup-sectors-fisheries-navigation-buoy-desc">A floating channel marker carries a conical topmark on a narrow mast above its buoy body.</desc>
+  <!-- Subject: fisheries-navigation-buoy. A cone topmark makes this navigation buoy distinct from the harvesting flag and anchor buoys. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-navigation-buoy","label_en":"Navigation buoy","label_is":"Siglingadufl","section":"03","category_en":"Fisheries services, ports and cold logistics","category_is":"Þjónusta við sjávarútveg, hafnir og kælikeðja","batch":2,"tags":["fisheries","navigation"],"description":"A floating channel marker carries a conical topmark on a narrow mast above its buoy body.","design_note":"A cone topmark makes this navigation buoy distinct from the harvesting flag and anchor buoys.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M12 3l4 6H8zM12 9v5M6 14h12l-2 5H8zM2 21q3-2 6 0t6 0t6 0M9 12h6"/>
+</svg>

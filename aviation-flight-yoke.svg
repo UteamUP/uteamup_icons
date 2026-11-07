@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aviation-flight-yoke-title" aria-describedby="uteamup-sectors-aviation-flight-yoke-desc">
+  <title id="uteamup-sectors-aviation-flight-yoke-title">Flight control yoke — Stýrishorn flugvélar</title>
+  <desc id="uteamup-sectors-aviation-flight-yoke-desc">A U-shaped flight yoke has two upright hand grips joined to a central control column.</desc>
+  <!-- Subject: aviation-flight-yoke. Twin horn grips and a central shaft identify a yoke rather than a circular steering wheel. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aviation-flight-yoke","label_en":"Flight control yoke","label_is":"Stýrishorn flugvélar","section":"04","category_en":"Aircraft and flight","category_is":"Loftför og flug","batch":2,"tags":["aviation","cockpit"],"description":"A U-shaped flight yoke has two upright hand grips joined to a central control column.","design_note":"Twin horn grips and a central shaft identify a yoke rather than a circular steering wheel.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 6v7q0 4 5 4h8q5 0 5-4V6M3 6h5v5h8V6h5M12 17v5"/>
+</svg>

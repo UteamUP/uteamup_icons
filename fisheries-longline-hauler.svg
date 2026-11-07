@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-longline-hauler-title" aria-describedby="uteamup-sectors-fisheries-longline-hauler-desc">
+  <title id="uteamup-sectors-fisheries-longline-hauler-title">Longline hauler — Línudráttarvinda</title>
+  <desc id="uteamup-sectors-fisheries-longline-hauler-desc">A deck-mounted hauling wheel guides a single fishing line beside a supported base.</desc>
+  <!-- Subject: fisheries-longline-hauler. A large hauling wheel, guide and single line identify line retrieval rather than broad net rolling. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-longline-hauler","label_en":"Longline hauler","label_is":"Línudráttarvinda","section":"01","category_en":"Fishing vessels and harvesting gear","category_is":"Fiskiskip og veiðarfæri","batch":1,"tags":["fishing","machine","hauling"],"description":"A deck-mounted hauling wheel guides a single fishing line beside a supported base.","design_note":"A large hauling wheel, guide and single line identify line retrieval rather than broad net rolling.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <ellipse cx="12" cy="9" rx="5.5" ry="6"/><circle cx="12" cy="9" r="1.4"/><path d="M8 15v5h8v-5M5 21h14M6.5 9H3v10q0 3 2 1M17.5 9H21v8"/>
+</svg>

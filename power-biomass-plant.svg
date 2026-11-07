@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-power-biomass-plant-title" aria-describedby="uteamup-sectors-power-biomass-plant-desc">
+  <title id="uteamup-sectors-power-biomass-plant-title">Biomass power plant — Lífmassaorkuver</title>
+  <desc id="uteamup-sectors-power-biomass-plant-desc">Several angular wood chips feed a boiler hall beneath a separate flue stack.</desc>
+  <!-- Subject: power-biomass-plant. Visible wood-chip fuel beside the feed opening distinguishes this biomass installation from coal stockpile handling. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"power-biomass-plant","label_en":"Biomass power plant","label_is":"Lífmassaorkuver","section":"06","category_en":"Power plants and generation","category_is":"Orkuver og orkuframleiðsla","batch":3,"tags":["power","biomass"],"description":"Several angular wood chips feed a boiler hall beneath a separate flue stack.","design_note":"Visible wood-chip fuel beside the feed opening distinguishes this biomass installation from coal stockpile handling.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 15l4-2 2 3-4 2zM3 19l4-1 2 3H4zM9 10h13v12H9zM15 10V3h4v7M9 17H7M12 14h7M12 18h7"/>
+</svg>

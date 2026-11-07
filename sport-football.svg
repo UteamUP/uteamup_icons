@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-sport-football-title" aria-describedby="uteamup-sectors-sport-football-desc">
+  <title id="uteamup-sectors-sport-football-title">Football — Knattspyrna</title>
+  <desc id="uteamup-sectors-sport-football-desc">A round football has one clear central pentagon and five separated surrounding panel seams.</desc>
+  <!-- Subject: sport-football. A round football has one clear central pentagon and five separated surrounding panel seams. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"sport-football","label_en":"Football","label_is":"Knattspyrna","section":"09","category_en":"Sports and recreation","category_is":"Íþróttir og útivist","batch":5,"tags":["sport","recreation"],"description":"A round football has one clear central pentagon and five separated surrounding panel seams.","design_note":"A round football has one clear central pentagon and five separated surrounding panel seams.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <circle cx="12" cy="12" r="10"/><path d="M12 7l4 3-1.5 5h-5L8 10l4-3Z M12 7V2 M16 10l5-2 M14.5 15l3.5 5 M9.5 15 6 20 M8 10 3 8"/>
+</svg>

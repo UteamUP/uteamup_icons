@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-airport-pushback-tug-title" aria-describedby="uteamup-sectors-airport-pushback-tug-desc">
+  <title id="uteamup-sectors-airport-pushback-tug-title">Aircraft pushback tug — Flugvéladráttarbíll</title>
+  <desc id="uteamup-sectors-airport-pushback-tug-desc">A heavy low pushback tractor has a central cab, large tyres and a central tow connection.</desc>
+  <!-- Subject: airport-pushback-tug. The broad low chassis and large tyres identify a heavy aircraft tractor, unlike the small baggage tug. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"airport-pushback-tug","label_en":"Aircraft pushback tug","label_is":"Flugvéladráttarbíll","section":"05","category_en":"Airports, ground handling and aviation services","category_is":"Flugvellir, flugafgreiðsla og flugþjónusta","batch":3,"tags":["aviation","towing"],"description":"A heavy low pushback tractor has a central cab, large tyres and a central tow connection.","design_note":"The broad low chassis and large tyres identify a heavy aircraft tractor, unlike the small baggage tug.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 12h4V7h10l3 5h3v7H2zM7 7v5h10M10 7v5M11 19v3h2v-3"/><circle cx="5" cy="19" r="2.5"/><circle cx="19" cy="19" r="2.5"/>
+</svg>

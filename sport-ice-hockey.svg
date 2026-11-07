@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-sport-ice-hockey-title" aria-describedby="uteamup-sectors-sport-ice-hockey-desc">
+  <title id="uteamup-sectors-sport-ice-hockey-title">Ice hockey — Íshokkí</title>
+  <desc id="uteamup-sectors-sport-ice-hockey-desc">An angular ice-hockey stick has a long flat blade beside a separate low cylindrical puck.</desc>
+  <!-- Subject: sport-ice-hockey. An angular ice-hockey stick has a long flat blade beside a separate low cylindrical puck. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"sport-ice-hockey","label_en":"Ice hockey","label_is":"Íshokkí","section":"09","category_en":"Sports and recreation","category_is":"Íþróttir og útivist","batch":5,"tags":["sport","recreation"],"description":"An angular ice-hockey stick has a long flat blade beside a separate low cylindrical puck.","design_note":"An angular ice-hockey stick has a long flat blade beside a separate low cylindrical puck.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M4 2h3l5 15h8v4h-9L4 2Z M13 8v2c0 2 8 2 8 0V8"/><ellipse cx="17" cy="8" rx="4" ry="1.5"/>
+</svg>

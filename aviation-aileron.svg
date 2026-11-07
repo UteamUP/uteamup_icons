@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aviation-aileron-title" aria-describedby="uteamup-sectors-aviation-aileron-desc">
+  <title id="uteamup-sectors-aviation-aileron-title">Outboard aileron — Hallastýri</title>
+  <desc id="uteamup-sectors-aviation-aileron-desc">A tapered wing plan shows a hinged outboard trailing-edge panel and a small deflection arrow.</desc>
+  <!-- Subject: aviation-aileron. The control occupies the outer trailing edge of a wing, matching an aileron rather than a tail control. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aviation-aileron","label_en":"Outboard aileron","label_is":"Hallastýri","section":"04","category_en":"Aircraft and flight","category_is":"Loftför og flug","batch":2,"tags":["aviation","flight-controls"],"description":"A tapered wing plan shows a hinged outboard trailing-edge panel and a small deflection arrow.","design_note":"The control occupies the outer trailing edge of a wing, matching an aileron rather than a tail control.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 4l18 7v5L3 20zM12 18l-1-4 10-1M15 21q4 0 5-3M18 18h2v2"/>
+</svg>

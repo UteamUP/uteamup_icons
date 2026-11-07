@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-flower-raceme-title" aria-describedby="uteamup-sectors-flower-raceme-desc">
+  <title id="uteamup-sectors-flower-raceme-title">Raceme flower cluster — Klasi</title>
+  <desc id="uteamup-sectors-flower-raceme-desc">Individual stalked flowers alternate along one unbranched upright raceme axis.</desc>
+  <!-- Subject: flower-raceme. Each lateral stalk bears one representative flower, distinguishing the raceme from the branched panicle. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"flower-raceme","label_en":"Raceme flower cluster","label_is":"Klasi","section":"18","category_en":"Flowers, floral forms and floristry","category_is":"Blóm, blómgerðir og blómaskreytingar","batch":9,"tags":["botany","inflorescence"],"description":"Individual stalked flowers alternate along one unbranched upright raceme axis.","design_note":"Each lateral stalk bears one representative flower, distinguishing the raceme from the branched panicle.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M12 4V22 M12 7L7.8 7 M12 11L16.2 10.5 M12 15L7.8 15 M12 19L16.2 18"/><circle cx="12" cy="3" r="1"/><circle cx="6" cy="7" r="1.8"/><circle cx="18" cy="10.5" r="1.8"/><circle cx="6" cy="15" r="1.8"/><circle cx="18" cy="18" r="1.8"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-instrument-pipe-organ-title" aria-describedby="uteamup-sectors-instrument-pipe-organ-desc">
+  <title id="uteamup-sectors-instrument-pipe-organ-title">Pipe organ — Pípuorgel</title>
+  <desc id="uteamup-sectors-instrument-pipe-organ-desc">Four organ pipes of different heights rise from a wide console with a small keyboard and two feet.</desc>
+  <!-- Subject: instrument-pipe-organ. Four organ pipes of different heights rise from a wide console with a small keyboard and two feet. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"instrument-pipe-organ","label_en":"Pipe organ","label_is":"Pípuorgel","section":"17","category_en":"Musical instruments and music services","category_is":"Hljóðfæri og tónlistarþjónusta","batch":9,"tags":["music","keyboard","organ"],"description":"Four organ pipes of different heights rise from a wide console with a small keyboard and two feet.","design_note":"Four organ pipes of different heights rise from a wide console with a small keyboard and two feet.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 14V7H6V14 M9 14V2H12V14 M15 14V4H18V14 M20 14V9H22V14 M2 14H22V20H2V14 M6 16V20 M10 16V20 M14 16V20 M18 16V20 M4 20V22 M20 20V22"/>
+</svg>

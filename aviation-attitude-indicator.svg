@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aviation-attitude-indicator-title" aria-describedby="uteamup-sectors-aviation-attitude-indicator-desc">
+  <title id="uteamup-sectors-aviation-attitude-indicator-title">Attitude indicator — Flugstöðumælir</title>
+  <desc id="uteamup-sectors-aviation-attitude-indicator-desc">A round flight instrument has an artificial horizon, fixed miniature wings and pitch reference marks.</desc>
+  <!-- Subject: aviation-attitude-indicator. The horizon line and miniature aircraft reference make an attitude display recognisable without text. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aviation-attitude-indicator","label_en":"Attitude indicator","label_is":"Flugstöðumælir","section":"04","category_en":"Aircraft and flight","category_is":"Loftför og flug","batch":2,"tags":["aviation","instruments"],"description":"A round flight instrument has an artificial horizon, fixed miniature wings and pitch reference marks.","design_note":"The horizon line and miniature aircraft reference make an attitude display recognisable without text.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <circle cx="12" cy="12" r="9"/><path d="M4 9h16M6 12h4l2 2 2-2h4M8 17h8M12 3v2M5.5 5.5l1.5 1.5M18.5 5.5L17 7"/>
+</svg>

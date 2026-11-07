@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-earth-watershed-map-title" aria-describedby="uteamup-sectors-earth-watershed-map-desc">
+  <title id="uteamup-sectors-earth-watershed-map-title">Watershed map — Vatnasvið</title>
+  <desc id="uteamup-sectors-earth-watershed-map-desc">An irregular drainage boundary encloses several tributaries that merge into one lower river outlet.</desc>
+  <!-- Subject: earth-watershed-map. An irregular drainage boundary encloses several tributaries that merge into one lower river outlet. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"earth-watershed-map","label_en":"Watershed map","label_is":"Vatnasvið","section":"20","category_en":"Earth, landscapes and environmental services","category_is":"Jörðin, landslag og umhverfisþjónusta","batch":10,"tags":["earth","nature","environment"],"description":"An irregular drainage boundary encloses several tributaries that merge into one lower river outlet.","design_note":"An irregular drainage boundary encloses several tributaries that merge into one lower river outlet.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 8 7 2l9 1 6 7-3 7-7 5-8-4-2-6 1-4Z M12 20V10 M12 15 6 11 M12 12l6-5 M6 11 6 7 M6 11 3 10 M15 10l3 3 M12 10V5"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aviation-coaxial-helicopter-title" aria-describedby="uteamup-sectors-aviation-coaxial-helicopter-desc">
+  <title id="uteamup-sectors-aviation-coaxial-helicopter-title">Coaxial-rotor helicopter — Þyrla með samása þyrilvængi</title>
+  <desc id="uteamup-sectors-aviation-coaxial-helicopter-desc">Two horizontal main rotors share one mast above a helicopter cabin with no tail rotor.</desc>
+  <!-- Subject: aviation-coaxial-helicopter. Two separated rotor levels on the same axis, and the absence of a tail rotor, distinguish the coaxial configuration. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aviation-coaxial-helicopter","label_en":"Coaxial-rotor helicopter","label_is":"Þyrla með samása þyrilvængi","section":"04","category_en":"Aircraft and flight","category_is":"Loftför og flug","batch":2,"tags":["aviation","rotorcraft"],"description":"Two horizontal main rotors share one mast above a helicopter cabin with no tail rotor.","design_note":"Two separated rotor levels on the same axis, and the absence of a tail rotor, distinguish the coaxial configuration.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 3h20M4 6h16M12 3v7M4 16q0-6 6-6h5l2 6zM9 11v5M17 14h5v-3M5 21h14M7 16v5M16 16v5"/>
+</svg>

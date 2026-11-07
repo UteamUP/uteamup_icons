@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-power-biogas-plant-title" aria-describedby="uteamup-sectors-power-biogas-plant-desc">
+  <title id="uteamup-sectors-power-biogas-plant-title">Biogas power plant — Lífgasorkuver</title>
+  <desc id="uteamup-sectors-power-biogas-plant-desc">A domed anaerobic digester connects through a gas line to a small generating module.</desc>
+  <!-- Subject: power-biogas-plant. A large gas-collecting digester and attached generator show the complete biogas installation. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"power-biogas-plant","label_en":"Biogas power plant","label_is":"Lífgasorkuver","section":"06","category_en":"Power plants and generation","category_is":"Orkuver og orkuframleiðsla","batch":3,"tags":["power","biogas"],"description":"A domed anaerobic digester connects through a gas line to a small generating module.","design_note":"A large gas-collecting digester and attached generator show the complete biogas installation.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 12q0-8 8-8t8 8v8H2zM2 12h16M10 4V2M18 16h4v6h-4M6 16h6M18 10h4v6"/>
+</svg>

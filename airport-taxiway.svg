@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-airport-taxiway-title" aria-describedby="uteamup-sectors-airport-taxiway-desc">
+  <title id="uteamup-sectors-airport-taxiway-title">Taxiway junction — Akbrautarmót flugvallar</title>
+  <desc id="uteamup-sectors-airport-taxiway-desc">A curving taxiway joins a straight airport movement lane with a continuous turning centreline.</desc>
+  <!-- Subject: airport-taxiway. Rounded pavement boundaries and a centreline following the turn show the taxiway junction. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"airport-taxiway","label_en":"Taxiway junction","label_is":"Akbrautarmót flugvallar","section":"05","category_en":"Airports, ground handling and aviation services","category_is":"Flugvellir, flugafgreiðsla og flugþjónusta","batch":3,"tags":["aviation","airport"],"description":"A curving taxiway joins a straight airport movement lane with a continuous turning centreline.","design_note":"Rounded pavement boundaries and a centreline following the turn show the taxiway junction.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 2v20M8 2v3q0 2 3 2h11M8 22v-8q0-2 3-2h11M5.5 2v5q0 2 5.5 2H22M5.5 14v4"/>
+</svg>

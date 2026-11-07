@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-animal-hedgehog-title" aria-describedby="uteamup-sectors-animal-hedgehog-desc">
+  <title id="uteamup-sectors-animal-hedgehog-title">Hedgehog — Broddgöltur</title>
+  <desc id="uteamup-sectors-animal-hedgehog-desc">A low hedgehog has a clearly spiked back and a long smooth pointed snout above two short legs.</desc>
+  <!-- Subject: animal-hedgehog. A low hedgehog has a clearly spiked back and a long smooth pointed snout above two short legs. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"animal-hedgehog","label_en":"Hedgehog","label_is":"Broddgöltur","section":"10","category_en":"Land animals and animal care","category_is":"Landdýr og umönnun dýra","batch":5,"tags":["animal","care"],"description":"A low hedgehog has a clearly spiked back and a long smooth pointed snout above two short legs.","design_note":"A low hedgehog has a clearly spiked back and a long smooth pointed snout above two short legs.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 14 2 11l3-1-1-3h4V4l3 2 3-2 1 3h3l-1 3 5 5-2 3H6q-4-1-3-4Z M8 18v3 M16 18v3 M21 15h1"/><circle cx="18" cy="14" r="0.5"/>
+</svg>

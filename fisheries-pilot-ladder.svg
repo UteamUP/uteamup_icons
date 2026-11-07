@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-pilot-ladder-title" aria-describedby="uteamup-sectors-fisheries-pilot-ladder-desc">
+  <title id="uteamup-sectors-fisheries-pilot-ladder-title">Pilot boarding ladder — Hafnsögumannsstigi</title>
+  <desc id="uteamup-sectors-fisheries-pilot-ladder-desc">A flexible boarding ladder has rope sides, separated treads and a long stabilizing spreader.</desc>
+  <!-- Subject: fisheries-pilot-ladder. The conspicuously wider spreader step identifies a pilot boarding ladder rather than a generic rigid ladder. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-pilot-ladder","label_en":"Pilot boarding ladder","label_is":"Hafnsögumannsstigi","section":"03","category_en":"Fisheries services, ports and cold logistics","category_is":"Þjónusta við sjávarútveg, hafnir og kælikeðja","batch":2,"tags":["fisheries","boarding"],"description":"A flexible boarding ladder has rope sides, separated treads and a long stabilizing spreader.","design_note":"The conspicuously wider spreader step identifies a pilot boarding ladder rather than a generic rigid ladder.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M8 2v20M16 2v20M7 5h10M7 9h10M3 13h18M7 17h10M7 21h10M2 3v5"/>
+</svg>

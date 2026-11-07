@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-airport-security-arch-title" aria-describedby="uteamup-sectors-airport-security-arch-desc">
+  <title id="uteamup-sectors-airport-security-arch-title">Walk-through security arch — Öryggishlið flugvallar</title>
+  <desc id="uteamup-sectors-airport-security-arch-desc">A person stands inside a tall walk-through detector with clearly separated sides and header.</desc>
+  <!-- Subject: airport-security-arch. The human-sized arch surrounding a person shows passenger screening, distinct from the baggage tunnel. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"airport-security-arch","label_en":"Walk-through security arch","label_is":"Öryggishlið flugvallar","section":"05","category_en":"Airports, ground handling and aviation services","category_is":"Flugvellir, flugafgreiðsla og flugþjónusta","batch":3,"tags":["aviation","security"],"description":"A person stands inside a tall walk-through detector with clearly separated sides and header.","design_note":"The human-sized arch surrounding a person shows passenger screening, distinct from the baggage tunnel.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 3h18v19h-3V6H6v16H3zM8 12h8v5H8zM10 17v5M14 17v5"/><circle cx="12" cy="9" r="2"/>
+</svg>

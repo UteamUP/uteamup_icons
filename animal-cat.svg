@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-animal-cat-title" aria-describedby="uteamup-sectors-animal-cat-desc">
+  <title id="uteamup-sectors-animal-cat-title">Cat — Köttur</title>
+  <desc id="uteamup-sectors-animal-cat-desc">A seated cat has pointed ears, a narrow face, two front paws and a long curling tail.</desc>
+  <!-- Subject: animal-cat. A seated cat has pointed ears, a narrow face, two front paws and a long curling tail. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"animal-cat","label_en":"Cat","label_is":"Köttur","section":"10","category_en":"Land animals and animal care","category_is":"Landdýr og umönnun dýra","batch":5,"tags":["animal","care"],"description":"A seated cat has pointed ears, a narrow face, two front paws and a long curling tail.","design_note":"A seated cat has pointed ears, a narrow face, two front paws and a long curling tail.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M7 8V3l4 2h2l4-2v5q2 4-2 6l2 7H7l2-7q-4-2-2-6Z M10 16v5 M14 16v5 M17 21q5 0 5-5c0-4-3-4-3-2 M9 9h1 M14 9h1 M11 12l1 1 1-1 M3 11h4 M17 11h4"/>
+</svg>

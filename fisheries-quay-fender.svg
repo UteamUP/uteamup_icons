@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-quay-fender-title" aria-describedby="uteamup-sectors-fisheries-quay-fender-desc">
+  <title id="uteamup-sectors-fisheries-quay-fender-title">Quay fender — Bryggjuvarnarpúði</title>
+  <desc id="uteamup-sectors-fisheries-quay-fender-desc">A tall rubber fender hangs from a quay wall beside the approaching side of a vessel.</desc>
+  <!-- Subject: fisheries-quay-fender. A suspended vertical cushion against the quay indicates impact protection rather than a mooring fitting. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-quay-fender","label_en":"Quay fender","label_is":"Bryggjuvarnarpúði","section":"03","category_en":"Fisheries services, ports and cold logistics","category_is":"Þjónusta við sjávarútveg, hafnir og kælikeðja","batch":2,"tags":["fisheries","mooring"],"description":"A tall rubber fender hangs from a quay wall beside the approaching side of a vessel.","design_note":"A suspended vertical cushion against the quay indicates impact protection rather than a mooring fitting.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 2v20M3 5h4M3 19h4"/><rect x="7" y="4" width="9" height="17" rx="3"/><path d="M11.5 7v11M16 12h6M20 7l2 5-2 5"/>
+</svg>

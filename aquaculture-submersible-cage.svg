@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aquaculture-submersible-cage-title" aria-describedby="uteamup-sectors-aquaculture-submersible-cage-desc">
+  <title id="uteamup-sectors-aquaculture-submersible-cage-title">Submersible fish cage — Sökkvanleg eldiskví</title>
+  <desc id="uteamup-sectors-aquaculture-submersible-cage-desc">A spherical net enclosure hangs below the water surface and has lower mooring lines.</desc>
+  <!-- Subject: aquaculture-submersible-cage. The fully submerged spherical frame is structurally different from surface collar cages. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aquaculture-submersible-cage","label_en":"Submersible fish cage","label_is":"Sökkvanleg eldiskví","section":"02","category_en":"Aquaculture and seafood processing","category_is":"Fiskeldi og fiskvinnsla","batch":1,"tags":["aquaculture","sea-cage"],"description":"A spherical net enclosure hangs below the water surface and has lower mooring lines.","design_note":"The fully submerged spherical frame is structurally different from surface collar cages.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <circle cx="12" cy="13" r="7"/><ellipse cx="12" cy="13" rx="3" ry="7"/><path d="M5 13L19 13"/><path d="M2 3q3 2 5 0t5 0t5 0t5 0M12 6V3M7 19l-3 3M17 19l3 3"/>
+</svg>

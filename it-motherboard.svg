@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-it-motherboard-title" aria-describedby="uteamup-sectors-it-motherboard-desc">
+  <title id="uteamup-sectors-it-motherboard-title">Motherboard — Móðurborð</title>
+  <desc id="uteamup-sectors-it-motherboard-desc">A rectangular motherboard shows one large processor socket, two memory slots and two expansion connectors.</desc>
+  <!-- Subject: it-motherboard. A rectangular motherboard shows one large processor socket, two memory slots and two expansion connectors. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"it-motherboard","label_en":"Motherboard","label_is":"Móðurborð","section":"14","category_en":"Computer expertise and IT services","category_is":"Tölvusérfræði og upplýsingatækniþjónusta","batch":7,"tags":["computer","IT","service"],"description":"A rectangular motherboard shows one large processor socket, two memory slots and two expansion connectors.","design_note":"A rectangular motherboard shows one large processor socket, two memory slots and two expansion connectors.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <rect x="3" y="2" width="18" height="20" rx="0.8"/><rect x="6" y="6" width="7" height="7" rx="0.4"/><path d="M16 5v10 M18.5 5v10 M6 17h7 M6 19h7 M3 8H1.5 M3 13H1.5 M8 4v2 M11 4v2"/>
+</svg>

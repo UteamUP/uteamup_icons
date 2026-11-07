@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-seafood-traceability-title" aria-describedby="uteamup-sectors-fisheries-seafood-traceability-desc">
+  <title id="uteamup-sectors-fisheries-seafood-traceability-title">Seafood traceability tag — Rekjanleiki sjávarafurða</title>
+  <desc id="uteamup-sectors-fisheries-seafood-traceability-desc">A barcode tag is attached by a short cord to a sealed seafood shipping box.</desc>
+  <!-- Subject: fisheries-seafood-traceability. A physically attached identification tag conveys traceability rather than a generic QR badge. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-seafood-traceability","label_en":"Seafood traceability tag","label_is":"Rekjanleiki sjávarafurða","section":"03","category_en":"Fisheries services, ports and cold logistics","category_is":"Þjónusta við sjávarútveg, hafnir og kælikeðja","batch":2,"tags":["fisheries","traceability"],"description":"A barcode tag is attached by a short cord to a sealed seafood shipping box.","design_note":"A physically attached identification tag conveys traceability rather than a generic QR badge.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 12h12v10H3zM3 16h12M7 12v4M13 3h6l3 3v6h-9zM16 6v3M18 6v3M20 7v2M13 9l-3 3"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-wastewater-reception-title" aria-describedby="uteamup-sectors-fisheries-wastewater-reception-desc">
+  <title id="uteamup-sectors-fisheries-wastewater-reception-title">Vessel wastewater reception — Móttaka frárennslis skipa</title>
+  <desc id="uteamup-sectors-fisheries-wastewater-reception-desc">A vessel connects by hose to a quayside wastewater collection tank with visible fluid levels.</desc>
+  <!-- Subject: fisheries-wastewater-reception. The hose leads from vessel to storage vessel, representing reception of ship wastewater. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-wastewater-reception","label_en":"Vessel wastewater reception","label_is":"Móttaka frárennslis skipa","section":"03","category_en":"Fisheries services, ports and cold logistics","category_is":"Þjónusta við sjávarútveg, hafnir og kælikeðja","batch":2,"tags":["fisheries","port-environment"],"description":"A vessel connects by hose to a quayside wastewater collection tank with visible fluid levels.","design_note":"The hose leads from vessel to storage vessel, representing reception of ship wastewater.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 16h10l-3 5H5zM5 16V9h5v7M10 12h4V5h8v16h-8v-9M17 9h2M16 17h4M17 14h2"/>
+</svg>

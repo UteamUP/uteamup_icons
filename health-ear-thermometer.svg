@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-health-ear-thermometer-title" aria-describedby="uteamup-sectors-health-ear-thermometer-desc">
+  <title id="uteamup-sectors-health-ear-thermometer-title">Ear thermometer — Eyrnahitamælir</title>
+  <desc id="uteamup-sectors-health-ear-thermometer-desc">An angled ear probe sits above a curved handheld thermometer body with a small front display.</desc>
+  <!-- Subject: health-ear-thermometer. An angled ear probe sits above a curved handheld thermometer body with a small front display. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"health-ear-thermometer","label_en":"Ear thermometer","label_is":"Eyrnahitamælir","section":"15","category_en":"Health, care and wellbeing services","category_is":"Heilsa, umönnun og velferðarþjónusta","batch":8,"tags":["health","temperature"],"description":"An angled ear probe sits above a curved handheld thermometer body with a small front display.","design_note":"An angled ear probe sits above a curved handheld thermometer body with a small front display.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 4L5 2L10 5L8 8L3 4 M8 8L7 18Q7 21 10 21H13Q16 21 16 18V10L10 5"/><rect x="10" y="12" width="3" height="4" rx="0.5"/>
+</svg>

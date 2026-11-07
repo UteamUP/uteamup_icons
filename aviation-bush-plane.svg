@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aviation-bush-plane-title" aria-describedby="uteamup-sectors-aviation-bush-plane-desc">
+  <title id="uteamup-sectors-aviation-bush-plane-title">Bush aircraft — Óbyggðaflugvél</title>
+  <desc id="uteamup-sectors-aviation-bush-plane-desc">A rugged high-wing aircraft has very large separated tundra tyres and a wide landing stance.</desc>
+  <!-- Subject: aviation-bush-plane. Oversized tyres and wide splayed gear are the structural bush-plane cues. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aviation-bush-plane","label_en":"Bush aircraft","label_is":"Óbyggðaflugvél","section":"04","category_en":"Aircraft and flight","category_is":"Loftför og flug","batch":2,"tags":["aviation","aircraft"],"description":"A rugged high-wing aircraft has very large separated tundra tyres and a wide landing stance.","design_note":"Oversized tyres and wide splayed gear are the structural bush-plane cues.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <circle cx="12" cy="10" r="2.6"/><path d="M2 6h20M3 6l7 7M21 6l-7 7M10 13l-4 3M14 13l4 3M12 8v4M12 6V3"/><circle cx="6" cy="19" r="3"/><circle cx="18" cy="19" r="3"/>
+</svg>

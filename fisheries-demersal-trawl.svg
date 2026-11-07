@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-demersal-trawl-title" aria-describedby="uteamup-sectors-fisheries-demersal-trawl-desc">
+  <title id="uteamup-sectors-fisheries-demersal-trawl-title">Demersal trawl — Botnvarpa</title>
+  <desc id="uteamup-sectors-fisheries-demersal-trawl-desc">An open trawl mouth narrows into a conical net and codend above a seabed line.</desc>
+  <!-- Subject: fisheries-demersal-trawl. The tapered net body, tow bridles and seabed show a demersal trawl arrangement. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-demersal-trawl","label_en":"Demersal trawl","label_is":"Botnvarpa","section":"01","category_en":"Fishing vessels and harvesting gear","category_is":"Fiskiskip og veiðarfæri","batch":1,"tags":["fishing","trawl"],"description":"An open trawl mouth narrows into a conical net and codend above a seabed line.","design_note":"The tapered net body, tow bridles and seabed show a demersal trawl arrangement.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <ellipse cx="6" cy="12" rx="3.5" ry="7.2"/><path d="M6 4.8 19 9.5v5L6 19.2M19 9.5q5 2.5 0 5M6 9.5l13 2.5M6 14.5l10-3.5M2 2l4 2.8M2 20l4-.8M2 22h20"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-space-black-hole-title" aria-describedby="uteamup-sectors-space-black-hole-desc">
+  <title id="uteamup-sectors-space-black-hole-title">Black hole and accretion disk — Svarthol og aðsópsskífa</title>
+  <desc id="uteamup-sectors-space-black-hole-desc">A central event-horizon outline is surrounded by an edge-on accretion ribbon and a strongly arched upper light path.</desc>
+  <!-- Subject: space-black-hole. A sparse lensing-style symbol separates the central void, upper arch and horizontal accretion disk. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"space-black-hole","label_en":"Black hole and accretion disk","label_is":"Svarthol og aðsópsskífa","section":"16","category_en":"Space, astronomy and exploration","category_is":"Geimurinn, stjörnufræði og geimrannsóknir","batch":8,"tags":["space","black-hole"],"description":"A central event-horizon outline is surrounded by an edge-on accretion ribbon and a strongly arched upper light path.","design_note":"A sparse lensing-style symbol separates the central void, upper arch and horizontal accretion disk.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 12Q6 9 8 10C8 3 16 3 16 10Q20 9 22 12Q12 16 2 12 M2 12Q12 20 22 12"/><circle cx="12" cy="10" r="2.5"/>
+</svg>

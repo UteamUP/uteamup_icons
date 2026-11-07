@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-animal-beaver-title" aria-describedby="uteamup-sectors-animal-beaver-desc">
+  <title id="uteamup-sectors-animal-beaver-title">Beaver — Bjór</title>
+  <desc id="uteamup-sectors-animal-beaver-desc">A seated beaver has a broad flat crosshatched tail and a pair-like rectangular front tooth beneath its muzzle.</desc>
+  <!-- Subject: animal-beaver. A seated beaver has a broad flat crosshatched tail and a pair-like rectangular front tooth beneath its muzzle. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"animal-beaver","label_en":"Beaver","label_is":"Bjór","section":"10","category_en":"Land animals and animal care","category_is":"Landdýr og umönnun dýra","batch":5,"tags":["animal","care"],"description":"A seated beaver has a broad flat crosshatched tail and a pair-like rectangular front tooth beneath its muzzle.","design_note":"A seated beaver has a broad flat crosshatched tail and a pair-like rectangular front tooth beneath its muzzle.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <ellipse cx="5.5" cy="17" rx="3.5" ry="5"/><path d="M3 15l5 4 M3 19l5-4 M10 17q-3-8 2-12l1-2 2 1q5 0 5 5l2 3-3 1v7h-8l-1-3Z M13 20h6"/><rect x="18" y="12" width="2" height="3" rx="0.1"/><circle cx="18" cy="8" r="0.4"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aquaculture-vaccination-line-title" aria-describedby="uteamup-sectors-aquaculture-vaccination-line-desc">
+  <title id="uteamup-sectors-aquaculture-vaccination-line-title">Fish vaccination station — Bólusetningarstöð fiska</title>
+  <desc id="uteamup-sectors-aquaculture-vaccination-line-desc">A fish rests on a support table beneath a vertical syringe mechanism.</desc>
+  <!-- Subject: aquaculture-vaccination-line. The separated syringe and supported fish identify vaccination while keeping the process non-graphic. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aquaculture-vaccination-line","label_en":"Fish vaccination station","label_is":"Bólusetningarstöð fiska","section":"02","category_en":"Aquaculture and seafood processing","category_is":"Fiskeldi og fiskvinnsla","batch":1,"tags":["aquaculture","fish-health"],"description":"A fish rests on a support table beneath a vertical syringe mechanism.","design_note":"The separated syringe and supported fish identify vaccination while keeping the process non-graphic.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 17h18M5 17v5M19 17v5M7 14q4-4 8 0-4 4-8 0l-3-2v4zM10 4h5v5h-5zM12.5 9v3M12.5 4V2M9 2h7"/>
+</svg>

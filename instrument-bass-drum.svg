@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-instrument-bass-drum-title" aria-describedby="uteamup-sectors-instrument-bass-drum-desc">
+  <title id="uteamup-sectors-instrument-bass-drum-title">Bass drum — Stórtromma</title>
+  <desc id="uteamup-sectors-instrument-bass-drum-desc">A large upright bass drum shows its circular front head, deep offset shell, two support feet and a short pedal beater.</desc>
+  <!-- Subject: instrument-bass-drum. A large upright bass drum shows its circular front head, deep offset shell, two support feet and a short pedal beater. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"instrument-bass-drum","label_en":"Bass drum","label_is":"Stórtromma","section":"17","category_en":"Musical instruments and music services","category_is":"Hljóðfæri og tónlistarþjónusta","batch":9,"tags":["music","percussion"],"description":"A large upright bass drum shows its circular front head, deep offset shell, two support feet and a short pedal beater.","design_note":"A large upright bass drum shows its circular front head, deep offset shell, two support feet and a short pedal beater.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <circle cx="10" cy="12" r="8"/><path d="M10 4H14C24 4 24 20 14 20H10 M6 19L4 22 M17 20L19 22 M9 17L12 14"/><circle cx="12" cy="14" r="0.7"/>
+</svg>

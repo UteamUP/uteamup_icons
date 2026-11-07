@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-earth-contour-map-title" aria-describedby="uteamup-sectors-earth-contour-map-desc">
+  <title id="uteamup-sectors-earth-contour-map-title">Contour map — Hæðarlínukort</title>
+  <desc id="uteamup-sectors-earth-contour-map-desc">A square topographic map contains three nested irregular contours around a small central summit.</desc>
+  <!-- Subject: earth-contour-map. A square topographic map contains three nested irregular contours around a small central summit. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"earth-contour-map","label_en":"Contour map","label_is":"Hæðarlínukort","section":"20","category_en":"Earth, landscapes and environmental services","category_is":"Jörðin, landslag og umhverfisþjónusta","batch":10,"tags":["earth","nature","environment"],"description":"A square topographic map contains three nested irregular contours around a small central summit.","design_note":"A square topographic map contains three nested irregular contours around a small central summit.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <rect x="2" y="2" width="20" height="20" rx="1"/><path d="M5 11q1-7 8-6 7 0 6 7 1 6-6 7-8 1-8-8Z M8 12q0-5 5-4 4 0 3 5 0 4-4 3-4 1-4-4Z"/><ellipse cx="12" cy="12" rx="1.3" ry="1.8"/>
+</svg>

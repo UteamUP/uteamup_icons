@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-power-onshore-wind-farm-title" aria-describedby="uteamup-sectors-power-onshore-wind-farm-desc">
+  <title id="uteamup-sectors-power-onshore-wind-farm-title">Onshore wind farm — Vindorkugarður á landi</title>
+  <desc id="uteamup-sectors-power-onshore-wind-farm-desc">Two wind turbines of different apparent heights stand across a gently rising land surface.</desc>
+  <!-- Subject: power-onshore-wind-farm. Multiple turbines and the land contour make a wind-farm site, with actual three-bladed rotors rather than sun-like rays. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"power-onshore-wind-farm","label_en":"Onshore wind farm","label_is":"Vindorkugarður á landi","section":"06","category_en":"Power plants and generation","category_is":"Orkuver og orkuframleiðsla","batch":3,"tags":["power","wind"],"description":"Two wind turbines of different apparent heights stand across a gently rising land surface.","design_note":"Multiple turbines and the land contour make a wind-farm site, with actual three-bladed rotors rather than sun-like rays.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <circle cx="8" cy="9" r="1"/><path d="M8 8L7 2h2v6M9 9l5 3-1 2-5-4M7 10l-5 3v-2l5-3M8 10v12M19 13V7M19 13l-5 3M19 13l3 2M19 13v9M2 22q10-3 20 0"/>
+</svg>

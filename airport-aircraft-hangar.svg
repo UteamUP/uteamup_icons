@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-airport-aircraft-hangar-title" aria-describedby="uteamup-sectors-airport-aircraft-hangar-desc">
+  <title id="uteamup-sectors-airport-aircraft-hangar-title">Aircraft hangar — Flugskýli</title>
+  <desc id="uteamup-sectors-airport-aircraft-hangar-desc">A wide arched hangar has an open front with a small aircraft visible inside.</desc>
+  <!-- Subject: airport-aircraft-hangar. The broad open bay and aircraft interior distinguish a hangar from the glazed passenger terminal. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"airport-aircraft-hangar","label_en":"Aircraft hangar","label_is":"Flugskýli","section":"05","category_en":"Airports, ground handling and aviation services","category_is":"Flugvellir, flugafgreiðsla og flugþjónusta","batch":3,"tags":["aviation","maintenance"],"description":"A wide arched hangar has an open front with a small aircraft visible inside.","design_note":"The broad open bay and aircraft interior distinguish a hangar from the glazed passenger terminal.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 12q10-18 20 0v10H2zM5 12h14v10M7 16h3.5M13.5 16H17M12 14v-2M10 18l-1 3M14 18l1 3"/><circle cx="12" cy="16" r="1.5"/>
+</svg>

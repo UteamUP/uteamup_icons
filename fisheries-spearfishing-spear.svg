@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-spearfishing-spear-title" aria-describedby="uteamup-sectors-fisheries-spearfishing-spear-desc">
+  <title id="uteamup-sectors-fisheries-spearfishing-spear-title">Spearfishing spear — Fiskveiðispjót</title>
+  <desc id="uteamup-sectors-fisheries-spearfishing-spear-desc">A long fishing spear has three separated pointed tines and small functional barbs.</desc>
+  <!-- Subject: fisheries-spearfishing-spear. The three-tine head differs from both the single-hook gaff and barbed harpoon. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-spearfishing-spear","label_en":"Spearfishing spear","label_is":"Fiskveiðispjót","section":"01","category_en":"Fishing vessels and harvesting gear","category_is":"Fiskiskip og veiðarfæri","batch":1,"tags":["fishing","handgear"],"description":"A long fishing spear has three separated pointed tines and small functional barbs.","design_note":"The three-tine head differs from both the single-hook gaff and barbed harpoon.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M12 2v20M6 3v5l6 6 6-6V3M6 3 4.5 5M18 3l1.5 2M12 2l-1.5 2"/>
+</svg>

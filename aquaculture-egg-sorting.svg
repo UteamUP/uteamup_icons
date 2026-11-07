@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aquaculture-egg-sorting-title" aria-describedby="uteamup-sectors-aquaculture-egg-sorting-desc">
+  <title id="uteamup-sectors-aquaculture-egg-sorting-title">Hatchery egg sorting — Flokkun hrogna</title>
+  <desc id="uteamup-sectors-aquaculture-egg-sorting-desc">A narrow transfer pipette is positioned above a tray holding separate fish eggs.</desc>
+  <!-- Subject: aquaculture-egg-sorting. A pipette over visible eggs makes individual egg handling clear and differs from stacked incubation trays. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aquaculture-egg-sorting","label_en":"Hatchery egg sorting","label_is":"Flokkun hrogna","section":"02","category_en":"Aquaculture and seafood processing","category_is":"Fiskeldi og fiskvinnsla","batch":1,"tags":["aquaculture","hatchery"],"description":"A narrow transfer pipette is positioned above a tray holding separate fish eggs.","design_note":"A pipette over visible eggs makes individual egg handling clear and differs from stacked incubation trays.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 13h18v8H3zM14 3l3 3-6 6-3-3zM17 6l3-3M18 2l3 3M8 9l-2 2"/><circle cx="7" cy="17" r="1.2"/><circle cx="12" cy="17" r="1.2"/><circle cx="17" cy="17" r="1.2"/>
+</svg>

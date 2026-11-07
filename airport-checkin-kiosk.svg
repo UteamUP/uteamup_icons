@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-airport-checkin-kiosk-title" aria-describedby="uteamup-sectors-airport-checkin-kiosk-desc">
+  <title id="uteamup-sectors-airport-checkin-kiosk-title">Airport check-in kiosk — Sjálfsafgreiðsla við innritun</title>
+  <desc id="uteamup-sectors-airport-checkin-kiosk-desc">A sloped-screen check-in kiosk has an upright pedestal and a projecting printed boarding pass.</desc>
+  <!-- Subject: airport-checkin-kiosk. The sloped touch display and issuing ticket slot distinguish the check-in kiosk from a general information sign. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"airport-checkin-kiosk","label_en":"Airport check-in kiosk","label_is":"Sjálfsafgreiðsla við innritun","section":"05","category_en":"Airports, ground handling and aviation services","category_is":"Flugvellir, flugafgreiðsla og flugþjónusta","batch":3,"tags":["aviation","passenger-service"],"description":"A sloped-screen check-in kiosk has an upright pedestal and a projecting printed boarding pass.","design_note":"The sloped touch display and issuing ticket slot distinguish the check-in kiosk from a general information sign.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M7 3h12l-2 8H5zM8 11v11h10V11M10 16h6M11 20h4M16 15h6v4h-4M9 6h6"/>
+</svg>

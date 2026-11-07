@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-airport-runway-title" aria-describedby="uteamup-sectors-airport-runway-desc">
+  <title id="uteamup-sectors-airport-runway-title">Airport runway — Flugbraut</title>
+  <desc id="uteamup-sectors-airport-runway-desc">A runway recedes in perspective with a dashed centreline and four threshold bars.</desc>
+  <!-- Subject: airport-runway. Threshold stripes and the long central alignment distinguish a runway from a generic road. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"airport-runway","label_en":"Airport runway","label_is":"Flugbraut","section":"05","category_en":"Airports, ground handling and aviation services","category_is":"Flugvellir, flugafgreiðsla og flugþjónusta","batch":3,"tags":["aviation","airport"],"description":"A runway recedes in perspective with a dashed centreline and four threshold bars.","design_note":"Threshold stripes and the long central alignment distinguish a runway from a generic road.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M8 3h8l5 19H3zM12 5v3M12 11v3M12 17v3M6 18v3M9 18v3M15 18v3M18 18v3"/>
+</svg>

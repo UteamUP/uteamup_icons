@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-instrument-upright-piano-title" aria-describedby="uteamup-sectors-instrument-upright-piano-desc">
+  <title id="uteamup-sectors-instrument-upright-piano-title">Upright piano — Píanó</title>
+  <desc id="uteamup-sectors-instrument-upright-piano-desc">A tall upright piano has a broad front panel, recessed keyboard, two legs and two separate pedals.</desc>
+  <!-- Subject: instrument-upright-piano. A tall upright piano has a broad front panel, recessed keyboard, two legs and two separate pedals. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"instrument-upright-piano","label_en":"Upright piano","label_is":"Píanó","section":"17","category_en":"Musical instruments and music services","category_is":"Hljóðfæri og tónlistarþjónusta","batch":9,"tags":["music","keyboard"],"description":"A tall upright piano has a broad front panel, recessed keyboard, two legs and two separate pedals.","design_note":"A tall upright piano has a broad front panel, recessed keyboard, two legs and two separate pedals.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <rect x="3" y="3" width="18" height="15" rx="0.5"/><path d="M3 12H21 M3 16H21 M6 12V16 M9 12V16 M12 12V16 M15 12V16 M18 12V16 M5 18V22 M19 18V22 M10 20V22 M14 20V22 M7 7H17"/>
+</svg>

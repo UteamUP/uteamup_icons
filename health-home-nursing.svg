@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-health-home-nursing-title" aria-describedby="uteamup-sectors-health-home-nursing-desc">
+  <title id="uteamup-sectors-health-home-nursing-title">Home nursing visit — Heimahjúkrun</title>
+  <desc id="uteamup-sectors-health-home-nursing-desc">An open home doorway stands beside a handled clinical visiting bag with a simple medical cross.</desc>
+  <!-- Subject: health-home-nursing. An open home doorway stands beside a handled clinical visiting bag with a simple medical cross. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"health-home-nursing","label_en":"Home nursing visit","label_is":"Heimahjúkrun","section":"15","category_en":"Health, care and wellbeing services","category_is":"Heilsa, umönnun og velferðarþjónusta","batch":8,"tags":["health","home-care"],"description":"An open home doorway stands beside a handled clinical visiting bag with a simple medical cross.","design_note":"An open home doorway stands beside a handled clinical visiting bag with a simple medical cross.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 21V3H12V21 M4 21V5L10 7V21H4 M8 13H9 M16 11V8H20V11 M16 16H20 M18 14V18"/><rect x="14" y="11" width="8" height="10" rx="1"/>
+</svg>

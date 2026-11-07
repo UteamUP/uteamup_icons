@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-instrument-tuba-title" aria-describedby="uteamup-sectors-instrument-tuba-desc">
+  <title id="uteamup-sectors-instrument-tuba-title">Tuba — Túba</title>
+  <desc id="uteamup-sectors-instrument-tuba-desc">An upright tuba has a broad upward bell, a deep rounded bottom bow, one open inner tube loop and two sparse valve controls.</desc>
+  <!-- Subject: instrument-tuba. An upright tuba has a broad upward bell, a deep rounded bottom bow, one open inner tube loop and two sparse valve controls. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"instrument-tuba","label_en":"Tuba","label_is":"Túba","section":"17","category_en":"Musical instruments and music services","category_is":"Hljóðfæri og tónlistarþjónusta","batch":9,"tags":["music","brass"],"description":"An upright tuba has a broad upward bell, a deep rounded bottom bow, one open inner tube loop and two sparse valve controls.","design_note":"An upright tuba has a broad upward bell, a deep rounded bottom bow, one open inner tube loop and two sparse valve controls.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <ellipse cx="15" cy="4.5" rx="7" ry="2.5"/><path d="M8 4.5L11 11V15 M22 4.5L18 11V16C18 23 4 23 4 16V9H7V15Q7 19 11 19Q15 19 15 15V12 M9 9V14 M12 9V14 M4 9H2"/>
+</svg>

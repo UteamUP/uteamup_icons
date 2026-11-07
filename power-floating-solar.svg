@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-power-floating-solar-title" aria-describedby="uteamup-sectors-power-floating-solar-desc">
+  <title id="uteamup-sectors-power-floating-solar-title">Floating photovoltaic array — Fljótandi sólarorkuver</title>
+  <desc id="uteamup-sectors-power-floating-solar-desc">A broad solar array rests on a long pontoon above a clearly separated water surface.</desc>
+  <!-- Subject: power-floating-solar. The supporting pontoon and waves identify floating solar without changing only the panel colour. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"power-floating-solar","label_en":"Floating photovoltaic array","label_is":"Fljótandi sólarorkuver","section":"06","category_en":"Power plants and generation","category_is":"Orkuver og orkuframleiðsla","batch":3,"tags":["power","solar"],"description":"A broad solar array rests on a long pontoon above a clearly separated water surface.","design_note":"The supporting pontoon and waves identify floating solar without changing only the panel colour.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M4 6h16l-2 8H2zM8 6l-2 8M14 6l-2 8M3 10h16M3 16h18v3H3zM2 21q3-2 6 0t6 0t6 0"/>
+</svg>

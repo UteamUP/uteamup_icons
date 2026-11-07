@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-echo-sounder-title" aria-describedby="uteamup-sectors-fisheries-echo-sounder-desc">
+  <title id="uteamup-sectors-fisheries-echo-sounder-title">Fish-finding echo sounder — Fiskleitardýptarmælir</title>
+  <desc id="uteamup-sectors-fisheries-echo-sounder-desc">A sonar screen displays a jagged seabed trace and a separate small fish return.</desc>
+  <!-- Subject: fisheries-echo-sounder. The plotted bottom profile makes an echo sounder visibly distinct from the temperature logger. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-echo-sounder","label_en":"Fish-finding echo sounder","label_is":"Fiskleitardýptarmælir","section":"03","category_en":"Fisheries services, ports and cold logistics","category_is":"Þjónusta við sjávarútveg, hafnir og kælikeðja","batch":2,"tags":["fisheries","navigation"],"description":"A sonar screen displays a jagged seabed trace and a separate small fish return.","design_note":"The plotted bottom profile makes an echo sounder visibly distinct from the temperature logger.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <rect x="2" y="3" width="20" height="16" rx="1.5"/><path d="M5 15l4-3 3 2 3-5 4 3M6 7q2-2 4 0-2 2-4 0M9 19v3M15 19v3M7 22h10"/>
+</svg>

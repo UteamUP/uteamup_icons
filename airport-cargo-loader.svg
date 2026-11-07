@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-airport-cargo-loader-title" aria-describedby="uteamup-sectors-airport-cargo-loader-desc">
+  <title id="uteamup-sectors-airport-cargo-loader-title">Air cargo high loader — Flugfraktlyfta</title>
+  <desc id="uteamup-sectors-airport-cargo-loader-desc">A contoured air-cargo container sits on a high scissor-lift loading platform.</desc>
+  <!-- Subject: airport-cargo-loader. The sloping-shouldered air cargo container and high lift deck make the cargo loader distinct. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"airport-cargo-loader","label_en":"Air cargo high loader","label_is":"Flugfraktlyfta","section":"05","category_en":"Airports, ground handling and aviation services","category_is":"Flugvellir, flugafgreiðsla og flugþjónusta","batch":3,"tags":["aviation","cargo"],"description":"A contoured air-cargo container sits on a high scissor-lift loading platform.","design_note":"The sloping-shouldered air cargo container and high lift deck make the cargo loader distinct.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M6 3h10l4 4v3H4V7zM2 11h20M5 11l14 8M19 11L5 19M2 19h20M12 3v7"/><circle cx="5" cy="21" r="1.1"/><circle cx="19" cy="21" r="1.1"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-trawl-winch-title" aria-describedby="uteamup-sectors-fisheries-trawl-winch-desc">
+  <title id="uteamup-sectors-fisheries-trawl-winch-title">Trawl winch — Togspil</title>
+  <desc id="uteamup-sectors-fisheries-trawl-winch-desc">Two large separated cable-winch drums stand on one low deck-mounted support frame.</desc>
+  <!-- Subject: fisheries-trawl-winch. A pair of independent cable drums differs from the single broad net-storage drum. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-trawl-winch","label_en":"Trawl winch","label_is":"Togspil","section":"01","category_en":"Fishing vessels and harvesting gear","category_is":"Fiskiskip og veiðarfæri","batch":1,"tags":["fishing","machine","winch"],"description":"Two large separated cable-winch drums stand on one low deck-mounted support frame.","design_note":"A pair of independent cable drums differs from the single broad net-storage drum.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <circle cx="6" cy="10" r="4"/><circle cx="18" cy="10" r="4"/><circle cx="6" cy="10" r="1.4"/><circle cx="18" cy="10" r="1.4"/><path d="M10 10h4M6 14v6M18 14v6M2 21h20"/>
+</svg>

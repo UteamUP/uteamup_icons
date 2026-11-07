@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-bait-dispenser-title" aria-describedby="uteamup-sectors-fisheries-bait-dispenser-desc">
+  <title id="uteamup-sectors-fisheries-bait-dispenser-title">Bait dispenser — Beitudreifari</title>
+  <desc id="uteamup-sectors-fisheries-bait-dispenser-desc">A hopper narrows into a lower dispensing chute above three separate bait pieces.</desc>
+  <!-- Subject: fisheries-bait-dispenser. The actual hopper-and-chute arrangement represents controlled bait dispensing. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-bait-dispenser","label_en":"Bait dispenser","label_is":"Beitudreifari","section":"01","category_en":"Fishing vessels and harvesting gear","category_is":"Fiskiskip og veiðarfæri","batch":1,"tags":["fishing","feeding","equipment"],"description":"A hopper narrows into a lower dispensing chute above three separate bait pieces.","design_note":"The actual hopper-and-chute arrangement represents controlled bait dispensing.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M4 3h16v7l-6 5v3h-4v-3l-6-5ZM4 7h16"/><circle cx="6" cy="21" r="0.9"/><circle cx="12" cy="21" r="0.9"/><circle cx="18" cy="21" r="0.9"/>
+</svg>

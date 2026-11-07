@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-boat-travel-lift-title" aria-describedby="uteamup-sectors-fisheries-boat-travel-lift-desc">
+  <title id="uteamup-sectors-fisheries-boat-travel-lift-title">Boat travel lift — Færanleg bátalyfta</title>
+  <desc id="uteamup-sectors-fisheries-boat-travel-lift-desc">A wheeled gantry suspends a boat hull in two hanging lifting slings.</desc>
+  <!-- Subject: fisheries-boat-travel-lift. The tall wheeled portal and slings identify the boat hoist; the hull remains separate from the lift frame. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-boat-travel-lift","label_en":"Boat travel lift","label_is":"Færanleg bátalyfta","section":"03","category_en":"Fisheries services, ports and cold logistics","category_is":"Þjónusta við sjávarútveg, hafnir og kælikeðja","batch":2,"tags":["fisheries","repair"],"description":"A wheeled gantry suspends a boat hull in two hanging lifting slings.","design_note":"The tall wheeled portal and slings identify the boat hoist; the hull remains separate from the lift frame.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 18V3h18v15M6 3v10q0 6 6 6t6-6V3M7 11h10l-2 5H9zM3 8h3M18 8h3"/><circle cx="3" cy="21" r="1.2"/><circle cx="21" cy="21" r="1.2"/>
+</svg>

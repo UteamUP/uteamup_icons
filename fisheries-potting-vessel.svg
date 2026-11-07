@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-potting-vessel-title" aria-describedby="uteamup-sectors-fisheries-potting-vessel-desc">
+  <title id="uteamup-sectors-fisheries-potting-vessel-title">Potting vessel — Gildruveiðibátur</title>
+  <desc id="uteamup-sectors-fisheries-potting-vessel-desc">A low working boat carries three separate fishing pots stacked on its open aft deck.</desc>
+  <!-- Subject: fisheries-potting-vessel. The clearly visible pot stack is the vessel’s main working feature. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-potting-vessel","label_en":"Potting vessel","label_is":"Gildruveiðibátur","section":"01","category_en":"Fishing vessels and harvesting gear","category_is":"Fiskiskip og veiðarfæri","batch":1,"tags":["fishing","vessel","traps"],"description":"A low working boat carries three separate fishing pots stacked on its open aft deck.","design_note":"The clearly visible pot stack is the vessel’s main working feature.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 15h20l-3 5H5ZM4 15V8h6v7M5.5 10h3M12 15v-4h4v4M18 15v-4h4M14 11V7h5v4M15 8.8h3M3 22h18"/>
+</svg>

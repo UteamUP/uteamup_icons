@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aviation-biplane-title" aria-describedby="uteamup-sectors-aviation-biplane-desc">
+  <title id="uteamup-sectors-aviation-biplane-title">Biplane — Tvíþekja</title>
+  <desc id="uteamup-sectors-aviation-biplane-desc">Two widely separated wings are braced by outer struts around a central fuselage and landing wheels.</desc>
+  <!-- Subject: aviation-biplane. Two actual wing planes and clear interplane bracing give the biplane its characteristic silhouette. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aviation-biplane","label_en":"Biplane","label_is":"Tvíþekja","section":"04","category_en":"Aircraft and flight","category_is":"Loftför og flug","batch":2,"tags":["aviation","aircraft"],"description":"Two widely separated wings are braced by outer struts around a central fuselage and landing wheels.","design_note":"Two actual wing planes and clear interplane bracing give the biplane its characteristic silhouette.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 4h20M2 13h7M15 13h7M4 4l3 9M7 4l-3 9M17 4l3 9M20 4l-3 9M10 15l-2 4M14 15l2 4M12 9v4"/><circle cx="12" cy="11" r="2.7"/><circle cx="8" cy="21" r="1.3"/><circle cx="16" cy="21" r="1.3"/>
+</svg>

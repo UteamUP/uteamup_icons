@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-health-counselling-title" aria-describedby="uteamup-sectors-health-counselling-desc">
+  <title id="uteamup-sectors-health-counselling-title">Counselling — Ráðgjafarviðtal</title>
+  <desc id="uteamup-sectors-health-counselling-desc">Two comfortable facing chairs sit below one shared conversation bubble, suggesting a private counselling session.</desc>
+  <!-- Subject: health-counselling. Two comfortable facing chairs sit below one shared conversation bubble, suggesting a private counselling session. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"health-counselling","label_en":"Counselling","label_is":"Ráðgjafarviðtal","section":"15","category_en":"Health, care and wellbeing services","category_is":"Heilsa, umönnun og velferðarþjónusta","batch":8,"tags":["health","wellbeing-service"],"description":"Two comfortable facing chairs sit below one shared conversation bubble, suggesting a private counselling session.","design_note":"Two comfortable facing chairs sit below one shared conversation bubble, suggesting a private counselling session.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 12V20H9V14H5V10H2V12 M22 12V20H15V14H19V10H22V12 M4 20V22 M8 20V22 M16 20V22 M20 20V22 M7 2H17V8H12L9 10V8H7V2"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-power-landfill-gas-plant-title" aria-describedby="uteamup-sectors-power-landfill-gas-plant-desc">
+  <title id="uteamup-sectors-power-landfill-gas-plant-title">Landfill-gas power plant — Orkuver fyrir urðunargas</title>
+  <desc id="uteamup-sectors-power-landfill-gas-plant-desc">Three collection wells descend into a landfill mound and join a header leading to a generating enclosure.</desc>
+  <!-- Subject: power-landfill-gas-plant. Buried collection wells under a capped mound distinguish landfill-gas recovery from a separate digester tank. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"power-landfill-gas-plant","label_en":"Landfill-gas power plant","label_is":"Orkuver fyrir urðunargas","section":"06","category_en":"Power plants and generation","category_is":"Orkuver og orkuframleiðsla","batch":3,"tags":["power","biogas"],"description":"Three collection wells descend into a landfill mound and join a header leading to a generating enclosure.","design_note":"Buried collection wells under a capped mound distinguish landfill-gas recovery from a separate digester tank.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 20q10-12 20 0M2 22h20M5 6v15M11 6v16M17 7v14M5 6h9M14 2h8v5h-8zM17 4h3"/>
+</svg>

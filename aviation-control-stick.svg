@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aviation-control-stick-title" aria-describedby="uteamup-sectors-aviation-control-stick-desc">
+  <title id="uteamup-sectors-aviation-control-stick-title">Flight control stick — Stýripinni flugvélar</title>
+  <desc id="uteamup-sectors-aviation-control-stick-desc">A single control grip with a side trigger rises from a flexible boot and mounting base.</desc>
+  <!-- Subject: aviation-control-stick. A hand grip, trigger and bellows boot distinguish the stick from the two-handed yoke. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aviation-control-stick","label_en":"Flight control stick","label_is":"Stýripinni flugvélar","section":"04","category_en":"Aircraft and flight","category_is":"Loftför og flug","batch":2,"tags":["aviation","cockpit"],"description":"A single control grip with a side trigger rises from a flexible boot and mounting base.","design_note":"A hand grip, trigger and bellows boot distinguish the stick from the two-handed yoke.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M9 3h6v5l-2 2v8H9v-6l-2-2V5zM15 6h3v3h-3M6 21l1-3h10l1 3z"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-longliner-title" aria-describedby="uteamup-sectors-fisheries-longliner-desc">
+  <title id="uteamup-sectors-fisheries-longliner-title">Longliner — Línuveiðiskip</title>
+  <desc id="uteamup-sectors-fisheries-longliner-desc">A longliner has a deck line reel and a roller-guided fishing line extending from the stern.</desc>
+  <!-- Subject: fisheries-longliner. A dedicated line reel and extended line replace trawl booms or cage stacks. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-longliner","label_en":"Longliner","label_is":"Línuveiðiskip","section":"01","category_en":"Fishing vessels and harvesting gear","category_is":"Fiskiskip og veiðarfæri","batch":1,"tags":["fishing","vessel"],"description":"A longliner has a deck line reel and a roller-guided fishing line extending from the stern.","design_note":"A dedicated line reel and extended line replace trawl booms or cage stacks.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 14h20l-3 5H6ZM5 14V7h7v7M6.5 9.5h3.5M15 14V6M13 6h6M21 14v6M15 21h7M17 21v1M20 21v1"/><circle cx="18" cy="12" r="2"/>
+</svg>

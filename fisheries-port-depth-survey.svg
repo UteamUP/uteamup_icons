@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-port-depth-survey-title" aria-describedby="uteamup-sectors-fisheries-port-depth-survey-desc">
+  <title id="uteamup-sectors-fisheries-port-depth-survey-title">Harbour depth survey — Dýptarmæling hafnar</title>
+  <desc id="uteamup-sectors-fisheries-port-depth-survey-desc">A survey boat sends a vertical sounding line down to an uneven seabed profile.</desc>
+  <!-- Subject: fisheries-port-depth-survey. The downward sound path between the boat and seabed depicts the survey activity rather than the screen instrument. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-port-depth-survey","label_en":"Harbour depth survey","label_is":"Dýptarmæling hafnar","section":"03","category_en":"Fisheries services, ports and cold logistics","category_is":"Þjónusta við sjávarútveg, hafnir og kælikeðja","batch":2,"tags":["fisheries","survey"],"description":"A survey boat sends a vertical sounding line down to an uneven seabed profile.","design_note":"The downward sound path between the boat and seabed depicts the survey activity rather than the screen instrument.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 7h18l-4 4H7zM8 7V3h7v4M12 11v7M9 15l3 3 3-3M3 21l5-2 5 3 8-4"/>
+</svg>

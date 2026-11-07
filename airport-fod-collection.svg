@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-airport-fod-collection-title" aria-describedby="uteamup-sectors-airport-fod-collection-desc">
+  <title id="uteamup-sectors-airport-fod-collection-title">Runway debris collection — Söfnun aðskotahluta á flugbraut</title>
+  <desc id="uteamup-sectors-airport-fod-collection-desc">A long-handled collection grabber closes around a loose bolt above the runway surface.</desc>
+  <!-- Subject: airport-fod-collection. A grasped loose object makes foreign-object-debris collection an actual maintenance action. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"airport-fod-collection","label_en":"Runway debris collection","label_is":"Söfnun aðskotahluta á flugbraut","section":"05","category_en":"Airports, ground handling and aviation services","category_is":"Flugvellir, flugafgreiðsla og flugþjónusta","batch":3,"tags":["aviation","airfield-service"],"description":"A long-handled collection grabber closes around a loose bolt above the runway surface.","design_note":"A grasped loose object makes foreign-object-debris collection an actual maintenance action.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 3l3-1 2 3-3 1zM6 5l9 11M14 15l5-2 3 4M14 15l-1 5 4 2M18 17l3 3M17 18l3-3M3 21h5"/>
+</svg>

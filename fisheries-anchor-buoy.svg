@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-anchor-buoy-title" aria-describedby="uteamup-sectors-fisheries-anchor-buoy-desc">
+  <title id="uteamup-sectors-fisheries-anchor-buoy-title">Anchor buoy — Akkerisbauja</title>
+  <desc id="uteamup-sectors-fisheries-anchor-buoy-desc">A floating buoy is connected by a long rope to an anchor with two outward flukes.</desc>
+  <!-- Subject: fisheries-anchor-buoy. The visible anchor and connection make the buoy’s use explicit. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-anchor-buoy","label_en":"Anchor buoy","label_is":"Akkerisbauja","section":"01","category_en":"Fishing vessels and harvesting gear","category_is":"Fiskiskip og veiðarfæri","batch":1,"tags":["fishing","buoy","anchor"],"description":"A floating buoy is connected by a long rope to an anchor with two outward flukes.","design_note":"The visible anchor and connection make the buoy’s use explicit.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <circle cx="12" cy="3" r="1"/><ellipse cx="12" cy="7" rx="4" ry="3"/><path d="M12 10v11M8 15h8M6 18q6 6 12 0M6 18v3M18 18v3"/>
+</svg>

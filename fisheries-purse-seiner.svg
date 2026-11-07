@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-purse-seiner-title" aria-describedby="uteamup-sectors-fisheries-purse-seiner-desc">
+  <title id="uteamup-sectors-fisheries-purse-seiner-title">Purse seiner — Nótaskip</title>
+  <desc id="uteamup-sectors-fisheries-purse-seiner-desc">A purse seiner carries a raised power block and a separate small seine skiff beside its stern.</desc>
+  <!-- Subject: fisheries-purse-seiner. The suspended power block and auxiliary skiff distinguish this vessel from a trawler. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-purse-seiner","label_en":"Purse seiner","label_is":"Nótaskip","section":"01","category_en":"Fishing vessels and harvesting gear","category_is":"Fiskiskip og veiðarfæri","batch":1,"tags":["fishing","vessel"],"description":"A purse seiner carries a raised power block and a separate small seine skiff beside its stern.","design_note":"The suspended power block and auxiliary skiff distinguish this vessel from a trawler.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 14h20l-3 5H5ZM5 14V8h6v6M6 10h3M14 14V3l6 4M18 7v3M12 14q3-5 6 0M3 22q3-2 6 0M15 20.5h7l-1 1.5h-4"/><circle cx="18" cy="11.5" r="1.5"/>
+</svg>

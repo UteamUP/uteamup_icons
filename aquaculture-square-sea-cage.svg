@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aquaculture-square-sea-cage-title" aria-describedby="uteamup-sectors-aquaculture-square-sea-cage-desc">
+  <title id="uteamup-sectors-aquaculture-square-sea-cage-title">Square sea cage — Ferningslaga sjókví</title>
+  <desc id="uteamup-sectors-aquaculture-square-sea-cage-desc">A rectangular floating cage is drawn in perspective with submerged net walls and waves.</desc>
+  <!-- Subject: aquaculture-square-sea-cage. Angular pontoons and flat net walls distinguish this structure from a circular collar cage. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aquaculture-square-sea-cage","label_en":"Square sea cage","label_is":"Ferningslaga sjókví","section":"02","category_en":"Aquaculture and seafood processing","category_is":"Fiskeldi og fiskvinnsla","batch":1,"tags":["aquaculture","sea-cage"],"description":"A rectangular floating cage is drawn in perspective with submerged net walls and waves.","design_note":"Angular pontoons and flat net walls distinguish this structure from a circular collar cage.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 8l6-4h13l-6 4zM3 8v9l13 4 6-5V4M16 8v13M3 12l13 4 6-5M9 10v8M19 7v11M2 21q2-2 4-1"/>
+</svg>

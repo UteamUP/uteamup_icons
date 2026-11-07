@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aquaculture-lantern-nets-title" aria-describedby="uteamup-sectors-aquaculture-lantern-nets-desc">
+  <title id="uteamup-sectors-aquaculture-lantern-nets-title">Lantern culture nets — Ljóskeranet</title>
+  <desc id="uteamup-sectors-aquaculture-lantern-nets-desc">A suspended tiered lantern net has several separated circular growing shelves.</desc>
+  <!-- Subject: aquaculture-lantern-nets. Stacked suspended shelves make a lantern culture net, unlike the single-bag fishing traps. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aquaculture-lantern-nets","label_en":"Lantern culture nets","label_is":"Ljóskeranet","section":"02","category_en":"Aquaculture and seafood processing","category_is":"Fiskeldi og fiskvinnsla","batch":1,"tags":["aquaculture","shellfish"],"description":"A suspended tiered lantern net has several separated circular growing shelves.","design_note":"Stacked suspended shelves make a lantern culture net, unlike the single-bag fishing traps.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M12 2v3M5 7l7-2 7 2v13l-7 2-7-2zM5 7l7 2 7-2M5 12l7 2 7-2M5 17l7 2 7-2M12 9v13"/>
+</svg>

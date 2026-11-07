@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-box-strapping-title" aria-describedby="uteamup-sectors-fisheries-box-strapping-desc">
+  <title id="uteamup-sectors-fisheries-box-strapping-title">Seafood box strapping — Böndun fiskkassa</title>
+  <desc id="uteamup-sectors-fisheries-box-strapping-desc">A shipping box with two narrow straps sits inside a large strapping-machine arch.</desc>
+  <!-- Subject: fisheries-box-strapping. A physical strapping arch surrounding the box shows the packaging operation instead of a renamed parcel icon. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-box-strapping","label_en":"Seafood box strapping","label_is":"Böndun fiskkassa","section":"03","category_en":"Fisheries services, ports and cold logistics","category_is":"Þjónusta við sjávarútveg, hafnir og kælikeðja","batch":2,"tags":["fisheries","packaging"],"description":"A shipping box with two narrow straps sits inside a large strapping-machine arch.","design_note":"A physical strapping arch surrounding the box shows the packaging operation instead of a renamed parcel icon.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M5 11h14v10H5zM10 11v10M14 11v10M2 19V3h20v16M2 7h20M9 3v4M15 3v4"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aviation-floatplane-title" aria-describedby="uteamup-sectors-aviation-floatplane-desc">
+  <title id="uteamup-sectors-aviation-floatplane-title">Floatplane — Flotflugvél</title>
+  <desc id="uteamup-sectors-aviation-floatplane-desc">A high-wing aircraft stands on two long separate floats instead of wheels.</desc>
+  <!-- Subject: aviation-floatplane. Paired rectangular water floats beneath struts identify a floatplane, unlike the integral hull of a flying boat. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aviation-floatplane","label_en":"Floatplane","label_is":"Flotflugvél","section":"04","category_en":"Aircraft and flight","category_is":"Loftför og flug","batch":2,"tags":["aviation","aircraft"],"description":"A high-wing aircraft stands on two long separate floats instead of wheels.","design_note":"Paired rectangular water floats beneath struts identify a floatplane, unlike the integral hull of a flying boat.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <circle cx="12" cy="10" r="2.7"/><path d="M2 6h20M4 6l6 6M20 6l-6 6M7 11v7M17 11v7M3 18h7v3H4zM14 18h7l-1 3h-6zM12 8v4"/>
+</svg>

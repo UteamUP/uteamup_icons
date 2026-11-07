@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-space-sun-title" aria-describedby="uteamup-sectors-space-sun-desc">
+  <title id="uteamup-sectors-space-sun-title">Sun — Sól</title>
+  <desc id="uteamup-sectors-space-sun-desc">A clear solar disk is surrounded by eight short, evenly spaced rays with generous open gaps.</desc>
+  <!-- Subject: space-sun. A clear solar disk is surrounded by eight short, evenly spaced rays with generous open gaps. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"space-sun","label_en":"Sun","label_is":"Sól","section":"16","category_en":"Space, astronomy and exploration","category_is":"Geimurinn, stjörnufræði og geimrannsóknir","batch":8,"tags":["space","sun"],"description":"A clear solar disk is surrounded by eight short, evenly spaced rays with generous open gaps.","design_note":"A clear solar disk is surrounded by eight short, evenly spaced rays with generous open gaps.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <circle cx="12" cy="12" r="5"/><path d="M12 2V4 M12 20V22 M2 12H4 M20 12H22 M4.8 4.8L6.3 6.3 M17.7 17.7L19.2 19.2 M4.8 19.2L6.3 17.7 M17.7 6.3L19.2 4.8"/>
+</svg>

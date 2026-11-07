@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-utility-fault-locator-title" aria-describedby="uteamup-sectors-utility-fault-locator-desc">
+  <title id="uteamup-sectors-utility-fault-locator-title">Cable fault locator — Bilunargreinir fyrir strengi</title>
+  <desc id="uteamup-sectors-utility-fault-locator-desc">A portable instrument displays a single reflected pulse trace and connects to a long cable test lead.</desc>
+  <!-- Subject: utility-fault-locator. A portable instrument displays a single reflected pulse trace and connects to a long cable test lead. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"utility-fault-locator","label_en":"Cable fault locator","label_is":"Bilunargreinir fyrir strengi","section":"08","category_en":"Energy utilities, grids and services","category_is":"Orkuveitur, dreifikerfi og þjónusta","batch":4,"tags":["energy","utility"],"description":"A portable instrument displays a single reflected pulse trace and connects to a long cable test lead.","design_note":"A portable instrument displays a single reflected pulse trace and connects to a long cable test lead.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <rect x="2" y="5" width="17" height="13" rx="1"/><path d="M5 13h3l2-5 3 7 2-3h1 M5 18v3 M16 18v3 M19 11h3V3"/>
+</svg>

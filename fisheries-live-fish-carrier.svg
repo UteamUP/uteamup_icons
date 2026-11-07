@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-live-fish-carrier-title" aria-describedby="uteamup-sectors-fisheries-live-fish-carrier-desc">
+  <title id="uteamup-sectors-fisheries-live-fish-carrier-title">Live fish carrier — Brunnbátur</title>
+  <desc id="uteamup-sectors-fisheries-live-fish-carrier-desc">A wellboat has a forward bridge and a large water-filled fish transport well along its deck.</desc>
+  <!-- Subject: fisheries-live-fish-carrier. The visible water chamber and fish establish live transport rather than a reefer cargo hold. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-live-fish-carrier","label_en":"Live fish carrier","label_is":"Brunnbátur","section":"03","category_en":"Fisheries services, ports and cold logistics","category_is":"Þjónusta við sjávarútveg, hafnir og kælikeðja","batch":2,"tags":["fisheries","live-fish"],"description":"A wellboat has a forward bridge and a large water-filled fish transport well along its deck.","design_note":"The visible water chamber and fish establish live transport rather than a reefer cargo hold.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 17h20l-4 5H6zM3 17V6h5v11M4 9h3M10 17V8h11v9M12 11q2-2 4 0t4 0M12 14q2-2 4 0-2 2-4 0M5 6V3"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-instrument-kora-title" aria-describedby="uteamup-sectors-instrument-kora-desc">
+  <title id="uteamup-sectors-instrument-kora-title">Kora bridge harp — Kora-harpa</title>
+  <desc id="uteamup-sectors-instrument-kora-desc">A kora has a large hemispheric gourd, a long upright neck, two projecting hand grips and sparse strings rising to a tall bridge.</desc>
+  <!-- Subject: instrument-kora. The bridge-harp geometry follows museum descriptions; only representative strings are drawn to keep the icon legible. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"instrument-kora","label_en":"Kora bridge harp","label_is":"Kora-harpa","section":"17","category_en":"Musical instruments and music services","category_is":"Hljóðfæri og tónlistarþjónusta","batch":9,"tags":["music","strings"],"description":"A kora has a large hemispheric gourd, a long upright neck, two projecting hand grips and sparse strings rising to a tall bridge.","design_note":"The bridge-harp geometry follows museum descriptions; only representative strings are drawn to keep the icon legible.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <ellipse cx="12" cy="17" rx="7" ry="5"/><path d="M8 2V21 M17 9V19 M8 3L17 15 M8 7L17 17 M8 11L17 19 M5 11V17 M20 11V17"/>
+</svg>

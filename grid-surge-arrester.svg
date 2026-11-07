@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-grid-surge-arrester-title" aria-describedby="uteamup-sectors-grid-surge-arrester-desc">
+  <title id="uteamup-sectors-grid-surge-arrester-title">Surge arrester — Yfirspennuvari</title>
+  <desc id="uteamup-sectors-grid-surge-arrester-desc">A vertical ribbed arrester stands beside one distinct angular surge symbol and a low grounded base.</desc>
+  <!-- Subject: grid-surge-arrester. A vertical ribbed arrester stands beside one distinct angular surge symbol and a low grounded base. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"grid-surge-arrester","label_en":"Surge arrester","label_is":"Yfirspennuvari","section":"08","category_en":"Energy utilities, grids and services","category_is":"Orkuveitur, dreifikerfi og þjónusta","batch":4,"tags":["energy","utility"],"description":"A vertical ribbed arrester stands beside one distinct angular surge symbol and a low grounded base.","design_note":"A vertical ribbed arrester stands beside one distinct angular surge symbol and a low grounded base.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M12 2v20 M7 5h10 M8 8h8 M7 11h10 M8 14h8 M7 17h10 M9 21h6 M18 3l-2 5h4l-2 5"/>
+</svg>

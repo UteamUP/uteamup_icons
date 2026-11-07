@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-earth-anemometer-title" aria-describedby="uteamup-sectors-earth-anemometer-desc">
+  <title id="uteamup-sectors-earth-anemometer-title">Cup anemometer — Skálavindmælir</title>
+  <desc id="uteamup-sectors-earth-anemometer-desc">Three open rotating cups are spaced around a central hub on a vertical anemometer mast.</desc>
+  <!-- Subject: earth-anemometer. Three open rotating cups are spaced around a central hub on a vertical anemometer mast. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"earth-anemometer","label_en":"Cup anemometer","label_is":"Skálavindmælir","section":"20","category_en":"Earth, landscapes and environmental services","category_is":"Jörðin, landslag og umhverfisþjónusta","batch":10,"tags":["earth","nature","environment"],"description":"Three open rotating cups are spaced around a central hub on a vertical anemometer mast.","design_note":"Three open rotating cups are spaced around a central hub on a vertical anemometer mast.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M12 11V6 M12 11 5 15 M12 11l7 4 M12 13v9 M8 22h8"/><path d="M9 3h6v1a3 3 0 0 1-6 0V3Z M2 13h6v1a3 3 0 0 1-6 0v-1Z M16 13h6v1a3 3 0 0 1-6 0v-1Z"/><circle cx="12" cy="11" r="1"/>
+</svg>

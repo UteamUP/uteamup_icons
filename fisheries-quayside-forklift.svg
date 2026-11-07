@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-quayside-forklift-title" aria-describedby="uteamup-sectors-fisheries-quayside-forklift-desc">
+  <title id="uteamup-sectors-fisheries-quayside-forklift-title">Quayside forklift — Lyftari á hafnarbakka</title>
+  <desc id="uteamup-sectors-fisheries-quayside-forklift-desc">A compact forklift raises a crate alongside its tall upright mast and horizontal forks.</desc>
+  <!-- Subject: fisheries-quayside-forklift. The visible mast, lifted crate and low counterbalanced vehicle identify handling equipment. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-quayside-forklift","label_en":"Quayside forklift","label_is":"Lyftari á hafnarbakka","section":"03","category_en":"Fisheries services, ports and cold logistics","category_is":"Þjónusta við sjávarútveg, hafnir og kælikeðja","batch":2,"tags":["fisheries","handling"],"description":"A compact forklift raises a crate alongside its tall upright mast and horizontal forks.","design_note":"The visible mast, lifted crate and low counterbalanced vehicle identify handling equipment.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 16h10v-7H7v7M3 16v-5h4M7 9V5h6M16 3v17h6M13 16h3M18 8h4v6h-4z"/><circle cx="5" cy="20" r="2"/><circle cx="12" cy="20" r="2"/>
+</svg>

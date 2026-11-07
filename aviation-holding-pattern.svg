@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-aviation-holding-pattern-title" aria-describedby="uteamup-sectors-aviation-holding-pattern-desc">
+  <title id="uteamup-sectors-aviation-holding-pattern-title">Holding pattern — Biðflug</title>
+  <desc id="uteamup-sectors-aviation-holding-pattern-desc">A racetrack holding path with a direction marker is shown beside a small aircraft plan symbol.</desc>
+  <!-- Subject: aviation-holding-pattern. The closed racetrack shape represents a holding manoeuvre rather than a simple turn arrow. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"aviation-holding-pattern","label_en":"Holding pattern","label_is":"Biðflug","section":"04","category_en":"Aircraft and flight","category_is":"Loftför og flug","batch":2,"tags":["aviation","navigation"],"description":"A racetrack holding path with a direction marker is shown beside a small aircraft plan symbol.","design_note":"The closed racetrack shape represents a holding manoeuvre rather than a simple turn arrow.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M7 3q5 0 5 5v8q0 5-5 5t-5-5V8q0-5 5-5M2 9l2-2 2 2M17 5q1-2 2 0v5l3 3v2l-3-2v5l2 2h-6l2-2v-5l-3 2v-2l3-3z"/>
+</svg>

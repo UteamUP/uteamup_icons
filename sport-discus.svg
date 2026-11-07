@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-sport-discus-title" aria-describedby="uteamup-sectors-sport-discus-desc">
+  <title id="uteamup-sectors-sport-discus-title">Discus throw — Kringlukast</title>
+  <desc id="uteamup-sectors-sport-discus-desc">A rotating athlete extends one arm toward a clearly flattened discus while the opposite arm balances the stance.</desc>
+  <!-- Subject: sport-discus. A rotating athlete extends one arm toward a clearly flattened discus while the opposite arm balances the stance. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"sport-discus","label_en":"Discus throw","label_is":"Kringlukast","section":"09","category_en":"Sports and recreation","category_is":"Íþróttir og útivist","batch":5,"tags":["sport","recreation"],"description":"A rotating athlete extends one arm toward a clearly flattened discus while the opposite arm balances the stance.","design_note":"A rotating athlete extends one arm toward a clearly flattened discus while the opposite arm balances the stance.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <circle cx="12" cy="5" r="2"/><ellipse cx="20" cy="7" rx="2" ry="1"/><path d="M12 8l-2 7 M12 8 7 6 4 9 M12 8l5 3 3-2 M10 15l-6 7 M10 15l6 4 4 3"/>
+</svg>

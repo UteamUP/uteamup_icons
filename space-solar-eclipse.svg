@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-space-solar-eclipse-title" aria-describedby="uteamup-sectors-space-solar-eclipse-desc">
+  <title id="uteamup-sectors-space-solar-eclipse-title">Partial solar eclipse — Sólmyrkvi</title>
+  <desc id="uteamup-sectors-space-solar-eclipse-desc">A foreground lunar disk obscures part of the Sun, leaving one exposed solar arc and four short light rays.</desc>
+  <!-- Subject: space-solar-eclipse. A foreground lunar disk obscures part of the Sun, leaving one exposed solar arc and four short light rays. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"space-solar-eclipse","label_en":"Partial solar eclipse","label_is":"Sólmyrkvi","section":"16","category_en":"Space, astronomy and exploration","category_is":"Geimurinn, stjörnufræði og geimrannsóknir","batch":8,"tags":["space","eclipse"],"description":"A foreground lunar disk obscures part of the Sun, leaving one exposed solar arc and four short light rays.","design_note":"A foreground lunar disk obscures part of the Sun, leaving one exposed solar arc and four short light rays.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <circle cx="14" cy="10" r="6"/><path d="M16.567 15.423A7 7 0 1 1 9.513 6.017 M1.5 13H2.5 M4 19L3 20 M10 20.5V22 M6 4L5 2"/>
+</svg>

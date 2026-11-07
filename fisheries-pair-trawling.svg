@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-pair-trawling-title" aria-describedby="uteamup-sectors-fisheries-pair-trawling-desc">
+  <title id="uteamup-sectors-fisheries-pair-trawling-title">Pair trawling — Tveggja skipa togveiðar</title>
+  <desc id="uteamup-sectors-fisheries-pair-trawling-desc">Two separate fishing boats tow opposite sides of one shared tapered trawl.</desc>
+  <!-- Subject: fisheries-pair-trawling. The two working vessels and shared net depict the operation, not an alias of a single trawler. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-pair-trawling","label_en":"Pair trawling","label_is":"Tveggja skipa togveiðar","section":"01","category_en":"Fishing vessels and harvesting gear","category_is":"Fiskiskip og veiðarfæri","batch":1,"tags":["fishing","operation","trawl"],"description":"Two separate fishing boats tow opposite sides of one shared tapered trawl.","design_note":"The two working vessels and shared net depict the operation, not an alias of a single trawler.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 5h7L7.5 8H4ZM4 5V2h3v3M15 5h7l-1.5 3H17ZM17 5V2h3v3M7 8l2 6M17 8l-2 6M8 14h8l-2.5 7h-3ZM10.5 14 12 21M13.5 14 12 21"/>
+</svg>

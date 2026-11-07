@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-health-stethoscope-title" aria-describedby="uteamup-sectors-health-stethoscope-desc">
+  <title id="uteamup-sectors-health-stethoscope-title">Stethoscope — Hlustunarpípa</title>
+  <desc id="uteamup-sectors-health-stethoscope-desc">Two earpieces join an open listening loop and a long curved tube ending in a round chestpiece.</desc>
+  <!-- Subject: health-stethoscope. The separate chestpiece and U-shaped earpiece tube make the instrument immediately recognizable. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"health-stethoscope","label_en":"Stethoscope","label_is":"Hlustunarpípa","section":"15","category_en":"Health, care and wellbeing services","category_is":"Heilsa, umönnun og velferðarþjónusta","batch":8,"tags":["health","examination"],"description":"Two earpieces join an open listening loop and a long curved tube ending in a round chestpiece.","design_note":"The separate chestpiece and U-shaped earpiece tube make the instrument immediately recognizable.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M5 3V8C5 14 15 14 15 8V3 M3.5 2L5 3 M16.5 2L15 3 M10 12.5V16C10 22 19 22 19 17V14.2"/><circle cx="19" cy="12" r="2.2"/>
+</svg>

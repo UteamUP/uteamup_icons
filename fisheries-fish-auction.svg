@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-fisheries-fish-auction-title" aria-describedby="uteamup-sectors-fisheries-fish-auction-desc">
+  <title id="uteamup-sectors-fisheries-fish-auction-title">Fish auction — Fiskuppboð</title>
+  <desc id="uteamup-sectors-fisheries-fish-auction-desc">An auction gavel is shown above a fish display tray and its striking block.</desc>
+  <!-- Subject: fisheries-fish-auction. The gavel beside the fish lot gives the auction meaning without a currency badge. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"fisheries-fish-auction","label_en":"Fish auction","label_is":"Fiskuppboð","section":"03","category_en":"Fisheries services, ports and cold logistics","category_is":"Þjónusta við sjávarútveg, hafnir og kælikeðja","batch":2,"tags":["fisheries","market"],"description":"An auction gavel is shown above a fish display tray and its striking block.","design_note":"The gavel beside the fish lot gives the auction meaning without a currency badge.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M4 4l3-2 6 6-3 3zM10 9l8 8M3 21h18M4 16q5-5 10 0-5 5-10 0l-2-1.5v3zM17 18h4v3"/>
+</svg>

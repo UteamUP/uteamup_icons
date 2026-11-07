@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-instrument-grand-piano-title" aria-describedby="uteamup-sectors-instrument-grand-piano-desc">
+  <title id="uteamup-sectors-instrument-grand-piano-title">Grand piano — Flygill</title>
+  <desc id="uteamup-sectors-instrument-grand-piano-desc">A top-view grand piano has its characteristic curved wing-shaped case above a long exposed keyboard.</desc>
+  <!-- Subject: instrument-grand-piano. A top-view grand piano has its characteristic curved wing-shaped case above a long exposed keyboard. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"instrument-grand-piano","label_en":"Grand piano","label_is":"Flygill","section":"17","category_en":"Musical instruments and music services","category_is":"Hljóðfæri og tónlistarþjónusta","batch":9,"tags":["music","keyboard"],"description":"A top-view grand piano has its characteristic curved wing-shaped case above a long exposed keyboard.","design_note":"A top-view grand piano has its characteristic curved wing-shaped case above a long exposed keyboard.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 15V3H10C17 3 20 5 20 9C20 12 14 11 14 15 M3 15H21V21H3V15 M6 15V21 M9 15V21 M12 15V21 M15 15V21 M18 15V21"/>
+</svg>

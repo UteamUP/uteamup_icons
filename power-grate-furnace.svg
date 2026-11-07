@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-power-grate-furnace-title" aria-describedby="uteamup-sectors-power-grate-furnace-desc">
+  <title id="uteamup-sectors-power-grate-furnace-title">Grate furnace — Eldhólf með rist</title>
+  <desc id="uteamup-sectors-power-grate-furnace-desc">A broad furnace chamber holds a large flame above four separated grate bars and a lower ash space.</desc>
+  <!-- Subject: power-grate-furnace. A broad furnace chamber holds a large flame above four separated grate bars and a lower ash space. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"power-grate-furnace","label_en":"Grate furnace","label_is":"Eldhólf með rist","section":"07","category_en":"Power plant equipment and systems","category_is":"Búnaður og kerfi orkuvera","batch":4,"tags":["power plant","equipment","energy"],"description":"A broad furnace chamber holds a large flame above four separated grate bars and a lower ash space.","design_note":"A broad furnace chamber holds a large flame above four separated grate bars and a lower ash space.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 3h18v19H3V3Z M3 16h18 M6 16v3 M10 16v3 M14 16v3 M18 16v3 M6 22v-2 M18 22v-2 M9 13q-3-3 3-8-1 4 3 3 3 6-6 5"/>
+</svg>

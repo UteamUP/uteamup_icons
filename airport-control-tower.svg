@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-airport-control-tower-title" aria-describedby="uteamup-sectors-airport-control-tower-desc">
+  <title id="uteamup-sectors-airport-control-tower-title">Air traffic control tower — Flugturn</title>
+  <desc id="uteamup-sectors-airport-control-tower-desc">A tall tapered control-tower shaft supports a wide glazed observation cab and roof antenna.</desc>
+  <!-- Subject: airport-control-tower. The overhanging glazed cab above a narrow tower gives the classic control-tower silhouette. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"airport-control-tower","label_en":"Air traffic control tower","label_is":"Flugturn","section":"05","category_en":"Airports, ground handling and aviation services","category_is":"Flugvellir, flugafgreiðsla og flugþjónusta","batch":3,"tags":["aviation","air-traffic"],"description":"A tall tapered control-tower shaft supports a wide glazed observation cab and roof antenna.","design_note":"The overhanging glazed cab above a narrow tower gives the classic control-tower silhouette.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M6 4h12l3 5-4 4H7L3 9zM8 13l-1 9h10l-1-9M4 8h16M8 4v4M16 4v4M12 4V2"/>
+</svg>

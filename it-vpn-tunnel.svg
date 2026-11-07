@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-it-vpn-tunnel-title" aria-describedby="uteamup-sectors-it-vpn-tunnel-desc">
+  <title id="uteamup-sectors-it-vpn-tunnel-title">VPN tunnel — VPN-tenging</title>
+  <desc id="uteamup-sectors-it-vpn-tunnel-desc">Two separate endpoint computers connect through one broad arch that contains a small closed padlock.</desc>
+  <!-- Subject: it-vpn-tunnel. Two separate endpoint computers connect through one broad arch that contains a small closed padlock. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"it-vpn-tunnel","label_en":"VPN tunnel","label_is":"VPN-tenging","section":"14","category_en":"Computer expertise and IT services","category_is":"Tölvusérfræði og upplýsingatækniþjónusta","batch":7,"tags":["computer","IT","service"],"description":"Two separate endpoint computers connect through one broad arch that contains a small closed padlock.","design_note":"Two separate endpoint computers connect through one broad arch that contains a small closed padlock.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <rect x="2" y="14" width="6" height="5" rx="0.5"/><rect x="16" y="14" width="6" height="5" rx="0.5"/><path d="M2 21h6 M16 21h6 M5 14V11q0-8 7-8t7 8v3"/><rect x="9" y="9" width="6" height="5" rx="0.5"/><path d="M10.5 9V7q1.5-3 3 0v2"/>
+</svg>

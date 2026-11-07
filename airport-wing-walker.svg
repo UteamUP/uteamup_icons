@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-airport-wing-walker-title" aria-describedby="uteamup-sectors-airport-wing-walker-desc">
+  <title id="uteamup-sectors-airport-wing-walker-title">Aircraft wing walker — Vængvörður á flughlöði</title>
+  <desc id="uteamup-sectors-airport-wing-walker-desc">A ground worker with a raised baton stands beside the end of a wide aircraft wing.</desc>
+  <!-- Subject: airport-wing-walker. The worker is positioned beside an actual wing tip, distinguishing wing clearance monitoring from central marshalling. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"airport-wing-walker","label_en":"Aircraft wing walker","label_is":"Vængvörður á flughlöði","section":"05","category_en":"Airports, ground handling and aviation services","category_is":"Flugvellir, flugafgreiðsla og flugþjónusta","batch":3,"tags":["aviation","ground-service"],"description":"A ground worker with a raised baton stands beside the end of a wide aircraft wing.","design_note":"The worker is positioned beside an actual wing tip, distinguishing wing clearance monitoring from central marshalling.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <circle cx="5" cy="8" r="2"/><path d="M3 11h4v6H3zM3 17l-1 5M7 17l2 5M7 12l4-3V5M14 14l8-4v5l-8 2M14 14v3"/>
+</svg>

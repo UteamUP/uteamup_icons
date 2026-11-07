@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-sectors-space-nebula-title" aria-describedby="uteamup-sectors-space-nebula-desc">
+  <title id="uteamup-sectors-space-nebula-title">Nebula — Geimþoka</title>
+  <desc id="uteamup-sectors-space-nebula-desc">An irregular interstellar cloud surrounds one bright central star and two smaller stellar points.</desc>
+  <!-- Subject: space-nebula. An irregular interstellar cloud surrounds one bright central star and two smaller stellar points. -->
+  <metadata>{"collection":"UteamUP Sectors and Nature","subject":"space-nebula","label_en":"Nebula","label_is":"Geimþoka","section":"16","category_en":"Space, astronomy and exploration","category_is":"Geimurinn, stjörnufræði og geimrannsóknir","batch":8,"tags":["space","nebula"],"description":"An irregular interstellar cloud surrounds one bright central star and two smaller stellar points.","design_note":"An irregular interstellar cloud surrounds one bright central star and two smaller stellar points.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M4 6C2 3 6 1 9 4C13 1 18 2 17 6C23 6 23 13 19 14C22 19 17 23 14 20C10 23 7 21 6 18C2 18 1 12 4 9Q2 8 4 6"/><path d="M12 8L12.84 10.16L15 11L12.84 11.84L12 14L11.16 11.84L9 11L11.16 10.16Z"/><circle cx="8" cy="15" r="0.6"/><circle cx="17" cy="9" r="0.6"/>
+</svg>
