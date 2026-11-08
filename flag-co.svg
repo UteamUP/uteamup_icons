@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-flag-co-title" aria-describedby="ux-flag-co-desc" fill="#000000" stroke="none">
+  <title id="ux-flag-co-title">Colombia flag — Kólumbía · fáni</title>
+  <desc id="ux-flag-co-desc">A coloured 4:3 flag icon for Colombia, preserving the vector artwork from the pinned flag-icons source.</desc>
+  <!-- Subject: Colombia flag. Source: flag-icons. Source colours and geometry preserved on the collection canvas; normalized 4:3 flag-icon format. -->
+  <!--
+The MIT License (MIT)
+
+Copyright (c) 2013 Panayiotis Lipiridis
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+of the Software, and to permit persons to whom the Software is furnished to do
+so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"flag-co","label_en":"Colombia flag","label_is":"Kólumbía · fáni","category":"Countries and flags","category_is":"Lönd, svæði og fánar","kind":"flag","batch":7,"description":"A coloured 4:3 flag icon for Colombia, preserving the vector artwork from the pinned flag-icons source.","tags":["flag","country","co","Colombia","Kólumbía"],"source":{"source_collection":"flag-icons","upstream_name":"co","source_url":"https://raw.githubusercontent.com/lipis/flag-icons/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/co.svg","source_version":"7.6.0","source_commit":"ac7e0eb3259eb62aa6100c435607e2fe03896a97","license":"MIT","source_sha256":"6bab3c96c1657510c6e49354dd40203c69401bee54da497392ab9267334e5fd4"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,640.0,480.0],"background":"transparent","color":"source colors","format":"4:3 flag icon format"},"gap_review":"No country-specific or regional flag counterpart in the available prior SVG inventory.","classification":"UN member state","code":"co","country":"Colombia","country_is":"Kólumbía","format":"4:3 flag icon format"}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="4.125" width="21" height="15.75" viewBox="0 0 640 480" preserveAspectRatio="xMidYMid meet"><g fill-rule="evenodd" stroke-width="1pt">
+    <path fill="#ffe800" d="M0 0h640v480H0z" />
+    <path fill="#00148e" d="M0 240h640v240H0z" />
+    <path fill="#da0010" d="M0 360h640v120H0z" />
+  </g>
+</svg>
+</svg>

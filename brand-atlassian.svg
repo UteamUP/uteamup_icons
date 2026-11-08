@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-atlassian-title" aria-describedby="ux-brand-atlassian-desc" fill="#0052CC" stroke="none">
+  <title id="ux-brand-atlassian-title">Atlassian — Atlassian</title>
+  <desc id="ux-brand-atlassian-desc">The sourced Atlassian brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: Atlassian. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://atlassian.design/resources/logo-library
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-atlassian","label_en":"Atlassian","label_is":"Atlassian","category":"Business, design and collaboration software","category_is":"Viðskipta-, hönnunar- og samstarfshugbúnaður","kind":"brand","batch":5,"description":"The sourced Atlassian brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["Atlassian","brand","logo","business_design_apps"],"source":{"source_collection":"Simple Icons","upstream_name":"atlassian","source_url":"https://atlassian.design/resources/logo-library","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":"https://atlassian.design/foundations/logos","official_source":"https://atlassian.design/resources/logo-library","source_sha256":"88a88e7a09df2ab7d2e6beefc1c6d8393073fdea18616a4bcc25a30145228edf"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#0052CC","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M7.12 11.084a.683.683 0 00-1.16.126L.075 22.974a.703.703 0 00.63 1.018h8.19a.678.678 0 00.63-.39c1.767-3.65.696-9.203-2.406-12.52zM11.434.386a15.515 15.515 0 00-.906 15.317l3.95 7.9a.703.703 0 00.628.388h8.19a.703.703 0 00.63-1.017L12.63.38a.664.664 0 00-1.196.006z" /></svg>
+</svg>

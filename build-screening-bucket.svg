@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-screening-bucket-title" aria-describedby="uteamup-build-build-screening-bucket-desc">
+  <title id="uteamup-build-build-screening-bucket-title">Rotary screening bucket — Sigtskófla</title>
+  <desc id="uteamup-build-build-screening-bucket-desc">An excavator coupling supports an open tapered screening cage with a sparse grid of bars.</desc>
+  <!-- Subject: build-screening-bucket. The visibly open cage and crossing screen bars distinguish material screening from a solid crushing bucket. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-screening-bucket","label_en":"Rotary screening bucket","label_is":"Sigtskófla","section":"01","category_en":"Earthmoving and demolition machinery","category_is":"Jarðvinnslu- og niðurrifsvélar","batch":1,"tags":["earthmoving","screening"],"description":"An excavator coupling supports an open tapered screening cage with a sparse grid of bars.","design_note":"The visibly open cage and crossing screen bars distinguish material screening from a solid crushing bucket.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 4h5v6H2zM7 7l12 2q4 1 3 7l-5 5-11-4zM9 8l-3 9M13 9l-3 9M17 10l-3 9M7 12l14 4"/>
+</svg>

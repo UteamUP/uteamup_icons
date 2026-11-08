@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-angular-title" aria-describedby="ux-brand-angular-desc" fill="#0F0F11" stroke="none">
+  <title id="ux-brand-angular-title">Angular — Angular</title>
+  <desc id="ux-brand-angular-desc">The sourced Angular brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: Angular. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://angular.dev/press-kit
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-angular","label_en":"Angular","label_is":"Angular","category":"Frameworks and developer tools","category_is":"Forritunarrammar og þróunarverkfæri","kind":"brand","batch":3,"description":"The sourced Angular brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["Angular","brand","logo","frameworks_developer_tools"],"source":{"source_collection":"Simple Icons","upstream_name":"angular","source_url":"https://angular.dev/press-kit","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":{"type":"CC-BY-4.0"},"guidelines":"https://angular.dev/press-kit","official_source":"https://angular.dev/press-kit","source_sha256":"385c7d047cc4d48d8359003b57ce4df7d1271b6d9e7840c128628ac582c90456"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#0F0F11","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M16.712 17.711H7.288l-1.204 2.916L12 24l5.916-3.373-1.204-2.916ZM14.692 0l7.832 16.855.814-12.856L14.692 0ZM9.308 0 .662 3.999l.814 12.856L9.308 0Zm-.405 13.93h6.198L12 6.396 8.903 13.93Z" /></svg>
+</svg>

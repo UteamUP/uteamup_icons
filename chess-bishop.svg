@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-chess-bishop-title" aria-describedby="ux-chess-bishop-desc" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round">
+  <title id="ux-chess-bishop-title">Chess bishop — Biskup í skák</title>
+  <desc id="ux-chess-bishop-desc">A pointed split mitre distinguishes the bishop above its stem and broad base.</desc>
+  <!-- Subject: Chess bishop. Source: Tabler.  -->
+  <!--
+MIT License
+
+Copyright (c) 2020-2026 Paweł Kuna
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"chess-bishop","label_en":"Chess bishop","label_is":"Biskup í skák","category":"Games and playing pieces","category_is":"Leikir og spilamenn","kind":"outline","batch":9,"description":"A pointed split mitre distinguishes the bishop above its stem and broad base.","tags":["chess-bishop","Chess bishop","Games and playing pieces","Biskup í skák"],"source":{"source_collection":"Tabler","upstream_name":"chess-bishop","source_url":"https://raw.githubusercontent.com/tabler/tabler-icons/ed177a085b652fe04ec4f37ced867c94621e7840/icons/outline/chess-bishop.svg","source_version":"3.50.0","source_commit":"ed177a085b652fe04ec4f37ced867c94621e7840","license":"MIT","source_sha256":"f3a13e44a8bff6d7b2bc589c684028b46ca67bbabaddd6322e03fc52e6ad7f31"},"style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"},"gap_review":"Checked against available prior SVG inventories and aliases."}</metadata>
+  <path xmlns="http://www.w3.org/2000/svg" d="M8 16l-1.447 .724a1 1 0 0 0 -.553 .894v2.382h12v-2.382a1 1 0 0 0 -.553 -.894l-1.447 -.724h-8" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M11 4a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M9.5 16c-1.667 0 -2.5 -1.669 -2.5 -3c0 -3.667 1.667 -6 5 -7c3.333 1 5 3.427 5 7c0 1.284 -.775 2.881 -2.325 3l-.175 0h-5" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M15 8l-3 3" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M12 5v1" />
+
+</svg>

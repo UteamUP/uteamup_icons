@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-pnpm-title" aria-describedby="ux-brand-pnpm-desc" fill="#F69220" stroke="none">
+  <title id="ux-brand-pnpm-title">pnpm — pnpm</title>
+  <desc id="ux-brand-pnpm-desc">The sourced pnpm brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: pnpm. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://pnpm.io/logos
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-pnpm","label_en":"pnpm","label_is":"pnpm","category":"Frameworks and developer tools","category_is":"Forritunarrammar og þróunarverkfæri","kind":"brand","batch":3,"description":"The sourced pnpm brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["pnpm","brand","logo","frameworks_developer_tools"],"source":{"source_collection":"Simple Icons","upstream_name":"pnpm","source_url":"https://pnpm.io/logos","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":null,"official_source":"https://pnpm.io/logos","source_sha256":"c6285a2d1fa28b8d6c42cd7f7edf360434371ff6f15744425c4444e41fed812b"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#F69220","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M0 0v7.5h7.5V0zm8.25 0v7.5h7.498V0zm8.25 0v7.5H24V0zM2 2h3.5v3.5H2zm8.25 0h3.498v3.5H10.25zm8.25 0H22v3.5h-3.5zM8.25 8.25v7.5h7.498v-7.5zm8.25 0v7.5H24v-7.5zm2 2H22v3.5h-3.5zM0 16.5V24h7.5v-7.5zm8.25 0V24h7.498v-7.5zm8.25 0V24H24v-7.5z" /></svg>
+</svg>

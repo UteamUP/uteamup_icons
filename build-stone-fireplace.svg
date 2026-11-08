@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-stone-fireplace-title" aria-describedby="uteamup-build-build-stone-fireplace-desc">
+  <title id="uteamup-build-build-stone-fireplace-title">Stone fireplace — Hlaðinn arinn</title>
+  <desc id="uteamup-build-build-stone-fireplace-desc">A wide masonry mantel spans two stone jambs above a visible small flame and a broad flat hearth.</desc>
+  <!-- Subject: build-stone-fireplace. A wide masonry mantel spans two stone jambs above a visible small flame and a broad flat hearth. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-stone-fireplace","label_en":"Stone fireplace","label_is":"Hlaðinn arinn","section":"06","category_en":"Masonry, stonework and hard landscaping","category_is":"Múrverk, steinhleðsla og hellulögn","batch":3,"tags":["masonry","stonework","hardscape"],"description":"A wide masonry mantel spans two stone jambs above a visible small flame and a broad flat hearth.","design_note":"A wide masonry mantel spans two stone jambs above a visible small flame and a broad flat hearth.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <rect x="2" y="5" width="20" height="3" rx="0.6"/><path d="M4 8v13h4V8 M16 8v13h4V8 M4 14h4 M16 14h4 M2 22h20 M10 18q-2-3 2-6 0 3 2 2 3 4-1 6-2 1-3-2Z"/>
+</svg>

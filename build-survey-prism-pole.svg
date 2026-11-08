@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-survey-prism-pole-title" aria-describedby="uteamup-build-build-survey-prism-pole-desc">
+  <title id="uteamup-build-build-survey-prism-pole-title">Survey prism pole — Prismastöng</title>
+  <desc id="uteamup-build-build-survey-prism-pole-desc">A round reflecting prism sits in a polygonal target holder above a slender pointed survey pole.</desc>
+  <!-- Subject: build-survey-prism-pole. The reflector prism and target frame distinguish the pole from a satellite-antenna rover. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-survey-prism-pole","label_en":"Survey prism pole","label_is":"Prismastöng","section":"03","category_en":"Site setup, surveying and ground investigation","category_is":"Aðstaða, landmælingar og jarðkönnun","batch":2,"tags":["surveying","target"],"description":"A round reflecting prism sits in a polygonal target holder above a slender pointed survey pole.","design_note":"The reflector prism and target frame distinguish the pole from a satellite-antenna rover.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M8 2h8l4 6-8 6-8-6zM12 14v8M12 17h2M12 20h2"/><circle cx="12" cy="8" r="3"/>
+</svg>

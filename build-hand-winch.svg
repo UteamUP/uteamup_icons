@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-hand-winch-title" aria-describedby="uteamup-build-build-hand-winch-desc">
+  <title id="uteamup-build-build-hand-winch-title">Hand-cranked site winch — Handknúin dráttarvinda</title>
+  <desc id="uteamup-build-build-hand-winch-desc">A horizontal rope drum sits between two frame plates with an outboard crank handle and a free cable end.</desc>
+  <!-- Subject: build-hand-winch. Horizontal winding drum, side crank and anchored frame identify a hand winch rather than a hanging hoist. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-hand-winch","label_en":"Hand-cranked site winch","label_is":"Handknúin dráttarvinda","section":"02","category_en":"Lifting, access and site logistics","category_is":"Lyftingar, aðgengi og flutningar á verkstað","batch":1,"tags":["rigging","winch"],"description":"A horizontal rope drum sits between two frame plates with an outboard crank handle and a free cable end.","design_note":"Horizontal winding drum, side crank and anchored frame identify a hand winch rather than a hanging hoist.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <ellipse cx="12" cy="12" rx="6" ry="4"/><path d="M4 7v12h16V7M6 6v12M18 6v12M9 9v6M13 8v8M18 12h4V7h-2M6 12H2v5M5 19h14v3H5z"/>
+</svg>

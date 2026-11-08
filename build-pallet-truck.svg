@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-pallet-truck-title" aria-describedby="uteamup-build-build-pallet-truck-desc">
+  <title id="uteamup-build-build-pallet-truck-title">Hand pallet truck — Handbrettatjakkur</title>
+  <desc id="uteamup-build-build-pallet-truck-desc">A tall loop handle steers a compact hydraulic base with two long low pallet forks shown in perspective.</desc>
+  <!-- Subject: build-pallet-truck. Low paired forks and a hand tiller identify a pallet truck without adding a lifting mast. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-pallet-truck","label_en":"Hand pallet truck","label_is":"Handbrettatjakkur","section":"02","category_en":"Lifting, access and site logistics","category_is":"Lyftingar, aðgengi og flutningar á verkstað","batch":1,"tags":["site-logistics","pallet-handling"],"description":"A tall loop handle steers a compact hydraulic base with two long low pallet forks shown in perspective.","design_note":"Low paired forks and a hand tiller identify a pallet truck without adding a lifting mast.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <rect x="3" y="3" width="6" height="4" rx="2"/><path d="M6 7v8l10 6 5-3-10-6M6 15l5-3M9 14l9 5M7 16l-3 2"/><circle cx="6" cy="19" r="1.5"/><circle cx="18" cy="21" r="1"/>
+</svg>

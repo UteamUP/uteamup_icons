@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-fujitsu-title" aria-describedby="ux-brand-fujitsu-desc" fill="#FF0000" stroke="none">
+  <title id="ux-brand-fujitsu-title">Fujitsu — Fujitsu</title>
+  <desc id="ux-brand-fujitsu-desc">The sourced Fujitsu brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: Fujitsu. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://www.fujitsu.com/global/about/brandmanagement/logo/
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-fujitsu","label_en":"Fujitsu","label_is":"Fujitsu","category":"Computer, electronics and device brands","category_is":"Tölvu-, rafeinda- og tækjamerki","kind":"brand","batch":2,"description":"The sourced Fujitsu brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["Fujitsu","brand","logo","computers_electronics"],"source":{"source_collection":"Simple Icons","upstream_name":"fujitsu","source_url":"https://www.fujitsu.com/global/about/brandmanagement/logo/","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":null,"official_source":"https://www.fujitsu.com/global/about/brandmanagement/logo/","source_sha256":"42be786b1ed9ddebdd318711aee0f5a066a217eddb26772c7cb60cf2f1035831"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#FF0000","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M16.56 3C14.15 3 12.04 4.24 10.68 5.97L10.68 9.76C12.5 4.71 16.56 5.08 16.56 5.08C19.5 5.08 21.84 7.38 21.84 10.2C21.84 13.04 19.5 15.33 16.56 15.33A5.32 5.32 0 0 1 12.84 13.83L10.28 11.03A6.06 6.06 0 0 0 6.03 9.32C2.7 9.32 0 11.93 0 15.16C0 18.4 2.7 21 6.03 21C7.9 21 9.58 20.19 10.68 18.89L10.68 15.86C8.88 19.29 6.03 18.92 6.03 18.92C3.9 18.92 2.17 17.24 2.17 15.16C2.17 13.1 3.9 11.42 6.03 11.42C7.09 11.42 8.05 11.84 8.75 12.5L11.31 15.31A7.5 7.5 0 0 0 16.56 17.43C20.67 17.43 24 14.19 24 10.2C24 6.21 20.67 3 16.56 3Z" /></svg>
+</svg>

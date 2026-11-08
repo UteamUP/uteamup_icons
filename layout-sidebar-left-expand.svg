@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-layout-sidebar-left-expand-title" aria-describedby="ux-layout-sidebar-left-expand-desc" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round">
+  <title id="ux-layout-sidebar-left-expand-title">Expand left sidebar — Opna vinstri hliðarstiku</title>
+  <desc id="ux-layout-sidebar-left-expand-desc">A rectangular application frame contains a left sidebar and an arrow showing the expand action.</desc>
+  <!-- Subject: Expand left sidebar. Source: Tabler.  -->
+  <!--
+MIT License
+
+Copyright (c) 2020-2026 Paweł Kuna
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"layout-sidebar-left-expand","label_en":"Expand left sidebar","label_is":"Opna vinstri hliðarstiku","category":"Navigation and interface actions","category_is":"Leiðsögn og aðgerðir í viðmóti","kind":"outline","batch":11,"description":"A rectangular application frame contains a left sidebar and an arrow showing the expand action.","tags":["layout-sidebar-left-expand","Expand left sidebar","Navigation and interface actions","Opna vinstri hliðarstiku"],"source":{"source_collection":"Tabler","upstream_name":"layout-sidebar-left-expand","source_url":"https://raw.githubusercontent.com/tabler/tabler-icons/ed177a085b652fe04ec4f37ced867c94621e7840/icons/outline/layout-sidebar-left-expand.svg","source_version":"3.50.0","source_commit":"ed177a085b652fe04ec4f37ced867c94621e7840","license":"MIT","source_sha256":"49deaa23030d08ed8ef60c53bef50b64f77a64a64bd07398c2845b25594c66ee"},"style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"},"gap_review":"Checked against available prior SVG inventories and aliases."}</metadata>
+  <path xmlns="http://www.w3.org/2000/svg" d="M4 6a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2l0 -12" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M9 4v16" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M14 10l2 2l-2 2" />
+
+</svg>

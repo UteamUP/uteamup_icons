@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-zig-title" aria-describedby="ux-brand-zig-desc" fill="#F7A41D" stroke="none">
+  <title id="ux-brand-zig-title">Zig — Zig</title>
+  <desc id="ux-brand-zig-desc">The sourced Zig brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: Zig. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://github.com/ziglang/logo/blob/6446ba8e37a0651da720d8869e1ce9264fa0c0b9/zig-mark.svg
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-zig","label_en":"Zig","label_is":"Zig","category":"Programming languages and web standards","category_is":"Forritunarmál og vefstaðlar","kind":"brand","batch":3,"description":"The sourced Zig brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["Zig","brand","logo","languages_standards"],"source":{"source_collection":"Simple Icons","upstream_name":"zig","source_url":"https://github.com/ziglang/logo/blob/6446ba8e37a0651da720d8869e1ce9264fa0c0b9/zig-mark.svg","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":{"type":"CC-BY-SA-4.0"},"guidelines":null,"official_source":"https://github.com/ziglang/logo/blob/6446ba8e37a0651da720d8869e1ce9264fa0c0b9/zig-mark.svg","source_sha256":"1cd8fe569c641c0229c3717f2f883b88cf9beaa3b2adc255799ea3e014ee1955"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#F7A41D","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="m23.53 1.02-7.686 3.45h-7.06l-2.98 3.452h7.173L.47 22.98l7.681-3.607h7.065v-.002l2.978-3.45-7.148-.001 12.482-14.9zM0 4.47v14.901h1.883l2.98-3.45H3.451v-8h.942l2.824-3.45H0zm22.117 0-2.98 3.608h1.412v7.844h-.942l-2.98 3.45H24V4.47h-1.883z" /></svg>
+</svg>

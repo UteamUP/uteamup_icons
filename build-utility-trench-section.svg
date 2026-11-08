@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-utility-trench-section-title" aria-describedby="uteamup-build-build-utility-trench-section-desc">
+  <title id="uteamup-build-build-utility-trench-section-title">Utility trench section — Skurðsnið fyrir lagnir</title>
+  <desc id="uteamup-build-build-utility-trench-section-desc">A deep narrow trench exposes a single circular service pipe resting above its flat bottom.</desc>
+  <!-- Subject: build-utility-trench-section. Vertical cut faces and the exposed pipe give a utility-trench section rather than an unmarked pit. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-utility-trench-section","label_en":"Utility trench section","label_is":"Skurðsnið fyrir lagnir","section":"04","category_en":"Excavation, foundations and ground engineering","category_is":"Uppgröftur, undirstöður og jarðtækni","batch":2,"tags":["excavation","utility-trench"],"description":"A deep narrow trench exposes a single circular service pipe resting above its flat bottom.","design_note":"Vertical cut faces and the exposed pipe give a utility-trench section rather than an unmarked pit.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 4h5v18h10V4h5M2 10h3M19 10h3M2 17h3M19 17h3M7 20h10"/><circle cx="12" cy="17" r="2.8"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-bombardier-title" aria-describedby="ux-brand-bombardier-desc" fill="#000000" stroke="none">
+  <title id="ux-brand-bombardier-title">Bombardier — Bombardier</title>
+  <desc id="ux-brand-bombardier-desc">The sourced Bombardier brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: Bombardier. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://bombardier.com
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-bombardier","label_en":"Bombardier","label_is":"Bombardier","category":"Automotive and transport brands","category_is":"Bíla- og samgöngumerki","kind":"brand","batch":1,"description":"The sourced Bombardier brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["Bombardier","brand","logo","automotive_transport"],"source":{"source_collection":"Simple Icons","upstream_name":"bombardier","source_url":"https://bombardier.com","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":"https://bombardier.com/en/trademarks","official_source":"https://bombardier.com","source_sha256":"3b50d7c6106045a296719181802bab7b134c5647fdd611b835ddee7a036acaf8"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#000000","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="m0 23.24 1.823-1.822c1.823-1.823 3.645-2.127 6.076-2.127h5.012c2.43 0 3.707-.152 5.681-1.519h.244l-3.342 3.342c-1.823 1.823-3.646 2.127-6.076 2.127H0ZM5.165 6.533l1.822 1.822c1.823 1.823 3.646 2.127 6.076 2.127h5.013c2.43 0 3.706.152 5.681 1.519-1.975 1.367-3.25 1.519-5.681 1.519h-5.013c-2.43 0-4.253.304-6.076 2.127l-1.822 1.822h9.417c2.43 0 4.254-.303 6.076-2.126L24 12l-3.342-3.342c-1.822-1.823-3.645-2.126-6.076-2.126H5.165ZM0 .759l1.823 1.823C3.646 4.405 5.468 4.71 7.899 4.71h5.012c2.43 0 3.707.152 5.681 1.519h.244l-3.342-3.342C13.67 1.063 11.848.76 9.418.76H0Z" /></svg>
+</svg>

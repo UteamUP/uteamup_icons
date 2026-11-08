@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-flag-hk-title" aria-describedby="ux-flag-hk-desc" fill="#000000" stroke="none">
+  <title id="ux-flag-hk-title">Hong Kong flag — Hong Kong · fáni</title>
+  <desc id="ux-flag-hk-desc">A coloured 4:3 flag icon for Hong Kong, preserving the vector artwork from the pinned flag-icons source.</desc>
+  <!-- Subject: Hong Kong flag. Source: flag-icons. Source colours and geometry preserved on the collection canvas; normalized 4:3 flag-icon format. -->
+  <!--
+The MIT License (MIT)
+
+Copyright (c) 2013 Panayiotis Lipiridis
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+of the Software, and to permit persons to whom the Software is furnished to do
+so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"flag-hk","label_en":"Hong Kong flag","label_is":"Hong Kong · fáni","category":"Countries and flags","category_is":"Lönd, svæði og fánar","kind":"flag","batch":8,"description":"A coloured 4:3 flag icon for Hong Kong, preserving the vector artwork from the pinned flag-icons source.","tags":["flag","region","hk","Hong Kong","Hong Kong"],"source":{"source_collection":"flag-icons","upstream_name":"hk","source_url":"https://raw.githubusercontent.com/lipis/flag-icons/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/hk.svg","source_version":"7.6.0","source_commit":"ac7e0eb3259eb62aa6100c435607e2fe03896a97","license":"MIT","source_sha256":"d9d142b2b97ec3b8190bff3802072c1b4f15573a679eead89a0ce59986dcad0c"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,640.0,480.0],"background":"transparent","color":"source colors","format":"4:3 flag icon format"},"gap_review":"No country-specific or regional flag counterpart in the available prior SVG inventory.","classification":"Special administrative region","code":"hk","country":"Hong Kong","country_is":"Hong Kong","format":"4:3 flag icon format"}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="1.5" y="4.125" width="21" height="15.75" viewBox="0 0 640 480" preserveAspectRatio="xMidYMid meet"><path fill="#EC1B2E" d="M0 0h640v480H0" />
+  <path id="ux-flag-hk-hk-a" fill="#fff" d="M346.3 103.1C267 98 230.6 201.9 305.6 240.3c-26-22.4-20.6-55.3-10.1-72.4l1.9 1.1c-13.8 23.5-11.2 52.7 11.1 71-12.7-12.3-9.5-39 12.1-48.9s23.6-39.3 16.4-49.1q-14.7-25.6 9.3-38.9M307.9 164l-4.7 7.4-1.8-8.6-8.6-2.3 7.8-4.3-.6-8.9 6.5 6.1 8.3-3.3-3.7 8.1 5.6 6.8z" />
+  <use xlink:href="#ux-flag-hk-hk-a" transform="rotate(72 312.5 243.5)" />
+  <use xlink:href="#ux-flag-hk-hk-a" transform="rotate(144 312.5 243.5)" />
+  <use xlink:href="#ux-flag-hk-hk-a" transform="rotate(216 312.5 243.5)" />
+  <use xlink:href="#ux-flag-hk-hk-a" transform="rotate(288 312.5 243.5)" />
+</svg>
+</svg>

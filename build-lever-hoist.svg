@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-lever-hoist-title" aria-describedby="uteamup-build-build-lever-hoist-desc">
+  <title id="uteamup-build-build-lever-hoist-title">Lever chain hoist — Keðjutalía með stöng</title>
+  <desc id="uteamup-build-build-lever-hoist-desc">A compact round hoist body carries a long angled operating lever and a short hanging load chain ending in a hook.</desc>
+  <!-- Subject: build-lever-hoist. The prominent manual lever distinguishes this hoist from a hand-chain block. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-lever-hoist","label_en":"Lever chain hoist","label_is":"Keðjutalía með stöng","section":"02","category_en":"Lifting, access and site logistics","category_is":"Lyftingar, aðgengi og flutningar á verkstað","batch":1,"tags":["rigging","hoist"],"description":"A compact round hoist body carries a long angled operating lever and a short hanging load chain ending in a hook.","design_note":"The prominent manual lever distinguishes this hoist from a hand-chain block.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <circle cx="10" cy="8" r="4"/><path d="M10 4V2h3M10 12v7q0 3-2 3t-2-2M14 9l7 9-2 2-7-9M7 8h2"/>
+</svg>

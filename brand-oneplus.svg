@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-oneplus-title" aria-describedby="ux-brand-oneplus-desc" fill="#F5010C" stroke="none">
+  <title id="ux-brand-oneplus-title">OnePlus — OnePlus</title>
+  <desc id="ux-brand-oneplus-desc">The sourced OnePlus brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: OnePlus. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://www.oneplus.com/ca_en/brand/asset
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-oneplus","label_en":"OnePlus","label_is":"OnePlus","category":"Computer, electronics and device brands","category_is":"Tölvu-, rafeinda- og tækjamerki","kind":"brand","batch":2,"description":"The sourced OnePlus brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["OnePlus","brand","logo","computers_electronics"],"source":{"source_collection":"Simple Icons","upstream_name":"oneplus","source_url":"https://www.oneplus.com/ca_en/brand/asset","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":null,"official_source":"https://www.oneplus.com/ca_en/brand/asset","source_sha256":"36383c496fa98bdc3b4b72507e42408faaabb1887bbfd384aa4dd9c83a0686e6"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#F5010C","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M0 3.74V24h20.26V12.428h-2.256v9.317H2.254V5.995h9.318V3.742zM18.004 0v3.74h-3.758v2.256h3.758v3.758h2.255V5.996H24V3.74h-3.758V0zm-6.45 18.756V8.862H9.562c0 .682-.228 1.189-.577 1.504-.367.297-.91.437-1.556.437h-.245v1.625h2.133v6.31h2.237z" /></svg>
+</svg>

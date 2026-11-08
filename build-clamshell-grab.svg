@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-clamshell-grab-title" aria-describedby="uteamup-build-build-clamshell-grab-desc">
+  <title id="uteamup-build-build-clamshell-grab-title">Clamshell excavation grab — Gripafata</title>
+  <desc id="uteamup-build-build-clamshell-grab-desc">Two deep curved shell halves hang from a central suspension and open apart at their lower edges.</desc>
+  <!-- Subject: build-clamshell-grab. Broad shell surfaces and central lifting suspension distinguish a clamshell from a finger grapple. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-clamshell-grab","label_en":"Clamshell excavation grab","label_is":"Gripafata","section":"01","category_en":"Earthmoving and demolition machinery","category_is":"Jarðvinnslu- og niðurrifsvélar","batch":1,"tags":["earthmoving","grab"],"description":"Two deep curved shell halves hang from a central suspension and open apart at their lower edges.","design_note":"Broad shell surfaces and central lifting suspension distinguish a clamshell from a finger grapple.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M12 2v4M12 9L3 15q2 8 8 6l1-12zM12 9l9 6q-2 8-8 6l-1-12zM6 12l3-4M18 12l-3-4"/><circle cx="12" cy="7" r="1"/>
+</svg>

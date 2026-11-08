@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-cursor-title" aria-describedby="ux-brand-cursor-desc" fill="#000000" stroke="none">
+  <title id="ux-brand-cursor-title">Cursor — Cursor</title>
+  <desc id="ux-brand-cursor-desc">The sourced Cursor brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: Cursor. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://cursor.com/brand
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-cursor","label_en":"Cursor","label_is":"Cursor","category":"Frameworks and developer tools","category_is":"Forritunarrammar og þróunarverkfæri","kind":"brand","batch":4,"description":"The sourced Cursor brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["Cursor","brand","logo","frameworks_developer_tools"],"source":{"source_collection":"Simple Icons","upstream_name":"cursor","source_url":"https://cursor.com/brand","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":null,"official_source":"https://cursor.com/brand","source_sha256":"71572a9be192cc069ec22b48d785e61d754eeed7edb7d082d615f6d5620f70ec"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#000000","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M11.503.131 1.891 5.678a.84.84 0 0 0-.42.726v11.188c0 .3.162.575.42.724l9.609 5.55a1 1 0 0 0 .998 0l9.61-5.55a.84.84 0 0 0 .42-.724V6.404a.84.84 0 0 0-.42-.726L12.497.131a1.01 1.01 0 0 0-.996 0M2.657 6.338h18.55c.263 0 .43.287.297.515L12.23 22.918c-.062.107-.229.064-.229-.06V12.335a.59.59 0 0 0-.295-.51l-9.11-5.257c-.109-.063-.064-.23.061-.23" /></svg>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-wheeled-excavator-title" aria-describedby="uteamup-build-build-wheeled-excavator-desc">
+  <title id="uteamup-build-build-wheeled-excavator-title">Wheeled excavator — Hjólagrafa</title>
+  <desc id="uteamup-build-build-wheeled-excavator-desc">A raised excavator upper body rides on rubber wheels with short stabilizers and a forward digging bucket.</desc>
+  <!-- Subject: build-wheeled-excavator. Two large wheels and stabilizer feet distinguish this chassis from a crawler excavator. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-wheeled-excavator","label_en":"Wheeled excavator","label_is":"Hjólagrafa","section":"01","category_en":"Earthmoving and demolition machinery","category_is":"Jarðvinnslu- og niðurrifsvélar","batch":1,"tags":["earthmoving","excavator"],"description":"A raised excavator upper body rides on rubber wheels with short stabilizers and a forward digging bucket.","design_note":"Two large wheels and stabilizer feet distinguish this chassis from a crawler excavator.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <circle cx="5" cy="19" r="2.5"/><circle cx="14" cy="19" r="2.5"/><path d="M3 16h14M4 16V9h6v7M10 10l5-7 4 2 1 8M15 3l-2 9M18 12l4 2-1 4h-4l1-6M2 14v3M17 14v3M6 11h2"/>
+</svg>

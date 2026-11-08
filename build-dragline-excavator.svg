@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-dragline-excavator-title" aria-describedby="uteamup-build-build-dragline-excavator-desc">
+  <title id="uteamup-build-build-dragline-excavator-title">Dragline excavator — Draglínugrafa</title>
+  <desc id="uteamup-build-build-dragline-excavator-desc">A lattice-boom crawler suspends a deep drag bucket on a lifting cable and a lower drag line.</desc>
+  <!-- Subject: build-dragline-excavator. Two separate rope paths and a suspended bucket identify cable excavation instead of a rigid hydraulic arm. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-dragline-excavator","label_en":"Dragline excavator","label_is":"Draglínugrafa","section":"01","category_en":"Earthmoving and demolition machinery","category_is":"Jarðvinnslu- og niðurrifsvélar","batch":1,"tags":["earthmoving","dragline"],"description":"A lattice-boom crawler suspends a deep drag bucket on a lifting cable and a lower drag line.","design_note":"Two separate rope paths and a suspended bucket identify cable excavation instead of a rigid hydraulic arm.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <rect x="2" y="19" width="11" height="3" rx="1.5"/><path d="M3 19v-7h6l2 7M9 13L18 2l-5 16M12 9l2 5M15 6l1 5M18 2l3 14M10 17l8 2M17 16h5l-1 6h-4z"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-linear-title" aria-describedby="ux-brand-linear-desc" fill="#5E6AD2" stroke="none">
+  <title id="ux-brand-linear-title">Linear — Linear</title>
+  <desc id="ux-brand-linear-desc">The sourced Linear brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: Linear. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://linear.app
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-linear","label_en":"Linear","label_is":"Linear","category":"Business, design and collaboration software","category_is":"Viðskipta-, hönnunar- og samstarfshugbúnaður","kind":"brand","batch":5,"description":"The sourced Linear brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["Linear","brand","logo","business_design_apps"],"source":{"source_collection":"Simple Icons","upstream_name":"linear","source_url":"https://linear.app","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":null,"official_source":"https://linear.app","source_sha256":"90b91b61090f4f9c94f9cb24769642278f03e8eedcfe5680738cf3a186bfc00f"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#5E6AD2","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M2.886 4.18A11.982 11.982 0 0 1 11.99 0C18.624 0 24 5.376 24 12.009c0 3.64-1.62 6.903-4.18 9.105L2.887 4.18ZM1.817 5.626l16.556 16.556c-.524.33-1.075.62-1.65.866L.951 7.277c.247-.575.537-1.126.866-1.65ZM.322 9.163l14.515 14.515c-.71.172-1.443.282-2.195.322L0 11.358a12 12 0 0 1 .322-2.195Zm-.17 4.862 9.823 9.824a12.02 12.02 0 0 1-9.824-9.824Z" /></svg>
+</svg>

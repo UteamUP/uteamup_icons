@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-fixed-facade-scaffold-title" aria-describedby="uteamup-build-build-fixed-facade-scaffold-desc">
+  <title id="uteamup-build-build-fixed-facade-scaffold-title">Fixed facade scaffold — Fastur útveggjavinnupallur</title>
+  <desc id="uteamup-build-build-fixed-facade-scaffold-desc">Two upright standards support separate work decks, an upper guard rail and a large crossed bracing bay.</desc>
+  <!-- Subject: build-fixed-facade-scaffold. Open tubular standards, decks and diagonal bracing depict a fixed facade scaffold bay. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-fixed-facade-scaffold","label_en":"Fixed facade scaffold","label_is":"Fastur útveggjavinnupallur","section":"02","category_en":"Lifting, access and site logistics","category_is":"Lyftingar, aðgengi og flutningar á verkstað","batch":1,"tags":["access","scaffold"],"description":"Two upright standards support separate work decks, an upper guard rail and a large crossed bracing bay.","design_note":"Open tubular standards, decks and diagonal bracing depict a fixed facade scaffold bay.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M4 2v20M20 2v20M2 8h20M2 16h20M4 8l16 8M20 8L4 16M4 3h16M3 22h2M19 22h2"/>
+</svg>

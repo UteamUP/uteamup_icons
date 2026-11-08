@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-flag-sb-title" aria-describedby="ux-flag-sb-desc" fill="#000000" stroke="none">
+  <title id="ux-flag-sb-title">Solomon Islands flag — Salómonseyjar · fáni</title>
+  <desc id="ux-flag-sb-desc">A coloured 4:3 flag icon for Solomon Islands, preserving the vector artwork from the pinned flag-icons source.</desc>
+  <!-- Subject: Solomon Islands flag. Source: flag-icons. Source colours and geometry preserved on the collection canvas; normalized 4:3 flag-icon format. -->
+  <!--
+The MIT License (MIT)
+
+Copyright (c) 2013 Panayiotis Lipiridis
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+of the Software, and to permit persons to whom the Software is furnished to do
+so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"flag-sb","label_en":"Solomon Islands flag","label_is":"Salómonseyjar · fáni","category":"Countries and flags","category_is":"Lönd, svæði og fánar","kind":"flag","batch":9,"description":"A coloured 4:3 flag icon for Solomon Islands, preserving the vector artwork from the pinned flag-icons source.","tags":["flag","country","sb","Solomon Islands","Salómonseyjar"],"source":{"source_collection":"flag-icons","upstream_name":"sb","source_url":"https://raw.githubusercontent.com/lipis/flag-icons/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/sb.svg","source_version":"7.6.0","source_commit":"ac7e0eb3259eb62aa6100c435607e2fe03896a97","license":"MIT","source_sha256":"b34eabf373af639cec1d7de7c0dff84df6487737f04510efcc356810147c2cfa"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,640.0,480.0],"background":"transparent","color":"source colors","format":"4:3 flag icon format"},"gap_review":"No country-specific or regional flag counterpart in the available prior SVG inventory.","classification":"UN member state","code":"sb","country":"Solomon Islands","country_is":"Salómonseyjar","format":"4:3 flag icon format"}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="4.125" width="21" height="15.75" viewBox="0 0 640 480" preserveAspectRatio="xMidYMid meet"><defs>
+    <clipPath id="ux-flag-sb-sb-a">
+      <path fill-opacity=".7" d="M0 0h682.7v512H0z" />
+    </clipPath>
+  </defs>
+  <g fill-rule="evenodd" stroke-width="1pt" clip-path="url(#ux-flag-sb-sb-a)" transform="scale(.9375)">
+    <path fill="#0000d6" d="M0 507.2 987.4 0H0z" />
+    <path fill="#006000" d="M1024 0 27.2 512H1024z" />
+    <path fill="#fc0" d="M1024 0h-54.9L0 485.4V512h54.9L1024 27.6z" />
+    <path fill="#fff" d="m71.4 9.1 11.8 34.5h38.5L90.6 64.7l11.9 34.4L71.4 78 40.3 99.2l11.9-34.4-31.1-21.3h38.4zm191.1 0 11.9 34.5h38.5l-31.2 21.2 12 34.4L262.4 78l-31 21.3 11.9-34.4-31.2-21.3h38.5zm0 144.5 11.9 34.5h38.5l-31.2 21.2 12 34.4-31.2-21.3-31 21.3 11.9-34.4-31.2-21.3h38.5zm-95-71.4 11.9 34.4h38.4l-31 21.3 11.8 34.4-31-21.3-31.2 21.3 12-34.4-31.2-21.3h38.5zm-96.1 71.4 11.8 34.5h38.5l-31.1 21.2 11.9 34.4-31.1-21.3-31.1 21.3 12-34.4L21 188h38.4z" />
+  </g>
+</svg>
+</svg>

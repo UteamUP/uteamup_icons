@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-threaded-rod-title" aria-describedby="uteamup-build-build-threaded-rod-desc">
+  <title id="uteamup-build-build-threaded-rod-title">Threaded rod — Snittteinn</title>
+  <desc id="uteamup-build-build-threaded-rod-desc">A long headless metal rod has a constant diameter and a full-length helical thread marked by evenly spaced diagonal strokes.</desc>
+  <!-- Subject: build-threaded-rod. A long headless metal rod has a constant diameter and a full-length helical thread marked by evenly spaced diagonal strokes. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-threaded-rod","label_en":"Threaded rod","label_is":"Snittteinn","section":"18","category_en":"Building materials, fasteners and fixings","category_is":"Byggingarefni, skrúfur og festingar","batch":9,"tags":["construction","materials","fixings"],"description":"A long headless metal rod has a constant diameter and a full-length helical thread marked by evenly spaced diagonal strokes.","design_note":"A long headless metal rod has a constant diameter and a full-length helical thread marked by evenly spaced diagonal strokes.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M9 2H15V22H9Z M9 5L15 2 M9 9L15 6 M9 13L15 10 M9 17L15 14 M9 21L15 18"/>
+</svg>

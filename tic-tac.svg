@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-tic-tac-title" aria-describedby="ux-tic-tac-desc" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round">
+  <title id="ux-tic-tac-title">Tic-tac-toe — Mylla með X og O</title>
+  <desc id="ux-tic-tac-desc">A true three-by-three tic-tac-toe grid contains two crosses and two circles in separate cells.</desc>
+  <!-- Subject: Tic-tac-toe. Source: Tabler. Redrawn as a3×3 game board; the pinned source used only2×2 cells. -->
+  <!--
+MIT License
+
+Copyright (c) 2020-2026 Paweł Kuna
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"tic-tac","label_en":"Tic-tac-toe","label_is":"Mylla með X og O","category":"Games and playing pieces","category_is":"Leikir og spilamenn","kind":"outline","batch":10,"description":"A true three-by-three tic-tac-toe grid contains two crosses and two circles in separate cells.","tags":["tic-tac","Tic-tac-toe","Games and playing pieces","Mylla með X og O"],"source":{"source_collection":"Tabler","upstream_name":"tic-tac","source_url":"https://raw.githubusercontent.com/tabler/tabler-icons/ed177a085b652fe04ec4f37ced867c94621e7840/icons/outline/tic-tac.svg","source_version":"3.50.0","source_commit":"ed177a085b652fe04ec4f37ced867c94621e7840","license":"MIT","original_source_sha256":"84fc2451233a67c0d336bdca5d0fbeea6498459ea6e25905463d019661cd4cc2","source_sha256":"84fc2451233a67c0d336bdca5d0fbeea6498459ea6e25905463d019661cd4cc2","adapted_content_sha256":"3e82ce8460a1c2a61ad337774d202928f51a7190268b4d53c751a2e53a6ac46e"},"style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"},"gap_review":"Checked against available prior SVG inventories and aliases.","adaptation":"Redrawn as a3×3 game board; the pinned source used only2×2 cells. Source collection, pinned source URL and original MIT notice are retained."}</metadata>
+  <path xmlns="http://www.w3.org/2000/svg" d="M8 3V21 M16 3V21 M3 8H21 M3 16H21 M3.5 3.5L6.5 6.5 M6.5 3.5L3.5 6.5 M10.5 10.5L13.5 13.5 M13.5 10.5L10.5 13.5" /><circle xmlns="http://www.w3.org/2000/svg" cx="19" cy="5" r="1.5" /><circle xmlns="http://www.w3.org/2000/svg" cx="5" cy="19" r="1.5" />
+</svg>

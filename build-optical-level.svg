@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-optical-level-title" aria-describedby="uteamup-build-build-optical-level-desc">
+  <title id="uteamup-build-build-optical-level-title">Automatic optical level — Optískt hæðarmælitæki</title>
+  <desc id="uteamup-build-build-optical-level-desc">A long horizontal telescope rests on a small levelling base and three spreading tripod legs.</desc>
+  <!-- Subject: build-optical-level. The horizontal telescope profile differs from the upright total-station instrument housing. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-optical-level","label_en":"Automatic optical level","label_is":"Optískt hæðarmælitæki","section":"03","category_en":"Site setup, surveying and ground investigation","category_is":"Aðstaða, landmælingar og jarðkönnun","batch":2,"tags":["surveying","instrument"],"description":"A long horizontal telescope rests on a small levelling base and three spreading tripod legs.","design_note":"The horizontal telescope profile differs from the upright total-station instrument housing.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M18 5H4v6h14M10 11h4v3h-4zM10 14l-5 8M12 14v8M14 14l5 8M2 6h2v4H2z"/><ellipse cx="18" cy="8" rx="3" ry="3"/>
+</svg>

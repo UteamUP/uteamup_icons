@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-webstorm-title" aria-describedby="ux-brand-webstorm-desc" fill="#000000" stroke="none">
+  <title id="ux-brand-webstorm-title">WebStorm — WebStorm</title>
+  <desc id="ux-brand-webstorm-desc">The sourced WebStorm brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: WebStorm. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://www.jetbrains.com/company/brand/logos
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-webstorm","label_en":"WebStorm","label_is":"WebStorm","category":"Frameworks and developer tools","category_is":"Forritunarrammar og þróunarverkfæri","kind":"brand","batch":4,"description":"The sourced WebStorm brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["WebStorm","brand","logo","frameworks_developer_tools"],"source":{"source_collection":"Simple Icons","upstream_name":"webstorm","source_url":"https://www.jetbrains.com/company/brand/logos","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":"https://www.jetbrains.com/company/brand","official_source":"https://www.jetbrains.com/company/brand/logos","source_sha256":"11827451725f77c24128844a001cf557726f42f60fd94e4aa7884242593ae6b3"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#000000","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M0 0v24h24V0H0zm17.889 2.889c1.444 0 2.667.444 3.667 1.278l-1.111 1.667c-.889-.611-1.722-1-2.556-1s-1.278.389-1.278.889v.056c0 .667.444.889 2.111 1.333 2 .556 3.111 1.278 3.111 3v.056c0 2-1.5 3.111-3.611 3.111-1.5-.056-3-.611-4.167-1.667l1.278-1.556c.889.722 1.833 1.222 2.944 1.222.889 0 1.389-.333 1.389-.944v-.056c0-.556-.333-.833-2-1.278-2-.5-3.222-1.056-3.222-3.056v-.056c0-1.833 1.444-3 3.444-3zm-16.111.222h2.278l1.5 5.778 1.722-5.778h1.667l1.667 5.778 1.5-5.778h2.333l-2.833 9.944H9.723L8.112 7.277l-1.667 5.778H4.612L1.779 3.111zm.5 16.389h9V21h-9v-1.5z" /></svg>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-neovim-title" aria-describedby="ux-brand-neovim-desc" fill="#57A143" stroke="none">
+  <title id="ux-brand-neovim-title">Neovim — Neovim</title>
+  <desc id="ux-brand-neovim-desc">The sourced Neovim brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: Neovim. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://neovim.io
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-neovim","label_en":"Neovim","label_is":"Neovim","category":"Frameworks and developer tools","category_is":"Forritunarrammar og þróunarverkfæri","kind":"brand","batch":4,"description":"The sourced Neovim brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["Neovim","brand","logo","frameworks_developer_tools"],"source":{"source_collection":"Simple Icons","upstream_name":"neovim","source_url":"https://neovim.io","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":{"type":"CC-BY-SA-3.0"},"guidelines":null,"official_source":"https://neovim.io","source_sha256":"b82225d459a28530dfdabb93b78bee75e1cf070feebfee70fd393266710e6b04"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#57A143","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M2.214 4.954v13.615L7.655 24V10.314L3.312 3.845 2.214 4.954zm4.999 17.98l-4.557-4.548V5.136l.59-.596 3.967 5.908v12.485zm14.573-4.457l-.862.937-4.24-6.376V0l5.068 5.092.034 13.385zM7.431.001l12.998 19.835-3.637 3.637L3.787 3.683 7.43 0z" /></svg>
+</svg>

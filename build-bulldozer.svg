@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-bulldozer-title" aria-describedby="uteamup-build-build-bulldozer-desc">
+  <title id="uteamup-build-build-bulldozer-title">Bulldozer — Jarðýta</title>
+  <desc id="uteamup-build-build-bulldozer-desc">A crawler tractor pushes a tall curved blade held ahead of a low engine hood and protective cab.</desc>
+  <!-- Subject: build-bulldozer. Broad vertical pushing blade and long track footprint clearly identify a bulldozer. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-bulldozer","label_en":"Bulldozer","label_is":"Jarðýta","section":"01","category_en":"Earthmoving and demolition machinery","category_is":"Jarðvinnslu- og niðurrifsvélar","batch":1,"tags":["earthmoving","grading"],"description":"A crawler tractor pushes a tall curved blade held ahead of a low engine hood and protective cab.","design_note":"Broad vertical pushing blade and long track footprint clearly identify a bulldozer.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <rect x="2" y="17" width="14" height="5" rx="2.5"/><path d="M4 17V9h7v8M3 9h9M6 11h3M11 14h6l2-5h3v13h-5l2-13M13 17v-3M5 20h7"/>
+</svg>

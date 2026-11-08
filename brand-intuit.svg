@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-intuit-title" aria-describedby="ux-brand-intuit-desc" fill="#236CFF" stroke="none">
+  <title id="ux-brand-intuit-title">Intuit — Intuit</title>
+  <desc id="ux-brand-intuit-desc">The sourced Intuit brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: Intuit. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://www.intuit.com
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-intuit","label_en":"Intuit","label_is":"Intuit","category":"Business, design and collaboration software","category_is":"Viðskipta-, hönnunar- og samstarfshugbúnaður","kind":"brand","batch":5,"description":"The sourced Intuit brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["Intuit","brand","logo","business_design_apps"],"source":{"source_collection":"Simple Icons","upstream_name":"intuit","source_url":"https://www.intuit.com","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":"https://www.intuit.com/company/press-room/logos","official_source":"https://www.intuit.com","source_sha256":"3205b3bf8fc00ca140cd96bd976d3c6c993722bdba5e77b1dec77d3e5be629a7"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#236CFF","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M12.32 12.38c0 1.174.974 2.033 2.211 2.033 1.237 0 2.212-.859 2.212-2.033v-2.7h-1.198v2.56c0 .633-.44 1.06-1.017 1.06s-1.017-.424-1.017-1.06V9.68h-1.198l.008 2.699zm7.624-1.619h1.429v3.563h1.198V10.76H24V9.68h-4.056v1.082zM19.17 9.68h-1.198v4.645h1.198V9.679zM7.482 10.761h1.43v3.563h1.197V10.76h1.428V9.68H7.482v1.082zM1.198 9.68H0v4.645h1.198V9.679zm5.653 1.94c0-1.174-.974-2.032-2.212-2.032-1.238 0-2.212.858-2.212 2.032v2.705h1.198v-2.56c0-.633.44-1.06 1.017-1.06s1.018.425 1.018 1.06v2.56h1.197L6.85 11.62h.001z" /></svg>
+</svg>

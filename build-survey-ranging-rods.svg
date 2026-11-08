@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-survey-ranging-rods-title" aria-describedby="uteamup-build-build-survey-ranging-rods-desc">
+  <title id="uteamup-build-build-survey-ranging-rods-title">Survey ranging rods — Miðunarstangir</title>
+  <desc id="uteamup-build-build-survey-ranging-rods-desc">Two narrow segmented ranging rods stand side by side with sharp ground spikes.</desc>
+  <!-- Subject: build-survey-ranging-rods. Paired pointed rods with broad alternating bands are distinct from a single wide numerical levelling staff. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-survey-ranging-rods","label_en":"Survey ranging rods","label_is":"Miðunarstangir","section":"03","category_en":"Site setup, surveying and ground investigation","category_is":"Aðstaða, landmælingar og jarðkönnun","batch":2,"tags":["surveying","alignment"],"description":"Two narrow segmented ranging rods stand side by side with sharp ground spikes.","design_note":"Paired pointed rods with broad alternating bands are distinct from a single wide numerical levelling staff.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M5 2h3v17l-1.5 3L5 19zM16 2h3v17l-1.5 3L16 19zM5 7h3M5 12h3M5 17h3M16 7h3M16 12h3M16 17h3"/>
+</svg>

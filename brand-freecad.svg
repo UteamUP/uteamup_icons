@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-freecad-title" aria-describedby="ux-brand-freecad-desc" fill="#418FDE" stroke="none">
+  <title id="ux-brand-freecad-title">FreeCAD — FreeCAD</title>
+  <desc id="ux-brand-freecad-desc">The sourced FreeCAD brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: FreeCAD. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://fpa.freecad.org/handbook/process/logo.html
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-freecad","label_en":"FreeCAD","label_is":"FreeCAD","category":"Industrial, construction and engineering brands","category_is":"Iðnaðar-, byggingar- og verkfræðimerki","kind":"brand","batch":1,"description":"The sourced FreeCAD brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["FreeCAD","brand","logo","industrial_engineering"],"source":{"source_collection":"Simple Icons","upstream_name":"freecad","source_url":"https://fpa.freecad.org/handbook/process/logo.html","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":"https://fpa.freecad.org/handbook/process/logo.html","official_source":"https://fpa.freecad.org/handbook/process/logo.html","source_sha256":"5240258315b8655a466978dfc7b9da34421cf3f076607befaf746eb2d715d5d2"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#418FDE","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M6 0h16v7.996a.7.7 0 0 1-.288.566l-2.173 1.58a.7.7 0 0 0-.289.565v.586c0 .224.107.434.289.566l1.895 1.377a.7.7 0 0 1 .254.783l-.649 1.997a.7.7 0 0 1-.665.484H18.03a.7.7 0 0 0-.566.288l-.344.474a.7.7 0 0 0-.1.627l.724 2.229a.7.7 0 0 1-.254.782l-1.699 1.234a.7.7 0 0 1-.823 0l-1.895-1.377a.7.7 0 0 0-.628-.099l-.556.18a.7.7 0 0 0-.45.45l-.724 2.228a.7.7 0 0 1-.665.484H2V4zm12 8V4H6v16h4v-5h4v-4h-4V8z" /></svg>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-eye-closed-title" aria-describedby="ux-eye-closed-desc" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round">
+  <title id="ux-eye-closed-title">Closed eye — Lokað auga</title>
+  <desc id="ux-eye-closed-desc">A closed eyelid curves above short downward eyelashes.</desc>
+  <!-- Subject: Closed eye. Source: Tabler.  -->
+  <!--
+MIT License
+
+Copyright (c) 2020-2026 Paweł Kuna
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"eye-closed","label_en":"Closed eye","label_is":"Lokað auga","category":"Body parts and gestures","category_is":"Líkamshlutar og handabendingar","kind":"outline","batch":9,"description":"A closed eyelid curves above short downward eyelashes.","tags":["eye-closed","Closed eye","Body parts and gestures","Lokað auga"],"source":{"source_collection":"Tabler","upstream_name":"eye-closed","source_url":"https://raw.githubusercontent.com/tabler/tabler-icons/ed177a085b652fe04ec4f37ced867c94621e7840/icons/outline/eye-closed.svg","source_version":"3.50.0","source_commit":"ed177a085b652fe04ec4f37ced867c94621e7840","license":"MIT","source_sha256":"fc92fb3f1ea6465468b1cb3693f6b5743955ad861892c4769a758e2edd7fcacc"},"style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"},"gap_review":"Checked against available prior SVG inventories and aliases."}</metadata>
+  <path xmlns="http://www.w3.org/2000/svg" d="M21 9c-2.4 2.667 -5.4 4 -9 4c-3.6 0 -6.6 -1.333 -9 -4" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M3 15l2.5 -3.8" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M21 14.976l-2.492 -3.776" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M9 17l.5 -4" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M15 17l-.5 -4" />
+
+</svg>

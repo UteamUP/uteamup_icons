@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-razor-title" aria-describedby="ux-razor-desc" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round">
+  <title id="ux-razor-title">Safety razor — Öryggisrakvél</title>
+  <desc id="ux-razor-desc">A wide safety-razor head sits across a long narrow handle.</desc>
+  <!-- Subject: Safety razor. Source: Tabler.  -->
+  <!--
+MIT License
+
+Copyright (c) 2020-2026 Paweł Kuna
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"razor","label_en":"Safety razor","label_is":"Öryggisrakvél","category":"Home appliances and household devices","category_is":"Heimilistæki og búnaður","kind":"outline","batch":9,"description":"A wide safety-razor head sits across a long narrow handle.","tags":["razor","Safety razor","Home appliances and household devices","Öryggisrakvél"],"source":{"source_collection":"Tabler","upstream_name":"razor","source_url":"https://raw.githubusercontent.com/tabler/tabler-icons/ed177a085b652fe04ec4f37ced867c94621e7840/icons/outline/razor.svg","source_version":"3.50.0","source_commit":"ed177a085b652fe04ec4f37ced867c94621e7840","license":"MIT","source_sha256":"c1644affdbb67dfe43eafd8f81075905235abf6ddcb595f6b924a505b3904764"},"style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"},"gap_review":"Checked against available prior SVG inventories and aliases."}</metadata>
+  <path xmlns="http://www.w3.org/2000/svg" d="M7 3h10v4h-10l0 -4" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M12 7v4" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M12 11a2 2 0 0 1 2 2v6a2 2 0 1 1 -4 0v-6a2 2 0 0 1 2 -2" />
+
+</svg>

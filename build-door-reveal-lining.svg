@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-door-reveal-lining-title" aria-describedby="uteamup-build-build-door-reveal-lining-desc">
+  <title id="uteamup-build-build-door-reveal-lining-title">Lined doorway reveal — Klæðning í hurðarkverk</title>
+  <desc id="uteamup-build-build-door-reveal-lining-desc">A three-sided lined opening has a shallow outer border and a visible recessed left jamb and soffit return.</desc>
+  <!-- Subject: build-door-reveal-lining. A three-sided lined opening has a shallow outer border and a visible recessed left jamb and soffit return. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-door-reveal-lining","label_en":"Lined doorway reveal","label_is":"Klæðning í hurðarkverk","section":"11","category_en":"Partitions, ceilings and drylining","category_is":"Milliveggir, loft og plötuklæðningar","batch":6,"tags":["construction","drylining","reveal"],"description":"A three-sided lined opening has a shallow outer border and a visible recessed left jamb and soffit return.","design_note":"A three-sided lined opening has a shallow outer border and a visible recessed left jamb and soffit return.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 22V2H21V22 M6 22V5H18V22 M6 5L9 8H18 M9 8V22"/>
+</svg>

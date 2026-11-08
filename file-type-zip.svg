@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-file-type-zip-title" aria-describedby="ux-file-type-zip-desc" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round">
+  <title id="ux-file-type-zip-title">ZIP document — ZIP safnskrá</title>
+  <desc id="ux-file-type-zip-desc">A folded-corner document carries the outlined letters ZIP to identify the .zip file extension.</desc>
+  <!-- Subject: ZIP document. Source: Tabler.  -->
+  <!--
+MIT License
+
+Copyright (c) 2020-2026 Paweł Kuna
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"file-type-zip","label_en":"ZIP document","label_is":"ZIP safnskrá","category":"File types and document content","category_is":"Skráartegundir og innihald skjala","kind":"outline","batch":10,"description":"A folded-corner document carries the outlined letters ZIP to identify the .zip file extension.","tags":["file-type-zip","ZIP document","File types and document content","ZIP safnskrá"],"source":{"source_collection":"Tabler","upstream_name":"file-type-zip","source_url":"https://raw.githubusercontent.com/tabler/tabler-icons/ed177a085b652fe04ec4f37ced867c94621e7840/icons/outline/file-type-zip.svg","source_version":"3.50.0","source_commit":"ed177a085b652fe04ec4f37ced867c94621e7840","license":"MIT","source_sha256":"83c8b9c2c5fd29378d9b7539e6de233365fb2d907ada17dc84037c754398d2cb"},"style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"},"gap_review":"Checked against available prior SVG inventories and aliases."}</metadata>
+  <path xmlns="http://www.w3.org/2000/svg" d="M14 3v4a1 1 0 0 0 1 1h4" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M5 12v-7a2 2 0 0 1 2 -2h7l5 5v4" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M16 18h1.5a1.5 1.5 0 0 0 0 -3h-1.5v6" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M12 15v6" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M5 15h3l-3 6h3" />
+
+</svg>

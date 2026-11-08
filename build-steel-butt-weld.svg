@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-steel-butt-weld-title" aria-describedby="uteamup-build-build-steel-butt-weld-desc">
+  <title id="uteamup-build-build-steel-butt-weld-title">Butt-welded steel joint — Stúfsuða í stáli</title>
+  <desc id="uteamup-build-build-steel-butt-weld-desc">Two bevelled steel plate ends meet at a central welded butt joint with small curved weld caps above and below.</desc>
+  <!-- Subject: build-steel-butt-weld. Two bevelled steel plate ends meet at a central welded butt joint with small curved weld caps above and below. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-steel-butt-weld","label_en":"Butt-welded steel joint","label_is":"Stúfsuða í stáli","section":"07","category_en":"Structural steel, metalwork and connections","category_is":"Stálvirki, málmsmíði og tengingar","batch":4,"tags":["steel","metalwork","connection"],"description":"Two bevelled steel plate ends meet at a central welded butt joint with small curved weld caps above and below.","design_note":"Two bevelled steel plate ends meet at a central welded butt joint with small curved weld caps above and below.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 9h8l2 3-2 3H2V9Z M22 9h-8l-2 3 2 3h8V9Z M10 8q2-2 4 0 M10 16q2 2 4 0"/>
+</svg>

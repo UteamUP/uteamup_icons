@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-basin-p-trap-title" aria-describedby="uteamup-build-build-basin-p-trap-desc">
+  <title id="uteamup-build-build-basin-p-trap-title">Basin P-trap — Vatnslás undir handlaug</title>
+  <desc id="uteamup-build-build-basin-p-trap-desc">A continuous tubular P-trap bends into a deep U beneath the inlet and returns to a horizontal wall outlet.</desc>
+  <!-- Subject: build-basin-p-trap. A continuous tubular P-trap bends into a deep U beneath the inlet and returns to a horizontal wall outlet. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-basin-p-trap","label_en":"Basin P-trap","label_is":"Vatnslás undir handlaug","section":"13","category_en":"Plumbing, water supply and drainage","category_is":"Pípulagnir, vatnsveita og frárennsli","batch":7,"tags":["construction","plumbing","drainage"],"description":"A continuous tubular P-trap bends into a deep U beneath the inlet and returns to a horizontal wall outlet.","design_note":"A continuous tubular P-trap bends into a deep U beneath the inlet and returns to a horizontal wall outlet.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M4 2V13C4 23 16 23 16 13V11H22V7H14Q12 7 12 9V13Q12 16 10 16Q8 16 8 13V2H4"/>
+</svg>

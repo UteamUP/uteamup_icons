@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-mood-angry-title" aria-describedby="ux-mood-angry-desc" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round">
+  <title id="ux-mood-angry-title">Angry face — Reitt andlit</title>
+  <desc id="ux-mood-angry-desc">A round face has inward-sloping brows and a downward-curved mouth.</desc>
+  <!-- Subject: Angry face. Source: Tabler.  -->
+  <!--
+MIT License
+
+Copyright (c) 2020-2026 Paweł Kuna
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"mood-angry","label_en":"Angry face","label_is":"Reitt andlit","category":"Mood and face expressions","category_is":"Skap og svipbrigði","kind":"outline","batch":10,"description":"A round face has inward-sloping brows and a downward-curved mouth.","tags":["mood-angry","Angry face","Mood and face expressions","Reitt andlit"],"source":{"source_collection":"Tabler","upstream_name":"mood-angry","source_url":"https://raw.githubusercontent.com/tabler/tabler-icons/ed177a085b652fe04ec4f37ced867c94621e7840/icons/outline/mood-angry.svg","source_version":"3.50.0","source_commit":"ed177a085b652fe04ec4f37ced867c94621e7840","license":"MIT","source_sha256":"2ea6bd5bb4ac0c9124c732db7aa34e414f4f6f474e45b8aa017e397fb69c5265"},"style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"},"gap_review":"Checked against available prior SVG inventories and aliases."}</metadata>
+  <path xmlns="http://www.w3.org/2000/svg" d="M12 21a9 9 0 1 1 0 -18a9 9 0 0 1 0 18" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M8 9l2 1" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M16 9l-2 1" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M14.5 16.05a3.5 3.5 0 0 0 -5 0" />
+
+</svg>

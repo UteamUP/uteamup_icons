@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-duckdb-title" aria-describedby="ux-brand-duckdb-desc" fill="#FFF000" stroke="none">
+  <title id="ux-brand-duckdb-title">DuckDB — DuckDB</title>
+  <desc id="ux-brand-duckdb-desc">The sourced DuckDB brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: DuckDB. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://duckdb.org
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-duckdb","label_en":"DuckDB","label_is":"DuckDB","category":"Cloud, databases and operations","category_is":"Skýjaþjónusta, gagnagrunnar og rekstur","kind":"brand","batch":4,"description":"The sourced DuckDB brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["DuckDB","brand","logo","cloud_data_operations"],"source":{"source_collection":"Simple Icons","upstream_name":"duckdb","source_url":"https://duckdb.org","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":null,"official_source":"https://duckdb.org","source_sha256":"2d53f8978d58ac12411fc618569a492922bb15e3e1798b56ba1511e72c62f826"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#FFF000","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M12 0C5.363 0 0 5.363 0 12s5.363 12 12 12 12-5.363 12-12S18.637 0 12 0zM9.502 7.03a4.974 4.974 0 0 1 4.97 4.97 4.974 4.974 0 0 1-4.97 4.97A4.974 4.974 0 0 1 4.532 12a4.974 4.974 0 0 1 4.97-4.97zm6.563 3.183h2.351c.98 0 1.787.782 1.787 1.762s-.807 1.789-1.787 1.789h-2.351v-3.551z" /></svg>
+</svg>

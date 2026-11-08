@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-flag-ba-title" aria-describedby="ux-flag-ba-desc" fill="#000000" stroke="none">
+  <title id="ux-flag-ba-title">Bosnia and Herzegovina flag — Bosnía og Hersegóvína · fáni</title>
+  <desc id="ux-flag-ba-desc">A coloured 4:3 flag icon for Bosnia and Herzegovina, preserving the vector artwork from the pinned flag-icons source.</desc>
+  <!-- Subject: Bosnia and Herzegovina flag. Source: flag-icons. Source colours and geometry preserved on the collection canvas; normalized 4:3 flag-icon format. -->
+  <!--
+The MIT License (MIT)
+
+Copyright (c) 2013 Panayiotis Lipiridis
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+of the Software, and to permit persons to whom the Software is furnished to do
+so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"flag-ba","label_en":"Bosnia and Herzegovina flag","label_is":"Bosnía og Hersegóvína · fáni","category":"Countries and flags","category_is":"Lönd, svæði og fánar","kind":"flag","batch":7,"description":"A coloured 4:3 flag icon for Bosnia and Herzegovina, preserving the vector artwork from the pinned flag-icons source.","tags":["flag","country","ba","Bosnia and Herzegovina","Bosnía og Hersegóvína"],"source":{"source_collection":"flag-icons","upstream_name":"ba","source_url":"https://raw.githubusercontent.com/lipis/flag-icons/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ba.svg","source_version":"7.6.0","source_commit":"ac7e0eb3259eb62aa6100c435607e2fe03896a97","license":"MIT","source_sha256":"b321fe9b47c1cd741c61b330aee66cf00550622a6a9e740161a9f240a14e0787"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,640.0,480.0],"background":"transparent","color":"source colors","format":"4:3 flag icon format"},"gap_review":"No country-specific or regional flag counterpart in the available prior SVG inventory.","classification":"UN member state","code":"ba","country":"Bosnia and Herzegovina","country_is":"Bosnía og Hersegóvína","format":"4:3 flag icon format"}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="4.125" width="21" height="15.75" viewBox="0 0 640 480" preserveAspectRatio="xMidYMid meet"><defs>
+    <clipPath id="ux-flag-ba-ba-a">
+      <path fill-opacity=".7" d="M-85.3 0h682.6v512H-85.3z" />
+    </clipPath>
+  </defs>
+  <g fill-rule="evenodd" clip-path="url(#ux-flag-ba-ba-a)" transform="translate(80)scale(.9375)">
+    <path fill="#009" d="M-85.3 0h682.6v512H-85.3z" />
+    <path fill="#FC0" d="m56.5 0 511 512.3V.3z" />
+    <path fill="#FFF" d="M439.9 481.5 412 461.2l-28.6 20.2 10.8-33.2-28.2-20.5h35l10.8-33.2 10.7 33.3h35l-28 20.7zm81.3 10.4-35-.1-10.7-33.3-10.8 33.2h-35l28.2 20.5-10.8 33.2 28.6-20.2 28 20.3-10.5-33zM365.6 384.7l28-20.7-35-.1-10.7-33.2-10.8 33.2-35-.1 28.2 20.5-10.8 33.3 28.6-20.3 28 20.4zm-64.3-64.5 28-20.6-35-.1-10.7-33.3-10.9 33.2h-34.9l28.2 20.5-10.8 33.2 28.6-20.2 27.9 20.3zm-63.7-63.6 28-20.7h-35L220 202.5l-10.8 33.2h-35l28.2 20.4-10.8 33.3 28.6-20.3 28 20.4-10.5-33zm-64.4-64.3 28-20.6-35-.1-10.7-33.3-10.9 33.2h-34.9L138 192l-10.8 33.2 28.6-20.2 27.9 20.3-10.4-33zm-63.6-63.9 27.9-20.7h-35L91.9 74.3 81 107.6H46L74.4 128l-10.9 33.2L92.1 141l27.8 20.4zm-64-64 27.9-20.7h-35L27.9 10.3 17 43.6h-35L10.4 64l-11 33.3L28.1 77l27.8 20.4zm-64-64L9.4-20.3h-35l-10.7-33.3L-47-20.4h-35L-53.7 0l-10.8 33.2L-35.9 13l27.8 20.4z" />
+  </g>
+</svg>
+</svg>

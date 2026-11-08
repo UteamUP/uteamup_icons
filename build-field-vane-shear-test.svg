@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-field-vane-shear-test-title" aria-describedby="uteamup-build-build-field-vane-shear-test-desc">
+  <title id="uteamup-build-build-field-vane-shear-test-title">Field vane shear probe — Vængjaskúfpróf</title>
+  <desc id="uteamup-build-build-field-vane-shear-test-desc">A torque head and cross handle turn a long shaft ending in intersecting flat vane blades.</desc>
+  <!-- Subject: build-field-vane-shear-test. The four-blade vane is shown as crossed blade planes at the bottom of a long test rod. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-field-vane-shear-test","label_en":"Field vane shear probe","label_is":"Vængjaskúfpróf","section":"03","category_en":"Site setup, surveying and ground investigation","category_is":"Aðstaða, landmælingar og jarðkönnun","batch":2,"tags":["ground-investigation","field-test"],"description":"A torque head and cross handle turn a long shaft ending in intersecting flat vane blades.","design_note":"The four-blade vane is shown as crossed blade planes at the bottom of a long test rod.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <circle cx="12" cy="5" r="3"/><path d="M4 5h5M15 5h5M12 8v14M8 16h8v5H8zM9 14l6 8M12 5l1-1"/>
+</svg>

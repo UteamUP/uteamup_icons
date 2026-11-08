@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-mast-climbing-platform-title" aria-describedby="uteamup-build-build-mast-climbing-platform-desc">
+  <title id="uteamup-build-build-mast-climbing-platform-title">Mast-climbing work platform — Mastursvinnupallur</title>
+  <desc id="uteamup-build-build-mast-climbing-platform-desc">A long railed work deck bridges two vertical climbing masts with separate ground supports.</desc>
+  <!-- Subject: build-mast-climbing-platform. The deck is carried on two full-height mast columns rather than scissor links or suspension ropes. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-mast-climbing-platform","label_en":"Mast-climbing work platform","label_is":"Mastursvinnupallur","section":"02","category_en":"Lifting, access and site logistics","category_is":"Lyftingar, aðgengi og flutningar á verkstað","batch":1,"tags":["access","work-platform"],"description":"A long railed work deck bridges two vertical climbing masts with separate ground supports.","design_note":"The deck is carried on two full-height mast columns rather than scissor links or suspension ropes.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M4 2v20M20 2v20M2 22h4M18 22h4M3 5h2M19 5h2M2 9h20v5H2zM7 9v5M12 9v5M17 9v5M4 17h2M18 17h2"/>
+</svg>

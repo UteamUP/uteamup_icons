@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-haskell-title" aria-describedby="ux-brand-haskell-desc" fill="#5D4F85" stroke="none">
+  <title id="ux-brand-haskell-title">Haskell — Haskell</title>
+  <desc id="ux-brand-haskell-desc">The sourced Haskell brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: Haskell. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://wiki.haskell.org/Thompson-Wheeler_logo
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-haskell","label_en":"Haskell","label_is":"Haskell","category":"Programming languages and web standards","category_is":"Forritunarmál og vefstaðlar","kind":"brand","batch":2,"description":"The sourced Haskell brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["Haskell","brand","logo","languages_standards"],"source":{"source_collection":"Simple Icons","upstream_name":"haskell","source_url":"https://wiki.haskell.org/Thompson-Wheeler_logo","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":null,"official_source":"https://wiki.haskell.org/Thompson-Wheeler_logo","source_sha256":"46f753c4116bdbfd1e478c5c3101b969e5a8b9f472969b74346d67c6f2975847"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#5D4F85","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M0 3.535L5.647 12 0 20.465h4.235L9.883 12 4.235 3.535zm5.647 0L11.294 12l-5.647 8.465h4.235l3.53-5.29 3.53 5.29h4.234L9.883 3.535zm8.941 4.938l1.883 2.822H24V8.473zm2.824 4.232l1.882 2.822H24v-2.822z" /></svg>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-suzuki-title" aria-describedby="ux-brand-suzuki-desc" fill="#E30613" stroke="none">
+  <title id="ux-brand-suzuki-title">Suzuki — Suzuki</title>
+  <desc id="ux-brand-suzuki-desc">The sourced Suzuki brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: Suzuki. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://www.suzuki.ie
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-suzuki","label_en":"Suzuki","label_is":"Suzuki","category":"Automotive and transport brands","category_is":"Bíla- og samgöngumerki","kind":"brand","batch":1,"description":"The sourced Suzuki brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["Suzuki","brand","logo","automotive_transport"],"source":{"source_collection":"Simple Icons","upstream_name":"suzuki","source_url":"https://www.suzuki.ie","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":null,"official_source":"https://www.suzuki.ie","source_sha256":"3ef67701d67dcb096645dbaf16cf5cad9dc9f04826d394b471a9f43aee4a2596"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#E30613","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M17.369 19.995C13.51 22.39 12 24 12 24L.105 15.705s5.003-3.715 9.186-.87l5.61 3.882.683-.453L.106 7.321s2.226-.65 6.524-3.315C10.49 1.609 12 0 12 0l11.895 8.296s-5.003 3.715-9.187.87L9.1 5.281l-.683.454L23.893 16.68s-2.224.649-6.524 3.315Z" /></svg>
+</svg>

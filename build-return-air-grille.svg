@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-return-air-grille-title" aria-describedby="uteamup-build-build-return-air-grille-desc">
+  <title id="uteamup-build-build-return-air-grille-title">Return-air grille — Útsogsrist</title>
+  <desc id="uteamup-build-build-return-air-grille-desc">A plain square return-air frame contains four evenly spaced full-width horizontal grille blades.</desc>
+  <!-- Subject: build-return-air-grille. A plain square return-air frame contains four evenly spaced full-width horizontal grille blades. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-return-air-grille","label_en":"Return-air grille","label_is":"Útsogsrist","section":"14","category_en":"Heating, ventilation and cooling","category_is":"Hitun, loftræsing og kæling","batch":7,"tags":["construction","ventilation","air-terminal"],"description":"A plain square return-air frame contains four evenly spaced full-width horizontal grille blades.","design_note":"A plain square return-air frame contains four evenly spaced full-width horizontal grille blades.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <rect x="3" y="3" width="18" height="18" rx="0.6"/><path d="M6 7H18 M6 10.5H18 M6 14H18 M6 17.5H18"/>
+</svg>

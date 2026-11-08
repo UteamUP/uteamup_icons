@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-hp-title" aria-describedby="ux-brand-hp-desc" fill="#0096D6" stroke="none">
+  <title id="ux-brand-hp-title">HP — HP</title>
+  <desc id="ux-brand-hp-desc">The sourced HP brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: HP. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://brandcentral.hp.com/us/en/elements/hp-logo.html
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-hp","label_en":"HP","label_is":"HP","category":"Computer, electronics and device brands","category_is":"Tölvu-, rafeinda- og tækjamerki","kind":"brand","batch":2,"description":"The sourced HP brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["HP","brand","logo","computers_electronics"],"source":{"source_collection":"Simple Icons","upstream_name":"hp","source_url":"https://brandcentral.hp.com/us/en/elements/hp-logo.html","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":"https://brandcentral.hp.com/us/en/elements/hp-logo.html","official_source":"https://brandcentral.hp.com/us/en/elements/hp-logo.html","source_sha256":"29c08a63cdea89850876a3840d93096b4125151dbba17a27926a08f9f3b0f788"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#0096D6","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M12.0069 24h-.3572l2.459-6.7453h3.3796c.5907 0 1.2364-.4533 1.4424-1.0166l2.6652-7.3085c.4396-1.1952-.2473-2.1706-1.525-2.1706h-4.6983l-3.929 10.798-2.2255 6.127C3.929 22.434 0 17.6806 0 12.007 0 6.498 3.7092 1.8546 8.7647.4396L6.4705 6.759 2.6514 17.2547h2.5415L8.4488 8.339h1.9095l-3.2558 8.9158H9.644l3.0223-8.3251c.4396-1.1952-.2473-2.1706-1.525-2.1706h-2.143l2.459-6.7453C11.636 0 11.8145 0 11.9931 0 18.6285 0 24 5.3715 24 12.007c.0137 6.6216-5.3578 11.993-11.9931 11.993zM19.2742 8.325h-1.9096l-2.6789 7.336h1.9096l2.6789-7.336z" /></svg>
+</svg>

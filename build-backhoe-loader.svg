@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-backhoe-loader-title" aria-describedby="uteamup-build-build-backhoe-loader-desc">
+  <title id="uteamup-build-build-backhoe-loader-title">Backhoe loader — Traktorsgrafa</title>
+  <desc id="uteamup-build-build-backhoe-loader-desc">A wheeled tractor carries a rear articulated digging arm and a separate broad loading bucket at its front.</desc>
+  <!-- Subject: build-backhoe-loader. Large rear wheel, smaller front wheel and two different working implements make the backhoe loader recognizable. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-backhoe-loader","label_en":"Backhoe loader","label_is":"Traktorsgrafa","section":"01","category_en":"Earthmoving and demolition machinery","category_is":"Jarðvinnslu- og niðurrifsvélar","batch":1,"tags":["earthmoving","loader"],"description":"A wheeled tractor carries a rear articulated digging arm and a separate broad loading bucket at its front.","design_note":"Large rear wheel, smaller front wheel and two different working implements make the backhoe loader recognizable.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <circle cx="8" cy="18" r="3"/><circle cx="17" cy="19" r="2"/><path d="M6 15V8h6l2 8h5M8 10h3v4M4 15L2 8l3-4 2 1-2 6M2 13v5h3M14 13l5 2 2-4 1 8h-4M11 18h4"/>
+</svg>

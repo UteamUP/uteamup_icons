@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-rabbitmq-title" aria-describedby="ux-brand-rabbitmq-desc" fill="#FF6600" stroke="none">
+  <title id="ux-brand-rabbitmq-title">RabbitMQ — RabbitMQ</title>
+  <desc id="ux-brand-rabbitmq-desc">The sourced RabbitMQ brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: RabbitMQ. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://www.rabbitmq.com
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-rabbitmq","label_en":"RabbitMQ","label_is":"RabbitMQ","category":"Cloud, databases and operations","category_is":"Skýjaþjónusta, gagnagrunnar og rekstur","kind":"brand","batch":5,"description":"The sourced RabbitMQ brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["RabbitMQ","brand","logo","cloud_data_operations"],"source":{"source_collection":"Simple Icons","upstream_name":"rabbitmq","source_url":"https://www.rabbitmq.com","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":"https://www.rabbitmq.com/trademark-guidelines.html","official_source":"https://www.rabbitmq.com","source_sha256":"f4669bdce6518e330b7430501e07df8d7d01dc60fdd9a52b2bc6dd1cbd975263"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#FF6600","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M23.035 9.601h-7.677a.956.956 0 01-.962-.962V.962a.956.956 0 00-.962-.956H10.56a.956.956 0 00-.962.956V8.64a.956.956 0 01-.962.962H5.762a.956.956 0 01-.961-.962V.962A.956.956 0 003.839 0H.959a.956.956 0 00-.956.962v22.076A.956.956 0 00.965 24h22.07a.956.956 0 00.962-.962V10.58a.956.956 0 00-.962-.98zm-3.86 8.152a1.437 1.437 0 01-1.437 1.443h-1.924a1.437 1.437 0 01-1.436-1.443v-1.917a1.437 1.437 0 011.436-1.443h1.924a1.437 1.437 0 011.437 1.443z" /></svg>
+</svg>

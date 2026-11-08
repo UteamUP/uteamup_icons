@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-mood-empty-title" aria-describedby="ux-mood-empty-desc" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round">
+  <title id="ux-mood-empty-title">Neutral face — Hlutlaust andlit</title>
+  <desc id="ux-mood-empty-desc">A round face has two dot eyes and one straight horizontal mouth.</desc>
+  <!-- Subject: Neutral face. Source: Tabler.  -->
+  <!--
+MIT License
+
+Copyright (c) 2020-2026 Paweł Kuna
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"mood-empty","label_en":"Neutral face","label_is":"Hlutlaust andlit","category":"Mood and face expressions","category_is":"Skap og svipbrigði","kind":"outline","batch":10,"description":"A round face has two dot eyes and one straight horizontal mouth.","tags":["mood-empty","Blank face","Mood and face expressions","Sviplaust andlit"],"source":{"source_collection":"Tabler","upstream_name":"mood-empty","source_url":"https://raw.githubusercontent.com/tabler/tabler-icons/ed177a085b652fe04ec4f37ced867c94621e7840/icons/outline/mood-empty.svg","source_version":"3.50.0","source_commit":"ed177a085b652fe04ec4f37ced867c94621e7840","license":"MIT","source_sha256":"a856c8e478846b07cb58c25b2f12f7d7a79a3fa606a7c7dfafd1985d010c96b7"},"style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"},"gap_review":"Checked against available prior SVG inventories and aliases."}</metadata>
+  <path xmlns="http://www.w3.org/2000/svg" d="M3 12a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M9 10l.01 0" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M15 10l.01 0" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M9 15l6 0" />
+
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-swivel-lifting-hook-title" aria-describedby="uteamup-build-build-swivel-lifting-hook-desc">
+  <title id="uteamup-build-build-swivel-lifting-hook-title">Swivel lifting hook — Snúningskrókur</title>
+  <desc id="uteamup-build-build-swivel-lifting-hook-desc">A top swivel eye and collar connect to a deep curved load hook with a short closing latch.</desc>
+  <!-- Subject: build-swivel-lifting-hook. A separate swivel head above the open curved hook gives the hardware a recognizable mechanical form. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-swivel-lifting-hook","label_en":"Swivel lifting hook","label_is":"Snúningskrókur","section":"02","category_en":"Lifting, access and site logistics","category_is":"Lyftingar, aðgengi og flutningar á verkstað","batch":1,"tags":["rigging","hook"],"description":"A top swivel eye and collar connect to a deep curved load hook with a short closing latch.","design_note":"A separate swivel head above the open curved hook gives the hardware a recognizable mechanical form.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <ellipse cx="12" cy="4" rx="2" ry="2"/><rect x="9" y="7" width="6" height="3" rx="0.5"/><path d="M12 10v4q-6 0-6 4q0 4 6 4q6 0 6-5l-2-2M12 14l4 3"/>
+</svg>

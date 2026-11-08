@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-motor-grader-title" aria-describedby="uteamup-build-build-motor-grader-desc">
+  <title id="uteamup-build-build-motor-grader-title">Motor grader — Veghefill</title>
+  <desc id="uteamup-build-build-motor-grader-desc">A long grader chassis spans tandem rear wheels and a small front axle with an angled grading blade in the middle.</desc>
+  <!-- Subject: build-motor-grader. The underslung central blade and long gap to the front wheel are the defining motor-grader silhouette. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-motor-grader","label_en":"Motor grader","label_is":"Veghefill","section":"01","category_en":"Earthmoving and demolition machinery","category_is":"Jarðvinnslu- og niðurrifsvélar","batch":1,"tags":["earthmoving","grading"],"description":"A long grader chassis spans tandem rear wheels and a small front axle with an angled grading blade in the middle.","design_note":"The underslung central blade and long gap to the front wheel are the defining motor-grader silhouette.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <circle cx="4" cy="19" r="2"/><circle cx="9" cy="19" r="2"/><circle cx="20" cy="19" r="2"/><path d="M3 16V9h6v7h11M5 9V6h4v8M9 13l11-2v6M13 14v5M11 18l6 3M2 13h3"/>
+</svg>

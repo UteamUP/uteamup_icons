@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-crystal-title" aria-describedby="ux-brand-crystal-desc" fill="#000000" stroke="none">
+  <title id="ux-brand-crystal-title">Crystal — Crystal</title>
+  <desc id="ux-brand-crystal-desc">The sourced Crystal brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: Crystal. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://crystal-lang.org/media/
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-crystal","label_en":"Crystal","label_is":"Crystal","category":"Programming languages and web standards","category_is":"Forritunarmál og vefstaðlar","kind":"brand","batch":3,"description":"The sourced Crystal brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["Crystal","brand","logo","languages_standards"],"source":{"source_collection":"Simple Icons","upstream_name":"crystal","source_url":"https://crystal-lang.org/media/","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":null,"official_source":"https://crystal-lang.org/media/","source_sha256":"14ff3ec59e19c391ac6ad0dc71a322e576ce75ce0965533dd2c70147a9af5cdb"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#000000","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M23.964 15.266l-8.687 8.669c-.034.035-.086.052-.121.035L3.29 20.79c-.052-.017-.087-.052-.087-.086L.007 8.856c-.018-.053 0-.087.035-.122L8.728.065c.035-.035.087-.052.121-.035l11.866 3.18c.052.017.087.052.087.086l3.18 11.848c.034.053.016.087-.018.122zm-11.64-9.433L.667 8.943c-.017 0-.035.034-.017.052l8.53 8.512c.017.017.052.017.052-.017l3.127-11.64c.017 0-.018-.035-.035-.017Z" /></svg>
+</svg>

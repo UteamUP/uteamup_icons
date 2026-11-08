@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-temporary-haul-road-title" aria-describedby="uteamup-build-build-temporary-haul-road-desc">
+  <title id="uteamup-build-build-temporary-haul-road-title">Temporary haul road — Tímabundinn vinnuvegur</title>
+  <desc id="uteamup-build-build-temporary-haul-road-desc">A winding unpaved haul route passes a small graded earth mound with two clearly separated road edges.</desc>
+  <!-- Subject: build-temporary-haul-road. The rough access alignment and earth mound convey a site haul route without vehicle or road-sign badges. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-temporary-haul-road","label_en":"Temporary haul road","label_is":"Tímabundinn vinnuvegur","section":"03","category_en":"Site setup, surveying and ground investigation","category_is":"Aðstaða, landmælingar og jarðkönnun","batch":2,"tags":["site-setup","temporary-road"],"description":"A winding unpaved haul route passes a small graded earth mound with two clearly separated road edges.","design_note":"The rough access alignment and earth mound convey a site haul route without vehicle or road-sign badges.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 22C8 17 1 13 7 8S18 7 22 2M8 22C14 17 7 13 13 8S21 10 22 8M16 22l3-4 3 4M2 3l4 1M2 6h2"/>
+</svg>

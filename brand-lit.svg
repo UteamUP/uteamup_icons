@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-lit-title" aria-describedby="ux-brand-lit-desc" fill="#324FFF" stroke="none">
+  <title id="ux-brand-lit-title">Lit — Lit</title>
+  <desc id="ux-brand-lit-desc">The sourced Lit brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: Lit. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://github.com/lit/lit.dev/blob/5e59bdb00b7a261d6fdcd6a4ae529e17f6146ed3/packages/lit-dev-content/site/images/flame-favicon.svg
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-lit","label_en":"Lit","label_is":"Lit","category":"Frameworks and developer tools","category_is":"Forritunarrammar og þróunarverkfæri","kind":"brand","batch":3,"description":"The sourced Lit brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["Lit","brand","logo","frameworks_developer_tools"],"source":{"source_collection":"Simple Icons","upstream_name":"lit","source_url":"https://github.com/lit/lit.dev/blob/5e59bdb00b7a261d6fdcd6a4ae529e17f6146ed3/packages/lit-dev-content/site/images/flame-favicon.svg","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":null,"official_source":"https://github.com/lit/lit.dev/blob/5e59bdb00b7a261d6fdcd6a4ae529e17f6146ed3/packages/lit-dev-content/site/images/flame-favicon.svg","source_sha256":"3ef2840e11e436831aa0af74cad172577fd655f6b0a041a632e4b9e3c6f9f1ed"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#324FFF","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M2.4 9.6l4.8 4.8V24l-4.8-4.8V9.6zm4.8-4.8v9.6L12 9.6V0L7.2 4.8zM12 9.6v9.6l4.8-4.8V4.8L12 9.6zm4.8 4.8V24l4.8-4.8V9.6l-4.8 4.8z" /></svg>
+</svg>

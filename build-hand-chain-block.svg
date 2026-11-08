@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-hand-chain-block-title" aria-describedby="uteamup-build-build-hand-chain-block-desc">
+  <title id="uteamup-build-build-hand-chain-block-title">Hand-chain block — Handkeðjutalía</title>
+  <desc id="uteamup-build-build-hand-chain-block-desc">A round hoisting body has a long loop of hand chain to one side and a separate load line and hook below.</desc>
+  <!-- Subject: build-hand-chain-block. Separate operating-chain loop and load hook distinguish a chain block from the lever-operated hoist. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-hand-chain-block","label_en":"Hand-chain block","label_is":"Handkeðjutalía","section":"02","category_en":"Lifting, access and site logistics","category_is":"Lyftingar, aðgengi og flutningar á verkstað","batch":1,"tags":["rigging","hoist"],"description":"A round hoisting body has a long loop of hand chain to one side and a separate load line and hook below.","design_note":"Separate operating-chain loop and load hook distinguish a chain block from the lever-operated hoist.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <circle cx="14" cy="8" r="4"/><ellipse cx="14" cy="2.7" rx="1.2" ry="1"/><path d="M10 10v9q0 3-3 3t-3-3V9q0-3 3-3h3M14 12v6q0 3 3 3t3-2M12.5 8h3"/>
+</svg>

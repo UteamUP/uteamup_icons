@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-googledrive-title" aria-describedby="ux-brand-googledrive-desc" fill="#4285F4" stroke="none">
+  <title id="ux-brand-googledrive-title">Google Drive — Google Drive</title>
+  <desc id="ux-brand-googledrive-desc">The sourced Google Drive brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: Google Drive. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://developers.google.com/drive/web/branding
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-googledrive","label_en":"Google Drive","label_is":"Google Drive","category":"Business, design and collaboration software","category_is":"Viðskipta-, hönnunar- og samstarfshugbúnaður","kind":"brand","batch":5,"description":"The sourced Google Drive brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["Google Drive","brand","logo","business_design_apps"],"source":{"source_collection":"Simple Icons","upstream_name":"googledrive","source_url":"https://developers.google.com/drive/web/branding","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":null,"official_source":"https://developers.google.com/drive/web/branding","source_sha256":"7e678aba9e463140ec8603f0e6cc78bb80f6caf9cd3ee73335026a90729a1a40"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#4285F4","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M12.01 1.485c-2.082 0-3.754.02-3.743.047.01.02 1.708 3.001 3.774 6.62l3.76 6.574h3.76c2.081 0 3.753-.02 3.742-.047-.005-.02-1.708-3.001-3.775-6.62l-3.76-6.574zm-4.76 1.73a789.828 789.861 0 0 0-3.63 6.319L0 15.868l1.89 3.298 1.885 3.297 3.62-6.335 3.618-6.33-1.88-3.287C8.1 4.704 7.255 3.22 7.25 3.214zm2.259 12.653-.203.348c-.114.198-.96 1.672-1.88 3.287a423.93 423.948 0 0 1-1.698 2.97c-.01.026 3.24.042 7.222.042h7.244l1.796-3.157c.992-1.734 1.85-3.23 1.906-3.323l.104-.167h-7.249z" /></svg>
+</svg>

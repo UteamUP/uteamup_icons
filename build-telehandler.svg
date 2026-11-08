@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-telehandler-title" aria-describedby="uteamup-build-build-telehandler-desc">
+  <title id="uteamup-build-build-telehandler-title">Telescopic handler — Skotbómulyftari</title>
+  <desc id="uteamup-build-build-telehandler-desc">A four-wheel handler extends a sloping telescopic boom to a pair of horizontal load forks.</desc>
+  <!-- Subject: build-telehandler. An angled extendable boom ending in forks distinguishes the telehandler from a mast forklift or crane hook. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-telehandler","label_en":"Telescopic handler","label_is":"Skotbómulyftari","section":"02","category_en":"Lifting, access and site logistics","category_is":"Lyftingar, aðgengi og flutningar á verkstað","batch":1,"tags":["lifting","material-handling"],"description":"A four-wheel handler extends a sloping telescopic boom to a pair of horizontal load forks.","design_note":"An angled extendable boom ending in forks distinguishes the telehandler from a mast forklift or crane hook.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <circle cx="5" cy="19" r="3"/><circle cx="15" cy="19" r="3"/><path d="M2 16V9h7v7M4 11h3M8 14l9-9 3 2-10 9M14 8l2 2M20 7v7h2M18 14h4M8 19h4"/>
+</svg>

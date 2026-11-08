@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-dropped-kerb-title" aria-describedby="uteamup-build-build-dropped-kerb-desc">
+  <title id="uteamup-build-build-dropped-kerb-title">Dropped kerb — Lækkaður kantsteinn</title>
+  <desc id="uteamup-build-build-dropped-kerb-desc">A continuous kerb descends through a broad sloping transition from a raised section to a low crossing edge.</desc>
+  <!-- Subject: build-dropped-kerb. A continuous kerb descends through a broad sloping transition from a raised section to a low crossing edge. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-dropped-kerb","label_en":"Dropped kerb","label_is":"Lækkaður kantsteinn","section":"06","category_en":"Masonry, stonework and hard landscaping","category_is":"Múrverk, steinhleðsla og hellulögn","batch":3,"tags":["masonry","stonework","hardscape"],"description":"A continuous kerb descends through a broad sloping transition from a raised section to a low crossing edge.","design_note":"A continuous kerb descends through a broad sloping transition from a raised section to a low crossing edge.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 7h6l8 8h6v5h-8L6 12H2V7Z M2 12v10 M22 20v2 M8 7l-2 5 M16 15l-2 5 M2 22h20"/>
+</svg>

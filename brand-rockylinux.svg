@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-rockylinux-title" aria-describedby="ux-brand-rockylinux-desc" fill="#10B981" stroke="none">
+  <title id="ux-brand-rockylinux-title">Rocky Linux — Rocky Linux</title>
+  <desc id="ux-brand-rockylinux-desc">The sourced Rocky Linux brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: Rocky Linux. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://github.com/rocky-linux/branding/blob/94e97dd30b87d909cc4f6a6838a2926f77f9ac47/logo/src/icon-black.svg
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-rockylinux","label_en":"Rocky Linux","label_is":"Rocky Linux","category":"Cloud, databases and operations","category_is":"Skýjaþjónusta, gagnagrunnar og rekstur","kind":"brand","batch":5,"description":"The sourced Rocky Linux brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["Rocky Linux","brand","logo","cloud_data_operations"],"source":{"source_collection":"Simple Icons","upstream_name":"rockylinux","source_url":"https://github.com/rocky-linux/branding/blob/94e97dd30b87d909cc4f6a6838a2926f77f9ac47/logo/src/icon-black.svg","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":{"type":"CC-BY-SA-4.0"},"guidelines":null,"official_source":"https://github.com/rocky-linux/branding/blob/94e97dd30b87d909cc4f6a6838a2926f77f9ac47/logo/src/icon-black.svg","source_sha256":"a65476b168c4ef14c6b743e7eb3875e56c9d60ca15bbaef57a72a6cdeab242d0"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#10B981","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M23.332 15.957c.433-1.239.668-2.57.668-3.957 0-6.627-5.373-12-12-12S0 5.373 0 12c0 3.28 1.315 6.251 3.447 8.417L15.62 8.245l3.005 3.005zm-2.192 3.819l-5.52-5.52L6.975 22.9c1.528.706 3.23 1.1 5.025 1.1 3.661 0 6.94-1.64 9.14-4.224z" /></svg>
+</svg>

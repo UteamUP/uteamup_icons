@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-dropbox-title" aria-describedby="ux-brand-dropbox-desc" fill="#0061FF" stroke="none">
+  <title id="ux-brand-dropbox-title">Dropbox — Dropbox</title>
+  <desc id="ux-brand-dropbox-desc">The sourced Dropbox brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: Dropbox. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://www.dropbox.com/branding
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-dropbox","label_en":"Dropbox","label_is":"Dropbox","category":"Business, design and collaboration software","category_is":"Viðskipta-, hönnunar- og samstarfshugbúnaður","kind":"brand","batch":5,"description":"The sourced Dropbox brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["Dropbox","brand","logo","business_design_apps"],"source":{"source_collection":"Simple Icons","upstream_name":"dropbox","source_url":"https://www.dropbox.com/branding","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":null,"official_source":"https://www.dropbox.com/branding","source_sha256":"1c9ea4ac8e318f3f6a598568df1a38ece03b7bc52a3a72d48c9e760340d7aeec"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#0061FF","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M6 1.807L0 5.629l6 3.822 6.001-3.822L6 1.807zM18 1.807l-6 3.822 6 3.822 6-3.822-6-3.822zM0 13.274l6 3.822 6.001-3.822L6 9.452l-6 3.822zM18 9.452l-6 3.822 6 3.822 6-3.822-6-3.822zM6 18.371l6.001 3.822 6-3.822-6-3.822L6 18.371z" /></svg>
+</svg>

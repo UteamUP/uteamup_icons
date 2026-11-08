@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-file-type-sql-title" aria-describedby="ux-file-type-sql-desc" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round">
+  <title id="ux-file-type-sql-title">SQL document — SQL gagnagrunnsskrá</title>
+  <desc id="ux-file-type-sql-desc">A folded-corner document carries the outlined letters SQL to identify the .sql file extension.</desc>
+  <!-- Subject: SQL document. Source: Tabler. Removed an exactly repeated fold path from the pinned source to prevent two overlaid strokes from darkening the fold. -->
+  <!--
+MIT License
+
+Copyright (c) 2020-2026 Paweł Kuna
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"file-type-sql","label_en":"SQL document","label_is":"SQL gagnagrunnsskrá","category":"File types and document content","category_is":"Skráartegundir og innihald skjala","kind":"outline","batch":10,"description":"A folded-corner document carries the outlined letters SQL to identify the .sql file extension.","tags":["file-type-sql","SQL document","File types and document content","SQL gagnagrunnsskrá"],"source":{"source_collection":"Tabler","upstream_name":"file-type-sql","source_url":"https://raw.githubusercontent.com/tabler/tabler-icons/ed177a085b652fe04ec4f37ced867c94621e7840/icons/outline/file-type-sql.svg","source_version":"3.50.0","source_commit":"ed177a085b652fe04ec4f37ced867c94621e7840","license":"MIT","original_source_sha256":"f69e0ded0a8ee907dd5845e06cc8f439fb86d07eb56ace197245b729d3d487ec","source_sha256":"f69e0ded0a8ee907dd5845e06cc8f439fb86d07eb56ace197245b729d3d487ec","adapted_content_sha256":"80443b31d7743f5e09d94ead84223c74507770e8d82f14e35c64c13e41e92d56"},"style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"},"gap_review":"Checked against available prior SVG inventories and aliases.","adaptation":"Removed an exactly repeated fold path from the pinned source to prevent two overlaid strokes from darkening the fold. Source collection, pinned source URL and original MIT notice are retained."}</metadata>
+  <path xmlns="http://www.w3.org/2000/svg" d="M14 3v4a1 1 0 0 0 1 1h4" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M5 20.25c0 .414 .336 .75 .75 .75h1.25a1 1 0 0 0 1 -1v-1a1 1 0 0 0 -1 -1h-1a1 1 0 0 1 -1 -1v-1a1 1 0 0 1 1 -1h1.25a.75 .75 0 0 1 .75 .75" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M5 12v-7a2 2 0 0 1 2 -2h7l5 5v4" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M18 15v6h2" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M13 15a2 2 0 0 1 2 2v2a2 2 0 1 1 -4 0v-2a2 2 0 0 1 2 -2" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M14 20l1.5 1.5" />
+
+</svg>

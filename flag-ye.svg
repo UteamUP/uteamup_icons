@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-flag-ye-title" aria-describedby="ux-flag-ye-desc" fill="#000000" stroke="none">
+  <title id="ux-flag-ye-title">Yemen flag — Jemen · fáni</title>
+  <desc id="ux-flag-ye-desc">A coloured 4:3 flag icon for Yemen, preserving the vector artwork from the pinned flag-icons source.</desc>
+  <!-- Subject: Yemen flag. Source: flag-icons. Source colours and geometry preserved on the collection canvas; normalized 4:3 flag-icon format. -->
+  <!--
+The MIT License (MIT)
+
+Copyright (c) 2013 Panayiotis Lipiridis
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+of the Software, and to permit persons to whom the Software is furnished to do
+so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"flag-ye","label_en":"Yemen flag","label_is":"Jemen · fáni","category":"Countries and flags","category_is":"Lönd, svæði og fánar","kind":"flag","batch":9,"description":"A coloured 4:3 flag icon for Yemen, preserving the vector artwork from the pinned flag-icons source.","tags":["flag","country","ye","Yemen","Jemen"],"source":{"source_collection":"flag-icons","upstream_name":"ye","source_url":"https://raw.githubusercontent.com/lipis/flag-icons/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ye.svg","source_version":"7.6.0","source_commit":"ac7e0eb3259eb62aa6100c435607e2fe03896a97","license":"MIT","source_sha256":"ead644b90bc8cc74407d5f4680ada429bf0dc3d0dbd1e8a11fbfc7663a2d7fc2"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,640.0,480.0],"background":"transparent","color":"source colors","format":"4:3 flag icon format"},"gap_review":"No country-specific or regional flag counterpart in the available prior SVG inventory.","classification":"UN member state","code":"ye","country":"Yemen","country_is":"Jemen","format":"4:3 flag icon format"}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="4.125" width="21" height="15.75" viewBox="0 0 640 480" preserveAspectRatio="xMidYMid meet"><g fill-rule="evenodd" stroke-width="1pt">
+    <path fill="#fff" d="M0 0h640v480H0z" />
+    <path fill="#f10600" d="M0 0h640v160H0z" />
+    <path fill="#000001" d="M0 320h640v160H0z" />
+  </g>
+</svg>
+</svg>

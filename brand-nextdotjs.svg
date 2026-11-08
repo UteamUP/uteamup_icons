@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-nextdotjs-title" aria-describedby="ux-brand-nextdotjs-desc" fill="#000000" stroke="none">
+  <title id="ux-brand-nextdotjs-title">Next.js — Next.js</title>
+  <desc id="ux-brand-nextdotjs-desc">The sourced Next.js brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: Next.js. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://vercel.com/design/brands#next-js
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-nextdotjs","label_en":"Next.js","label_is":"Next.js","category":"Frameworks and developer tools","category_is":"Forritunarrammar og þróunarverkfæri","kind":"brand","batch":3,"description":"The sourced Next.js brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["Next.js","brand","logo","frameworks_developer_tools"],"source":{"source_collection":"Simple Icons","upstream_name":"nextdotjs","source_url":"https://vercel.com/design/brands#next-js","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":"https://vercel.com/design/brands#next-js","official_source":"https://vercel.com/design/brands#next-js","source_sha256":"593e14da3ddb65be4c8fa6a178f2f48a01a8bd39ea384f679cd7182b520da502"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#000000","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M18.665 21.978C16.758 23.255 14.465 24 12 24 5.377 24 0 18.623 0 12S5.377 0 12 0s12 5.377 12 12c0 3.583-1.574 6.801-4.067 9.001L9.219 7.2H7.2v9.596h1.615V9.251l9.85 12.727Zm-3.332-8.533 1.6 2.061V7.2h-1.6v6.245Z" /></svg>
+</svg>

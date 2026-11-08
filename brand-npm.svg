@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-npm-title" aria-describedby="ux-brand-npm-desc" fill="#CB3837" stroke="none">
+  <title id="ux-brand-npm-title">npm — npm</title>
+  <desc id="ux-brand-npm-desc">The sourced npm brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: npm. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://www.npmjs.com
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-npm","label_en":"npm","label_is":"npm","category":"Frameworks and developer tools","category_is":"Forritunarrammar og þróunarverkfæri","kind":"brand","batch":3,"description":"The sourced npm brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["npm","brand","logo","frameworks_developer_tools"],"source":{"source_collection":"Simple Icons","upstream_name":"npm","source_url":"https://www.npmjs.com","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":"https://docs.npmjs.com/policies/logos-and-usage","official_source":"https://www.npmjs.com","source_sha256":"00b410dc2c839cfa62910a065eaf28a48cbdb4babe503cf34d475cc94ba03be1"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#CB3837","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M1.763 0C.786 0 0 .786 0 1.763v20.474C0 23.214.786 24 1.763 24h20.474c.977 0 1.763-.786 1.763-1.763V1.763C24 .786 23.214 0 22.237 0zM5.13 5.323l13.837.019-.009 13.836h-3.464l.01-10.382h-3.456L12.04 19.17H5.113z" /></svg>
+</svg>

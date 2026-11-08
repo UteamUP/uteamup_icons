@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-flag-lr-title" aria-describedby="ux-flag-lr-desc" fill="#000000" stroke="none">
+  <title id="ux-flag-lr-title">Liberia flag — Líbería · fáni</title>
+  <desc id="ux-flag-lr-desc">A coloured 4:3 flag icon for Liberia, preserving the vector artwork from the pinned flag-icons source.</desc>
+  <!-- Subject: Liberia flag. Source: flag-icons. Source colours and geometry preserved on the collection canvas; normalized 4:3 flag-icon format. -->
+  <!--
+The MIT License (MIT)
+
+Copyright (c) 2013 Panayiotis Lipiridis
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+of the Software, and to permit persons to whom the Software is furnished to do
+so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"flag-lr","label_en":"Liberia flag","label_is":"Líbería · fáni","category":"Countries and flags","category_is":"Lönd, svæði og fánar","kind":"flag","batch":8,"description":"A coloured 4:3 flag icon for Liberia, preserving the vector artwork from the pinned flag-icons source.","tags":["flag","country","lr","Liberia","Líbería"],"source":{"source_collection":"flag-icons","upstream_name":"lr","source_url":"https://raw.githubusercontent.com/lipis/flag-icons/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/lr.svg","source_version":"7.6.0","source_commit":"ac7e0eb3259eb62aa6100c435607e2fe03896a97","license":"MIT","source_sha256":"69f2ce4b9490ab3c94ca30dc94862e5f1e8cb0f84344e5db0eb9300df5c66146"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,640.0,480.0],"background":"transparent","color":"source colors","format":"4:3 flag icon format"},"gap_review":"No country-specific or regional flag counterpart in the available prior SVG inventory.","classification":"UN member state","code":"lr","country":"Liberia","country_is":"Líbería","format":"4:3 flag icon format"}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="4.125" width="21" height="15.75" viewBox="0 0 640 480" preserveAspectRatio="xMidYMid meet"><defs>
+    <clipPath id="ux-flag-lr-lr-a">
+      <path fill-opacity=".7" d="M0 0h682.7v512H0z" />
+    </clipPath>
+  </defs>
+  <g fill-rule="evenodd" clip-path="url(#ux-flag-lr-lr-a)" transform="scale(.9375)">
+    <path fill="#fff" d="M0 0h767.9v512H0z" />
+    <path fill="#006" d="M0 0h232.7v232.8H0z" />
+    <path fill="#c00" d="M0 464.9h767.9V512H0z" />
+    <path fill="#c00" d="M0 465.4h767.9V512H0zm0-92.9h767.9v46.2H0zm0-93.2h766V326H0zM232.7 0h535.1v46.5H232.7zm0 186h535.1v46.8H232.7zm0-92.7h535.1v46.5H232.7z" />
+    <path fill="#fff" d="m166.3 177.5-50.7-31-50.4 31.3 18.7-50.9-50.3-31.4 62.3-.4 19.3-50.7L135 95h62.3l-50.1 31.7z" />
+  </g>
+</svg>
+</svg>

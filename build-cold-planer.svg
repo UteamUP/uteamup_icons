@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-cold-planer-title" aria-describedby="uteamup-build-build-cold-planer-desc">
+  <title id="uteamup-build-build-cold-planer-title">Cold milling machine — Malbiksfræsari</title>
+  <desc id="uteamup-build-build-cold-planer-desc">A tracked pavement mill has an enclosed lower cutting drum and a raised forward discharge conveyor.</desc>
+  <!-- Subject: build-cold-planer. The elevated material conveyor above a low milling chamber distinguishes this road machine from a soil mixer. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-cold-planer","label_en":"Cold milling machine","label_is":"Malbiksfræsari","section":"01","category_en":"Earthmoving and demolition machinery","category_is":"Jarðvinnslu- og niðurrifsvélar","batch":1,"tags":["roadwork","milling"],"description":"A tracked pavement mill has an enclosed lower cutting drum and a raised forward discharge conveyor.","design_note":"The elevated material conveyor above a low milling chamber distinguishes this road machine from a soil mixer.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 16V9h12v7M7 9V5h5v4M15 10l6-6 1 2-7 7M5 17h8v5H5zM8 18v2M10 18v2"/><rect x="2" y="16" width="3" height="5" rx="1"/><rect x="14" y="16" width="4" height="5" rx="1"/>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-flag-ve-title" aria-describedby="ux-flag-ve-desc" fill="#000000" stroke="none">
+  <title id="ux-flag-ve-title">Venezuela flag — Venesúela · fáni</title>
+  <desc id="ux-flag-ve-desc">A coloured 4:3 flag icon for Venezuela, preserving the vector artwork from the pinned flag-icons source.</desc>
+  <!-- Subject: Venezuela flag. Source: flag-icons. Source colours and geometry preserved on the collection canvas; normalized 4:3 flag-icon format. -->
+  <!--
+The MIT License (MIT)
+
+Copyright (c) 2013 Panayiotis Lipiridis
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+of the Software, and to permit persons to whom the Software is furnished to do
+so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"flag-ve","label_en":"Venezuela flag","label_is":"Venesúela · fáni","category":"Countries and flags","category_is":"Lönd, svæði og fánar","kind":"flag","batch":9,"description":"A coloured 4:3 flag icon for Venezuela, preserving the vector artwork from the pinned flag-icons source.","tags":["flag","country","ve","Venezuela","Venesúela"],"source":{"source_collection":"flag-icons","upstream_name":"ve","source_url":"https://raw.githubusercontent.com/lipis/flag-icons/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ve.svg","source_version":"7.6.0","source_commit":"ac7e0eb3259eb62aa6100c435607e2fe03896a97","license":"MIT","source_sha256":"5712f1c63ba0bfa25a853c100cdebfd6698cce98fc2e0ba8d3fab35df541efa1"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,640.0,480.0],"background":"transparent","color":"source colors","format":"4:3 flag icon format"},"gap_review":"No country-specific or regional flag counterpart in the available prior SVG inventory.","classification":"UN member state","code":"ve","country":"Venezuela","country_is":"Venesúela","format":"4:3 flag icon format"}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="1.5" y="4.125" width="21" height="15.75" viewBox="0 0 640 480" preserveAspectRatio="xMidYMid meet"><defs>
+    <g id="ux-flag-ve-ve-d" transform="translate(0 -36)">
+      <g id="ux-flag-ve-ve-c">
+        <g id="ux-flag-ve-ve-b">
+          <path id="ux-flag-ve-ve-a" fill="#fff" d="M0-5-1.5-.2l2.8.9z" />
+          <use xlink:href="#ux-flag-ve-ve-a" width="180" height="120" transform="scale(-1 1)" />
+        </g>
+        <use xlink:href="#ux-flag-ve-ve-b" width="180" height="120" transform="rotate(72)" />
+      </g>
+      <use xlink:href="#ux-flag-ve-ve-b" width="180" height="120" transform="rotate(-72)" />
+      <use xlink:href="#ux-flag-ve-ve-c" width="180" height="120" transform="rotate(144)" />
+    </g>
+  </defs>
+  <path fill="#cf142b" d="M0 0h640v480H0z" />
+  <path fill="#00247d" d="M0 0h640v320H0z" />
+  <path fill="#fc0" d="M0 0h640v160H0z" />
+  <g id="ux-flag-ve-ve-f" transform="matrix(4 0 0 4 320 336)">
+    <g id="ux-flag-ve-ve-e">
+      <use xlink:href="#ux-flag-ve-ve-d" width="180" height="120" transform="rotate(10)" />
+      <use xlink:href="#ux-flag-ve-ve-d" width="180" height="120" transform="rotate(30)" />
+    </g>
+    <use xlink:href="#ux-flag-ve-ve-e" width="180" height="120" transform="rotate(40)" />
+  </g>
+  <use xlink:href="#ux-flag-ve-ve-f" width="180" height="120" transform="rotate(-80 320 336)" />
+</svg>
+</svg>

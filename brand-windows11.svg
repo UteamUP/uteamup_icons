@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-windows11-title" aria-describedby="ux-brand-windows11-desc" fill="#0078d4" stroke="none">
+  <title id="ux-brand-windows11-title">Windows 11 — Windows 11</title>
+  <desc id="ux-brand-windows11-desc">The Windows 11 identity as supplied by the pinned Devicon vector collection. Its original path geometry and any source colour gradients are retained, without adding an outline.</desc>
+  <!-- Subject: Windows 11. Source: Devicon. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Devicon
+Source URL: https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/windows11/windows11-original.svg
+Source version: 2.18.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+
+The MIT License (MIT)
+
+Copyright (c) 2015 konpa
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-windows11","label_en":"Windows 11","label_is":"Windows 11","category":"Operating systems and computing platforms","category_is":"Stýrikerfi og tölvuumhverfi","kind":"brand","batch":7,"description":"The Windows 11 identity as supplied by the pinned Devicon vector collection. Its original path geometry and any source colour gradients are retained, without adding an outline.","tags":["Windows 11","windows11","brand","logo","Devicon"],"source":{"source_collection":"Devicon","upstream_name":"windows11","source_url":"https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/windows11/windows11-original.svg","source_version":"2.18.0","source_commit":"32fe1d3b3f36ad11f90ab94f7db59738139c2bf6","license":"MIT (vector collection); the depicted marks retain their original ownership.","official_source":"https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/windows11/windows11-original.svg","raw_sha256":"11ac9b1e84c8c36c21629d03f26ce699b7d2e56bf702ea2e8eb2637cd2271c56","source_sha256":"11ac9b1e84c8c36c21629d03f26ce699b7d2e56bf702ea2e8eb2637cd2271c56"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,128.0,128.0],"background":"transparent","color":"#0078d4","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 128 128" preserveAspectRatio="xMidYMid meet"><path fill="#0078d4" d="M67.328 67.331h60.669V128H67.328zm-67.325 0h60.669V128H.003zM67.328 0h60.669v60.669H67.328zM.003 0h60.669v60.669H.003z" /></svg>
+</svg>

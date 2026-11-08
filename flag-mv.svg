@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-flag-mv-title" aria-describedby="ux-flag-mv-desc" fill="#000000" stroke="none">
+  <title id="ux-flag-mv-title">Maldives flag — Maldíveyjar · fáni</title>
+  <desc id="ux-flag-mv-desc">A coloured 4:3 flag icon for Maldives, preserving the vector artwork from the pinned flag-icons source.</desc>
+  <!-- Subject: Maldives flag. Source: flag-icons. Source colours and geometry preserved on the collection canvas; normalized 4:3 flag-icon format. -->
+  <!--
+The MIT License (MIT)
+
+Copyright (c) 2013 Panayiotis Lipiridis
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+of the Software, and to permit persons to whom the Software is furnished to do
+so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"flag-mv","label_en":"Maldives flag","label_is":"Maldíveyjar · fáni","category":"Countries and flags","category_is":"Lönd, svæði og fánar","kind":"flag","batch":8,"description":"A coloured 4:3 flag icon for Maldives, preserving the vector artwork from the pinned flag-icons source.","tags":["flag","country","mv","Maldives","Maldíveyjar"],"source":{"source_collection":"flag-icons","upstream_name":"mv","source_url":"https://raw.githubusercontent.com/lipis/flag-icons/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/mv.svg","source_version":"7.6.0","source_commit":"ac7e0eb3259eb62aa6100c435607e2fe03896a97","license":"MIT","source_sha256":"5546d527d669b3935bbff11e0344fb8522200cf5ea84eba730d8a7a0b1e86f15"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,640.0,480.0],"background":"transparent","color":"source colors","format":"4:3 flag icon format"},"gap_review":"No country-specific or regional flag counterpart in the available prior SVG inventory.","classification":"UN member state","code":"mv","country":"Maldives","country_is":"Maldíveyjar","format":"4:3 flag icon format"}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="4.125" width="21" height="15.75" viewBox="0 0 640 480" preserveAspectRatio="xMidYMid meet"><path fill="#d21034" d="M0 0h640v480H0z" />
+  <path fill="#007e3a" d="M120 120h400v240H120z" />
+  <circle cx="350" cy="240" r="80" fill="#fff" />
+  <circle cx="380" cy="240" r="80" fill="#007e3a" />
+</svg>
+</svg>

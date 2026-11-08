@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-file-type-ppt-title" aria-describedby="ux-file-type-ppt-desc" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round">
+  <title id="ux-file-type-ppt-title">PPT document — PPT kynning</title>
+  <desc id="ux-file-type-ppt-desc">A folded-corner document carries the outlined letters PPT to identify the .ppt file extension.</desc>
+  <!-- Subject: PPT document. Source: Tabler. Removed an exactly repeated fold path from the pinned source to prevent two overlaid strokes from darkening the fold. -->
+  <!--
+MIT License
+
+Copyright (c) 2020-2026 Paweł Kuna
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"file-type-ppt","label_en":"PPT document","label_is":"PPT kynning","category":"File types and document content","category_is":"Skráartegundir og innihald skjala","kind":"outline","batch":10,"description":"A folded-corner document carries the outlined letters PPT to identify the .ppt file extension.","tags":["file-type-ppt","PPT document","File types and document content","PPT kynning"],"source":{"source_collection":"Tabler","upstream_name":"file-type-ppt","source_url":"https://raw.githubusercontent.com/tabler/tabler-icons/ed177a085b652fe04ec4f37ced867c94621e7840/icons/outline/file-type-ppt.svg","source_version":"3.50.0","source_commit":"ed177a085b652fe04ec4f37ced867c94621e7840","license":"MIT","original_source_sha256":"be5877bb584eceda30d539e121ea80cf12f4feeb360f81c539395ed39b44be07","source_sha256":"be5877bb584eceda30d539e121ea80cf12f4feeb360f81c539395ed39b44be07","adapted_content_sha256":"c390a1db3efdece125fe5b611d4d330505e1cb781d7482ddc0e58309a0760ed8"},"style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"},"gap_review":"Checked against available prior SVG inventories and aliases.","adaptation":"Removed an exactly repeated fold path from the pinned source to prevent two overlaid strokes from darkening the fold. Source collection, pinned source URL and original MIT notice are retained."}</metadata>
+  <path xmlns="http://www.w3.org/2000/svg" d="M14 3v4a1 1 0 0 0 1 1h4" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M5 18h1.5a1.5 1.5 0 0 0 0 -3h-1.5v6" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M11 18h1.5a1.5 1.5 0 0 0 0 -3h-1.5v6" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M16.5 15h3" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M18 15v6" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M5 12v-7a2 2 0 0 1 2 -2h7l5 5v4" />
+
+</svg>

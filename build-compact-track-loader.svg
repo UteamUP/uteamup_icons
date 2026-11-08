@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-compact-track-loader-title" aria-describedby="uteamup-build-build-compact-track-loader-desc">
+  <title id="uteamup-build-build-compact-track-loader-title">Compact track loader — Beltahleðsluvél</title>
+  <desc id="uteamup-build-build-compact-track-loader-desc">A compact loader uses a raised triangular rubber-track undercarriage below a forward-canted cab and scoop.</desc>
+  <!-- Subject: build-compact-track-loader. Triangular track outline and low cab-side loader linkage differ from the wheeled skid steer. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-compact-track-loader","label_en":"Compact track loader","label_is":"Beltahleðsluvél","section":"01","category_en":"Earthmoving and demolition machinery","category_is":"Jarðvinnslu- og niðurrifsvélar","batch":1,"tags":["earthmoving","compact-loader"],"description":"A compact loader uses a raised triangular rubber-track undercarriage below a forward-canted cab and scoop.","design_note":"Triangular track outline and low cab-side loader linkage differ from the wheeled skid steer.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 17l3-4h8l3 5-2 4H4zM5 17h8M4 13V5h6l3 8M6 7h3l2 4H6zM12 10l6 5M18 14l4 1v6h-5z"/>
+</svg>

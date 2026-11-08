@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-citroen-title" aria-describedby="ux-brand-citroen-desc" fill="#DA291C" stroke="none">
+  <title id="ux-brand-citroen-title">Citroën — Citroën</title>
+  <desc id="ux-brand-citroen-desc">The sourced Citroën brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: Citroën. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://www.stellantis.com/en/brands/citroen
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-citroen","label_en":"Citroën","label_is":"Citroën","category":"Automotive and transport brands","category_is":"Bíla- og samgöngumerki","kind":"brand","batch":1,"description":"The sourced Citroën brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["Citroën","brand","logo","automotive_transport"],"source":{"source_collection":"Simple Icons","upstream_name":"citroen","source_url":"https://www.stellantis.com/en/brands/citroen","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":null,"official_source":"https://www.stellantis.com/en/brands/citroen","source_sha256":"99a313e559f14eec272fea440d1ae3c92ac25438145efd31276da50192fefc28"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#DA291C","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M12 0C6.684 0 2.292 5.38 2.292 12S6.652 24 12 24c5.347 0 9.708-5.38 9.708-12S17.316 0 12 0zM4.106 16.233c-.19-.604-.35-1.241-.414-1.878L12 8.18l8.371 6.175a12.334 12.334 0 0 1-.413 1.878v.032h-.032L12 10.345zm.923 2.101-.032-.032L12 13.114l7.003 5.188v.032c-1.655 2.897-4.202 4.616-6.987 4.616s-5.363-1.751-6.987-4.616zM12 5.347l-8.53 6.335v-.032c.063-2.674.954-5.284 2.61-7.385C7.67 2.324 9.772 1.21 12 1.21c2.228 0 4.36 1.114 5.92 3.055 1.56 1.942 2.515 4.616 2.61 7.417v.032l-.031-.032z" /></svg>
+</svg>

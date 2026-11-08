@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-ppg-title" aria-describedby="ux-brand-ppg-desc" fill="#000000" stroke="none">
+  <title id="ux-brand-ppg-title">PPG — PPG</title>
+  <desc id="ux-brand-ppg-desc">The sourced PPG brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: PPG. Source: Official brand website. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Official brand website
+Source URL: https://www.ppg.com/
+Source version: Official website asset retrieved 2026-11-07
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-ppg","label_en":"PPG","label_is":"PPG","category":"Pharmaceutical, chemical and laboratory brands","category_is":"Lyfja-, efna- og rannsóknastofumerki","kind":"brand","batch":7,"description":"The sourced PPG brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["PPG","brand","logo","pharma_chemical_laboratory"],"source":{"source_collection":"Official brand website","upstream_name":"ppg","source_url":"https://www.ppg.com/","source_version":"Official website asset retrieved 2026-11-07","source_commit":null,"license":null,"guidelines":null,"official_source":"https://www.ppg.com/","source_asset_url":"https://assets-eu-01.kc-usercontent.com:443/cce44467-0106-013b-6c0b-26132a361492/330b9fb6-e1aa-4f5b-a448-bf83f86cc942/ppg-logo.svg","raw_sha256":"8b3c0475b65515e850eb936d1a7234732017dd457f335a99700310f790bb37bc","license_status":"No separate reusable asset license was supplied with this official website SVG; original brand/trademark ownership is retained.","source_sha256":"662a930bd4f60e22a4cabd9d8b90c177cdd9d0e226ffe097dc2c7165ce12d266"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,285.7,225.78],"background":"transparent","color":"#000000","format":"official logo; original colors"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match.","format":"official logo; original colors"}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="3.7021701" width="21" height="16.59566" viewBox="0 0 285.7 225.78" preserveAspectRatio="xMidYMid meet" fill="#000000"><g>
+	<g>
+		<path d="M231.61,225.78H54.09C24.26,225.78,0,201.52,0,171.69V54.09C0,24.26,24.26,0,54.09,0h177.52    c29.83,0,54.09,24.26,54.09,54.09v117.6C285.7,201.52,261.44,225.78,231.61,225.78z" fill="#FFFFFF" />
+		<path d="M231.61,216.26H54.09c-24.51,0-44.57-20.05-44.57-44.57V54.09c0-24.51,20.06-44.57,44.57-44.57h177.52    c24.51,0,44.57,20.06,44.57,44.57v117.6C276.18,196.21,256.13,216.26,231.61,216.26z" fill="#0078A9" />
+		<path d="M233.51,76.87c10.66-3.15,21.5,0.11,30.09,7.25V61.21c-27.8-4.41-42.37-1.41-53.48,5.49    c-9.02,5.76-12.84,13.62-12.84,13.62s-0.2,0.42-0.53,1.17c-1.46-57.97-36.93-52.92-79.26-52.91c-11.87,0-23.84,0-23.84,0v49.96    c-7.03-20.68-28.76-18.45-52.01-18.45c-8.42,0-19.55,0-19.55,0v105.69h32.02c-5.34-1.86-8.05-6.49-8.05-13.22v-29.04l9.24,9.24    c4.07,1,7.64,0.89,7.64,0.89c8.84-0.49,24.73-3.91,30.71-21.83v85.51h38.09c-5.32-1.85-8.03-6.4-8.03-13.1V126.8l14.44,14.39    c4.66,1.67,8.09,1.95,12.03,1.77c11.11-0.7,30.14-5.39,40.1-25.48c0.82,18.89,7.01,37.83,26.17,45.28    c8.43,3.45,18.02,4.41,27.99,3.64c6.51-0.19,12.84-0.77,19.17-1.91v-51.77l-29.18,0.01c5.34,1.86,8.05,6.25,8.05,12.98v23.58    c-6.65,2.08-15.64,0.03-20.66-6.46c-6.34-8.19-7.48-31.25-4.79-46.98C218.56,87.98,225.29,79.3,233.51,76.87z M57,119.42    c-7.74,0-10.95-3.37-10.95-3.37v-38c0-3.24,2.34-5.46,5.86-5.87c3.78-0.44,20.94-3.18,20.94,22.27    C72.85,118.27,62.37,119.42,57,119.42z M142.93,123.31c-11.69,0-19.22-5.47-19.22-5.47V54.81c0-5.26,6.22-8.87,11.54-9.53    c5.7-0.71,31.96-4.67,31.96,36.64C167.21,119.16,149.51,123.31,142.93,123.31z" fill="#FFFFFF" />
+	</g>
+</g>
+</svg>
+</svg>

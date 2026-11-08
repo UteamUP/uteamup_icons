@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-navigation-south-title" aria-describedby="ux-navigation-south-desc" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round">
+  <title id="ux-navigation-south-title">Navigate south — Stefna í suður</title>
+  <desc id="ux-navigation-south-desc">A navigation arrow points south, accompanied by the corresponding cardinal-direction initial.</desc>
+  <!-- Subject: Navigate south. Source: Tabler. Rotated only the direction pointer; the cardinal-direction letter remains upright and the pointer now agrees with the named direction. -->
+  <!--
+MIT License
+
+Copyright (c) 2020-2026 Paweł Kuna
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"navigation-south","label_en":"Navigate south","label_is":"Stefna í suður","category":"Maps location and GPS","category_is":"Kort, staðsetningar og GPS","kind":"outline","batch":11,"description":"A navigation arrow points south, accompanied by the corresponding cardinal-direction initial.","tags":["navigation-south","Navigate south","Maps location and GPS","Stefna í suður"],"source":{"source_collection":"Tabler","upstream_name":"navigation-south","source_url":"https://raw.githubusercontent.com/tabler/tabler-icons/ed177a085b652fe04ec4f37ced867c94621e7840/icons/outline/navigation-south.svg","source_version":"3.50.0","source_commit":"ed177a085b652fe04ec4f37ced867c94621e7840","license":"MIT","original_source_sha256":"7e7e4c93fc7308b2a2db99ae2a7da2deae8f2cc9586ac36cef85f2971fb669a4","source_sha256":"7e7e4c93fc7308b2a2db99ae2a7da2deae8f2cc9586ac36cef85f2971fb669a4","adapted_content_sha256":"b032fd7fc0443d327f98da631f31487aae984f44a082428ed07ceb094cb01d40"},"style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"},"gap_review":"Checked against available prior SVG inventories and aliases.","adaptation":"Rotated only the direction pointer; the cardinal-direction letter remains upright and the pointer now agrees with the named direction. Source collection, pinned source URL and original MIT notice are retained."}</metadata>
+  <path xmlns="http://www.w3.org/2000/svg" d="M10 8.25c0 .414 .336 .75 .75 .75h2.25a1 1 0 0 0 1 -1v-1a1 1 0 0 0 -1 -1h-2a1 1 0 0 1 -1 -1v-1a1 1 0 0 1 1 -1h2.25a.75 .75 0 0 1 .75 .75" />
+  <g xmlns="http://www.w3.org/2000/svg" transform="rotate(180 12 17)"><path d="M16 21l-4 -8l-4 8l4 -2l4 2" />
+</g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-survey-field-table-title" aria-describedby="uteamup-build-build-survey-field-table-desc">
+  <title id="uteamup-build-build-survey-field-table-title">Survey field table — Vinnuborð fyrir landmælingar</title>
+  <desc id="uteamup-build-build-survey-field-table-desc">A folding trestle table supports a sloped drawing sheet above widely braced legs.</desc>
+  <!-- Subject: build-survey-field-table. A field drawing surface and folding crossed supports make a recognizable portable survey work table. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-survey-field-table","label_en":"Survey field table","label_is":"Vinnuborð fyrir landmælingar","section":"03","category_en":"Site setup, surveying and ground investigation","category_is":"Aðstaða, landmælingar og jarðkönnun","batch":2,"tags":["site-setup","surveying"],"description":"A folding trestle table supports a sloped drawing sheet above widely braced legs.","design_note":"A field drawing surface and folding crossed supports make a recognizable portable survey work table.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 9h20v3H2zM5 12l5 10M19 12l-5 10M8 12l-4 10M16 12l4 10M6 3h10l3 6H9zM9 5l5 1"/>
+</svg>

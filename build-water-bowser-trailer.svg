@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-water-bowser-trailer-title" aria-describedby="uteamup-build-build-water-bowser-trailer-desc">
+  <title id="uteamup-build-build-water-bowser-trailer-title">Water bowser trailer — Vatnstankur á tengivagni</title>
+  <desc id="uteamup-build-build-water-bowser-trailer-desc">A rounded horizontal water tank sits on a small towable chassis with a fill neck and outlet hose.</desc>
+  <!-- Subject: build-water-bowser-trailer. The compact tow bar, tank fill neck and rear outlet identify a site water bowser. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-water-bowser-trailer","label_en":"Water bowser trailer","label_is":"Vatnstankur á tengivagni","section":"03","category_en":"Site setup, surveying and ground investigation","category_is":"Aðstaða, landmælingar og jarðkönnun","batch":2,"tags":["site-setup","water-supply"],"description":"A rounded horizontal water tank sits on a small towable chassis with a fill neck and outlet hose.","design_note":"The compact tow bar, tank fill neck and rear outlet identify a site water bowser.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <rect x="4" y="6" width="16" height="10" rx="4"/><path d="M10 6V3h4v3M6 16v2h14M2 18h6M20 10h2v7M2 16v4"/><circle cx="13" cy="20" r="2"/>
+</svg>

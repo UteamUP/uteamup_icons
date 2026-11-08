@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-site-office-cabin-title" aria-describedby="uteamup-build-build-site-office-cabin-desc">
+  <title id="uteamup-build-build-site-office-cabin-title">Site office cabin — Vinnuskúr</title>
+  <desc id="uteamup-build-build-site-office-cabin-desc">A temporary flat-roof office cabin has a separate entry door, broad window and short ground supports.</desc>
+  <!-- Subject: build-site-office-cabin. Raised temporary cabin supports and a flat modular roof make the office unit distinct from a permanent house. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-site-office-cabin","label_en":"Site office cabin","label_is":"Vinnuskúr","section":"03","category_en":"Site setup, surveying and ground investigation","category_is":"Aðstaða, landmælingar og jarðkönnun","batch":2,"tags":["site-setup","office"],"description":"A temporary flat-roof office cabin has a separate entry door, broad window and short ground supports.","design_note":"Raised temporary cabin supports and a flat modular roof make the office unit distinct from a permanent house.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 6h20v14H2zM2 3h20v3M4 20v2M20 20v2M14 10h5v10M16 15h1M5 10h6v5H5z"/>
+</svg>

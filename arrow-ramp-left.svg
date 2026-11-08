@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-arrow-ramp-left-title" aria-describedby="ux-arrow-ramp-left-desc" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round">
+  <title id="ux-arrow-ramp-left-title">Left exit ramp — Útkeyrsla til vinstri</title>
+  <desc id="ux-arrow-ramp-left-desc">A sloping left exit arrow branches from a straight route.</desc>
+  <!-- Subject: Left exit ramp. Source: Tabler.  -->
+  <!--
+MIT License
+
+Copyright (c) 2020-2026 Paweł Kuna
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"arrow-ramp-left","label_en":"Left exit ramp","label_is":"Útkeyrsla til vinstri","category":"Navigation and interface actions","category_is":"Leiðsögn og aðgerðir í viðmóti","kind":"outline","batch":11,"description":"A sloping left exit arrow branches from a straight route.","tags":["arrow-ramp-left","Left exit ramp","Navigation and interface actions","Útkeyrsla til vinstri"],"source":{"source_collection":"Tabler","upstream_name":"arrow-ramp-left","source_url":"https://raw.githubusercontent.com/tabler/tabler-icons/ed177a085b652fe04ec4f37ced867c94621e7840/icons/outline/arrow-ramp-left.svg","source_version":"3.50.0","source_commit":"ed177a085b652fe04ec4f37ced867c94621e7840","license":"MIT","source_sha256":"43cdd5dfeb7e09c37868e24b49b0fededaa16c0454e1fa79e3e1e9d40ddbff48"},"style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"},"gap_review":"Checked against available prior SVG inventories and aliases."}</metadata>
+  <path xmlns="http://www.w3.org/2000/svg" d="M17 3l0 8.707" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M13 7l4 -4l4 4" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M7 14l-4 -4l4 -4" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M17 21a11 11 0 0 0 -11 -11h-3" />
+
+</svg>

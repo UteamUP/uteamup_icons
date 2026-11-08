@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-map-lock-title" aria-describedby="ux-map-lock-desc" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round">
+  <title id="ux-map-lock-title">Locked location — Læst staðsetning</title>
+  <desc id="ux-map-lock-desc">A map-location pin is paired with a separate closed padlock.</desc>
+  <!-- Subject: Locked location. Source: Tabler. Label and description checked against the visible source drawing during native-size review. -->
+  <!--
+MIT License
+
+Copyright (c) 2020-2026 Paweł Kuna
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"map-lock","label_en":"Locked location","label_is":"Læst staðsetning","category":"Maps location and GPS","category_is":"Kort, staðsetningar og GPS","kind":"outline","batch":11,"description":"A map-location pin is paired with a separate closed padlock.","tags":["map-lock","Locked map","Maps location and GPS","Læst kort"],"source":{"source_collection":"Tabler","upstream_name":"map-lock","source_url":"https://raw.githubusercontent.com/tabler/tabler-icons/ed177a085b652fe04ec4f37ced867c94621e7840/icons/outline/map-lock.svg","source_version":"3.50.0","source_commit":"ed177a085b652fe04ec4f37ced867c94621e7840","license":"MIT","original_source_sha256":"97a72322f8594e641d8eb2b83eaefe2d0139741745b059c0ccbe7572f43864a4","source_sha256":"97a72322f8594e641d8eb2b83eaefe2d0139741745b059c0ccbe7572f43864a4"},"style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"},"gap_review":"Checked against available prior SVG inventories and aliases.","adaptation":"Label and description checked against the visible source drawing during native-size review. Source collection, pinned source URL and original MIT notice are retained."}</metadata>
+  <path xmlns="http://www.w3.org/2000/svg" d="M9 11a3 3 0 1 0 6 0a3 3 0 0 0 -6 0" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M13.004 21.216a2 2 0 0 1 -2.417 -.316l-4.244 -4.243a8 8 0 0 1 11.314 -11.314a7.93 7.93 0 0 1 2.343 5.657" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M17 19a1 1 0 0 1 1 -1h3a1 1 0 0 1 1 1v2a1 1 0 0 1 -1 1h-3a1 1 0 0 1 -1 -1v-2" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M18 18v-1.5a1.5 1.5 0 1 1 3 0v1.5" />
+
+</svg>

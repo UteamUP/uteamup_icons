@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-visualstudio-title" aria-describedby="ux-brand-visualstudio-desc" fill="#52218a" stroke="none">
+  <title id="ux-brand-visualstudio-title">Visual Studio — Visual Studio</title>
+  <desc id="ux-brand-visualstudio-desc">The Visual Studio identity as supplied by the pinned Devicon vector collection. Its original path geometry and any source colour gradients are retained, without adding an outline.</desc>
+  <!-- Subject: Visual Studio. Source: Devicon. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Devicon
+Source URL: https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/visualstudio/visualstudio-original.svg
+Source version: 2.18.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+
+The MIT License (MIT)
+
+Copyright (c) 2015 konpa
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-visualstudio","label_en":"Visual Studio","label_is":"Visual Studio","category":"Programming languages and developer tools","category_is":"Forritunarmál og þróunarverkfæri","kind":"brand","batch":7,"description":"The Visual Studio identity as supplied by the pinned Devicon vector collection. Its original path geometry and any source colour gradients are retained, without adding an outline.","tags":["Visual Studio","visualstudio","brand","logo","Devicon"],"source":{"source_collection":"Devicon","upstream_name":"visualstudio","source_url":"https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/visualstudio/visualstudio-original.svg","source_version":"2.18.0","source_commit":"32fe1d3b3f36ad11f90ab94f7db59738139c2bf6","license":"MIT (vector collection); the depicted marks retain their original ownership.","official_source":"https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/visualstudio/visualstudio-original.svg","raw_sha256":"82646b70fd41ee1ff3a751c1c773d1428bd776829ec4169203e67a15948d50ad","source_sha256":"82646b70fd41ee1ff3a751c1c773d1428bd776829ec4169203e67a15948d50ad"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,128.0,128.0],"background":"transparent","color":"#52218a","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 128 128" preserveAspectRatio="xMidYMid meet"><defs><linearGradient id="ux-brand-visualstudio-a" x1="48" x2="48" y1="97.75" y2="2.25" gradientTransform="matrix(1 0 0 -1 0 97.75)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff" /><stop offset="1" stop-color="#fff" stop-opacity="0" /></linearGradient></defs><path fill="#52218a" d="M14.39 26.295a5.333 5.333 0 0 0-1.417.373l-9.694 4A5.333 5.333 0 0 0 0 35.561v56.88a5.333 5.333 0 0 0 3.28 4.893l9.693 4.066a5.333 5.333 0 0 0 5.521-.865l2.172-1.867a2.947 2.947 0 0 1-4.666-2.4V31.734a2.947 2.947 0 0 1 4.666-2.4l-2.172-1.799a5.333 5.333 0 0 0-4.103-1.24z" /><path fill="#6c33af" d="M94.75.416A8 8 0 0 0 88 2.668l-82.666 91.4A3.08 3.08 0 0 1 0 92.002v.44a5.333 5.333 0 0 0 3.28 4.892l9.693 4.066a5.333 5.333 0 0 0 5.521-.865l2.172-1.867 99.08-81.24A5.053 5.053 0 0 1 128 21.334v-.307a8 8 0 0 0-4.533-7.213L97.094 1.121A8 8 0 0 0 94.75.416Z" /><path fill="#854cc7" d="M14.871 26.238a5.333 5.333 0 0 0-1.898.43l-9.694 4A5.333 5.333 0 0 0 0 35.561v.441a3.08 3.08 0 0 1 5.334-2.066L88 125.334a8 8 0 0 0 9.094 1.547l26.373-12.694a8 8 0 0 0 4.533-7.212v-.307a5.053 5.053 0 0 1-8.254 3.906l-99.08-81.24-2.172-1.865a5.333 5.333 0 0 0-3.623-1.23z" /><path fill="#b179f1" d="M94.75.416a8 8 0 0 0-5.674 1.469A4.693 4.693 0 0 1 96 6.015v116a4.693 4.693 0 0 1-8 3.319 8 8 0 0 0 9.094 1.547l26.373-12.68a8 8 0 0 0 4.533-7.213V21.016a8 8 0 0 0-4.533-7.215L97.094 1.12A8 8 0 0 0 94.75.416Zm-5.674 1.469A4.693 4.693 0 0 0 88 2.668a8 8 0 0 1 1.076-.783Z" /><path fill="url(#ux-brand-visualstudio-a)" fill-rule="evenodd" d="M94.145.348a8 8 0 0 0-3.026.386A8 8 0 0 0 88 2.668L45.494 49.682 20.666 29.334l-2.172-1.865a5.333 5.333 0 0 0-4.814-1.108 3.4 3.4 0 0 0-.707.24l-9.694 4.067A5.333 5.333 0 0 0 0 35.162v57.679a5.333 5.333 0 0 0 3.28 4.493l9.693 4a3.4 3.4 0 0 0 .707.24 5.333 5.333 0 0 0 4.814-1.105l2.172-1.801 24.828-20.346L88 125.334a8 8 0 0 0 3.854 2.135 8 8 0 0 0 5.24-.588l26.373-12.68a8 8 0 0 0 4.533-7.213V21.016a8 8 0 0 0-4.533-7.215L97.094 1.12a8 8 0 0 0-2.95-.773ZM96 36.908v54.186L62.947 64.002Zm-80 8.787 16.547 18.307L16 82.309Z" opacity=".25" /></svg>
+</svg>

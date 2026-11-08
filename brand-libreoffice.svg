@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-libreoffice-title" aria-describedby="ux-brand-libreoffice-desc" fill="#18A303" stroke="none">
+  <title id="ux-brand-libreoffice-title">LibreOffice — LibreOffice</title>
+  <desc id="ux-brand-libreoffice-desc">The sourced LibreOffice brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: LibreOffice. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://wiki.documentfoundation.org/Marketing/Branding
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-libreoffice","label_en":"LibreOffice","label_is":"LibreOffice","category":"Business, design and collaboration software","category_is":"Viðskipta-, hönnunar- og samstarfshugbúnaður","kind":"brand","batch":5,"description":"The sourced LibreOffice brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["LibreOffice","brand","logo","business_design_apps"],"source":{"source_collection":"Simple Icons","upstream_name":"libreoffice","source_url":"https://wiki.documentfoundation.org/Marketing/Branding","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":"https://wiki.documentfoundation.org/Marketing/Branding","official_source":"https://wiki.documentfoundation.org/Marketing/Branding","source_sha256":"865890340e369cafc9369a8e6ec70fbfac10a9d5862af04dc10dc764509eb855"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#18A303","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M16.365 0a.597.597 0 00-.555.352.582.582 0 00.128.635l4.985 4.996a.605.605 0 00.635.133.59.59 0 00.363-.53V.577A.605.605 0 0021.335 0zM2.661 0a.59.59 0 00-.582.59v22.82a.59.59 0 00.582.59h18.67a.59.59 0 00.59-.59V8.716a.59.59 0 00-.17-.42L13.674.182a.59.59 0 00-.42-.181zm.59 1.184h9.754l7.733 7.77v13.863H3.251z" /></svg>
+</svg>

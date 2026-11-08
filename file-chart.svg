@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-file-chart-title" aria-describedby="ux-file-chart-desc" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round">
+  <title id="ux-file-chart-title">Pie-chart document — Skjal með kökuriti</title>
+  <desc id="ux-file-chart-desc">A folded-corner document contains a circular pie chart with a clearly divided quarter segment.</desc>
+  <!-- Subject: Pie-chart document. Source: Tabler.  -->
+  <!--
+MIT License
+
+Copyright (c) 2020-2026 Paweł Kuna
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"file-chart","label_en":"Pie-chart document","label_is":"Skjal með kökuriti","category":"File types and document content","category_is":"Skráartegundir og innihald skjala","kind":"outline","batch":10,"description":"A folded-corner document contains a circular pie chart with a clearly divided quarter segment.","tags":["file-chart","Chart document","File types and document content","Skjal með grafi"],"source":{"source_collection":"Tabler","upstream_name":"file-chart","source_url":"https://raw.githubusercontent.com/tabler/tabler-icons/ed177a085b652fe04ec4f37ced867c94621e7840/icons/outline/file-chart.svg","source_version":"3.50.0","source_commit":"ed177a085b652fe04ec4f37ced867c94621e7840","license":"MIT","source_sha256":"2e27bc18e5d9f8be06da90bf624bf4d5cc4afec45b8162ed6ec32e8d836d1a35"},"style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"},"gap_review":"Checked against available prior SVG inventories and aliases."}</metadata>
+  <path xmlns="http://www.w3.org/2000/svg" d="M14 3v4a1 1 0 0 0 1 1h4" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M12 10v4h4" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M8 14a4 4 0 1 0 8 0a4 4 0 1 0 -8 0" />
+
+</svg>

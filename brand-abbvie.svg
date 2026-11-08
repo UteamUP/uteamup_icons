@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-abbvie-title" aria-describedby="ux-brand-abbvie-desc" fill="#071D49" stroke="none">
+  <title id="ux-brand-abbvie-title">Abbvie — Abbvie</title>
+  <desc id="ux-brand-abbvie-desc">The sourced Abbvie brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: Abbvie. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://www.abbvie.com
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-abbvie","label_en":"Abbvie","label_is":"Abbvie","category":"Pharmaceutical, chemical and laboratory brands","category_is":"Lyfja-, efna- og rannsóknastofumerki","kind":"brand","batch":6,"description":"The sourced Abbvie brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["Abbvie","brand","logo","pharma_chemical_laboratory"],"source":{"source_collection":"Simple Icons","upstream_name":"abbvie","source_url":"https://www.abbvie.com","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":null,"official_source":"https://www.abbvie.com","source_sha256":"eb20ce8c39e6fc6c21b24264d106e8b064dd4dcf9537338f39a5e896c811ec2f"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#071D49","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M23.186 20.17c-1.533 0-2.14-.612-2.347-1.838l-.406-1.74c-.413.72-2.453 3.579-6.945 3.579H8.89C1.94 20.17 0 15.467 0 12c0-3.885 2.347-8.17 8.884-8.17h4.905c5.005 0 7.759 2.853 8.372 6.431.512 2.96 1.839 9.91 1.839 9.91zM13.076 6.378h-3.88c-4.698 0-6.231 2.965-6.231 5.623 0 2.653 1.533 5.618 6.236 5.618h3.875c4.904 0 6.236-3.065 6.236-5.618 0-2.246-1.231-5.618-6.236-5.618z" /></svg>
+</svg>

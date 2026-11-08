@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-kibana-title" aria-describedby="ux-brand-kibana-desc" fill="#005571" stroke="none">
+  <title id="ux-brand-kibana-title">Kibana — Kibana</title>
+  <desc id="ux-brand-kibana-desc">The sourced Kibana brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: Kibana. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://www.elastic.co/brand
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-kibana","label_en":"Kibana","label_is":"Kibana","category":"Cloud, databases and operations","category_is":"Skýjaþjónusta, gagnagrunnar og rekstur","kind":"brand","batch":4,"description":"The sourced Kibana brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["Kibana","brand","logo","cloud_data_operations"],"source":{"source_collection":"Simple Icons","upstream_name":"kibana","source_url":"https://www.elastic.co/brand","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":null,"official_source":"https://www.elastic.co/brand","source_sha256":"eac3cd50862291d418991d6f05aae14bf795f6653d6bbcf814ec8240f58b8c9c"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#005571","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M2.625 0v21.591L21.375 0zm10.864 12.47L3.477 24h17.522a18.755 18.755 0 0 0-7.51-11.53z" /></svg>
+</svg>

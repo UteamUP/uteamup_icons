@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-hand-grab-title" aria-describedby="ux-hand-grab-desc" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round">
+  <title id="ux-hand-grab-title">Grasping hand — Grípandi hönd</title>
+  <desc id="ux-hand-grab-desc">Curved fingers close toward the palm in a grasping hand.</desc>
+  <!-- Subject: Grasping hand. Source: Tabler.  -->
+  <!--
+MIT License
+
+Copyright (c) 2020-2026 Paweł Kuna
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"hand-grab","label_en":"Grasping hand","label_is":"Grípandi hönd","category":"Body parts and gestures","category_is":"Líkamshlutar og handabendingar","kind":"outline","batch":9,"description":"Curved fingers close toward the palm in a grasping hand.","tags":["hand-grab","Grasping hand","Body parts and gestures","Grípandi hönd"],"source":{"source_collection":"Tabler","upstream_name":"hand-grab","source_url":"https://raw.githubusercontent.com/tabler/tabler-icons/ed177a085b652fe04ec4f37ced867c94621e7840/icons/outline/hand-grab.svg","source_version":"3.50.0","source_commit":"ed177a085b652fe04ec4f37ced867c94621e7840","license":"MIT","source_sha256":"18488fd4102449ef5ab84f23a598774bbd993146f415a8b907484fe2944d0cdc"},"style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"},"gap_review":"Checked against available prior SVG inventories and aliases."}</metadata>
+  <path xmlns="http://www.w3.org/2000/svg" d="M8 11v-3.5a1.5 1.5 0 0 1 3 0v2.5" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M11 9.5v-3a1.5 1.5 0 0 1 3 0v3.5" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M14 7.5a1.5 1.5 0 0 1 3 0v2.5" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M17 9.5a1.5 1.5 0 0 1 3 0v4.5a6 6 0 0 1 -6 6h-2h.208a6 6 0 0 1 -5.012 -2.7l-.196 -.3c-.312 -.479 -1.407 -2.388 -3.286 -5.728a1.5 1.5 0 0 1 .536 -2.022a1.867 1.867 0 0 1 2.28 .28l1.47 1.47" />
+
+</svg>

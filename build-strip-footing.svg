@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-strip-footing-title" aria-describedby="uteamup-build-build-strip-footing-desc">
+  <title id="uteamup-build-build-strip-footing-title">Continuous strip footing section — Snið samfelldrar sökkulundirstöðu</title>
+  <desc id="uteamup-build-build-strip-footing-desc">A continuous wall sits centrally on a broad rectangular strip footing below the ground surface.</desc>
+  <!-- Subject: build-strip-footing. A simple wall-on-footing section identifies a continuous strip foundation without extra machinery or badges. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-strip-footing","label_en":"Continuous strip footing section","label_is":"Snið samfelldrar sökkulundirstöðu","section":"04","category_en":"Excavation, foundations and ground engineering","category_is":"Uppgröftur, undirstöður og jarðtækni","batch":2,"tags":["foundation","shallow-foundation"],"description":"A continuous wall sits centrally on a broad rectangular strip footing below the ground surface.","design_note":"A simple wall-on-footing section identifies a continuous strip foundation without extra machinery or badges.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M9 15V2h6v13M3 15h18v6H3zM2 10h7M15 10h7M9 6h6"/>
+</svg>

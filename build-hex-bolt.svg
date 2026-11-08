@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-hex-bolt-title" aria-describedby="uteamup-build-build-hex-bolt-desc">
+  <title id="uteamup-build-build-hex-bolt-title">Hex bolt — Sexkantsbolti</title>
+  <desc id="uteamup-build-build-hex-bolt-desc">A hexagonal bolt head sits above a straight blunt-ended shank whose lower portion carries a visible coarse thread.</desc>
+  <!-- Subject: build-hex-bolt. A hexagonal bolt head sits above a straight blunt-ended shank whose lower portion carries a visible coarse thread. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-hex-bolt","label_en":"Hex bolt","label_is":"Sexkantsbolti","section":"18","category_en":"Building materials, fasteners and fixings","category_is":"Byggingarefni, skrúfur og festingar","batch":9,"tags":["construction","materials","fixings"],"description":"A hexagonal bolt head sits above a straight blunt-ended shank whose lower portion carries a visible coarse thread.","design_note":"A hexagonal bolt head sits above a straight blunt-ended shank whose lower portion carries a visible coarse thread.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M7 3L12 2L17 3V7L12 9L7 7Z M10 8V21H14V8 M10 13L14 11 M10 16L14 14 M10 19L14 17 M10 21L14 19 M9 4H15"/>
+</svg>

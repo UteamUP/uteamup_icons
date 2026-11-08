@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-surcharge-preload-title" aria-describedby="uteamup-build-build-surcharge-preload-desc">
+  <title id="uteamup-build-build-surcharge-preload-title">Surcharge preload mound — Fargfylling</title>
+  <desc id="uteamup-build-build-surcharge-preload-desc">A temporary earth mound rests over two visibly deflected underlying soil-layer lines.</desc>
+  <!-- Subject: build-surcharge-preload. The mound and depressed subgrade layers communicate surcharge settlement through physical ground profiles. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-surcharge-preload","label_en":"Surcharge preload mound","label_is":"Fargfylling","section":"04","category_en":"Excavation, foundations and ground engineering","category_is":"Uppgröftur, undirstöður og jarðtækni","batch":2,"tags":["ground-improvement","preloading"],"description":"A temporary earth mound rests over two visibly deflected underlying soil-layer lines.","design_note":"The mound and depressed subgrade layers communicate surcharge settlement through physical ground profiles.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 15L7 5h10l5 10zM2 18q10 5 20 0M2 21q10 2 20 0M7 10h10"/>
+</svg>

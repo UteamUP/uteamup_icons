@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-googlecolab-title" aria-describedby="ux-brand-googlecolab-desc" fill="#ffb300" stroke="none">
+  <title id="ux-brand-googlecolab-title">Google Colab — Google Colab</title>
+  <desc id="ux-brand-googlecolab-desc">The Google Colab identity as supplied by the pinned Devicon vector collection. Its original path geometry and any source colour gradients are retained, without adding an outline.</desc>
+  <!-- Subject: Google Colab. Source: Devicon. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Devicon
+Source URL: https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/googlecolab/googlecolab-original.svg
+Source version: 2.18.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+
+The MIT License (MIT)
+
+Copyright (c) 2015 konpa
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-googlecolab","label_en":"Google Colab","label_is":"Google Colab","category":"Programming languages and developer tools","category_is":"Forritunarmál og þróunarverkfæri","kind":"brand","batch":7,"description":"The Google Colab identity as supplied by the pinned Devicon vector collection. Its original path geometry and any source colour gradients are retained, without adding an outline.","tags":["Google Colab","googlecolab","brand","logo","Devicon"],"source":{"source_collection":"Devicon","upstream_name":"googlecolab","source_url":"https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/googlecolab/googlecolab-original.svg","source_version":"2.18.0","source_commit":"32fe1d3b3f36ad11f90ab94f7db59738139c2bf6","license":"MIT (vector collection); the depicted marks retain their original ownership.","official_source":"https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/googlecolab/googlecolab-original.svg","raw_sha256":"272a248ec138abf99c09f9a808941e1ac25a7cfa9c4f75c3efe500aff0d02586","source_sha256":"272a248ec138abf99c09f9a808941e1ac25a7cfa9c4f75c3efe500aff0d02586"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,128.0,128.0],"background":"transparent","color":"#ffb300","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 128 128" preserveAspectRatio="xMidYMid meet"><path fill="#ffb300" d="M90.437 26.434c-20.748 0-37.567 16.82-37.567 37.567 0 20.748 16.82 37.563 37.567 37.563C111.181 101.564 128 84.749 128 64s-16.82-37.567-37.563-37.567zm0 55.651c-9.992 0-18.088-8.096-18.088-18.084 0-9.992 8.096-18.088 18.088-18.088 9.988 0 18.084 8.096 18.084 18.088 0 9.988-8.096 18.084-18.084 18.084zm0 0" /><path fill="#ffb300" d="M50.477 76.664v-.008a18.022 18.022 0 0 1-12.91 5.43c-9.992 0-18.088-8.097-18.088-18.085 0-9.992 8.096-18.088 18.088-18.088 5.092 0 9.686 2.11 12.973 5.499l10.434-16.764c-6.423-5.127-14.551-8.214-23.407-8.214C16.819 26.434 0 43.254 0 64.001c0 20.748 16.82 37.563 37.567 37.563 8.801 0 16.882-3.051 23.286-8.12zm0 0" /><path fill="#f57a00" d="M19.479 64c0-4.974 2.01-9.474 5.256-12.745l-13.51-14.018C4.302 44.048 0 53.519 0 64c0 10.43 4.258 19.866 11.124 26.674L24.853 76.86A18.034 18.034 0 0 1 19.479 64Zm83.841-12.686a18.028 18.028 0 0 1 5.201 12.687c0 9.988-8.096 18.084-18.084 18.084-5.084 0-9.667-2.1-12.953-5.476L63.57 90.232c6.823 6.984 16.33 11.332 26.866 11.332C111.181 101.564 128 84.749 128 64c0-10.255-4.117-19.534-10.771-26.31zm0 0" /></svg>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-pile-cap-group-title" aria-describedby="uteamup-build-build-pile-cap-group-desc">
+  <title id="uteamup-build-build-pile-cap-group-title">Pile-cap foundation group — Stauraundirstaða með staurahaus</title>
+  <desc id="uteamup-build-build-pile-cap-group-desc">A broad common cap links three separate vertical foundation piles below a central supported column.</desc>
+  <!-- Subject: build-pile-cap-group. Three discrete piles visibly share one cap, unlike a continuous raft resting directly on soil. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-pile-cap-group","label_en":"Pile-cap foundation group","label_is":"Stauraundirstaða með staurahaus","section":"04","category_en":"Excavation, foundations and ground engineering","category_is":"Uppgröftur, undirstöður og jarðtækni","batch":2,"tags":["foundation","pile-cap"],"description":"A broad common cap links three separate vertical foundation piles below a central supported column.","design_note":"Three discrete piles visibly share one cap, unlike a continuous raft resting directly on soil.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M9 5V2h6v3M2 5h20v4H2zM4 9v11q2 3 4 0V9M10 9v11q2 3 4 0V9M16 9v11q2 3 4 0V9"/>
+</svg>

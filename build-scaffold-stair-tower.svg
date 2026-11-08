@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-scaffold-stair-tower-title" aria-describedby="uteamup-build-build-scaffold-stair-tower-desc">
+  <title id="uteamup-build-build-scaffold-stair-tower-title">Scaffold stair tower — Stigaturn</title>
+  <desc id="uteamup-build-build-scaffold-stair-tower-desc">Two opposite stair flights rise through separate levels inside a tall open scaffold frame.</desc>
+  <!-- Subject: build-scaffold-stair-tower. Large stair treads and a midway landing distinguish tower access by stairs from ladders or hoists. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-scaffold-stair-tower","label_en":"Scaffold stair tower","label_is":"Stigaturn","section":"02","category_en":"Lifting, access and site logistics","category_is":"Lyftingar, aðgengi og flutningar á verkstað","batch":1,"tags":["access","stair-tower"],"description":"Two opposite stair flights rise through separate levels inside a tall open scaffold frame.","design_note":"Large stair treads and a midway landing distinguish tower access by stairs from ladders or hoists.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 2v20h18V2M3 3h18M3 12h18M4 20h4v-3h4v-3h4v-2M6 12V9h4V6h4V3M3 20h1"/>
+</svg>

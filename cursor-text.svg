@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-cursor-text-title" aria-describedby="ux-cursor-text-desc" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round">
+  <title id="ux-cursor-text-title">Text cursor — Textabendill</title>
+  <desc id="ux-cursor-text-desc">A vertical I-beam text caret has short crossbars at its upper and lower ends.</desc>
+  <!-- Subject: Text cursor. Source: Tabler.  -->
+  <!--
+MIT License
+
+Copyright (c) 2020-2026 Paweł Kuna
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"cursor-text","label_en":"Text cursor","label_is":"Textabendill","category":"Navigation and interface actions","category_is":"Leiðsögn og aðgerðir í viðmóti","kind":"outline","batch":11,"description":"A vertical I-beam text caret has short crossbars at its upper and lower ends.","tags":["cursor-text","Text cursor","Navigation and interface actions","Textabendill"],"source":{"source_collection":"Tabler","upstream_name":"cursor-text","source_url":"https://raw.githubusercontent.com/tabler/tabler-icons/ed177a085b652fe04ec4f37ced867c94621e7840/icons/outline/cursor-text.svg","source_version":"3.50.0","source_commit":"ed177a085b652fe04ec4f37ced867c94621e7840","license":"MIT","source_sha256":"3400eacd7569d554fcdef3c4ecc5d9f32af3ecd6d0b0b47590d599154aef9fdd"},"style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"},"gap_review":"Checked against available prior SVG inventories and aliases."}</metadata>
+  <path xmlns="http://www.w3.org/2000/svg" d="M10 12h4" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M9 4a3 3 0 0 1 3 3v10a3 3 0 0 1 -3 3" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M15 4a3 3 0 0 0 -3 3v10a3 3 0 0 0 3 3" />
+
+</svg>

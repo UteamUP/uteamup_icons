@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-airfrance-title" aria-describedby="ux-brand-airfrance-desc" fill="#002157" stroke="none">
+  <title id="ux-brand-airfrance-title">Air France — Air France</title>
+  <desc id="ux-brand-airfrance-desc">The sourced Air France brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: Air France. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://www.airfrance.fr
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-airfrance","label_en":"Air France","label_is":"Air France","category":"Automotive and transport brands","category_is":"Bíla- og samgöngumerki","kind":"brand","batch":1,"description":"The sourced Air France brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["Air France","brand","logo","automotive_transport"],"source":{"source_collection":"Simple Icons","upstream_name":"airfrance","source_url":"https://www.airfrance.fr","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":null,"official_source":"https://www.airfrance.fr","source_sha256":"488f34be15904fa98a41b464588e319c1b3a45e3459b0a217d76f05fe5da947d"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#002157","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M13.776 3.9L5.184 16.332C4.051 17.969 2.208 19.548 0 19.721v.379h9.552c2.544 0 4.397-1.656 5.616-3.48L24 3.9Z" /></svg>
+</svg>

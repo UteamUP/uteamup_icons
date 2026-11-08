@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-gnss-base-station-title" aria-describedby="uteamup-build-build-gnss-base-station-desc">
+  <title id="uteamup-build-build-gnss-base-station-title">GNSS survey base station — GNSS-grunnstöð</title>
+  <desc id="uteamup-build-build-gnss-base-station-desc">A broad satellite antenna is mounted over a rigid three-legged station tripod.</desc>
+  <!-- Subject: build-gnss-base-station. The fixed tripod installation and separate antenna stem distinguish a reference base from a handheld rover. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-gnss-base-station","label_en":"GNSS survey base station","label_is":"GNSS-grunnstöð","section":"03","category_en":"Site setup, surveying and ground investigation","category_is":"Aðstaða, landmælingar og jarðkönnun","batch":2,"tags":["surveying","gnss"],"description":"A broad satellite antenna is mounted over a rigid three-legged station tripod.","design_note":"The fixed tripod installation and separate antenna stem distinguish a reference base from a handheld rover.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <ellipse cx="12" cy="5" rx="7" ry="2"/><path d="M5 5v2q7 2 14 0V5M12 9v4M8 13h8M8 13l-4 9M12 13v9M16 13l4 9M12 3V2"/>
+</svg>

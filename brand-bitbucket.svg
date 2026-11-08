@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-bitbucket-title" aria-describedby="ux-brand-bitbucket-desc" fill="#0052CC" stroke="none">
+  <title id="ux-brand-bitbucket-title">Bitbucket — Bitbucket</title>
+  <desc id="ux-brand-bitbucket-desc">The sourced Bitbucket brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: Bitbucket. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://atlassian.design/resources/logo-library
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-bitbucket","label_en":"Bitbucket","label_is":"Bitbucket","category":"Frameworks and developer tools","category_is":"Forritunarrammar og þróunarverkfæri","kind":"brand","batch":4,"description":"The sourced Bitbucket brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["Bitbucket","brand","logo","frameworks_developer_tools"],"source":{"source_collection":"Simple Icons","upstream_name":"bitbucket","source_url":"https://atlassian.design/resources/logo-library","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":"https://atlassian.design/foundations/logos","official_source":"https://atlassian.design/resources/logo-library","source_sha256":"887f3bbce5d63f56958fb3dbe3c1b850314ef71a1f21dd5f2099637f01e4b241"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#0052CC","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M.778 1.213a.768.768 0 00-.768.892l3.263 19.81c.084.5.515.868 1.022.873H19.95a.772.772 0 00.77-.646l3.27-20.03a.768.768 0 00-.768-.891zM14.52 15.53H9.522L8.17 8.466h7.561z" /></svg>
+</svg>

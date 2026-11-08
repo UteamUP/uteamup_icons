@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-infiniti-title" aria-describedby="ux-brand-infiniti-desc" fill="#020B24" stroke="none">
+  <title id="ux-brand-infiniti-title">INFINITI — INFINITI</title>
+  <desc id="ux-brand-infiniti-desc">The sourced INFINITI brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: INFINITI. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://www.infiniti.com
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-infiniti","label_en":"INFINITI","label_is":"INFINITI","category":"Automotive and transport brands","category_is":"Bíla- og samgöngumerki","kind":"brand","batch":1,"description":"The sourced INFINITI brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["INFINITI","brand","logo","automotive_transport"],"source":{"source_collection":"Simple Icons","upstream_name":"infiniti","source_url":"https://www.infiniti.com","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":null,"official_source":"https://www.infiniti.com","source_sha256":"f88f745ff6fd051f1186c17864520ebd41cdd4175ee4dd99e20d673928eae097"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#020B24","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M1.953 11.643c0 1.51 1.83 2.69 4.601 3.344l4.841-5.523H12l-4.19 8.06C3.25 16.744 0 14.71 0 12.233c0-3.184 5.376-5.757 12-5.757s12 2.573 12 5.757c0 2.477-3.25 4.511-7.81 5.293L12 9.464h.605l4.84 5.523c2.772-.654 4.601-1.834 4.601-3.344 0-2.664-4.484-4.88-10.047-4.88-5.562 0-10.046 2.216-10.046 4.88z" /></svg>
+</svg>

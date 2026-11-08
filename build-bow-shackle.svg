@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-bow-shackle-title" aria-describedby="uteamup-build-build-bow-shackle-desc">
+  <title id="uteamup-build-build-bow-shackle-title">Bow lifting shackle — Bogasjakli</title>
+  <desc id="uteamup-build-build-bow-shackle-desc">A broad rounded shackle bow terminates in two eyes crossed by a separate straight screw pin.</desc>
+  <!-- Subject: build-bow-shackle. The curved bow is crossed by a separate pin whose short ends remain visible outside the legs. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-bow-shackle","label_en":"Bow lifting shackle","label_is":"Bogasjakli","section":"02","category_en":"Lifting, access and site logistics","category_is":"Lyftingar, aðgengi og flutningar á verkstað","batch":1,"tags":["rigging","connection"],"description":"A broad rounded shackle bow terminates in two eyes crossed by a separate straight screw pin.","design_note":"The curved bow is crossed by a separate pin whose short ends remain visible outside the legs.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M5 17v-5a7 7 0 0 1 14 0v5M3 17h18M3 15v4M21 16v2"/>
+</svg>

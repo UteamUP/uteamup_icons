@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-rockfall-mesh-title" aria-describedby="uteamup-build-build-rockfall-mesh-desc">
+  <title id="uteamup-build-build-rockfall-mesh-title">Draped rockfall mesh — Grjóthrunanet</title>
+  <desc id="uteamup-build-build-rockfall-mesh-desc">An open mesh drapes over a steep irregular rock face, with crossing strands following the slope toward its base.</desc>
+  <!-- Subject: build-rockfall-mesh. Separated open mesh cells follow the rock slope without doubled contours or a freestanding fence frame. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-rockfall-mesh","label_en":"Draped rockfall mesh","label_is":"Grjóthrunanet","section":"04","category_en":"Excavation, foundations and ground engineering","category_is":"Uppgröftur, undirstöður og jarðtækni","batch":2,"tags":["ground-engineering","rock-support"],"description":"An open mesh drapes over a steep irregular rock face, with crossing strands following the slope toward its base.","design_note":"Separated open mesh cells follow the rock slope without doubled contours or a freestanding fence frame.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 22l3-7 1-7 4-6M10 2l5 3 7 17-8-3zM12.5 3.5l5.5 17M11.3 7.7l6 3M12.7 13.3l7 3"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-sheet-pile-wall-title" aria-describedby="uteamup-build-build-sheet-pile-wall-desc">
+  <title id="uteamup-build-build-sheet-pile-wall-title">Interlocking sheet-pile wall — Stálþilsveggur</title>
+  <desc id="uteamup-build-build-sheet-pile-wall-desc">A continuous corrugated steel retaining wall has alternating recessed and projecting interlocking sheet profiles.</desc>
+  <!-- Subject: build-sheet-pile-wall. Matching zigzag upper and lower edges expose the corrugated section of the joined sheets. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-sheet-pile-wall","label_en":"Interlocking sheet-pile wall","label_is":"Stálþilsveggur","section":"04","category_en":"Excavation, foundations and ground engineering","category_is":"Uppgröftur, undirstöður og jarðtækni","batch":2,"tags":["earth-retention","sheet-pile"],"description":"A continuous corrugated steel retaining wall has alternating recessed and projecting interlocking sheet profiles.","design_note":"Matching zigzag upper and lower edges expose the corrugated section of the joined sheets.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 4h4l3 3h4l3-3h4v15h-4l-3 3H9l-3-3H2zM6 4v15M9 7v15M13 7v15M16 4v15"/>
+</svg>

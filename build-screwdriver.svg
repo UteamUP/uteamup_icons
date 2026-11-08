@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-screwdriver-title" aria-describedby="uteamup-build-build-screwdriver-desc">
+  <title id="uteamup-build-build-screwdriver-title">Screwdriver — Skrúfjárn</title>
+  <desc id="uteamup-build-build-screwdriver-desc">A rounded screwdriver handle connects to a long narrow shaft ending in a visibly widened flat slotted tip.</desc>
+  <!-- Subject: build-screwdriver. A rounded screwdriver handle connects to a long narrow shaft ending in a visibly widened flat slotted tip. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-screwdriver","label_en":"Screwdriver","label_is":"Skrúfjárn","section":"16","category_en":"Hand tools, measuring tools and workholding","category_is":"Handverkfæri, mælitæki og festibúnaður","batch":8,"tags":["construction","hand-tools","workshop"],"description":"A rounded screwdriver handle connects to a long narrow shaft ending in a visibly widened flat slotted tip.","design_note":"A rounded screwdriver handle connects to a long narrow shaft ending in a visibly widened flat slotted tip.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <rect x="9" y="2" width="6" height="9" rx="1.5"/><path d="M12 11V18 M11 18H13L14 22H10Z M11 5V8"/>
+</svg>

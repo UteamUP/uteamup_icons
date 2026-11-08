@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-demolition-robot-title" aria-describedby="uteamup-build-build-demolition-robot-desc">
+  <title id="uteamup-build-build-demolition-robot-title">Remote demolition robot — Fjarstýrt niðurrifsvélmenni</title>
+  <desc id="uteamup-build-build-demolition-robot-desc">A low cabless tracked robot carries a folding multi-joint arm and a vertical demolition breaker.</desc>
+  <!-- Subject: build-demolition-robot. No operator cab, a compact folded arm and a long breaker bit identify the remote demolition machine. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-demolition-robot","label_en":"Remote demolition robot","label_is":"Fjarstýrt niðurrifsvélmenni","section":"01","category_en":"Earthmoving and demolition machinery","category_is":"Jarðvinnslu- og niðurrifsvélar","batch":1,"tags":["demolition","robot"],"description":"A low cabless tracked robot carries a folding multi-joint arm and a vertical demolition breaker.","design_note":"No operator cab, a compact folded arm and a long breaker bit identify the remote demolition machine.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <rect x="2" y="18" width="12" height="4" rx="2"/><path d="M4 18v-5h6l2 5M9 13l3-8 4-3 3 5-2 5M12 5l2 7M16 11h5v6h-5zM18.5 17v5M2 17v4M5 15h3"/>
+</svg>

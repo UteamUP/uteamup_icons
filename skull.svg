@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-skull-title" aria-describedby="ux-skull-desc" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round">
+  <title id="ux-skull-title">Skull — Höfuðkúpa</title>
+  <desc id="ux-skull-desc">A rounded skull has two eye sockets, a small nasal opening and a short tooth row.</desc>
+  <!-- Subject: Skull. Source: Tabler.  -->
+  <!--
+MIT License
+
+Copyright (c) 2020-2026 Paweł Kuna
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"skull","label_en":"Skull","label_is":"Höfuðkúpa","category":"Body parts and gestures","category_is":"Líkamshlutar og handabendingar","kind":"outline","batch":9,"description":"A rounded skull has two eye sockets, a small nasal opening and a short tooth row.","tags":["skull","Skull","Body parts and gestures","Höfuðkúpa"],"source":{"source_collection":"Tabler","upstream_name":"skull","source_url":"https://raw.githubusercontent.com/tabler/tabler-icons/ed177a085b652fe04ec4f37ced867c94621e7840/icons/outline/skull.svg","source_version":"3.50.0","source_commit":"ed177a085b652fe04ec4f37ced867c94621e7840","license":"MIT","source_sha256":"c11650616ccb34904adf8d03d22b2181c589ecb2cdaea4209f672d301441f7bf"},"style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"},"gap_review":"Checked against available prior SVG inventories and aliases."}</metadata>
+  <path xmlns="http://www.w3.org/2000/svg" d="M12 4c4.418 0 8 3.358 8 7.5c0 1.901 -.755 3.637 -2 4.96l0 2.54a1 1 0 0 1 -1 1h-10a1 1 0 0 1 -1 -1v-2.54c-1.245 -1.322 -2 -3.058 -2 -4.96c0 -4.142 3.582 -7.5 8 -7.5" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M10 17v3" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M14 17v3" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M8 11a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M14 11a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" />
+
+</svg>

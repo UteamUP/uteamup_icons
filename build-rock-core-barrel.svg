@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-rock-core-barrel-title" aria-describedby="uteamup-build-build-rock-core-barrel-desc">
+  <title id="uteamup-build-build-rock-core-barrel-title">Rock core barrel — Bergkjarnahólkur</title>
+  <desc id="uteamup-build-build-rock-core-barrel-desc">A long hollow core barrel contains an inner sample tube and a sparse toothed cutting crown at its lower end.</desc>
+  <!-- Subject: build-rock-core-barrel. Visible internal liner and toothed crown distinguish rock coring from a plain thin-wall soil tube. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-rock-core-barrel","label_en":"Rock core barrel","label_is":"Bergkjarnahólkur","section":"03","category_en":"Site setup, surveying and ground investigation","category_is":"Aðstaða, landmælingar og jarðkönnun","batch":2,"tags":["ground-investigation","sampling"],"description":"A long hollow core barrel contains an inner sample tube and a sparse toothed cutting crown at its lower end.","design_note":"Visible internal liner and toothed crown distinguish rock coring from a plain thin-wall soil tube.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <ellipse cx="12" cy="3.5" rx="5" ry="1.5"/><path d="M7 3.5V18l1 3 2-2 2 2 2-2 2 2 1-3V3.5M10 7v9h4V7"/>
+</svg>

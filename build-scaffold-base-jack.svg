@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-scaffold-base-jack-title" aria-describedby="uteamup-build-build-scaffold-base-jack-desc">
+  <title id="uteamup-build-build-scaffold-base-jack-title">Adjustable scaffold base jack — Stillanlegur vinnupallafótur</title>
+  <desc id="uteamup-build-build-scaffold-base-jack-desc">A threaded vertical jack supports a U-shaped scaffold head above a wide ground bearing plate.</desc>
+  <!-- Subject: build-scaffold-base-jack. The screw thread, support head and base plate make an adjustable scaffold jack physically identifiable. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-scaffold-base-jack","label_en":"Adjustable scaffold base jack","label_is":"Stillanlegur vinnupallafótur","section":"02","category_en":"Lifting, access and site logistics","category_is":"Lyftingar, aðgengi og flutningar á verkstað","batch":1,"tags":["access","scaffold-component"],"description":"A threaded vertical jack supports a U-shaped scaffold head above a wide ground bearing plate.","design_note":"The screw thread, support head and base plate make an adjustable scaffold jack physically identifiable.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M7 2v4h10V2M10 6v14h4V6M10 10l4-2M10 14l4-2M10 18l4-2M3 20h18v2H3z"/>
+</svg>

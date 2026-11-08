@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-mood-nerd-title" aria-describedby="ux-mood-nerd-desc" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round">
+  <title id="ux-mood-nerd-title">Face with glasses — Andlit með gleraugu</title>
+  <desc id="ux-mood-nerd-desc">A round face wears large paired spectacles above its mouth.</desc>
+  <!-- Subject: Face with glasses. Source: Tabler.  -->
+  <!--
+MIT License
+
+Copyright (c) 2020-2026 Paweł Kuna
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"mood-nerd","label_en":"Face with glasses","label_is":"Andlit með gleraugu","category":"Mood and face expressions","category_is":"Skap og svipbrigði","kind":"outline","batch":10,"description":"A round face wears large paired spectacles above its mouth.","tags":["mood-nerd","Face with glasses","Mood and face expressions","Andlit með gleraugu"],"source":{"source_collection":"Tabler","upstream_name":"mood-nerd","source_url":"https://raw.githubusercontent.com/tabler/tabler-icons/ed177a085b652fe04ec4f37ced867c94621e7840/icons/outline/mood-nerd.svg","source_version":"3.50.0","source_commit":"ed177a085b652fe04ec4f37ced867c94621e7840","license":"MIT","source_sha256":"73939e53ad776c2e38c78a242607dd5cb6e1151262226103b3f9af56ae12ec0b"},"style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"},"gap_review":"Checked against available prior SVG inventories and aliases."}</metadata>
+  <path xmlns="http://www.w3.org/2000/svg" d="M3 12a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M6 10a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M14 10a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M9.5 15a3.5 3.5 0 0 0 5 0" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M3.5 9h2.5" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M18 9h2.5" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M10 9.5c1.333 -1.333 2.667 -1.333 4 0" />
+
+</svg>

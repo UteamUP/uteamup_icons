@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-check-valve-title" aria-describedby="uteamup-build-build-check-valve-desc">
+  <title id="uteamup-build-build-check-valve-title">Swing check valve — Einstefnuloki</title>
+  <desc id="uteamup-build-build-check-valve-desc">A cutaway enlarged pipe body exposes a single angled hinged disc approaching its upright seat.</desc>
+  <!-- Subject: build-check-valve. A cutaway enlarged pipe body exposes a single angled hinged disc approaching its upright seat. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-check-valve","label_en":"Swing check valve","label_is":"Einstefnuloki","section":"13","category_en":"Plumbing, water supply and drainage","category_is":"Pípulagnir, vatnsveita og frárennsli","batch":7,"tags":["construction","plumbing","valve"],"description":"A cutaway enlarged pipe body exposes a single angled hinged disc approaching its upright seat.","design_note":"A cutaway enlarged pipe body exposes a single angled hinged disc approaching its upright seat.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 8H7Q12 4 17 8H22V17H17Q12 21 7 17H2V8 M9 9L15 16 M15 10V16"/><circle cx="9" cy="9" r="0.65"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-bunded-fuel-tank-title" aria-describedby="uteamup-build-build-bunded-fuel-tank-desc">
+  <title id="uteamup-build-build-bunded-fuel-tank-title">Bunded site fuel tank — Eldsneytistankur í lekavörn</title>
+  <desc id="uteamup-build-build-bunded-fuel-tank-desc">A fuel tank and upper dispensing hose sit inside a wider open containment tray.</desc>
+  <!-- Subject: build-bunded-fuel-tank. The visible outer catchment bund differentiates contained fuel storage from a towable water tank. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-bunded-fuel-tank","label_en":"Bunded site fuel tank","label_is":"Eldsneytistankur í lekavörn","section":"03","category_en":"Site setup, surveying and ground investigation","category_is":"Aðstaða, landmælingar og jarðkönnun","batch":2,"tags":["site-setup","fuel-storage"],"description":"A fuel tank and upper dispensing hose sit inside a wider open containment tray.","design_note":"The visible outer catchment bund differentiates contained fuel storage from a towable water tank.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <rect x="5" y="4" width="14" height="12" rx="2"/><path d="M2 13v9h20v-9M2 13h3M19 13h3M10 4V2h4v2M19 7h3v4M8 7h5M5 19h14"/>
+</svg>

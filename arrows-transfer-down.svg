@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-arrows-transfer-down-title" aria-describedby="ux-arrows-transfer-down-desc" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round">
+  <title id="ux-arrows-transfer-down-title">Transfer downward — Flytja niður</title>
+  <desc id="ux-arrows-transfer-down-desc">A long downward transfer arrow is paired with a shorter dashed upward return.</desc>
+  <!-- Subject: Transfer downward. Source: Tabler.  -->
+  <!--
+MIT License
+
+Copyright (c) 2020-2026 Paweł Kuna
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"arrows-transfer-down","label_en":"Transfer downward","label_is":"Flytja niður","category":"Navigation and interface actions","category_is":"Leiðsögn og aðgerðir í viðmóti","kind":"outline","batch":11,"description":"A long downward transfer arrow is paired with a shorter dashed upward return.","tags":["arrows-transfer-down","Transfer downward","Navigation and interface actions","Flytja niður"],"source":{"source_collection":"Tabler","upstream_name":"arrows-transfer-down","source_url":"https://raw.githubusercontent.com/tabler/tabler-icons/ed177a085b652fe04ec4f37ced867c94621e7840/icons/outline/arrows-transfer-down.svg","source_version":"3.50.0","source_commit":"ed177a085b652fe04ec4f37ced867c94621e7840","license":"MIT","source_sha256":"ea947a057760d95399237c812f3d80fd2f0fb5a250d310a4c602aaf84ce996bd"},"style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"},"gap_review":"Checked against available prior SVG inventories and aliases."}</metadata>
+  <path xmlns="http://www.w3.org/2000/svg" d="M17 3v6" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M10 18l-3 3l-3 -3" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M7 21v-18" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M20 6l-3 -3l-3 3" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M17 21v-2" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M17 15v-2" />
+
+</svg>

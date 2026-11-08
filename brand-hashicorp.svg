@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-hashicorp-title" aria-describedby="ux-brand-hashicorp-desc" fill="#000000" stroke="none">
+  <title id="ux-brand-hashicorp-title">HashiCorp — HashiCorp</title>
+  <desc id="ux-brand-hashicorp-desc">The sourced HashiCorp brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: HashiCorp. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://www.hashicorp.com
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-hashicorp","label_en":"HashiCorp","label_is":"HashiCorp","category":"Cloud, databases and operations","category_is":"Skýjaþjónusta, gagnagrunnar og rekstur","kind":"brand","batch":4,"description":"The sourced HashiCorp brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["HashiCorp","brand","logo","cloud_data_operations"],"source":{"source_collection":"Simple Icons","upstream_name":"hashicorp","source_url":"https://www.hashicorp.com","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":"https://www.hashicorp.com/brand","official_source":"https://www.hashicorp.com","source_sha256":"e3b6859835041e0a106e02bd60894c230eb4a97a49219f5bf6a649dd3acdab59"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#000000","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M10.114 4.094 4.215 7.5v13.09L.666 18.542V5.45L10.114 0v4.094zm3.772 13.37 3.549-2.049V2.05L13.885 0v10.426h-3.77v-3.89L6.562 8.585v13.357l3.551 2.054V13.599h3.772v3.865zM19.783 3.41V16.5l-5.897 3.405V24l9.448-5.45V5.458l-3.551-2.05z" /></svg>
+</svg>

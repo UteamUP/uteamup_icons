@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-marriott-title" aria-describedby="ux-brand-marriott-desc" fill="#A70023" stroke="none">
+  <title id="ux-brand-marriott-title">Marriott — Marriott</title>
+  <desc id="ux-brand-marriott-desc">The sourced Marriott brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: Marriott. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://marriott-hotels.marriott.com
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-marriott","label_en":"Marriott","label_is":"Marriott","category":"Food, retail and hospitality brands","category_is":"Matar-, verslunar- og þjónustumerki","kind":"brand","batch":6,"description":"The sourced Marriott brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["Marriott","brand","logo","food_retail_hospitality"],"source":{"source_collection":"Simple Icons","upstream_name":"marriott","source_url":"https://marriott-hotels.marriott.com","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":null,"official_source":"https://marriott-hotels.marriott.com","source_sha256":"f6842a4f48d36249fd0b7f6fd85b2810ed60a0091c843d81c7aff2a5d088d1be"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#A70023","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M8.802 11.083l-1.178 2.41c-.8 1.425-1.931 3.167-3.646 3.603-.668.232-1.255.023-1.9-.023L0 20.476a1.626 1.626 0 0 0 .59.386c3.647 1.39 5.122-.1 8.722-8.238l3.403 7.249h4.53l-2.14-4.893 1.213-2.53 3.345 7.311 4.337.027-7.59-16.677-3.475 1.738 2.738 6.222-1.201 2.445L9.45 2.678l-3.7 1.877Z" /></svg>
+</svg>

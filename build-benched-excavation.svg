@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-benched-excavation-title" aria-describedby="uteamup-build-build-benched-excavation-desc">
+  <title id="uteamup-build-build-benched-excavation-title">Benched excavation — Uppgröftur með stöllum</title>
+  <desc id="uteamup-build-build-benched-excavation-desc">An excavated section descends through broad horizontal benches on both sides to a central lower working level.</desc>
+  <!-- Subject: build-benched-excavation. Actual horizontal shelves and vertical risers make the benched ground profile recognizable. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-benched-excavation","label_en":"Benched excavation","label_is":"Uppgröftur með stöllum","section":"04","category_en":"Excavation, foundations and ground engineering","category_is":"Uppgröftur, undirstöður og jarðtækni","batch":2,"tags":["excavation","earthworks"],"description":"An excavated section descends through broad horizontal benches on both sides to a central lower working level.","design_note":"Actual horizontal shelves and vertical risers make the benched ground profile recognizable.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 4h3v6h4v8h6v-8h4V4h3M2 14h3M19 14h3M2 22h20"/>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-sort-ascending-shapes-title" aria-describedby="ux-sort-ascending-shapes-desc" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round">
+  <title id="ux-sort-ascending-shapes-title">Sort shapes ascending — Raða formum í vaxandi röð</title>
+  <desc id="ux-sort-ascending-shapes-desc">A vertical sorting arrow sits beside a square above a triangle.</desc>
+  <!-- Subject: Sort shapes ascending. Source: Tabler.  -->
+  <!--
+MIT License
+
+Copyright (c) 2020-2026 Paweł Kuna
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"sort-ascending-shapes","label_en":"Sort shapes ascending","label_is":"Raða formum í vaxandi röð","category":"Filtering and sorting","category_is":"Síun og röðun","kind":"outline","batch":10,"description":"A vertical sorting arrow sits beside a square above a triangle.","tags":["sort-ascending-shapes","Sort shapes ascending","Filtering and sorting","Raða formum í vaxandi röð"],"source":{"source_collection":"Tabler","upstream_name":"sort-ascending-shapes","source_url":"https://raw.githubusercontent.com/tabler/tabler-icons/ed177a085b652fe04ec4f37ced867c94621e7840/icons/outline/sort-ascending-shapes.svg","source_version":"3.50.0","source_commit":"ed177a085b652fe04ec4f37ced867c94621e7840","license":"MIT","source_sha256":"69b35239f92c880e0409177e19bd648a277d459d452251d751659d34a5b15b5b"},"style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"},"gap_review":"Checked against available prior SVG inventories and aliases."}</metadata>
+  <path xmlns="http://www.w3.org/2000/svg" d="M4 15l3 3l3 -3" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M7 6v12" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M14 5a1 1 0 0 1 1 -1h4a1 1 0 0 1 1 1v4a1 1 0 0 1 -1 1h-4a1 1 0 0 1 -1 -1v-4" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M17 14l-3.5 6h7l-3.5 -6" />
+
+</svg>

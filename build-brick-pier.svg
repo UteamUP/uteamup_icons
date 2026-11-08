@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-brick-pier-title" aria-describedby="uteamup-build-build-brick-pier-desc">
+  <title id="uteamup-build-build-brick-pier-title">Brick pier — Hlaðinn múrstólpi</title>
+  <desc id="uteamup-build-build-brick-pier-desc">A narrow freestanding brick pier has alternating joints, a broad top cap and a separate lower plinth.</desc>
+  <!-- Subject: build-brick-pier. A narrow freestanding brick pier has alternating joints, a broad top cap and a separate lower plinth. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-brick-pier","label_en":"Brick pier","label_is":"Hlaðinn múrstólpi","section":"06","category_en":"Masonry, stonework and hard landscaping","category_is":"Múrverk, steinhleðsla og hellulögn","batch":3,"tags":["masonry","stonework","hardscape"],"description":"A narrow freestanding brick pier has alternating joints, a broad top cap and a separate lower plinth.","design_note":"A narrow freestanding brick pier has alternating joints, a broad top cap and a separate lower plinth.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <rect x="7" y="5" width="10" height="15" rx="0.6"/><path d="M5 2h14v3H5V2Z M5 20h14v2H5v-2Z M7 10h10 M7 15h10 M12 5v5 M10 10v5 M14 15v5"/>
+</svg>

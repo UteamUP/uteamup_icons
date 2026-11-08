@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-site-handwashing-station-title" aria-describedby="uteamup-build-build-site-handwashing-station-desc">
+  <title id="uteamup-build-build-site-handwashing-station-title">Site handwashing station — Handþvottastöð á verkstað</title>
+  <desc id="uteamup-build-build-site-handwashing-station-desc">A freestanding handwashing unit combines a wide basin, curved water tap and enclosed lower service pedestal.</desc>
+  <!-- Subject: build-site-handwashing-station. The open basin and curved faucet remain clear above the standalone water-service base. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-site-handwashing-station","label_en":"Site handwashing station","label_is":"Handþvottastöð á verkstað","section":"03","category_en":"Site setup, surveying and ground investigation","category_is":"Aðstaða, landmælingar og jarðkönnun","batch":2,"tags":["site-setup","welfare"],"description":"A freestanding handwashing unit combines a wide basin, curved water tap and enclosed lower service pedestal.","design_note":"The open basin and curved faucet remain clear above the standalone water-service base.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M4 10h16l-3 4H7zM7 14v8h10v-8M12 10V5q0-3 3-3t3 3v2M7 22H4M17 22h3M8 18h8"/>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-file-type-vue-title" aria-describedby="ux-file-type-vue-desc" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round">
+  <title id="ux-file-type-vue-title">VUE document — Vue skrá</title>
+  <desc id="ux-file-type-vue-desc">A folded-corner document carries the outlined letters VUE to identify the .vue file extension.</desc>
+  <!-- Subject: VUE document. Source: Tabler.  -->
+  <!--
+MIT License
+
+Copyright (c) 2020-2026 Paweł Kuna
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"file-type-vue","label_en":"VUE document","label_is":"Vue skrá","category":"File types and document content","category_is":"Skráartegundir og innihald skjala","kind":"outline","batch":10,"description":"A folded-corner document carries the outlined letters VUE to identify the .vue file extension.","tags":["file-type-vue","VUE document","File types and document content","Vue skrá"],"source":{"source_collection":"Tabler","upstream_name":"file-type-vue","source_url":"https://raw.githubusercontent.com/tabler/tabler-icons/ed177a085b652fe04ec4f37ced867c94621e7840/icons/outline/file-type-vue.svg","source_version":"3.50.0","source_commit":"ed177a085b652fe04ec4f37ced867c94621e7840","license":"MIT","source_sha256":"72518fea21f1530aae83161dca9ebe1f437b63bf559b26eb00d8c08f34d04615"},"style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"},"gap_review":"Checked against available prior SVG inventories and aliases."}</metadata>
+  <path xmlns="http://www.w3.org/2000/svg" d="M14 3v4a1 1 0 0 0 1 1h4" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M5 12v-7a2 2 0 0 1 2 -2h7l5 5v4" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M4 15l2 6l2 -6" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M11 15v4.5a1.5 1.5 0 0 0 3 0v-4.5" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M20 15h-3v6h3" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M17 18h2" />
+
+</svg>

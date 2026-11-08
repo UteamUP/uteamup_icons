@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-steel-h-pile-title" aria-describedby="uteamup-build-build-steel-h-pile-desc">
+  <title id="uteamup-build-build-steel-h-pile-title">Steel H-pile — H-stálstaur</title>
+  <desc id="uteamup-build-build-steel-h-pile-desc">An exposed H-shaped steel profile continues downward as a long flanged pile through the ground surface.</desc>
+  <!-- Subject: build-steel-h-pile. The explicit H cross-section and descending flange lines identify the steel pile without a material letter badge. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-steel-h-pile","label_en":"Steel H-pile","label_is":"H-stálstaur","section":"04","category_en":"Excavation, foundations and ground engineering","category_is":"Uppgröftur, undirstöður og jarðtækni","batch":2,"tags":["foundation","steel-pile"],"description":"An exposed H-shaped steel profile continues downward as a long flanged pile through the ground surface.","design_note":"The explicit H cross-section and descending flange lines identify the steel pile without a material letter badge.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M7 2h3v3h4V2h3v8h-3V7h-4v3H7zM7 10v12h10V10M10 10v12M14 10v12M2 13h5M17 13h5"/>
+</svg>

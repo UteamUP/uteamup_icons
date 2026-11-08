@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-wall-protection-rail-title" aria-describedby="uteamup-build-build-wall-protection-rail-desc">
+  <title id="uteamup-build-build-wall-protection-rail-title">Wall protection rail — Hlífðarlisti á vegg</title>
+  <desc id="uteamup-build-build-wall-protection-rail-desc">A broad rounded wall guard projects from a wall face on two short stand-off brackets.</desc>
+  <!-- Subject: build-wall-protection-rail. A broad rounded wall guard projects from a wall face on two short stand-off brackets. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-wall-protection-rail","label_en":"Wall protection rail","label_is":"Hlífðarlisti á vegg","section":"11","category_en":"Partitions, ceilings and drylining","category_is":"Milliveggir, loft og plötuklæðningar","batch":6,"tags":["construction","interior-detail","protection"],"description":"A broad rounded wall guard projects from a wall face on two short stand-off brackets.","design_note":"A broad rounded wall guard projects from a wall face on two short stand-off brackets.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <rect x="2" y="2" width="20" height="20" rx="0.2"/><rect x="4" y="8" width="16" height="5" rx="2"/><path d="M7 13V17H5 M17 13V17H19"/>
+</svg>

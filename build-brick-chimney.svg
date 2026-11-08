@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-brick-chimney-title" aria-describedby="uteamup-build-build-brick-chimney-desc">
+  <title id="uteamup-build-build-brick-chimney-title">Brick chimney — Múrsteinsskorsteinn</title>
+  <desc id="uteamup-build-build-brick-chimney-desc">A narrow brick chimney rises through two sloping roof edges and ends in a small raised flue opening.</desc>
+  <!-- Subject: build-brick-chimney. A narrow brick chimney rises through two sloping roof edges and ends in a small raised flue opening. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-brick-chimney","label_en":"Brick chimney","label_is":"Múrsteinsskorsteinn","section":"06","category_en":"Masonry, stonework and hard landscaping","category_is":"Múrverk, steinhleðsla og hellulögn","batch":3,"tags":["masonry","stonework","hardscape"],"description":"A narrow brick chimney rises through two sloping roof edges and ends in a small raised flue opening.","design_note":"A narrow brick chimney rises through two sloping roof edges and ends in a small raised flue opening.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M7 4h10v17H7V4Z M5 4h14 M9 4V2h6v2 M7 10h10 M7 16h10 M12 4v6 M11 10v6 M13 16v5 M2 22l5-4 M17 18l5 4"/>
+</svg>

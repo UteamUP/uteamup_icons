@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-pipe-union-joint-title" aria-describedby="uteamup-build-build-pipe-union-joint-desc">
+  <title id="uteamup-build-build-pipe-union-joint-title">Pipe union joint — Aftengjanlegt rörtengi</title>
+  <desc id="uteamup-build-build-pipe-union-joint-desc">A large central hexagonal union nut joins two straight pipe ends and has clearly separated spanner flats.</desc>
+  <!-- Subject: build-pipe-union-joint. A large central hexagonal union nut joins two straight pipe ends and has clearly separated spanner flats. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-pipe-union-joint","label_en":"Pipe union joint","label_is":"Aftengjanlegt rörtengi","section":"13","category_en":"Plumbing, water supply and drainage","category_is":"Pípulagnir, vatnsveita og frárennsli","batch":7,"tags":["construction","plumbing","joint"],"description":"A large central hexagonal union nut joins two straight pipe ends and has clearly separated spanner flats.","design_note":"A large central hexagonal union nut joins two straight pipe ends and has clearly separated spanner flats.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M8 5H16L19 9V15L16 19H8L5 15V9L8 5 M8 5V19 M16 5V19 M2 9H5 M2 15H5 M19 9H22 M19 15H22"/>
+</svg>

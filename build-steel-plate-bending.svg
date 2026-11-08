@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-steel-plate-bending-title" aria-describedby="uteamup-build-build-steel-plate-bending-desc">
+  <title id="uteamup-build-build-steel-plate-bending-title">Bending steel plate — Beyging stálplötu</title>
+  <desc id="uteamup-build-build-steel-plate-bending-desc">A narrow press punch bends a wide steel sheet into a V above the open V-shaped lower die.</desc>
+  <!-- Subject: build-steel-plate-bending. A narrow press punch bends a wide steel sheet into a V above the open V-shaped lower die. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-steel-plate-bending","label_en":"Bending steel plate","label_is":"Beyging stálplötu","section":"07","category_en":"Structural steel, metalwork and connections","category_is":"Stálvirki, málmsmíði og tengingar","batch":4,"tags":["steel","metalwork","connection"],"description":"A narrow press punch bends a wide steel sheet into a V above the open V-shaped lower die.","design_note":"A narrow press punch bends a wide steel sheet into a V above the open V-shaped lower die.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M10 2h4v9l-2 6-2-6V2Z M2 11l10 6 10-6 M2 16h4l6 4 6-4h4v6H2v-6Z"/>
+</svg>

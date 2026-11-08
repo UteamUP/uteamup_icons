@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-table-saw-title" aria-describedby="uteamup-build-build-table-saw-desc">
+  <title id="uteamup-build-build-table-saw-title">Table saw — Borðsög</title>
+  <desc id="uteamup-build-build-table-saw-desc">A circular blade emerges above a rectangular saw table with a raised fence at one side and splayed supporting legs below.</desc>
+  <!-- Subject: build-table-saw. A circular blade emerges above a rectangular saw table with a raised fence at one side and splayed supporting legs below. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-table-saw","label_en":"Table saw","label_is":"Borðsög","section":"17","category_en":"Power tools and workshop machinery","category_is":"Rafverkfæri og verkstæðisvélar","batch":9,"tags":["construction","power-tools","workshop"],"description":"A circular blade emerges above a rectangular saw table with a raised fence at one side and splayed supporting legs below.","design_note":"A circular blade emerges above a rectangular saw table with a raised fence at one side and splayed supporting legs below.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 11H22V14H2Z M5 14L3 22 M19 14L21 22 M6 17H18 M8 11A5 5 0 0 1 18 11 M13 6V11 M16 7L13 11 M8 11L10 8 M4 9V4H7V9"/>
+</svg>

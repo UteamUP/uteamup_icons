@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-lifting-pulley-block-title" aria-describedby="uteamup-build-build-lifting-pulley-block-desc">
+  <title id="uteamup-build-build-lifting-pulley-block-title">Lifting pulley block — Lyftiblökk</title>
+  <desc id="uteamup-build-build-lifting-pulley-block-desc">A suspended cheek-plate housing encloses one pulley wheel with two rope legs descending below.</desc>
+  <!-- Subject: build-lifting-pulley-block. Sheave, enclosing side plate and separate rope exits make a complete pulley block. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-lifting-pulley-block","label_en":"Lifting pulley block","label_is":"Lyftiblökk","section":"02","category_en":"Lifting, access and site logistics","category_is":"Lyftingar, aðgengi og flutningar á verkstað","batch":1,"tags":["rigging","pulley"],"description":"A suspended cheek-plate housing encloses one pulley wheel with two rope legs descending below.","design_note":"Sheave, enclosing side plate and separate rope exits make a complete pulley block.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <ellipse cx="12" cy="3.5" rx="1.7" ry="1.5"/><path d="M8 6q4-2 8 0l3 8q-7 8-14 0zM6 15v7M18 15v7"/><circle cx="12" cy="12" r="3"/><circle cx="12" cy="12" r="0.8"/>
+</svg>

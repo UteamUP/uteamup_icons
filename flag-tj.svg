@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-flag-tj-title" aria-describedby="ux-flag-tj-desc" fill="#000000" stroke="none">
+  <title id="ux-flag-tj-title">Tajikistan flag — Tadsíkistan · fáni</title>
+  <desc id="ux-flag-tj-desc">A coloured 4:3 flag icon for Tajikistan, preserving the vector artwork from the pinned flag-icons source.</desc>
+  <!-- Subject: Tajikistan flag. Source: flag-icons. Source colours and geometry preserved on the collection canvas; normalized 4:3 flag-icon format. -->
+  <!--
+The MIT License (MIT)
+
+Copyright (c) 2013 Panayiotis Lipiridis
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+of the Software, and to permit persons to whom the Software is furnished to do
+so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"flag-tj","label_en":"Tajikistan flag","label_is":"Tadsíkistan · fáni","category":"Countries and flags","category_is":"Lönd, svæði og fánar","kind":"flag","batch":9,"description":"A coloured 4:3 flag icon for Tajikistan, preserving the vector artwork from the pinned flag-icons source.","tags":["flag","country","tj","Tajikistan","Tadsíkistan"],"source":{"source_collection":"flag-icons","upstream_name":"tj","source_url":"https://raw.githubusercontent.com/lipis/flag-icons/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/tj.svg","source_version":"7.6.0","source_commit":"ac7e0eb3259eb62aa6100c435607e2fe03896a97","license":"MIT","source_sha256":"cd1afa9808833e4983986fa8818b73a9e1640f42c827692123a9639220c4a720"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,640.0,480.0],"background":"transparent","color":"source colors","format":"4:3 flag icon format"},"gap_review":"No country-specific or regional flag counterpart in the available prior SVG inventory.","classification":"UN member state","code":"tj","country":"Tajikistan","country_is":"Tadsíkistan","format":"4:3 flag icon format"}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="1.5" y="4.125" width="21" height="15.75" viewBox="0 0 640 480" preserveAspectRatio="xMidYMid meet"><path fill="#060" d="M0 0h640v480H0z" />
+  <path fill="#fff" d="M0 0h640v342.9H0z" />
+  <path fill="#c00" d="M0 0h640v137.1H0z" />
+  <path fill="#f8c300" d="M300.8 233.6a8.6 8.6 0 0 1 16 4V272h6.4v-34.3a8.6 8.6 0 0 1 16-4 20.2 20.2 0 1 0-38.4 0" />
+  <path fill="#fff" d="M305.4 224.7a14 14 0 0 1 14.6 6.5 14 14 0 0 1 14.6-6.5 14.7 14.7 0 0 0-29.2 0" />
+  <path id="ux-flag-tj-tj-a" fill="#f8c300" d="M316.8 258.3a26 26 0 0 1-43.8 16.6 27 27 0 0 1-41 12c2.5 25 40 19.9 42.8-4.4 11.7 20.7 37.6 14.7 45.2-10.6z" />
+  <use xlink:href="#ux-flag-tj-tj-a" width="100%" height="100%" fill="#f8c300" transform="matrix(-1 0 0 1 640 0)" />
+  <path id="ux-flag-tj-tj-b" fill="#f8c300" d="M291.8 302.6c-5.3 11.3-15.7 13.2-24.8 4.1 0 0 3.6-2.6 7.6-3.3-.8-3.1.7-7.5 2.9-9.8a15 15 0 0 1 6.1 8.1c5.5-.7 8.2 1 8.2 1z" />
+  <use xlink:href="#ux-flag-tj-tj-b" width="100%" height="100%" fill="#f8c300" transform="rotate(9.4 320 551.3)" />
+  <use xlink:href="#ux-flag-tj-tj-b" width="100%" height="100%" fill="#f8c300" transform="rotate(18.7 320 551.3)" />
+  <path fill="none" stroke="#f8c300" stroke-width="11" d="M253.5 327.8a233 233 0 0 1 133 0" />
+  <g fill="#f8c300" transform="translate(320 164.6)scale(.68571)">
+    <path id="ux-flag-tj-tj-c" d="m301930 415571-790463-574305h977066l-790463 574305L0-513674z" transform="scale(.00005)" />
+  </g>
+  <g id="ux-flag-tj-tj-d" fill="#f8c300" transform="translate(320 260.6)scale(.68571)">
+    <use xlink:href="#ux-flag-tj-tj-c" width="100%" height="100%" transform="translate(-70 -121.2)" />
+    <use xlink:href="#ux-flag-tj-tj-c" width="100%" height="100%" transform="translate(-121.2 -70)" />
+    <use xlink:href="#ux-flag-tj-tj-c" width="100%" height="100%" transform="translate(-140)" />
+  </g>
+  <use xlink:href="#ux-flag-tj-tj-d" width="100%" height="100%" fill="#f8c300" transform="matrix(-1 0 0 1 640 0)" />
+</svg>
+</svg>

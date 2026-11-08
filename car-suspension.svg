@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-car-suspension-title" aria-describedby="ux-car-suspension-desc" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round">
+  <title id="ux-car-suspension-title">Coil-over suspension strut — Fjöðrun með gormi og dempara</title>
+  <desc id="ux-car-suspension-desc">A suspension strut has two small mounting eyes, a visible helical spring between upper and lower seats and a short damper body below the spring.</desc>
+  <!-- Subject: Coil-over suspension strut. Source: Tabler. Redrawn with a continuous helical spring, separate damper body and two small mounting eyes; removed the oversized ball and disconnected slash-like spring marks. -->
+  <!--
+MIT License
+
+Copyright (c) 2020-2026 Paweł Kuna
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"car-suspension","label_en":"Coil-over suspension strut","label_is":"Fjöðrun með gormi og dempara","category":"Tools and mechanical parts","category_is":"Verkfæri og vélahlutir","kind":"outline","batch":11,"description":"A suspension strut has two small mounting eyes, a visible helical spring between upper and lower seats and a short damper body below the spring.","tags":["car-suspension","Coil-over suspension","Tools and mechanical parts","Fjöðrun með gormi og dempara"],"source":{"source_collection":"Tabler","upstream_name":"car-suspension","source_url":"https://raw.githubusercontent.com/tabler/tabler-icons/ed177a085b652fe04ec4f37ced867c94621e7840/icons/outline/car-suspension.svg","source_version":"3.50.0","source_commit":"ed177a085b652fe04ec4f37ced867c94621e7840","license":"MIT","original_source_sha256":"27e7d00ce1d52b2491d0ce83c1998d6e1c751d7f5f746477b62f6dfb7244fa6d","source_sha256":"27e7d00ce1d52b2491d0ce83c1998d6e1c751d7f5f746477b62f6dfb7244fa6d","adapted_content_sha256":"4f06fdce5ca0b682632b90626697b35dfe2708d07fbbb08ed4b8534101d3caa4"},"style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"},"gap_review":"Checked against available prior SVG inventories and aliases.","adaptation":"Redrawn with a continuous helical spring, separate damper body and two small mounting eyes; removed the oversized ball and disconnected slash-like spring marks. Source collection, pinned source URL and original MIT notice are retained."}</metadata>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="12" cy="3" r="1.2" /><circle xmlns="http://www.w3.org/2000/svg" cx="12" cy="21" r="1.2" /><path xmlns="http://www.w3.org/2000/svg" d="M12 4.2V6 M7 6H17 M8 6C3 7 17 8 16 9C15 10 5 11 8 12C11 13 20 14 16 15C14 16 8 16 8 17 M7 17H17 M10 17V19H14V17 M12 19V19.8" />
+</svg>

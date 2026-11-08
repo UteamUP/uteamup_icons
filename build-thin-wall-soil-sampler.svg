@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-thin-wall-soil-sampler-title" aria-describedby="uteamup-build-build-thin-wall-soil-sampler-desc">
+  <title id="uteamup-build-build-thin-wall-soil-sampler-title">Thin-wall soil sampler — Þunnveggja jarðsýnishólkur</title>
+  <desc id="uteamup-build-build-thin-wall-soil-sampler-desc">A long smooth open sampling tube has a thin upper rim and a plain lower cutting lip.</desc>
+  <!-- Subject: build-thin-wall-soil-sampler. The unsegmented hollow tube has no teeth, split barrel or motor; its simple form is the actual sampler. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-thin-wall-soil-sampler","label_en":"Thin-wall soil sampler","label_is":"Þunnveggja jarðsýnishólkur","section":"03","category_en":"Site setup, surveying and ground investigation","category_is":"Aðstaða, landmælingar og jarðkönnun","batch":2,"tags":["ground-investigation","sampling"],"description":"A long smooth open sampling tube has a thin upper rim and a plain lower cutting lip.","design_note":"The unsegmented hollow tube has no teeth, split barrel or motor; its simple form is the actual sampler.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <ellipse cx="12" cy="4" rx="5" ry="2"/><path d="M7 4v16q5 4 10 0V4M9 19l-2 1M15 19l2 1"/>
+</svg>

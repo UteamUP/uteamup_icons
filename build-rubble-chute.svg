@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-rubble-chute-title" aria-describedby="uteamup-build-build-rubble-chute-desc">
+  <title id="uteamup-build-build-rubble-chute-title">Construction rubble chute — Byggingarruslsrenna</title>
+  <desc id="uteamup-build-build-rubble-chute-desc">Three nested tapered chute sections descend into a wide receiving skip.</desc>
+  <!-- Subject: build-rubble-chute. Successively overlapping conical sections form a recognizable gravity rubble chute. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-rubble-chute","label_en":"Construction rubble chute","label_is":"Byggingarruslsrenna","section":"02","category_en":"Lifting, access and site logistics","category_is":"Lyftingar, aðgengi og flutningar á verkstað","batch":1,"tags":["site-logistics","waste-handling"],"description":"Three nested tapered chute sections descend into a wide receiving skip.","design_note":"Successively overlapping conical sections form a recognizable gravity rubble chute.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M6 2h12l-2 6H8zM8 8h8l-1 5H9zM9 13h6l-1 5h-4zM4 18h16l-2 4H6z"/>
+</svg>

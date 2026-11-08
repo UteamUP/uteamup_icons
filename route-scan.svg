@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-route-scan-title" aria-describedby="ux-route-scan-desc" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round">
+  <title id="ux-route-scan-title">Scan a route — Skanna leið</title>
+  <desc id="ux-route-scan-desc">Two branching route arrows sit inside four separated scanning corners.</desc>
+  <!-- Subject: Scan a route. Source: Tabler.  -->
+  <!--
+MIT License
+
+Copyright (c) 2020-2026 Paweł Kuna
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"route-scan","label_en":"Scan a route","label_is":"Skanna leið","category":"Maps location and GPS","category_is":"Kort, staðsetningar og GPS","kind":"outline","batch":11,"description":"Two branching route arrows sit inside four separated scanning corners.","tags":["route-scan","Scan a route","Maps location and GPS","Skanna leið"],"source":{"source_collection":"Tabler","upstream_name":"route-scan","source_url":"https://raw.githubusercontent.com/tabler/tabler-icons/ed177a085b652fe04ec4f37ced867c94621e7840/icons/outline/route-scan.svg","source_version":"3.50.0","source_commit":"ed177a085b652fe04ec4f37ced867c94621e7840","license":"MIT","source_sha256":"a5de0968ca866c7729d8cd13f3a966a93c66251308c2bb6caf7c277664c74f91"},"style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"},"gap_review":"Checked against available prior SVG inventories and aliases."}</metadata>
+  <path xmlns="http://www.w3.org/2000/svg" d="M3 7v-2a2 2 0 0 1 2 -2h2" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M3 17v2a2 2 0 0 0 2 2h2" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M17 3h2a2 2 0 0 1 2 2v2" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M17 21h2a2 2 0 0 0 2 -2v-2" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M7 12v-3h3" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M14 9h3v3" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M7 9l4.414 4.414a2 2 0 0 1 .586 1.414v2.172" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M17 9l-4.414 4.414a2 2 0 0 0 -.586 1.414v2.172" />
+
+</svg>

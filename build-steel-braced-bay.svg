@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-steel-braced-bay-title" aria-describedby="uteamup-build-build-steel-braced-bay-desc">
+  <title id="uteamup-build-build-steel-braced-bay-title">Cross-braced steel bay — Krossstífð stálgrind</title>
+  <desc id="uteamup-build-build-steel-braced-bay-desc">A rectangular steel frame contains two long crossing diagonal braces between its upper and lower corner joints.</desc>
+  <!-- Subject: build-steel-braced-bay. A rectangular steel frame contains two long crossing diagonal braces between its upper and lower corner joints. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-steel-braced-bay","label_en":"Cross-braced steel bay","label_is":"Krossstífð stálgrind","section":"07","category_en":"Structural steel, metalwork and connections","category_is":"Stálvirki, málmsmíði og tengingar","batch":4,"tags":["steel","metalwork","connection"],"description":"A rectangular steel frame contains two long crossing diagonal braces between its upper and lower corner joints.","design_note":"A rectangular steel frame contains two long crossing diagonal braces between its upper and lower corner joints.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 3h18v19h-3V6H6v16H3V3Z M6 6l12 16 M18 6 6 22"/>
+</svg>

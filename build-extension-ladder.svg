@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-extension-ladder-title" aria-describedby="uteamup-build-build-extension-ladder-desc">
+  <title id="uteamup-build-build-extension-ladder-title">Extension ladder — Framlengjanlegur stigi</title>
+  <desc id="uteamup-build-build-extension-ladder-desc">Two straight ladder sections overlap at their rails, with a narrower upper section projecting beyond the lower one.</desc>
+  <!-- Subject: build-extension-ladder. Offset nested rail pairs show the extension mechanism without a freestanding rear support. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-extension-ladder","label_en":"Extension ladder","label_is":"Framlengjanlegur stigi","section":"02","category_en":"Lifting, access and site logistics","category_is":"Lyftingar, aðgengi og flutningar á verkstað","batch":1,"tags":["access","ladder"],"description":"Two straight ladder sections overlap at their rails, with a narrower upper section projecting beyond the lower one.","design_note":"Offset nested rail pairs show the extension mechanism without a freestanding rear support.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M7 2v10M14 2v10M5 9v13M16 9v13M7 5h7M7 9h7M5 13h11M5 17h11M5 21h11"/>
+</svg>

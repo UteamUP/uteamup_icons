@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-html5-title" aria-describedby="ux-brand-html5-desc" fill="#E34F26" stroke="none">
+  <title id="ux-brand-html5-title">HTML5 — HTML5</title>
+  <desc id="ux-brand-html5-desc">The sourced HTML5 brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: HTML5. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://www.w3.org/html/logo/
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-html5","label_en":"HTML5","label_is":"HTML5","category":"Programming languages and web standards","category_is":"Forritunarmál og vefstaðlar","kind":"brand","batch":2,"description":"The sourced HTML5 brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["HTML5","brand","logo","languages_standards"],"source":{"source_collection":"Simple Icons","upstream_name":"html5","source_url":"https://www.w3.org/html/logo/","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":null,"official_source":"https://www.w3.org/html/logo/","source_sha256":"dfd65fdd7e4f997c6b163e48793de5ad18c4c99e191807a61752ea702f123d1d"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#E34F26","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.564-2.438L1.5 0zm7.031 9.75l-.232-2.718 10.059.003.23-2.622L5.412 4.41l.698 8.01h9.126l-.326 3.426-2.91.804-2.955-.81-.188-2.11H6.248l.33 4.171L12 19.351l5.379-1.443.744-8.157H8.531z" /></svg>
+</svg>

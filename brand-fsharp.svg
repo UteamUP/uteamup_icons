@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-fsharp-title" aria-describedby="ux-brand-fsharp-desc" fill="#378BBA" stroke="none">
+  <title id="ux-brand-fsharp-title">F# — F#</title>
+  <desc id="ux-brand-fsharp-desc">The sourced F# brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: F#. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://foundation.fsharp.org/logo
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-fsharp","label_en":"F#","label_is":"F#","category":"Programming languages and web standards","category_is":"Forritunarmál og vefstaðlar","kind":"brand","batch":2,"description":"The sourced F# brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["F#","brand","logo","languages_standards"],"source":{"source_collection":"Simple Icons","upstream_name":"fsharp","source_url":"https://foundation.fsharp.org/logo","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":"https://foundation.fsharp.org/logo","official_source":"https://foundation.fsharp.org/logo","source_sha256":"4d80db70f031efafad08be2690af3ffbe867f3b1d8ccab44daf0e081efab2198"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#378BBA","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M0 12 11.39.61v5.695L5.695 12l5.695 5.695v5.695L0 12zm7.322 0 4.068-4.068v8.136L7.322 12zM24 12 12.203.61v5.695L17.898 12l-5.695 5.695v5.695L24 12z" /></svg>
+</svg>

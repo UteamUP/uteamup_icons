@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-folding-rule-title" aria-describedby="uteamup-build-build-folding-rule-desc">
+  <title id="uteamup-build-build-folding-rule-title">Folding rule — Tommustokkur</title>
+  <desc id="uteamup-build-build-folding-rule-desc">A segmented folding rule forms a stepped zigzag with visible overlapping sections and small measurement ticks.</desc>
+  <!-- Subject: build-folding-rule. A segmented folding rule forms a stepped zigzag with visible overlapping sections and small measurement ticks. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-folding-rule","label_en":"Folding rule","label_is":"Tommustokkur","section":"16","category_en":"Hand tools, measuring tools and workholding","category_is":"Handverkfæri, mælitæki og festibúnaður","batch":8,"tags":["construction","hand-tools","workshop"],"description":"A segmented folding rule forms a stepped zigzag with visible overlapping sections and small measurement ticks.","design_note":"A segmented folding rule forms a stepped zigzag with visible overlapping sections and small measurement ticks.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 4H21V7H6V13H21V16H6V22H3V10H18V7H3Z M7 4V5 M11 4V5 M15 4V5 M10 13V14 M14 13V14 M18 13V14"/>
+</svg>

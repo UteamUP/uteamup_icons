@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-tower-crane-title" aria-describedby="uteamup-build-build-tower-crane-desc">
+  <title id="uteamup-build-build-tower-crane-title">Hammerhead tower crane — Turnkrani með láréttri bómu</title>
+  <desc id="uteamup-build-build-tower-crane-desc">A braced vertical tower supports a long horizontal jib, counterweight and hanging lifting hook.</desc>
+  <!-- Subject: build-tower-crane. Tall lattice mast, level jib and suspended hook form a conventional construction tower crane. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-tower-crane","label_en":"Hammerhead tower crane","label_is":"Turnkrani með láréttri bómu","section":"02","category_en":"Lifting, access and site logistics","category_is":"Lyftingar, aðgengi og flutningar á verkstað","batch":1,"tags":["lifting","crane"],"description":"A braced vertical tower supports a long horizontal jib, counterweight and hanging lifting hook.","design_note":"Tall lattice mast, level jib and suspended hook form a conventional construction tower crane.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M8 6v16h4V6M8 10l4 5-4 5M2 6h20L10 2 2 6M10 2v4M20 6v7q0 3-2 3t-2-2M5 22h10M2 6v3h4V6"/>
+</svg>

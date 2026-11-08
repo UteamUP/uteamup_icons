@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-self-drilling-screw-title" aria-describedby="uteamup-build-build-self-drilling-screw-desc">
+  <title id="uteamup-build-build-self-drilling-screw-title">Self-drilling screw — Sjálfborandi skrúfa</title>
+  <desc id="uteamup-build-build-self-drilling-screw-desc">A hex-headed fixing has a threaded shank and a distinct angled drill-point tip below the last thread.</desc>
+  <!-- Subject: build-self-drilling-screw. A hex-headed fixing has a threaded shank and a distinct angled drill-point tip below the last thread. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-self-drilling-screw","label_en":"Self-drilling screw","label_is":"Sjálfborandi skrúfa","section":"18","category_en":"Building materials, fasteners and fixings","category_is":"Byggingarefni, skrúfur og festingar","batch":9,"tags":["construction","materials","fixings"],"description":"A hex-headed fixing has a threaded shank and a distinct angled drill-point tip below the last thread.","design_note":"A hex-headed fixing has a threaded shank and a distinct angled drill-point tip below the last thread.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M7 2H17V6H7Z M10 6V17L12 22L14 17V6 M10 9L14 7 M10 12L14 10 M10 15L14 13 M10 17L14 19 M9 4H15"/>
+</svg>

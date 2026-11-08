@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-single-drum-roller-title" aria-describedby="uteamup-build-build-single-drum-roller-desc">
+  <title id="uteamup-build-build-single-drum-roller-title">Single-drum soil roller — Jarðvalti með einum tromli</title>
+  <desc id="uteamup-build-build-single-drum-roller-desc">A soil roller combines a rear rubber tire and high cab with one large smooth front compaction drum.</desc>
+  <!-- Subject: build-single-drum-roller. One oversized smooth drum and one smaller pneumatic wheel identify the single-drum layout. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-single-drum-roller","label_en":"Single-drum soil roller","label_is":"Jarðvalti með einum tromli","section":"01","category_en":"Earthmoving and demolition machinery","category_is":"Jarðvinnslu- og niðurrifsvélar","batch":1,"tags":["compaction","roller"],"description":"A soil roller combines a rear rubber tire and high cab with one large smooth front compaction drum.","design_note":"One oversized smooth drum and one smaller pneumatic wheel identify the single-drum layout.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <circle cx="5" cy="19" r="3"/><circle cx="18" cy="18" r="4"/><path d="M2 16V9h8v8h4M4 9V5h6v10M6 7h2M10 12h6l2 2M8 19h6"/>
+</svg>

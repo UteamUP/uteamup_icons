@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-vagrant-title" aria-describedby="ux-brand-vagrant-desc" fill="#1868F2" stroke="none">
+  <title id="ux-brand-vagrant-title">Vagrant — Vagrant</title>
+  <desc id="ux-brand-vagrant-desc">The sourced Vagrant brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: Vagrant. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://www.hashicorp.com/brand
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-vagrant","label_en":"Vagrant","label_is":"Vagrant","category":"Cloud, databases and operations","category_is":"Skýjaþjónusta, gagnagrunnar og rekstur","kind":"brand","batch":5,"description":"The sourced Vagrant brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["Vagrant","brand","logo","cloud_data_operations"],"source":{"source_collection":"Simple Icons","upstream_name":"vagrant","source_url":"https://www.hashicorp.com/brand","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":"https://www.hashicorp.com/brand","official_source":"https://www.hashicorp.com/brand","source_sha256":"9bde1c213070effa1f4c613c5c10335f9a4bdf2972898c112b518f04e98c1f34"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#1868F2","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M3.556 0L.392 1.846V4.11l7.124 17.3L11.998 24l4.523-2.611 7.083-17.345V1.848l.004-.002L20.44 0l-5.274 3.087v2.111l-3.168 7.384-3.164-7.384V3.109l-.017-.008.017-.01z" /></svg>
+</svg>

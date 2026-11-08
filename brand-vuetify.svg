@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-vuetify-title" aria-describedby="ux-brand-vuetify-desc" fill="#1867C0" stroke="none">
+  <title id="ux-brand-vuetify-title">Vuetify — Vuetify</title>
+  <desc id="ux-brand-vuetify-desc">The sourced Vuetify brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: Vuetify. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://vuetifyjs.com/resources/brand-kit
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-vuetify","label_en":"Vuetify","label_is":"Vuetify","category":"Frameworks and developer tools","category_is":"Forritunarrammar og þróunarverkfæri","kind":"brand","batch":3,"description":"The sourced Vuetify brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["Vuetify","brand","logo","frameworks_developer_tools"],"source":{"source_collection":"Simple Icons","upstream_name":"vuetify","source_url":"https://vuetifyjs.com/resources/brand-kit","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":{"type":"MIT"},"guidelines":"https://vuetifyjs.com/resources/brand-kit","official_source":"https://vuetifyjs.com/resources/brand-kit","source_sha256":"0ca23d04295973f8207ebc3bdb49204a861469f9667af8b2b31d36fdb6e7b89c"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#1867C0","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M6.312 12.564 12.636 1.2H0l6.312 11.364ZM14.94 1.2 7.464 14.64 12 22.8 24 1.2h-9.06Zm4.98 2.4L12 17.856l-1.788-3.216L16.344 3.6h3.576ZM6.312 7.62 4.08 3.6h4.476L6.312 7.62Z" /></svg>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-dacia-title" aria-describedby="ux-brand-dacia-desc" fill="#646B52" stroke="none">
+  <title id="ux-brand-dacia-title">Dacia — Dacia</title>
+  <desc id="ux-brand-dacia-desc">The sourced Dacia brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: Dacia. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://commons.wikimedia.org/wiki/File:Dacia-Logo-2021.svg
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-dacia","label_en":"Dacia","label_is":"Dacia","category":"Automotive and transport brands","category_is":"Bíla- og samgöngumerki","kind":"brand","batch":1,"description":"The sourced Dacia brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["Dacia","brand","logo","automotive_transport"],"source":{"source_collection":"Simple Icons","upstream_name":"dacia","source_url":"https://commons.wikimedia.org/wiki/File:Dacia-Logo-2021.svg","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":null,"official_source":"https://commons.wikimedia.org/wiki/File:Dacia-Logo-2021.svg","source_sha256":"761cb03b30cead56709cd5ead436a086e15b214dc97e49acedae925c4988bcca"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#646B52","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M0 8.646v2.23h8.252v2.248H0v2.23h9.112a.62.62 0 00.489-.201L12 12.819l2.399 2.334a.62.62 0 00.49.201H24v-2.23h-8.252v-2.248H24v-2.23h-9.112a.62.62 0 00-.489.201L12 11.181 9.601 8.847a.62.62 0 00-.49-.201Z" /></svg>
+</svg>

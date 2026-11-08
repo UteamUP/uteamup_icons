@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-qwik-title" aria-describedby="ux-brand-qwik-desc" fill="#AC7EF4" stroke="none">
+  <title id="ux-brand-qwik-title">Qwik — Qwik</title>
+  <desc id="ux-brand-qwik-desc">The sourced Qwik brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: Qwik. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://github.com/BuilderIO/qwik/blob/c88e53d49dc65020899d770338f4e51f3134611e/packages/docs/public/logos/qwik-logo.svg
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-qwik","label_en":"Qwik","label_is":"Qwik","category":"Frameworks and developer tools","category_is":"Forritunarrammar og þróunarverkfæri","kind":"brand","batch":3,"description":"The sourced Qwik brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["Qwik","brand","logo","frameworks_developer_tools"],"source":{"source_collection":"Simple Icons","upstream_name":"qwik","source_url":"https://github.com/BuilderIO/qwik/blob/c88e53d49dc65020899d770338f4e51f3134611e/packages/docs/public/logos/qwik-logo.svg","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":null,"official_source":"https://github.com/BuilderIO/qwik/blob/c88e53d49dc65020899d770338f4e51f3134611e/packages/docs/public/logos/qwik-logo.svg","source_sha256":"2fcb791ad412fa71467b7a70d11beee3516908a7dd797229c27c1422baae9fc9"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#AC7EF4","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M7.5469 0a2.957 2.957 0 0 0-2.5606 1.4785L.5332 9.1915a2.957 2.957 0 0 0 0 2.957l4.4531 7.7128A2.955 2.955 0 0 0 7.547 21.338H12l8.5938 2.6484c.2409.0742.4512-.1782.3359-.4023l-1.916-3.7227 4.4531-7.7129a2.957 2.957 0 0 0 0-2.957l-4.4531-7.7129A2.957 2.957 0 0 0 16.453 0zm0 .7656L17.7324 10.67l-1.8965 1.8985.5782 7.5332L6.2676 10.67l2.371-2.373z" /></svg>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-ovh-title" aria-describedby="ux-brand-ovh-desc" fill="#123F6D" stroke="none">
+  <title id="ux-brand-ovh-title">OVH — OVH</title>
+  <desc id="ux-brand-ovh-desc">The sourced OVH brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: OVH. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://www.ovh.com/ca/en/newsroom/
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-ovh","label_en":"OVH","label_is":"OVH","category":"Cloud, databases and operations","category_is":"Skýjaþjónusta, gagnagrunnar og rekstur","kind":"brand","batch":4,"description":"The sourced OVH brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["OVH","brand","logo","cloud_data_operations"],"source":{"source_collection":"Simple Icons","upstream_name":"ovh","source_url":"https://www.ovh.com/ca/en/newsroom/","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":null,"official_source":"https://www.ovh.com/ca/en/newsroom/","source_sha256":"6edb906775201860a3d306b93c652943b207d8f968af05a5e38efc12f87ef4ed"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#123F6D","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M19.881 10.095l2.563-4.45C23.434 7.389 24 9.404 24 11.555c0 2.88-1.017 5.523-2.71 7.594h-6.62l2.04-3.541h-2.696l3.176-5.513h2.691zm-2.32-5.243L9.333 19.14l.003.009H2.709C1.014 17.077 0 14.435 0 11.555c0-2.152.57-4.17 1.561-5.918L5.855 13.1 10.6 4.852h6.961z" /></svg>
+</svg>

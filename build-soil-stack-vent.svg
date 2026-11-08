@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-soil-stack-vent-title" aria-describedby="uteamup-build-build-soil-stack-vent-desc">
+  <title id="uteamup-build-build-soil-stack-vent-title">Vented soil stack — Loftræstur frárennslisstokkur</title>
+  <desc id="uteamup-build-build-soil-stack-vent-desc">A tall soil stack continues above a roof line while a lower diagonal waste branch joins it from the side.</desc>
+  <!-- Subject: build-soil-stack-vent. A tall soil stack continues above a roof line while a lower diagonal waste branch joins it from the side. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-soil-stack-vent","label_en":"Vented soil stack","label_is":"Loftræstur frárennslisstokkur","section":"13","category_en":"Plumbing, water supply and drainage","category_is":"Pípulagnir, vatnsveita og frárennsli","batch":7,"tags":["construction","plumbing","drainage"],"description":"A tall soil stack continues above a roof line while a lower diagonal waste branch joins it from the side.","design_note":"A tall soil stack continues above a roof line while a lower diagonal waste branch joins it from the side.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M14 2V22 M18 2V22 M2 10L10 4H14 M18 7L22 10 M2 13H6L14 18 M2 17H5L14 22"/>
+</svg>

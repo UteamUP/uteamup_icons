@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-steel-space-frame-title" aria-describedby="uteamup-build-build-steel-space-frame-desc">
+  <title id="uteamup-build-build-steel-space-frame-title">Steel space frame — Rúmgrind úr stáli</title>
+  <desc id="uteamup-build-build-steel-space-frame-desc">A three-dimensional tetrahedral steel framework joins upper and lower nodes with distinct triangular bracing planes.</desc>
+  <!-- Subject: build-steel-space-frame. A three-dimensional tetrahedral steel framework joins upper and lower nodes with distinct triangular bracing planes. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-steel-space-frame","label_en":"Steel space frame","label_is":"Rúmgrind úr stáli","section":"07","category_en":"Structural steel, metalwork and connections","category_is":"Stálvirki, málmsmíði og tengingar","batch":4,"tags":["steel","metalwork","connection"],"description":"A three-dimensional tetrahedral steel framework joins upper and lower nodes with distinct triangular bracing planes.","design_note":"A three-dimensional tetrahedral steel framework joins upper and lower nodes with distinct triangular bracing planes.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 15 8 3l8 12H2Z M8 3l14 5-6 7 M2 15l13 7 7-14 M8 3l7 19 M16 15l-1 7"/>
+</svg>

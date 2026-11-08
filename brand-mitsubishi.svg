@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-mitsubishi-title" aria-describedby="ux-brand-mitsubishi-desc" fill="#E60012" stroke="none">
+  <title id="ux-brand-mitsubishi-title">Mitsubishi — Mitsubishi</title>
+  <desc id="ux-brand-mitsubishi-desc">The sourced Mitsubishi brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: Mitsubishi. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://www.mitsubishi.com
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-mitsubishi","label_en":"Mitsubishi","label_is":"Mitsubishi","category":"Automotive and transport brands","category_is":"Bíla- og samgöngumerki","kind":"brand","batch":1,"description":"The sourced Mitsubishi brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["Mitsubishi","brand","logo","automotive_transport"],"source":{"source_collection":"Simple Icons","upstream_name":"mitsubishi","source_url":"https://www.mitsubishi.com","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":null,"official_source":"https://www.mitsubishi.com","source_sha256":"d855e4d9d41f87287c917b1e6bb4baaf868957466a9ae1f64db34a1bdf7255c3"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#E60012","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M8 22.38H0l4-6.92h8zm8 0h8l-4-6.92h-8zm0-13.84l-4-6.92-4 6.92 4 6.92Z" /></svg>
+</svg>

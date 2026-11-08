@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-autodesk-title" aria-describedby="ux-brand-autodesk-desc" fill="#000000" stroke="none">
+  <title id="ux-brand-autodesk-title">Autodesk — Autodesk</title>
+  <desc id="ux-brand-autodesk-desc">The sourced Autodesk brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: Autodesk. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://brand.autodesk.com/brand-system/logo
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-autodesk","label_en":"Autodesk","label_is":"Autodesk","category":"Industrial, construction and engineering brands","category_is":"Iðnaðar-, byggingar- og verkfræðimerki","kind":"brand","batch":1,"description":"The sourced Autodesk brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["Autodesk","brand","logo","industrial_engineering"],"source":{"source_collection":"Simple Icons","upstream_name":"autodesk","source_url":"https://brand.autodesk.com/brand-system/logo","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":"https://brand.autodesk.com/brand-system/logo","official_source":"https://brand.autodesk.com/brand-system/logo","source_sha256":"d82da80769055846c38f1b470c2a34636bf60157fd3bec76f2faeed8abbcb2b8"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#000000","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="m.129 20.202 14.7-9.136h7.625c.235 0 .445.188.445.445 0 .21-.092.305-.21.375l-7.222 4.323c-.47.283-.633.845-.633 1.265l-.008 2.725H24V4.362a.561.561 0 0 0-.585-.562h-8.752L0 12.893V20.2h.129z" /></svg>
+</svg>

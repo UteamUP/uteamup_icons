@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-qgis-title" aria-describedby="ux-brand-qgis-desc" fill="#589632" stroke="none">
+  <title id="ux-brand-qgis-title">QGIS — QGIS</title>
+  <desc id="ux-brand-qgis-desc">The sourced QGIS brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: QGIS. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://www.qgis.org/en/site/getinvolved/styleguide.html
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-qgis","label_en":"QGIS","label_is":"QGIS","category":"Industrial, construction and engineering brands","category_is":"Iðnaðar-, byggingar- og verkfræðimerki","kind":"brand","batch":2,"description":"The sourced QGIS brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["QGIS","brand","logo","industrial_engineering"],"source":{"source_collection":"Simple Icons","upstream_name":"qgis","source_url":"https://www.qgis.org/en/site/getinvolved/styleguide.html","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":"https://www.qgis.org/en/site/getinvolved/styleguide.html","official_source":"https://www.qgis.org/en/site/getinvolved/styleguide.html","source_sha256":"7a6da1325256b5872a2cc62d5a4c8ad263e0a4c1822b2bc2718f831656b499a4"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#589632","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M12.879 13.006v3.65l-3.004-3.048v-3.495h3.582l2.852 2.893h-3.43zm10.886 7.606V24h-3.654l-5.73-5.9v-3.55h3.354l6.03 6.062zm-10.828-1.448l3.372 3.371c-1.309.442-2.557.726-4.325.726C5.136 23.26 0 18.243 0 11.565 0 4.92 5.136 0 11.984 0 18.864 0 24 4.952 24 11.565c0 2.12-.523 4.076-1.457 5.759l-3.625-3.725a8.393 8.393 0 0 0 .24-2.005c0-4.291-3.148-7.527-7.1-7.527-3.954 0-7.248 3.236-7.248 7.527s3.33 7.6 7.247 7.6c.548 0 .661.017.88-.03z" /></svg>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-flag-kn-title" aria-describedby="ux-flag-kn-desc" fill="#000000" stroke="none">
+  <title id="ux-flag-kn-title">Saint Kitts and Nevis flag — Sankti Kitts og Nevis · fáni</title>
+  <desc id="ux-flag-kn-desc">A coloured 4:3 flag icon for Saint Kitts and Nevis, preserving the vector artwork from the pinned flag-icons source.</desc>
+  <!-- Subject: Saint Kitts and Nevis flag. Source: flag-icons. Source colours and geometry preserved on the collection canvas; normalized 4:3 flag-icon format. -->
+  <!--
+The MIT License (MIT)
+
+Copyright (c) 2013 Panayiotis Lipiridis
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+of the Software, and to permit persons to whom the Software is furnished to do
+so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"flag-kn","label_en":"Saint Kitts and Nevis flag","label_is":"Sankti Kitts og Nevis · fáni","category":"Countries and flags","category_is":"Lönd, svæði og fánar","kind":"flag","batch":9,"description":"A coloured 4:3 flag icon for Saint Kitts and Nevis, preserving the vector artwork from the pinned flag-icons source.","tags":["flag","country","kn","Saint Kitts and Nevis","Sankti Kitts og Nevis"],"source":{"source_collection":"flag-icons","upstream_name":"kn","source_url":"https://raw.githubusercontent.com/lipis/flag-icons/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/kn.svg","source_version":"7.6.0","source_commit":"ac7e0eb3259eb62aa6100c435607e2fe03896a97","license":"MIT","source_sha256":"0832acb7396986c7ba99bdfdadc563df322363f91659775f14aeeeacdd546c7e"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,640.0,480.0],"background":"transparent","color":"source colors","format":"4:3 flag icon format"},"gap_review":"No country-specific or regional flag counterpart in the available prior SVG inventory.","classification":"UN member state","code":"kn","country":"Saint Kitts and Nevis","country_is":"Sankti Kitts og Nevis","format":"4:3 flag icon format"}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="4.125" width="21" height="15.75" viewBox="0 0 640 480" preserveAspectRatio="xMidYMid meet"><defs>
+    <clipPath id="ux-flag-kn-kn-a">
+      <path fill-opacity=".7" d="M-80.1 0h682.7v512H-80.1z" />
+    </clipPath>
+  </defs>
+  <g fill-rule="evenodd" clip-path="url(#ux-flag-kn-kn-a)" transform="translate(75.1)scale(.9375)">
+    <path fill="#ffe900" d="M-107.8.2h737.6v511.3h-737.6z" />
+    <path fill="#35a100" d="m-108.2.2.8 368.6L466.6 0z" />
+    <path fill="#c70000" d="m630.7 511.5-1.4-383.2-579 383.5z" />
+    <path fill="#000001" d="m-107.9 396.6.5 115.4 125.3-.2 611.7-410.1L629 1.4 505.2.2z" />
+    <path fill="#fff" d="m380.4 156.6-9.8-42.2 33.3 27 38-24.6-17.4 41.3 33.4 27-44.2-1.5-17.3 41.3-9.9-42.2-44.1-1.5zm-275.2 179-9.9-42.3 33.3 27 38-24.6-17.4 41.3 33.4 27-44.1-1.5-17.4 41.3-9.8-42.2-44.1-1.5z" />
+  </g>
+</svg>
+</svg>

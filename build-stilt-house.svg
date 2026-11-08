@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-stilt-house-title" aria-describedby="uteamup-build-build-stilt-house-desc">
+  <title id="uteamup-build-build-stilt-house-title">Stilt house — Staurahús</title>
+  <desc id="uteamup-build-build-stilt-house-desc">A raised gabled house stands on two long stilts with visible cross bracing and an open space beneath its occupied floor.</desc>
+  <!-- Subject: build-stilt-house. A raised gabled house stands on two long stilts with visible cross bracing and an open space beneath its occupied floor. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-stilt-house","label_en":"Stilt house","label_is":"Staurahús","section":"19","category_en":"Buildings, building elements and adaptations","category_is":"Byggingar, byggingarhlutar og breytingar","batch":10,"tags":["construction","architecture","building"],"description":"A raised gabled house stands on two long stilts with visible cross bracing and an open space beneath its occupied floor.","design_note":"A raised gabled house stands on two long stilts with visible cross bracing and an open space beneath its occupied floor.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 9L12 2L22 9 M4 8V16H20V8 M7 16V22 M17 16V22 M7 17L17 22 M17 17L7 22 M11 16V11H15V16 M5 12H8"/>
+</svg>

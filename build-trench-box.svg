@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-trench-box-title" aria-describedby="uteamup-build-build-trench-box-desc">
+  <title id="uteamup-build-build-trench-box-title">Trench support box — Skurðkassi</title>
+  <desc id="uteamup-build-build-trench-box-desc">Two deep parallel shield panels are connected by four transverse spreader struts, leaving the trench passage open.</desc>
+  <!-- Subject: build-trench-box. Oblique side panels and clearly spanning cross-struts show the open-ended physical trench box. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-trench-box","label_en":"Trench support box","label_is":"Skurðkassi","section":"04","category_en":"Excavation, foundations and ground engineering","category_is":"Uppgröftur, undirstöður og jarðtækni","batch":2,"tags":["excavation","shoring"],"description":"Two deep parallel shield panels are connected by four transverse spreader struts, leaving the trench passage open.","design_note":"Oblique side panels and clearly spanning cross-struts show the open-ended physical trench box.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 7l6-4v15l-6 4zM16 7l6-4v15l-6 4zM2 9h14M8 5h14M2 17h14M8 13h14"/>
+</svg>

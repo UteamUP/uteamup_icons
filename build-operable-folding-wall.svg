@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-operable-folding-wall-title" aria-describedby="uteamup-build-build-operable-folding-wall-desc">
+  <title id="uteamup-build-build-operable-folding-wall-title">Operable folding wall — Fellanlegt skilrúm</title>
+  <desc id="uteamup-build-build-operable-folding-wall-desc">Three tall linked partition leaves fold into a broad zigzag beneath an overhead suspension rail.</desc>
+  <!-- Subject: build-operable-folding-wall. Three tall linked partition leaves fold into a broad zigzag beneath an overhead suspension rail. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-operable-folding-wall","label_en":"Operable folding wall","label_is":"Fellanlegt skilrúm","section":"11","category_en":"Partitions, ceilings and drylining","category_is":"Milliveggir, loft og plötuklæðningar","batch":6,"tags":["construction","drylining","partition"],"description":"Three tall linked partition leaves fold into a broad zigzag beneath an overhead suspension rail.","design_note":"Three tall linked partition leaves fold into a broad zigzag beneath an overhead suspension rail.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 2H22 M3 5L9 8L15 5L21 8V22L15 19L9 22L3 19V5 M9 8V22 M15 5V19 M9 2V5 M15 2V5"/>
+</svg>

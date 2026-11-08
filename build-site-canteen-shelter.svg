@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-site-canteen-shelter-title" aria-describedby="uteamup-build-build-site-canteen-shelter-desc">
+  <title id="uteamup-build-build-site-canteen-shelter-title">Site canteen shelter — Matarhlésskýli</title>
+  <desc id="uteamup-build-build-site-canteen-shelter-desc">An open pitched shelter covers a communal picnic table with opposite benches and crossed table legs.</desc>
+  <!-- Subject: build-site-canteen-shelter. Open sides and visible table-and-bench furniture distinguish this rest shelter from a closed site cabin. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-site-canteen-shelter","label_en":"Site canteen shelter","label_is":"Matarhlésskýli","section":"03","category_en":"Site setup, surveying and ground investigation","category_is":"Aðstaða, landmælingar og jarðkönnun","batch":2,"tags":["site-setup","welfare"],"description":"An open pitched shelter covers a communal picnic table with opposite benches and crossed table legs.","design_note":"Open sides and visible table-and-bench furniture distinguish this rest shelter from a closed site cabin.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M2 7l10-5 10 5H2zM4 7v15M20 7v15M7 13h10M9 13l6 9M15 13l-6 9M5 18h4M15 18h4"/>
+</svg>

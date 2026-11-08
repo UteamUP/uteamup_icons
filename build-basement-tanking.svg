@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-basement-tanking-title" aria-describedby="uteamup-build-build-basement-tanking-desc">
+  <title id="uteamup-build-build-basement-tanking-title">Basement tanking membrane — Vatnsþétting kjallara</title>
+  <desc id="uteamup-build-build-basement-tanking-desc">A continuous external waterproofing line follows the outside of a basement wall and turns beneath its floor slab.</desc>
+  <!-- Subject: build-basement-tanking. A separate continuous membrane wraps the outer wall-to-floor corner rather than sitting as a roof or facade finish. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-basement-tanking","label_en":"Basement tanking membrane","label_is":"Vatnsþétting kjallara","section":"04","category_en":"Excavation, foundations and ground engineering","category_is":"Uppgröftur, undirstöður og jarðtækni","batch":2,"tags":["foundation","waterproofing"],"description":"A continuous external waterproofing line follows the outside of a basement wall and turns beneath its floor slab.","design_note":"A separate continuous membrane wraps the outer wall-to-floor corner rather than sitting as a roof or facade finish.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M5 2h4v14h13v3H5zM2 2v20h20"/>
+</svg>

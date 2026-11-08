@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-abb-title" aria-describedby="ux-brand-abb-desc" fill="#FF000F" stroke="none">
+  <title id="ux-brand-abb-title">ABB — ABB</title>
+  <desc id="ux-brand-abb-desc">The sourced ABB brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: ABB. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://global.abb
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-abb","label_en":"ABB","label_is":"ABB","category":"Industrial, construction and engineering brands","category_is":"Iðnaðar-, byggingar- og verkfræðimerki","kind":"brand","batch":1,"description":"The sourced ABB brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["ABB","brand","logo","industrial_engineering"],"source":{"source_collection":"Simple Icons","upstream_name":"abb","source_url":"https://global.abb","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":null,"official_source":"https://global.abb","source_sha256":"2cf351140268bd5a16e9d3501291a5c493544e84dade09a0192269268a9b7b54"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#FF000F","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M13.086 16.594v-4.427h3.035c.25.418.362.947.362 1.476 0 1.559-1.17 2.867-2.84 2.951zm-.279-4.455v4.455h-2.784v-4.455zm3.147-.278h-2.868V7.406h.668c1.086 0 1.949.863 1.949 1.949 0 .64-.334 1.225-.835 1.587.417.223.807.529 1.086.919m-3.147-4.455v4.455h-2.784V7.406zm7.796 9.188v-4.427h3.035c.251.418.362.947.362 1.476 0 1.559-1.169 2.867-2.84 2.951zm-.278-4.455v4.455h-2.784v-4.455zm3.146-.278h-2.868V7.406h.668c1.086 0 1.949.863 1.949 1.949 0 .64-.334 1.225-.835 1.587.418.223.808.529 1.086.919m-3.146-4.455v4.455h-2.784V7.406zM1.587 12.139h2.868v2.506H2.979l-.668 1.949H0zm2.868-4.733v4.455H1.671l1.587-4.455zm.278 7.239v-2.506h2.868l1.587 4.455H6.877l-.668-1.949zm2.784-2.784H4.733V7.406H5.93z" /></svg>
+</svg>

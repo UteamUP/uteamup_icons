@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-layout-bottombar-collapse-title" aria-describedby="ux-layout-bottombar-collapse-desc" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round">
+  <title id="ux-layout-bottombar-collapse-title">Collapse bottom panel — Fella saman neðri spjald</title>
+  <desc id="ux-layout-bottombar-collapse-desc">A rectangular application frame contains a bottom panel and an arrow showing the collapse action.</desc>
+  <!-- Subject: Collapse bottom panel. Source: Tabler.  -->
+  <!--
+MIT License
+
+Copyright (c) 2020-2026 Paweł Kuna
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"layout-bottombar-collapse","label_en":"Collapse bottom panel","label_is":"Fella saman neðri spjald","category":"Navigation and interface actions","category_is":"Leiðsögn og aðgerðir í viðmóti","kind":"outline","batch":11,"description":"A rectangular application frame contains a bottom panel and an arrow showing the collapse action.","tags":["layout-bottombar-collapse","Collapse bottom panel","Navigation and interface actions","Fella saman neðri spjald"],"source":{"source_collection":"Tabler","upstream_name":"layout-bottombar-collapse","source_url":"https://raw.githubusercontent.com/tabler/tabler-icons/ed177a085b652fe04ec4f37ced867c94621e7840/icons/outline/layout-bottombar-collapse.svg","source_version":"3.50.0","source_commit":"ed177a085b652fe04ec4f37ced867c94621e7840","license":"MIT","source_sha256":"c48454bc04fb1390b8adcf5ad716ed717c85893bbf5ba8843d50b82f3ec0c7a2"},"style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"},"gap_review":"Checked against available prior SVG inventories and aliases."}</metadata>
+  <path xmlns="http://www.w3.org/2000/svg" d="M20 6v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M20 15h-16" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M14 8l-2 2l-2 -2" />
+
+</svg>

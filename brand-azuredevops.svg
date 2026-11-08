@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-azuredevops-title" aria-describedby="ux-brand-azuredevops-desc" fill="#0078d4" stroke="none">
+  <title id="ux-brand-azuredevops-title">Azure DevOps — Azure DevOps</title>
+  <desc id="ux-brand-azuredevops-desc">The Azure DevOps identity as supplied by the pinned Devicon vector collection. Its original path geometry and any source colour gradients are retained, without adding an outline.</desc>
+  <!-- Subject: Azure DevOps. Source: Devicon. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Devicon
+Source URL: https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/azuredevops/azuredevops-original.svg
+Source version: 2.18.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+
+The MIT License (MIT)
+
+Copyright (c) 2015 konpa
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-azuredevops","label_en":"Azure DevOps","label_is":"Azure DevOps","category":"Cloud and infrastructure brands","category_is":"Skýjaþjónustur og innviðir","kind":"brand","batch":7,"description":"The Azure DevOps identity as supplied by the pinned Devicon vector collection. Its original path geometry and any source colour gradients are retained, without adding an outline.","tags":["Azure DevOps","azuredevops","brand","logo","Devicon"],"source":{"source_collection":"Devicon","upstream_name":"azuredevops","source_url":"https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/azuredevops/azuredevops-original.svg","source_version":"2.18.0","source_commit":"32fe1d3b3f36ad11f90ab94f7db59738139c2bf6","license":"MIT (vector collection); the depicted marks retain their original ownership.","official_source":"https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/azuredevops/azuredevops-original.svg","raw_sha256":"49122a38457209cda2d22a1e3af1b4ff159b67714d4e7b43899544555ee2823c","source_sha256":"49122a38457209cda2d22a1e3af1b4ff159b67714d4e7b43899544555ee2823c"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,128.0,128.0],"background":"transparent","color":"#0078d4","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 128 128" preserveAspectRatio="xMidYMid meet"><defs>
+        <linearGradient id="ux-brand-azuredevops-a" gradientUnits="userSpaceOnUse" x1="9" y1="16.97" x2="9" y2="1.03" gradientTransform="scale(7.11111)">
+            <stop offset="0" stop-color="#0078d4" />
+            <stop offset=".16" stop-color="#1380da" />
+            <stop offset=".53" stop-color="#3c91e5" />
+            <stop offset=".82" stop-color="#559cec" />
+            <stop offset="1" stop-color="#5ea0ef" />
+        </linearGradient>
+    </defs>
+    <path fill="url(#ux-brand-azuredevops-a)" d="M120.89 28.445v69.262l-28.445 23.324-44.09-16.07v15.93L23.395 88.25l72.746 5.688V31.574ZM96.64 31.93 55.82 7.11v16.285L18.348 34.418 7.109 48.852v32.785l16.075 7.11V46.718Zm0 0" />
+</svg>
+</svg>

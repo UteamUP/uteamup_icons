@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-wheel-loader-title" aria-describedby="uteamup-build-build-wheel-loader-desc">
+  <title id="uteamup-build-build-wheel-loader-title">Wheel loader — Hjólaskófla</title>
+  <desc id="uteamup-build-build-wheel-loader-desc">An articulated loader has a high rear cab, two large rubber wheels and a deep forward scoop on lifting arms.</desc>
+  <!-- Subject: build-wheel-loader. The scoop sits above the front wheel on a visible lifting linkage, distinct from an excavator arm. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-wheel-loader","label_en":"Wheel loader","label_is":"Hjólaskófla","section":"01","category_en":"Earthmoving and demolition machinery","category_is":"Jarðvinnslu- og niðurrifsvélar","batch":1,"tags":["earthmoving","loader"],"description":"An articulated loader has a high rear cab, two large rubber wheels and a deep forward scoop on lifting arms.","design_note":"The scoop sits above the front wheel on a visible lifting linkage, distinct from an excavator arm.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <circle cx="5" cy="19" r="3"/><circle cx="15" cy="19" r="3"/><path d="M3 16V8h7l2 7M5 10h3v4M10 14l8-3 1 4M18 11l4 1v7h-5zM8 19h4"/>
+</svg>

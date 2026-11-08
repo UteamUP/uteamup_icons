@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-mapbox-title" aria-describedby="ux-brand-mapbox-desc" fill="#000000" stroke="none">
+  <title id="ux-brand-mapbox-title">Mapbox — Mapbox</title>
+  <desc id="ux-brand-mapbox-desc">The sourced Mapbox brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: Mapbox. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://www.mapbox.com/about/press/brand-guidelines
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-mapbox","label_en":"Mapbox","label_is":"Mapbox","category":"Industrial, construction and engineering brands","category_is":"Iðnaðar-, byggingar- og verkfræðimerki","kind":"brand","batch":2,"description":"The sourced Mapbox brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["Mapbox","brand","logo","industrial_engineering"],"source":{"source_collection":"Simple Icons","upstream_name":"mapbox","source_url":"https://www.mapbox.com/about/press/brand-guidelines","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":"https://www.mapbox.com/about/press/brand-guidelines","official_source":"https://www.mapbox.com/about/press/brand-guidelines","source_sha256":"f3f98a25f0d448c3933696ea91b04352f3d7a1dc63b0ce57449b385f2e0f2e01"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#000000","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M12 0C5.372 0 0 5.372 0 12s5.372 12 12 12 12-5.372 12-12S18.628 0 12 0zm5.696 14.943c-4.103 4.103-11.433 2.794-11.433 2.794S4.94 10.421 9.057 6.304c2.281-2.281 6.061-2.187 8.45.189s2.471 6.168.189 8.45zm-4.319-7.91l-1.174 2.416-2.416 1.174 2.416 1.174 1.174 2.416 1.174-2.416 2.416-1.174-2.416-1.174-1.174-2.416z" /></svg>
+</svg>

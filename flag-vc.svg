@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-flag-vc-title" aria-describedby="ux-flag-vc-desc" fill="#000000" stroke="none">
+  <title id="ux-flag-vc-title">Saint Vincent and the Grenadines flag — Sankti Vinsent og Grenadíneyjar · fáni</title>
+  <desc id="ux-flag-vc-desc">A coloured 4:3 flag icon for Saint Vincent and the Grenadines, preserving the vector artwork from the pinned flag-icons source.</desc>
+  <!-- Subject: Saint Vincent and the Grenadines flag. Source: flag-icons. Source colours and geometry preserved on the collection canvas; normalized 4:3 flag-icon format. -->
+  <!--
+The MIT License (MIT)
+
+Copyright (c) 2013 Panayiotis Lipiridis
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+of the Software, and to permit persons to whom the Software is furnished to do
+so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"flag-vc","label_en":"Saint Vincent and the Grenadines flag","label_is":"Sankti Vinsent og Grenadíneyjar · fáni","category":"Countries and flags","category_is":"Lönd, svæði og fánar","kind":"flag","batch":9,"description":"A coloured 4:3 flag icon for Saint Vincent and the Grenadines, preserving the vector artwork from the pinned flag-icons source.","tags":["flag","country","vc","Saint Vincent and the Grenadines","Sankti Vinsent og Grenadíneyjar"],"source":{"source_collection":"flag-icons","upstream_name":"vc","source_url":"https://raw.githubusercontent.com/lipis/flag-icons/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/vc.svg","source_version":"7.6.0","source_commit":"ac7e0eb3259eb62aa6100c435607e2fe03896a97","license":"MIT","source_sha256":"4e0a86447af4924dc11f26179f5cbb91195451ae766b2f777effe9c5f7cbc8f6"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,640.0,480.0],"background":"transparent","color":"source colors","format":"4:3 flag icon format"},"gap_review":"No country-specific or regional flag counterpart in the available prior SVG inventory.","classification":"UN member state","code":"vc","country":"Saint Vincent and the Grenadines","country_is":"Sankti Vinsent og Grenadíneyjar","format":"4:3 flag icon format"}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="4.125" width="21" height="15.75" viewBox="0 0 640 480" preserveAspectRatio="xMidYMid meet"><g fill-rule="evenodd">
+    <path fill="#f4f100" d="M0 0h640v480H0z" />
+    <path fill="#199a00" d="M490 0h150v480H490z" />
+    <path fill="#0058aa" d="M0 0h150v480H0z" />
+    <path fill="#199a00" d="m259.3 130-46.4 71.3 44.7 74.4 43.8-73.7zm121.2 0-46.3 71.3 44.7 74.4 43.8-73.7zm-61.2 97.3-46.4 71.4 44.8 74.4 43.8-73.7-42.2-72z" />
+  </g>
+</svg>
+</svg>

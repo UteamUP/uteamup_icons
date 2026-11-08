@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-panel-transport-dolly-title" aria-describedby="uteamup-build-build-panel-transport-dolly-desc">
+  <title id="uteamup-build-build-panel-transport-dolly-title">Panel transport dolly — Flutningsvagn fyrir plötur</title>
+  <desc id="uteamup-build-build-panel-transport-dolly-desc">A tall sheet leans against an angled support on a low four-wheel transport trolley with a push handle.</desc>
+  <!-- Subject: build-panel-transport-dolly. The large leaning panel and low mobile cradle make a clear panel-handling trolley. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-panel-transport-dolly","label_en":"Panel transport dolly","label_is":"Flutningsvagn fyrir plötur","section":"02","category_en":"Lifting, access and site logistics","category_is":"Lyftingar, aðgengi og flutningar á verkstað","batch":1,"tags":["site-logistics","panel-handling"],"description":"A tall sheet leans against an angled support on a low four-wheel transport trolley with a push handle.","design_note":"The large leaning panel and low mobile cradle make a clear panel-handling trolley.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M6 3l10-1 3 16-10 2zM3 7v12h19M7 16l-3 3M9 6l5-1"/><circle cx="5" cy="21" r="1.5"/><circle cx="19" cy="21" r="1.5"/>
+</svg>

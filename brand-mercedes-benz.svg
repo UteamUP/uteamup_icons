@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-mercedes-benz-title" aria-describedby="ux-brand-mercedes-benz-desc" fill="#1655A6" stroke="none">
+  <title id="ux-brand-mercedes-benz-title">Mercedes-Benz — Mercedes-Benz</title>
+  <desc id="ux-brand-mercedes-benz-desc">The sourced Mercedes-Benz mark in a monochrome dark-blue rendition of its white source artwork. The vector shape and proportions are preserved; no extra outline is added.</desc>
+  <!-- Subject: Mercedes-Benz. Source: Official brand website. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Official brand website
+Source URL: https://www.mercedes-benz.com/en/
+Source version: Official website asset retrieved 2026-11-07
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-mercedes-benz","label_en":"Mercedes-Benz","label_is":"Mercedes-Benz","category":"Automotive and transport brands","category_is":"Bíla- og samgöngumerki","kind":"brand","batch":7,"description":"The sourced Mercedes-Benz mark in a monochrome dark-blue rendition of its white source artwork. The vector shape and proportions are preserved; no extra outline is added.","tags":["Mercedes-Benz","brand","logo","automotive_transport"],"source":{"source_collection":"Official brand website","upstream_name":"mercedesbenz","source_url":"https://www.mercedes-benz.com/en/","source_version":"Official website asset retrieved 2026-11-07","source_commit":null,"license":null,"guidelines":null,"official_source":"https://www.mercedes-benz.com/en/","source_asset_url":"https://www.mercedes-benz.com/logos/mb-star-white.svg","raw_sha256":"be9f132184cf11645bfb4f721761e72499578d474e3d4d8eb5f7d42d2799b7e5","license_status":"No separate reusable asset license was supplied with this official website SVG; original brand/trademark ownership is retained.","source_sha256":"969bf4637627a3201ea4eebee7a784df7efc478b13c7b4ccc9ac58a47d0e676d"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,29.35,28.35],"background":"transparent","color":"#1655A6","format":"official logo; original colors"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match.","format":"official logo; original colors","original_color":"white","adaptation":"Pure-white source artwork displayed in dark blue for visibility on light backgrounds; source geometry and transparent areas are unchanged."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.8577513" width="21" height="20.284497" viewBox="0 0 29.35 28.35" preserveAspectRatio="xMidYMid meet" fill="#000000"><g>
+	<g>
+		<g>
+			<path d="M26.95,7.09c-1.24-2.15-3.03-3.94-5.19-5.19C19.61,0.65,17.16,0,14.67,0S9.74,0.65,7.59,1.9     C5.43,3.14,3.64,4.93,2.4,7.09c-1.24,2.15-1.9,4.6-1.9,7.09s0.65,4.93,1.9,7.09c1.24,2.15,3.03,3.94,5.19,5.19     c2.15,1.24,4.6,1.9,7.09,1.9s4.93-0.65,7.09-1.9c2.15-1.24,3.94-3.03,5.19-5.19c1.24-2.15,1.9-4.6,1.9-7.09     S28.19,9.24,26.95,7.09z M1.92,14.17c0-2.24,0.59-4.44,1.71-6.38C4.75,5.86,6.36,4.25,8.3,3.13c1.82-1.05,3.88-1.64,5.98-1.7     L12.65,13l-9.21,7.2C2.44,18.35,1.92,16.28,1.92,14.17z M21.05,25.22c-1.94,1.12-4.14,1.71-6.38,1.71s-4.44-0.59-6.38-1.71     c-1.82-1.05-3.36-2.54-4.46-4.33l10.84-4.38l10.84,4.38C24.41,22.68,22.88,24.17,21.05,25.22z M25.92,20.2L16.7,13L15.07,1.42     c2.1,0.07,4.15,0.65,5.98,1.7c1.94,1.12,3.55,2.73,4.67,4.67c1.12,1.94,1.71,4.14,1.71,6.38C27.43,16.28,26.91,18.35,25.92,20.2z     " fill="#1655A6" />
+		</g>
+	</g>
+</g>
+</svg>
+</svg>

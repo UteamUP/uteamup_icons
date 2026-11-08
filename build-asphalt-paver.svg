@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-asphalt-paver-title" aria-describedby="uteamup-build-build-asphalt-paver-desc">
+  <title id="uteamup-build-build-asphalt-paver-title">Asphalt paver — Malbiksútlagnarvél</title>
+  <desc id="uteamup-build-build-asphalt-paver-desc">An asphalt paving machine has a wide front receiving hopper and a low trailing screed behind its crawler chassis.</desc>
+  <!-- Subject: build-asphalt-paver. The forward hopper and trailing flat screed identify the material placing process, without a milling conveyor. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-asphalt-paver","label_en":"Asphalt paver","label_is":"Malbiksútlagnarvél","section":"01","category_en":"Earthmoving and demolition machinery","category_is":"Jarðvinnslu- og niðurrifsvélar","batch":1,"tags":["roadwork","paving"],"description":"An asphalt paving machine has a wide front receiving hopper and a low trailing screed behind its crawler chassis.","design_note":"The forward hopper and trailing flat screed identify the material placing process, without a milling conveyor.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <rect x="4" y="18" width="12" height="4" rx="2"/><path d="M5 18v-8h8v8M6 10V6h7M7 6v8M16 9h6l-2 8h-5zM4 17H2v5h2M13 16h4M9 13h2"/>
+</svg>

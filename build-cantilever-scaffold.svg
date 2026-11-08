@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-cantilever-scaffold-title" aria-describedby="uteamup-build-build-cantilever-scaffold-desc">
+  <title id="uteamup-build-build-cantilever-scaffold-title">Cantilever scaffold — Útskotinn vinnupallur</title>
+  <desc id="uteamup-build-build-cantilever-scaffold-desc">A guarded work deck projects beyond a wall on long triangular brackets anchored at two heights.</desc>
+  <!-- Subject: build-cantilever-scaffold. The deck is supported from the side wall, with no upright legs beneath its outer edge. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-cantilever-scaffold","label_en":"Cantilever scaffold","label_is":"Útskotinn vinnupallur","section":"02","category_en":"Lifting, access and site logistics","category_is":"Lyftingar, aðgengi og flutningar á verkstað","batch":1,"tags":["access","scaffold"],"description":"A guarded work deck projects beyond a wall on long triangular brackets anchored at two heights.","design_note":"The deck is supported from the side wall, with no upright legs beneath its outer edge.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 2v20M3 10h19M3 16h7l8-6M8 10V4h14v6M15 4v6M3 20l15-10M2 6h3M2 18h3"/>
+</svg>

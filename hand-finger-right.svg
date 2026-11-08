@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-hand-finger-right-title" aria-describedby="ux-hand-finger-right-desc" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round">
+  <title id="ux-hand-finger-right-title">Finger pointing right — Fingur bendir til hægri</title>
+  <desc id="ux-hand-finger-right-desc">An index finger points right from a closed hand.</desc>
+  <!-- Subject: Finger pointing right. Source: Tabler.  -->
+  <!--
+MIT License
+
+Copyright (c) 2020-2026 Paweł Kuna
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"hand-finger-right","label_en":"Finger pointing right","label_is":"Fingur bendir til hægri","category":"Body parts and gestures","category_is":"Líkamshlutar og handabendingar","kind":"outline","batch":9,"description":"An index finger points right from a closed hand.","tags":["hand-finger-right","Finger pointing right","Body parts and gestures","Fingur bendir til hægri"],"source":{"source_collection":"Tabler","upstream_name":"hand-finger-right","source_url":"https://raw.githubusercontent.com/tabler/tabler-icons/ed177a085b652fe04ec4f37ced867c94621e7840/icons/outline/hand-finger-right.svg","source_version":"3.50.0","source_commit":"ed177a085b652fe04ec4f37ced867c94621e7840","license":"MIT","source_sha256":"e2060b1d3a525424db938de74752cf50a7b4208a96bd35b485aefa939dd4e46d"},"style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"},"gap_review":"Checked against available prior SVG inventories and aliases."}</metadata>
+  <path xmlns="http://www.w3.org/2000/svg" d="M12 8h8.5a1.5 1.5 0 0 1 0 3h-7.5" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M13.5 11h2a1.5 1.5 0 0 1 0 3h-2.5" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M14.5 14a1.5 1.5 0 0 1 0 3h-1.5" />
+  <path xmlns="http://www.w3.org/2000/svg" d="M13.5 17a1.5 1.5 0 1 1 0 3h-4.5a6 6 0 0 1 -6 -6v-2v.208a6 6 0 0 1 2.7 -5.012l.3 -.196q .718 -.468 5.728 -3.286a1.5 1.5 0 0 1 2.022 .536c.44 .734 .325 1.674 -.28 2.28l-1.47 1.47" />
+
+</svg>

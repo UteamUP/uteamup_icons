@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-expedia-title" aria-describedby="ux-brand-expedia-desc" fill="#191E3B" stroke="none">
+  <title id="ux-brand-expedia-title">Expedia — Expedia</title>
+  <desc id="ux-brand-expedia-desc">The sourced Expedia brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: Expedia. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://brandfolder.com/portals/brand-expedia
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-expedia","label_en":"Expedia","label_is":"Expedia","category":"Food, retail and hospitality brands","category_is":"Matar-, verslunar- og þjónustumerki","kind":"brand","batch":6,"description":"The sourced Expedia brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["Expedia","brand","logo","food_retail_hospitality"],"source":{"source_collection":"Simple Icons","upstream_name":"expedia","source_url":"https://brandfolder.com/portals/brand-expedia","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":"https://brandfolder.com/portals/brand-expedia","official_source":"https://brandfolder.com/portals/brand-expedia","source_sha256":"5a1d8c0a23008f92238dbc880921055f20feb6e19fbd143e70ed63c5f4651e96"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#191E3B","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M19.067 0H4.933A4.94 4.94 0 0 0 0 4.933v14.134A4.932 4.932 0 0 0 4.933 24h14.134A4.932 4.932 0 0 0 24 19.067V4.933C24.01 2.213 21.797 0 19.067 0ZM7.336 19.341c0 .19-.148.337-.337.337h-2.33a.333.333 0 0 1-.337-.337v-2.33c0-.189.148-.336.337-.336H7c.19 0 .337.147.337.337zm12.121-1.486-2.308 2.298c-.169.168-.422.053-.422-.2V9.57l-6.44 6.44a.533.533 0 0 1-.421.17H8.169a.32.32 0 0 1-.338-.338v-1.697c0-.2.053-.316.169-.422l6.44-6.44H4.058c-.253 0-.369-.253-.2-.421l2.297-2.309c.137-.137.285-.232.517-.232H18.15c.854 0 1.539.686 1.539 1.54v11.478c-.01.231-.095.368-.232.516z" /></svg>
+</svg>

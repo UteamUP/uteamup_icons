@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-impact-compactor-title" aria-describedby="uteamup-build-build-impact-compactor-desc">
+  <title id="uteamup-build-build-impact-compactor-title">Towed impact compactor — Dregin höggþjappa</title>
+  <desc id="uteamup-build-build-impact-compactor-desc">A tow bar pulls a large rounded triangular impact drum whose unequal rolling radius lifts and drops the mass.</desc>
+  <!-- Subject: build-impact-compactor. A lobed drum outline and towing frame distinguish impact compaction from a circular smooth roller. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-impact-compactor","label_en":"Towed impact compactor","label_is":"Dregin höggþjappa","section":"01","category_en":"Earthmoving and demolition machinery","category_is":"Jarðvinnslu- og niðurrifsvélar","batch":1,"tags":["compaction","impact-roller"],"description":"A tow bar pulls a large rounded triangular impact drum whose unequal rolling radius lifts and drops the mass.","design_note":"A lobed drum outline and towing frame distinguish impact compaction from a circular smooth roller.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M9 8q4-5 8 0l4 7q2 5-4 6H9q-6-1-3-6zM7 14H2v-4M3 10h4"/><circle cx="13" cy="15" r="1.5"/>
+</svg>

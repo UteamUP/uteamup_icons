@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-brand-containerd-title" aria-describedby="ux-brand-containerd-desc" fill="#575757" stroke="none">
+  <title id="ux-brand-containerd-title">containerd — containerd</title>
+  <desc id="ux-brand-containerd-desc">The sourced containerd brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.</desc>
+  <!-- Subject: containerd. Source: Simple Icons. Authentic sourced brand geometry; not a newly invented company mark. -->
+  <!--
+Source: Simple Icons
+Source URL: https://cncf-branding.netlify.app/projects/containerd/
+Source version: 16.36.0
+Licence and brand-guideline details are retained in SVG metadata and the accompanying sources.json.
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"brand-containerd","label_en":"containerd","label_is":"containerd","category":"Cloud, databases and operations","category_is":"Skýjaþjónusta, gagnagrunnar og rekstur","kind":"brand","batch":4,"description":"The sourced containerd brand mark, preserving its original vector silhouette and using the supplied primary brand colour. No extra outline is added.","tags":["containerd","brand","logo","cloud_data_operations"],"source":{"source_collection":"Simple Icons","upstream_name":"containerd","source_url":"https://cncf-branding.netlify.app/projects/containerd/","source_version":"16.36.0","source_commit":"c8a98c7099c33a8ef8461dd97263235f348e7077","license":"CC0-1.0","guidelines":null,"official_source":"https://cncf-branding.netlify.app/projects/containerd/","source_sha256":"657fd2310063e583e23ff05646f023a1bedc0c638e8bd8c356980cb10caf659b"},"style":{"viewBox":[0,0,24,24],"preserve_source_geometry":true,"source_viewBox":[0.0,0.0,24.0,24.0],"background":"transparent","color":"#575757","format":"source vector"},"gap_review":"Compared with all available prior filenames and recorded brand identities; no prior identity match."}</metadata>
+  <svg xmlns="http://www.w3.org/2000/svg" x="1.5" y="1.5" width="21" height="21" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path d="M3.629 0v24H20.37V0zM17.59 21.208H6.421V10.604h7.812V6.692h3.346v14.516zm-7.823-7.812h4.466v5.02H9.767z" /></svg>
+</svg>

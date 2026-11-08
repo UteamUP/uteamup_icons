@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-contour-survey-plan-title" aria-describedby="uteamup-build-build-contour-survey-plan-desc">
+  <title id="uteamup-build-build-contour-survey-plan-title">Topographic contour plan — Hæðarlínukort</title>
+  <desc id="uteamup-build-build-contour-survey-plan-desc">A large plan sheet contains three nested irregular terrain contour lines with generous spacing.</desc>
+  <!-- Subject: build-contour-survey-plan. Organic nested elevation contours give the drawing a clear terrain-plan meaning without small labels. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-contour-survey-plan","label_en":"Topographic contour plan","label_is":"Hæðarlínukort","section":"03","category_en":"Site setup, surveying and ground investigation","category_is":"Aðstaða, landmælingar og jarðkönnun","batch":2,"tags":["surveying","topography"],"description":"A large plan sheet contains three nested irregular terrain contour lines with generous spacing.","design_note":"Organic nested elevation contours give the drawing a clear terrain-plan meaning without small labels.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <path d="M3 2h18v20H3zM6 18C3 13 7 5 13 5C20 5 20 13 16 18M9 16C6 13 9 8 13 8C17 8 17 12 14 15M11 12q1-3 3-1"/>
+</svg>

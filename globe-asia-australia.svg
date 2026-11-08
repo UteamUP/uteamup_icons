@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="ux-globe-asia-australia-title" aria-describedby="ux-globe-asia-australia-desc" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round">
+  <title id="ux-globe-asia-australia-title">Globe with Asia and Australia — Hnöttur með Asíu og Ástralíu</title>
+  <desc id="ux-globe-asia-australia-desc">A round globe shows the outlines of Asia, Australia and neighbouring landmasses.</desc>
+  <!-- Subject: Globe with Asia and Australia. Source: Heroicons.  -->
+  <!--
+MIT License
+
+Copyright (c) Tailwind Labs, Inc.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+  -->
+  <metadata>{"collection":"UteamUP · New Brands, Countries and Everyday Icons","subject":"globe-asia-australia","label_en":"Globe with Asia and Australia","label_is":"Hnöttur með Asíu og Ástralíu","category":"Regional globe views","category_is":"Heimshlutar á hnattkorti","kind":"outline","batch":11,"description":"A round globe shows the outlines of Asia, Australia and neighbouring landmasses.","tags":["globe-asia-australia","Globe with Asia and Australia","Regional globe views","Hnöttur með Asíu og Ástralíu"],"source":{"source_collection":"Heroicons","upstream_name":"globe-asia-australia","source_url":"https://raw.githubusercontent.com/tailwindlabs/heroicons/616b7a4dbbf3d011760af8066262cd5c6b3868f3/optimized/24/outline/globe-asia-australia.svg","source_version":"2.2.0","source_commit":"616b7a4dbbf3d011760af8066262cd5c6b3868f3","license":"MIT","source_sha256":"d0adc7ddcf27c9ac3e1c31967bc90cf76285d4e4f01243bf0e9f8b44aedf96a2"},"style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"},"gap_review":"Checked against available prior SVG inventories and aliases."}</metadata>
+  <path xmlns="http://www.w3.org/2000/svg" d="M12.75 3.03v.568c0 .334.148.65.405.864l1.068.89c.442.369.535 1.01.216 1.49l-.51.766a2.25 2.25 0 0 1-1.161.886l-.143.048a1.107 1.107 0 0 0-.57 1.664c.369.555.169 1.307-.427 1.605L9 13.125l.423 1.059a.956.956 0 0 1-1.652.928l-.679-.906a1.125 1.125 0 0 0-1.906.172L4.5 15.75l-.612.153M12.75 3.031a9 9 0 0 0-8.862 12.872M12.75 3.031a9 9 0 0 1 6.69 14.036m0 0-.177-.529A2.25 2.25 0 0 0 17.128 15H16.5l-.324-.324a1.453 1.453 0 0 0-2.328.377l-.036.073a1.586 1.586 0 0 1-.982.816l-.99.282c-.55.157-.894.702-.8 1.267l.073.438c.08.474.49.821.97.821.846 0 1.598.542 1.865 1.345l.215.643m5.276-3.67a9.012 9.012 0 0 1-5.276 3.67m0 0a9 9 0 0 1-10.275-4.835M15.75 9c0 .896-.393 1.7-1.016 2.25" />
+
+</svg>

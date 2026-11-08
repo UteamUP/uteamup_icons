@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1655A6" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uteamup-build-build-tandem-roller-title" aria-describedby="uteamup-build-build-tandem-roller-desc">
+  <title id="uteamup-build-build-tandem-roller-title">Tandem road roller — Tvívals</title>
+  <desc id="uteamup-build-build-tandem-roller-desc">Two separated smooth drums support a central bridge and an open operator canopy.</desc>
+  <!-- Subject: build-tandem-roller. Front and rear full-width drums, with no rubber wheel, give the tandem roller its own structure. -->
+  <metadata>{"collection":"UteamUP Construction and Building","subject":"build-tandem-roller","label_en":"Tandem road roller","label_is":"Tvívals","section":"01","category_en":"Earthmoving and demolition machinery","category_is":"Jarðvinnslu- og niðurrifsvélar","batch":1,"tags":["compaction","roller"],"description":"Two separated smooth drums support a central bridge and an open operator canopy.","design_note":"Front and rear full-width drums, with no rubber wheel, give the tandem roller its own structure.","style":{"viewBox":[0,0,24,24],"stroke":"#1655A6","stroke_width":0.9,"fill":"none","background":"transparent"}}</metadata>
+  <rect x="2" y="16" width="7" height="6" rx="2"/><rect x="15" y="16" width="7" height="6" rx="2"/><path d="M5 16V9h14v7M9 9V4h7v5M9 5H7M8 19h7M11 11h4"/>
+</svg>
