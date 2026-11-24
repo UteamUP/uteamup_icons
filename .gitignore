@@ -1,3 +1,6 @@
 .DS_Store
 Thumbs.db
 /local-reference/
+
+# Paperclip attachment staging (never commit live run payload)
+.paperclip-inbound/
